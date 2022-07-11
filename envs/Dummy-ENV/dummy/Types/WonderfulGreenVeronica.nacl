@@ -1,0 +1,109 @@
+type dummy.WonderfulGreenVeronica {
+  annotations {
+    boolean FellowRedCheslie {
+    }
+    number WeakTealSharl {
+    }
+    hidden_boolean IdenticalPeachSylvia {
+    }
+    json NursingSalmonArdis {
+    }
+    serviceid CheerfulAquaKendre {
+    }
+  }
+  boolean MinisterialBronzeZelda {
+    _hidden_value = true
+  }
+  json CorrespondingMoccasinNorean {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoleAmethystSheilakathryn {
+    _hidden_value = true
+  }
+  boolean KindSilverNadya {
+    _hidden_value = true
+  }
+  json ExuberantLimeCherlyn {
+    _hidden_value = true
+  }
+  serviceid FranticFuchsiaMorgana {
+    _hidden_value = true
+  }
+  hidden_boolean UrgentAmberCindelyn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string SimpleBlackMadalyn {
+    _hidden_value = true
+  }
+  string ElatedHarlequinHilda {
+    _hidden_value = true
+  }
+  number TraditionalIvoryKaril {
+    _hidden_value = true
+  }
+  hidden_boolean OutstandingIvoryFlossy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json RenewedSapphireVivie {
+    _hidden_value = true
+  }
+  string AverageApricotIlyssa {
+    _hidden_value = true
+  }
+  "List<serviceid>" EvolutionaryCoralBrana {
+    _hidden_value = true
+  }
+  number MarkedBlushEmelia {
+    _hidden_value = true
+  }
+  number DivineAquamarineSherrie {
+    _hidden_value = true
+  }
+  number ManyIvoryUlrikaumeko {
+    _hidden_value = true
+  }
+  hidden_boolean CalmPurpleMaurita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string TypicalIndigoThalia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BriefYellowChiarra {
+    _hidden_value = true
+  }
+  string TerribleApricotDoralin {
+    _hidden_value = true
+  }
+  string SoreTurquoiseNoell {
+    _hidden_value = true
+  }
+  serviceid InterestingPeachEdiva {
+    _hidden_value = true
+  }
+  string MinimalAzureMiran {
+    _hidden_value = true
+  }
+  boolean BalancedMoccasinTheodora {
+    _hidden_value = true
+  }
+  serviceid SelectPlumEleanor {
+    _hidden_value = true
+  }
+  json ConfusedAmaranthAshely {
+    _hidden_value = true
+  }
+  serviceid DyingCyanLorilee {
+    _hidden_value = true
+  }
+  FellowRedCheslie = true
+  WeakTealSharl = 120
+  NursingSalmonArdis = "Dad Im hungry  Hi hungry Im dad"
+  CheerfulAquaKendre = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

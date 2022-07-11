@@ -1,0 +1,76 @@
+type dummy.OddAquaRoxane {
+  annotations {
+    string DrivingRedTasia {
+    }
+    boolean BlackCyanSeline {
+    }
+    boolean GrandChocolateAlfy {
+    }
+    dummy.DEFAULT TallScarletSusette {
+    }
+  }
+  serviceid SurroundingPlumHeddie {
+    _hidden_value = true
+  }
+  boolean MotionlessPlumPhedra {
+    _hidden_value = true
+  }
+  serviceid ColourfulLimeCherry {
+    _hidden_value = true
+  }
+  json HotAmaranthWandie {
+    _hidden_value = true
+  }
+  number MidHarlequinJoelly {
+    _hidden_value = true
+  }
+  boolean ProudCoralEdee {
+    _hidden_value = true
+  }
+  boolean EarlyMaroonArleta {
+    _hidden_value = true
+  }
+  hidden_boolean EducationalAmaranthMarcie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DemocraticAmberDavita {
+    _hidden_value = true
+  }
+  serviceid ExtremeBlushDrusy {
+    _hidden_value = true
+  }
+  hidden_boolean PanickyHarlequinFaydra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UnableHarlequinWallie {
+    _hidden_value = true
+  }
+  number RattyCoralIdell {
+    _hidden_value = true
+  }
+  hidden_boolean DoubtfulPinkTildi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SparklingChocolateJodee {
+    _hidden_value = true
+  }
+  boolean WildMagentaNicole {
+    _hidden_value = true
+  }
+  number AppropriateCrimsonVera {
+    _hidden_value = true
+  }
+  DrivingRedTasia = "Did you know that protons have mass? I didn't even know they were catholic."
+  BlackCyanSeline = false
+  GrandChocolateAlfy = false
+  TallScarletSusette = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  _hidden_value = true
+}

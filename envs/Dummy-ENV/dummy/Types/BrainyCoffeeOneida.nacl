@@ -1,0 +1,31 @@
+type dummy.BrainyCoffeeOneida {
+  annotations {
+    serviceid UpsetJadeVyky {
+    }
+    string EuropeanCyanAlethea {
+    }
+    hidden_boolean GorgeousBlushJulienne {
+    }
+    dummy.DeliberateMaroonGabbey PromisingMoccasinMady {
+    }
+    boolean ObjectiveGrayAudrye {
+    }
+    json FlexibleAmberMorgana {
+    }
+  }
+  string NumerousCopperElga {
+    _hidden_value = true
+  }
+  serviceid MentalOliveElvira {
+    _hidden_value = true
+  }
+  string AngryEmeraldCasie {
+    _hidden_value = true
+  }
+  UpsetJadeVyky = "A steak pun is a rare medium well done."
+  EuropeanCyanAlethea = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PromisingMoccasinMady = 986
+  ObjectiveGrayAudrye = false
+  FlexibleAmberMorgana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

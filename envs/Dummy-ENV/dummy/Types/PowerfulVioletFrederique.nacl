@@ -1,0 +1,118 @@
+type dummy.PowerfulVioletFrederique {
+  annotations {
+    json ImpossibleAmethystHettie {
+    }
+    string RespectiveLavenderNikkie {
+    }
+    hidden_boolean ImpossibleHarlequinDani {
+    }
+    serviceid MeltedTanEssy {
+    }
+  }
+  boolean MedicalBeigeClarabelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrikingBlackCheri {
+    _hidden_value = true
+  }
+  json ManyBrownAubrie {
+    _hidden_value = true
+  }
+  boolean FrightenedGreenMarieann {
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" FierceBlueHendrika {
+    _hidden_value = true
+  }
+  number UniqueTanDelphine {
+    _hidden_value = true
+  }
+  number InstantPurpleAdelice {
+    _hidden_value = true
+  }
+  serviceid PricklyCyanLanni {
+    _hidden_value = true
+  }
+  json OtherIndigoChristy {
+    _hidden_value = true
+  }
+  boolean HomelyApricotCharlotta {
+    _hidden_value = true
+  }
+  "List<serviceid>" CautiousTealAshleigh {
+    _hidden_value = true
+  }
+  number ImmenseTanAubree {
+    _hidden_value = true
+  }
+  hidden_boolean ModernPinkRuperta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" ProgressiveAmaranthCelestyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FemaleScarletConstantine {
+    _hidden_value = true
+  }
+  hidden_boolean OrganisationalOrangeSascha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CompactEmeraldDe {
+    _hidden_value = true
+  }
+  number HealthyAquamarineLolita {
+    _hidden_value = true
+  }
+  "Map<number>" TastelessTomatoLinette {
+    _hidden_value = true
+  }
+  json TeenageMaroonDaune {
+    _hidden_value = true
+  }
+  "List<boolean>" SharpLimeNatasha {
+    _hidden_value = true
+  }
+  string ExceptionalMaroonSophronia {
+    _hidden_value = true
+  }
+  string MightyAquaKylynn {
+    _hidden_value = true
+  }
+  string CausalPlumRuthann {
+    _hidden_value = true
+  }
+  dummy.JewishCoralJannel FilthyLimeCathyleen {
+    AlivePeachImogen = false
+    HollowCopperKaitlynn = 46
+    BottomBlushWinonah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RelativeTealLeontine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RepresentativeScarletLorenza = "Im only familiar with 25 letters in the English language. I dont know why."
+    DesperateAquamarineLisabeth = false
+    UndergroundBlackBenni = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    FunnyRedTimi = false
+    GlobalCopperFanechka = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  string MadLimeRafaela {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" WonderfulIndigoLatia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FranticGreenKarena {
+    _hidden_value = true
+  }
+  serviceid ResonantRoseJesse {
+    _hidden_value = true
+  }
+  ImpossibleAmethystHettie = "Did you know that protons have mass? I didn't even know they were catholic."
+  RespectiveLavenderNikkie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MeltedTanEssy = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

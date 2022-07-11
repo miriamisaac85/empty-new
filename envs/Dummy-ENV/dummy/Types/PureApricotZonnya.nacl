@@ -1,0 +1,64 @@
+type dummy.PureApricotZonnya {
+  annotations {
+    hidden_boolean FoolishRoseBrianna {
+    }
+    dummy.HurtJadeVevay MelodicBlushMargot {
+    }
+    number BeautifulCrimsonZita {
+    }
+    hidden_boolean AwareBlueBeatrisa {
+    }
+    number HungryYellowJonie {
+    }
+    dummy.DEFAULT ExceptionalSapphireZorina {
+    }
+    number InquisitiveBlackCorrianne {
+    }
+  }
+  json MinimumSilverSusan {
+    _hidden_value = true
+  }
+  string InternationalCyanClemmie {
+    _hidden_value = true
+  }
+  number ThirstyBronzeDi {
+    _hidden_value = true
+  }
+  string UncertainIvoryTorey {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledBlueConny {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid OnlyBeigeDomini {
+    _hidden_value = true
+  }
+  string BrownTomatoKary {
+    _hidden_value = true
+  }
+  json CleverEmeraldAugusta {
+    _hidden_value = true
+  }
+  number ExperiencedBlushOthilia {
+    _hidden_value = true
+  }
+  number ShortAquamarineKittie {
+    _hidden_value = true
+  }
+  serviceid PresentHarlequinJeannette {
+    _hidden_value = true
+  }
+  "Map<string>" SuperiorGrayMarjy {
+    _hidden_value = true
+  }
+  MelodicBlushMargot = true
+  BeautifulCrimsonZita = 465
+  HungryYellowJonie = 686
+  ExceptionalSapphireZorina = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  InquisitiveBlackCorrianne = 478
+  _hidden_value = true
+}

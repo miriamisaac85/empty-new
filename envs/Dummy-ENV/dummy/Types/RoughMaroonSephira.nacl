@@ -1,0 +1,72 @@
+type dummy.RoughMaroonSephira {
+  annotations {
+    number WorkingFuchsiaColly {
+    }
+    dummy.NuclearBlueCorinna RichPurpleDoris {
+    }
+    string LevelTomatoAurlie {
+    }
+    serviceid ToughTomatoMathilda {
+    }
+    dummy.EquivalentJadeCaria JudicialAmethystSonja {
+    }
+    hidden_boolean VariableCopperMaggy {
+    }
+    boolean EssentialBlushJeri {
+    }
+    json UgliestHarlequinDesirae {
+    }
+  }
+  boolean HollowTealJaynell {
+    _hidden_value = true
+  }
+  serviceid AdequateAzureFernanda {
+    _hidden_value = true
+  }
+  number AttractivePlumJo {
+    _hidden_value = true
+  }
+  dummy.DEFAULT Unawaregold2Belicia {
+    _hidden_value = true
+  }
+  boolean QuickOrangeMellisa {
+    _hidden_value = true
+  }
+  string FascinatingPlumMala {
+    _hidden_value = true
+  }
+  string ConfidentIvoryNiki {
+    _hidden_value = true
+  }
+  number GlobalPurpleAudie {
+    _hidden_value = true
+  }
+  boolean Boldgold2Maggy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ClassicalLimeAggie {
+    _hidden_value = true
+  }
+  json VerbalCyanDorie {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitraryRedHali {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MeaningfulOliveMeade {
+    _hidden_value = true
+  }
+  string ConsciousLimeRonny {
+    _hidden_value = true
+  }
+  WorkingFuchsiaColly = 29
+  RichPurpleDoris = 977
+  LevelTomatoAurlie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ToughTomatoMathilda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JudicialAmethystSonja = "Why is Peter Pan always flying? Because he Neverlands."
+  EssentialBlushJeri = false
+  UgliestHarlequinDesirae = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

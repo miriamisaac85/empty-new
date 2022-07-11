@@ -1,0 +1,30 @@
+type dummy.ConceptualRoseFleur {
+  annotations {
+    json CivilApricotFredelia {
+    }
+    hidden_boolean GorgeousPlumRickie {
+    }
+    dummy.HurtJadeVevay StraightEmeraldCindy {
+    }
+    serviceid SplendidCyanMoreen {
+    }
+    number UrgentAmethystAvis {
+    }
+  }
+  hidden_boolean SpiritualSapphireZelda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HardLimeDacie {
+    _hidden_value = true
+  }
+  string GentleLimeMeara {
+    _hidden_value = true
+  }
+  CivilApricotFredelia = "Why didnt the skeleton cross the road? Because he had no guts."
+  StraightEmeraldCindy = false
+  SplendidCyanMoreen = "Im only familiar with 25 letters in the English language. I dont know why."
+  UrgentAmethystAvis = 928
+  _hidden_value = true
+}

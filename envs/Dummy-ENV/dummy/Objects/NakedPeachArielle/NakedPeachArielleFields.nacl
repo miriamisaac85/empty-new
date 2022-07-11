@@ -1,0 +1,33 @@
+type dummy.NakedPeachArielle {
+  serviceid ThirstyOliveMarylynne {
+  }
+  string RedOrangeKristel {
+  }
+  json SquareBeigeWylma {
+  }
+  number HistoricBlackBird {
+  }
+  number EarlyBrownEthyl {
+  }
+  serviceid SeriousOrangeCarlen {
+  }
+  serviceid UltimateSalmonTarrah {
+  }
+  json DrunkAquamarineDorthy {
+  }
+  string CuddlyGrayAgatha {
+  }
+  hidden_boolean MightyMaroonRobina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string IllWhiteHollyanne {
+  }
+  string RationalFuchsiaArdith {
+  }
+  number IncreasedWhiteTrenna {
+  }
+  serviceid ArbitraryEmeraldNorry {
+  }
+}

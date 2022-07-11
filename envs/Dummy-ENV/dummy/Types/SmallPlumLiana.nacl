@@ -1,0 +1,18 @@
+type dummy.SmallPlumLiana is boolean {
+  annotations {
+    string DecentAquamarineTabina {
+    }
+    hidden_boolean VagueAmaranthEsmaria {
+    }
+    json EssentialLavenderFlor {
+    }
+    boolean GenerousBlueKiele {
+    }
+    json SensitiveTurquoiseClaresta {
+    }
+  }
+  DecentAquamarineTabina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EssentialLavenderFlor = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GenerousBlueKiele = false
+  SensitiveTurquoiseClaresta = "What creature is smarter than a talking parrot? A spelling bee."
+}

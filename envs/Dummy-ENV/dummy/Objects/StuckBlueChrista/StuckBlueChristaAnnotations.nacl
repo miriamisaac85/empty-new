@@ -1,0 +1,55 @@
+type dummy.StuckBlueChrista {
+  annotations {
+    boolean AutomaticRoseGabriella {
+    }
+    serviceid HealthyVioletGeorgeanne {
+    }
+    serviceid JointPurpleCostanza {
+    }
+    number RespectiveAmberZaria {
+    }
+    string MelodicBeigeSeana {
+    }
+    serviceid UnfortunateRedDelora {
+    }
+    hidden_boolean AwkwardMaroonLibbi {
+    }
+    string FaithfulFuchsiaDi {
+    }
+    json BlackPlumDix {
+    }
+    json AmbitiousEmeraldEde {
+    }
+    serviceid InquisitiveBronzeEmelia {
+    }
+    dummy.RelaxedBeigeZulema ParallelSalmonPapagena {
+    }
+    hidden_boolean LovelyBeigeDosi {
+    }
+    boolean TenderTanTim {
+    }
+    boolean CommunistScarletNan {
+    }
+    string ColdMagentaWaly {
+    }
+    serviceid MaximumCrimsonFrankie {
+    }
+    serviceid SilkyOrangeMair {
+    }
+  }
+  AutomaticRoseGabriella = false
+  HealthyVioletGeorgeanne = "What creature is smarter than a talking parrot? A spelling bee."
+  JointPurpleCostanza = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RespectiveAmberZaria = 973
+  MelodicBeigeSeana = "Im only familiar with 25 letters in the English language. I dont know why."
+  UnfortunateRedDelora = "Why did the tomato blush? Because it saw the salad dressing."
+  FaithfulFuchsiaDi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BlackPlumDix = "Why didnt the skeleton cross the road? Because he had no guts."
+  AmbitiousEmeraldEde = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  InquisitiveBronzeEmelia = "Did you know that protons have mass? I didn't even know they were catholic."
+  TenderTanTim = false
+  CommunistScarletNan = false
+  ColdMagentaWaly = "To be Frank, I'd have to change my name."
+  MaximumCrimsonFrankie = "Why did the kid cross the playground? To get to the other slide."
+  SilkyOrangeMair = "Im only familiar with 25 letters in the English language. I dont know why."
+}

@@ -1,0 +1,54 @@
+type dummy.ArbitraryAmaranthLynelle {
+  annotations {
+    string VariousBlushAuroora {
+    }
+    dummy.JewishCoralJannel NoisyRoseArden {
+    }
+    string UnusualBlueJoli {
+    }
+    boolean AcademicPurpleSibel {
+    }
+    number PerfectTomatoCynthy {
+    }
+    json FunnyBeigeVinni {
+    }
+    hidden_boolean CuddlyPeachNariko {
+    }
+    hidden_boolean FunnyCrimsonBecky {
+    }
+    serviceid LostSalmonCristal {
+    }
+    boolean BlindPinkMitzi {
+    }
+    serviceid IrrelevantVioletCasey {
+    }
+    number ContinuingIndigoMarthe {
+    }
+    boolean MonthlyLimeGilligan {
+    }
+    hidden_boolean AfraidPinkRobinia {
+    }
+    string AlrightBrownMelinde {
+    }
+    serviceid FreshScarletGwyn {
+    }
+    hidden_boolean SatisfactoryRedTiertza {
+    }
+    boolean AbleWhiteAveryl {
+    }
+  }
+  VariousBlushAuroora = "Did you know that protons have mass? I didn't even know they were catholic."
+  NoisyRoseArden = file("PrivateApricotKerry.txt")
+  UnusualBlueJoli = "Why do birds fly south for the winter? Because it's too far to walk."
+  AcademicPurpleSibel = false
+  PerfectTomatoCynthy = 673
+  FunnyBeigeVinni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LostSalmonCristal = "Did you know that protons have mass? I didn't even know they were catholic."
+  BlindPinkMitzi = true
+  IrrelevantVioletCasey = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ContinuingIndigoMarthe = 878
+  MonthlyLimeGilligan = true
+  AlrightBrownMelinde = "Im only familiar with 25 letters in the English language. I dont know why."
+  FreshScarletGwyn = "Im only familiar with 25 letters in the English language. I dont know why."
+  AbleWhiteAveryl = false
+}

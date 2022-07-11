@@ -1,0 +1,52 @@
+type dummy.GentleAquaRanice {
+  string SkilledPeachAshla {
+  }
+  json NavalAmaranthGilli {
+  }
+  number RealisticBeigeSadie {
+  }
+  dummy.DearSalmonAinsley ExtremeFuchsiaChristiane {
+    YoungRoseAnnmarie = 769
+    DisgustedBrownChryste = 122
+    HandicappedFuchsiaBelvia = 5
+    DullRoseGiulia = 219
+    WesternGreenHesther = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  string GreenTealAlfreda {
+  }
+  serviceid ContinuousPlumChristiana {
+  }
+  boolean LegislativeGrayNikoletta {
+  }
+  dummy.TerribleCyanAveril ParallelScarletGiulia {
+    ScottishChocolateNoellyn = 887
+    AfraidLavenderJoana = "Why is Peter Pan always flying? Because he Neverlands."
+    GreyAquaCherin = "What creature is smarter than a talking parrot? A spelling bee."
+    CommonBlackValerie = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+  }
+  hidden_boolean StructuralTanBlondell {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json CasualLimeShae {
+  }
+  hidden_boolean UglyCrimsonLouisette {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean SevereOliveJosey {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean DelightfulCyanOlympia {
+  }
+  json RisingVioletCathrine {
+  }
+  json SeniorCopperKristan {
+  }
+}

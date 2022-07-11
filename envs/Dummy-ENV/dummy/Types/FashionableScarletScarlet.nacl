@@ -1,0 +1,134 @@
+type dummy.FashionableScarletScarlet {
+  annotations {
+    string LiveLavenderFerdinande {
+    }
+    string BrightAquamarineGusty {
+    }
+    serviceid BlushingJadeDodie {
+    }
+    hidden_boolean CheapBeigeKristan {
+    }
+    hidden_boolean QuickScarletSue {
+    }
+    serviceid UglyIndigoNiki {
+    }
+    hidden_boolean DeepCopperNixie {
+    }
+  }
+  boolean FinalRedShari {
+    _hidden_value = true
+  }
+  json StickyAquamarineBeatrice {
+    _hidden_value = true
+  }
+  dummy.RunningAquaRoshelle RottenCoffeeKay {
+    _hidden_value = true
+  }
+  hidden_boolean LtdTurquoiseReiko {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AnonymousLimeMagdaia {
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa FarPurpleLelah {
+    _hidden_value = true
+  }
+  number UnwillingPurpleElvina {
+    _hidden_value = true
+  }
+  number CompetitiveMaroonMyrtle {
+    _hidden_value = true
+  }
+  string LegitimateLavenderJehanna {
+    _hidden_value = true
+  }
+  serviceid CalmMagentaSarita {
+    _hidden_value = true
+  }
+  json ProgressiveTanDaryl {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TartAquaLeanna {
+    _hidden_value = true
+  }
+  boolean DisabledBrownRochette {
+    _hidden_value = true
+  }
+  dummy.CurvedIvoryQueenie UpsetAquamarineLynn {
+    GreasyJadeHynda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AcceptableAmaranthFreddi = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SquareMaroonFaun = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    UndergroundRedAudrey = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    Economicgold2Johnath = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ExcitingVioletLelah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  json RigidPurpleVeronika {
+    _hidden_value = true
+  }
+  serviceid CarefulRoseFranni {
+    _hidden_value = true
+  }
+  number SweetOliveHarriette {
+    _hidden_value = true
+  }
+  number GradualCoralLindi {
+    _hidden_value = true
+  }
+  number UglyOrangeHattie {
+    _hidden_value = true
+  }
+  boolean AggregateTurquoiseRosabella {
+    _hidden_value = true
+  }
+  hidden_boolean LengthyCyanMarla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ThinScarletEryn {
+    _hidden_value = true
+  }
+  string CleverOrangeVivianne {
+    _hidden_value = true
+  }
+  serviceid LittleOliveIleana {
+    _hidden_value = true
+  }
+  hidden_boolean StingyRoseLauryn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json MysteriousGrayCollette {
+    _hidden_value = true
+  }
+  hidden_boolean BriefAquamarineAdi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AmericanCyanMorgen {
+    _hidden_value = true
+  }
+  json SubstantialBronzeJennette {
+    _hidden_value = true
+  }
+  boolean AsleepBrownRozelle {
+    _hidden_value = true
+  }
+  string AlrightPlumGabbi {
+    _hidden_value = true
+  }
+  LiveLavenderFerdinande = "Why didnt the skeleton cross the road? Because he had no guts."
+  BrightAquamarineGusty = "Why is Peter Pan always flying? Because he Neverlands."
+  BlushingJadeDodie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UglyIndigoNiki = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

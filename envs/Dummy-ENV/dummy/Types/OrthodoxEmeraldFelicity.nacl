@@ -1,0 +1,69 @@
+type dummy.OrthodoxEmeraldFelicity is string {
+  annotations {
+    dummy.DEFAULT SpanishSalmonCaterina {
+    }
+    number Charminggold2Jessy {
+    }
+    hidden_boolean RedBronzeTrista {
+    }
+    boolean UnlikelyGreenBarb {
+    }
+    json PreferredBlushClaudette {
+    }
+    dummy.DEFAULT CrookedAmberCelinka {
+    }
+    json BiologicalSapphireElnora {
+    }
+    string VividTomatoTessy {
+    }
+    string QualifiedPurpleKevina {
+    }
+    json TremendousAzureMaria {
+    }
+    hidden_boolean FluffyAmaranthPearla {
+    }
+    json AllegedEmeraldJobie {
+    }
+    boolean BritishGrayDasi {
+    }
+    serviceid EldestPinkEkaterina {
+    }
+    json CrazyBlackgold2ina {
+    }
+    boolean HighPinkEvvy {
+    }
+    number SwiftAmaranthCostanza {
+    }
+    hidden_boolean CuteCoralAdara {
+    }
+    serviceid LiberalMaroonMady {
+    }
+    hidden_boolean StormyTealCharleen {
+    }
+    number FierceBlueFannie {
+    }
+    hidden_boolean PleasantApricotKassie {
+    }
+  }
+  SpanishSalmonCaterina = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  Charminggold2Jessy = 562
+  UnlikelyGreenBarb = false
+  PreferredBlushClaudette = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CrookedAmberCelinka = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  BiologicalSapphireElnora = "Im only familiar with 25 letters in the English language. I dont know why."
+  VividTomatoTessy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  QualifiedPurpleKevina = "Why did the kid cross the playground? To get to the other slide."
+  TremendousAzureMaria = "What creature is smarter than a talking parrot? A spelling bee."
+  AllegedEmeraldJobie = "Why was it called the dark ages? Because of all the knights. "
+  BritishGrayDasi = true
+  EldestPinkEkaterina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CrazyBlackgold2ina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HighPinkEvvy = true
+  SwiftAmaranthCostanza = 473
+  LiberalMaroonMady = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FierceBlueFannie = 316
+}

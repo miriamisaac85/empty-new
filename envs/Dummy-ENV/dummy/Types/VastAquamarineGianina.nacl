@@ -1,0 +1,72 @@
+type dummy.VastAquamarineGianina {
+  annotations {
+    json ScatteredChocolateLuz {
+    }
+    number FreshPlumTanitansy {
+    }
+    boolean MeaningfulPurpleZitella {
+    }
+    string SuccessfulVioletFredia {
+    }
+    boolean ProudWhiteLaurianne {
+    }
+  }
+  number SpecificSalmonNance {
+    _hidden_value = true
+  }
+  json LateScarletLishe {
+    _hidden_value = true
+  }
+  hidden_boolean MisleadingFuchsiaNoelani {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CloseRoseLyda {
+    _hidden_value = true
+  }
+  number PreciousFuchsiaHyacinthia {
+    _hidden_value = true
+  }
+  json FitSapphireDoretta {
+    _hidden_value = true
+  }
+  serviceid SteepBlueRubie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ItalianTurquoiseNathalia {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyVioletAlla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EntitledSilverEllene {
+    _hidden_value = true
+  }
+  number YoungRedLynnette {
+    _hidden_value = true
+  }
+  serviceid UnawareAmaranthClaudina {
+    _hidden_value = true
+  }
+  boolean AloneMagentaHortensia {
+    _hidden_value = true
+  }
+  serviceid SpareApricotRheta {
+    _hidden_value = true
+  }
+  serviceid GradualPinkAnnecorinne {
+    _hidden_value = true
+  }
+  string Respectivegold2Fina {
+    _hidden_value = true
+  }
+  ScatteredChocolateLuz = "I'll tell you what often gets over looked... garden fences."
+  FreshPlumTanitansy = 546
+  MeaningfulPurpleZitella = true
+  SuccessfulVioletFredia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ProudWhiteLaurianne = false
+  _hidden_value = true
+}

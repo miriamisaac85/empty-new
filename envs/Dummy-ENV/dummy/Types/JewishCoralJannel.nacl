@@ -1,0 +1,35 @@
+type dummy.JewishCoralJannel is string {
+  annotations {
+    boolean AlivePeachImogen {
+    }
+    number HollowCopperKaitlynn {
+    }
+    hidden_boolean HappyTanCandis {
+    }
+    hidden_boolean CoolGreenRona {
+    }
+    string BottomBlushWinonah {
+    }
+    json RelativeTealLeontine {
+    }
+    string RepresentativeScarletLorenza {
+    }
+    boolean DesperateAquamarineLisabeth {
+    }
+    string UndergroundBlackBenni {
+    }
+    boolean FunnyRedTimi {
+    }
+    serviceid GlobalCopperFanechka {
+    }
+  }
+  AlivePeachImogen = true
+  HollowCopperKaitlynn = 394
+  BottomBlushWinonah = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RelativeTealLeontine = "How come the stadium got hot after the game? Because all of the fans left."
+  RepresentativeScarletLorenza = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DesperateAquamarineLisabeth = true
+  UndergroundBlackBenni = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FunnyRedTimi = false
+  GlobalCopperFanechka = "Why did the kid cross the playground? To get to the other slide."
+}

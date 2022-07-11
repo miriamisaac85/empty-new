@@ -1,0 +1,49 @@
+type dummy.ObligedApricotMarleen {
+  annotations {
+    string AsleepApricotOdelinda {
+    }
+    boolean SillyRedNicoline {
+    }
+    boolean NaturalCyanFederica {
+    }
+    hidden_boolean RipeAmaranthGenny {
+    }
+  }
+  number EffectiveBrownKirstin {
+    _hidden_value = true
+  }
+  hidden_boolean ShallowOliveKrystal {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number BetterSalmonTarra {
+    _hidden_value = true
+  }
+  boolean MereIvoryWynny {
+    _hidden_value = true
+  }
+  hidden_boolean LuckyAmberMyriam {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CertainWhiteNatty {
+    _hidden_value = true
+  }
+  json EntireTomatoEnrichetta {
+    _hidden_value = true
+  }
+  hidden_boolean FunnySilverGlenna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AddedOliveMerrie {
+    _hidden_value = true
+  }
+  AsleepApricotOdelinda = "What do you call two barracuda fish?  A Pairacuda!"
+  SillyRedNicoline = false
+  NaturalCyanFederica = false
+  _hidden_value = true
+}

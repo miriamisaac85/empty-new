@@ -1,0 +1,26 @@
+type dummy.Printedgold2Lauralee is boolean {
+  annotations {
+    string DrabAmaranthGertruda {
+    }
+    string PassingBeigeMorissa {
+    }
+    json ClumsyTealDrona {
+    }
+    boolean GoverningPeachValerie {
+    }
+    hidden_boolean JustTealGeorge {
+    }
+    number AdjacentAquamarineRegan {
+    }
+    serviceid ProgressiveCoffeeZuzana {
+    }
+    hidden_boolean PatientScarletAmandi {
+    }
+  }
+  DrabAmaranthGertruda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PassingBeigeMorissa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ClumsyTealDrona = "A steak pun is a rare medium well done."
+  GoverningPeachValerie = false
+  AdjacentAquamarineRegan = 702
+  ProgressiveCoffeeZuzana = "Slept like a log last night  woke up in the fireplace."
+}

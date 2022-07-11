@@ -1,0 +1,28 @@
+type dummy.UnacceptableCyanMariya {
+  annotations {
+    hidden_boolean StupidAmethystMae {
+    }
+    boolean GreatWhiteDorena {
+    }
+    serviceid IncredibleAquamarineJoeann {
+    }
+    hidden_boolean StraightBrownUta {
+    }
+    boolean RoastedHarlequinLilian {
+    }
+    string FinalTanRaeann {
+    }
+    hidden_boolean Disappointedgold2Sydel {
+    }
+  }
+  hidden_boolean InvolvedMoccasinWinni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  GreatWhiteDorena = true
+  IncredibleAquamarineJoeann = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RoastedHarlequinLilian = true
+  FinalTanRaeann = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

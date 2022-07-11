@@ -1,0 +1,28 @@
+type dummy.EfficientPeachJehanna {
+  annotations {
+    string RelievedBeigeCarita {
+    }
+    boolean DetailedScarletCristie {
+    }
+    number BewilderedChocolateSallyanne {
+    }
+    string VastHarlequinSaree {
+    }
+    number MultipleMoccasinPrissie {
+    }
+    boolean Tiredgold2Dianne {
+    }
+  }
+  hidden_boolean FiscalAquamarineAna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  RelievedBeigeCarita = "I'll tell you what often gets over looked... garden fences."
+  DetailedScarletCristie = true
+  BewilderedChocolateSallyanne = 783
+  VastHarlequinSaree = "Why is Peter Pan always flying? Because he Neverlands."
+  MultipleMoccasinPrissie = 916
+  Tiredgold2Dianne = true
+  _hidden_value = true
+}

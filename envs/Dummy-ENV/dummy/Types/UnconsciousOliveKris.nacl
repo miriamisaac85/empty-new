@@ -1,0 +1,44 @@
+type dummy.UnconsciousOliveKris {
+  annotations {
+    number WoodenMaroonMartelle {
+    }
+    hidden_boolean HistoricalIvoryNanine {
+    }
+    serviceid EmptyLavenderKatuscha {
+    }
+    boolean FortunateIndigoGuillemette {
+    }
+    hidden_boolean RedundantBlushMaribelle {
+    }
+    hidden_boolean FemaleWhiteDarrelle {
+    }
+  }
+  dummy.DEFAULT DisappointedAmaranthBrooks {
+    _hidden_value = true
+  }
+  json GentleLavenderSherill {
+    _hidden_value = true
+  }
+  number PurpleCrimsonMadalena {
+    _hidden_value = true
+  }
+  string ArabVioletBenita {
+    _hidden_value = true
+  }
+  serviceid JitteryVioletDorri {
+    _hidden_value = true
+  }
+  json ToughBronzeFelicle {
+    _hidden_value = true
+  }
+  json SpecificRoseGwenette {
+    _hidden_value = true
+  }
+  number ForeignApricotAlene {
+    _hidden_value = true
+  }
+  WoodenMaroonMartelle = 600
+  EmptyLavenderKatuscha = "Why didnt the skeleton cross the road? Because he had no guts."
+  FortunateIndigoGuillemette = false
+  _hidden_value = true
+}

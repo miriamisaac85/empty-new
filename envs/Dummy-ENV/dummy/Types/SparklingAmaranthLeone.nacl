@@ -1,0 +1,35 @@
+type dummy.SparklingAmaranthLeone is boolean {
+  annotations {
+    number PricklyPlumKatrine {
+    }
+    string LivelyBlackIngeberg {
+    }
+    string FiscalMaroonCassaundra {
+    }
+    json IllegalLimeAshely {
+    }
+    serviceid FirmIvoryBrigid {
+    }
+    string ZanyCoralBerri {
+    }
+    boolean FunCoffeeOrelia {
+    }
+    string KindCrimsonDeina {
+    }
+    hidden_boolean GentleAquamarineSimonette {
+    }
+    serviceid InclinedBronzeJobey {
+    }
+    hidden_boolean BrightMoccasinMaia {
+    }
+  }
+  PricklyPlumKatrine = 233
+  LivelyBlackIngeberg = "Why did the tomato blush? Because it saw the salad dressing."
+  FiscalMaroonCassaundra = "Why did the kid cross the playground? To get to the other slide."
+  IllegalLimeAshely = "Did you know that protons have mass? I didn't even know they were catholic."
+  FirmIvoryBrigid = "Why is Peter Pan always flying? Because he Neverlands."
+  ZanyCoralBerri = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FunCoffeeOrelia = false
+  KindCrimsonDeina = "Did you know that protons have mass? I didn't even know they were catholic."
+  InclinedBronzeJobey = "Slept like a log last night  woke up in the fireplace."
+}

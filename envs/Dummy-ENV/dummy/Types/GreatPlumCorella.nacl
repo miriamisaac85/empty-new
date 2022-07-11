@@ -1,0 +1,47 @@
+type dummy.GreatPlumCorella {
+  annotations {
+    hidden_boolean DeterminedLavenderReba {
+    }
+    serviceid DetailedEmeraldMureil {
+    }
+    string MistyJadeLinnet {
+    }
+    dummy.DEFAULT UnhappySilverJanelle {
+    }
+    boolean WrongPinkBrooks {
+    }
+    string Architecturalgold2Ceciley {
+    }
+  }
+  json RelevantPeachClaire {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcessOliveFaye {
+    _hidden_value = true
+  }
+  boolean CleverBlueMargaretta {
+    _hidden_value = true
+  }
+  hidden_boolean ComparableIvoryJunia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SubstantialPeachArdyth {
+    _hidden_value = true
+  }
+  boolean ViolentGreenRamona {
+    _hidden_value = true
+  }
+  boolean FlexibleSapphireJaine {
+    _hidden_value = true
+  }
+  DetailedEmeraldMureil = "A steak pun is a rare medium well done."
+  MistyJadeLinnet = "Did you know that protons have mass? I didn't even know they were catholic."
+  UnhappySilverJanelle = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  WrongPinkBrooks = false
+  Architecturalgold2Ceciley = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

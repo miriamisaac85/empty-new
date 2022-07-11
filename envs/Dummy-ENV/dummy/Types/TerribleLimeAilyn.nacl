@@ -1,0 +1,37 @@
+type dummy.TerribleLimeAilyn {
+  annotations {
+    boolean AnnualCoffeeShirlee {
+    }
+    hidden_boolean DullAquamarineGretchen {
+    }
+    json RigidTealDatha {
+    }
+    hidden_boolean ThunderingIvoryErika {
+    }
+    serviceid ClosedHarlequinOlenka {
+    }
+    hidden_boolean ChristianJadeLeonora {
+    }
+  }
+  hidden_boolean InnerFuchsiaMaren {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number YoungHarlequinTimmi {
+    _hidden_value = true
+  }
+  json DiplomaticGrayJacky {
+    _hidden_value = true
+  }
+  boolean ResultingTurquoiseUrsula {
+    _hidden_value = true
+  }
+  boolean AgreedPurpleAigneis {
+    _hidden_value = true
+  }
+  AnnualCoffeeShirlee = true
+  RigidTealDatha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ClosedHarlequinOlenka = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

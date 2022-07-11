@@ -1,0 +1,76 @@
+type dummy.ActualSalmonLarine {
+  annotations {
+    string UselessMoccasinSheelagh {
+    }
+    serviceid CarefulAquaDyna {
+    }
+    json AdministrativeCoffeeTiffy {
+    }
+    string DependentRedTrixie {
+    }
+    number QuaintRoseTiffie {
+    }
+    json RepresentativeAzureZaria {
+    }
+  }
+  number LegitimateLavenderAlverta {
+    _hidden_value = true
+  }
+  json AwfulAmberElly {
+    _hidden_value = true
+  }
+  string SurprisingPeachAudra {
+    _hidden_value = true
+  }
+  string AcceptedCyanMellie {
+    _hidden_value = true
+  }
+  json IdeologicalBronzeKitti {
+    _hidden_value = true
+  }
+  json PrimitiveCrimsonErinna {
+    _hidden_value = true
+  }
+  hidden_boolean RichOliveRoxi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OpenAmethystCherry {
+    _hidden_value = true
+  }
+  hidden_boolean RelievedGreenLenka {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" HorizontalHarlequinColene {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DifficultCyanIra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SkilledSapphireHeath {
+    _hidden_value = true
+  }
+  serviceid MinimalBlushAlaine {
+    _hidden_value = true
+  }
+  string GrotesqueSapphireMaurine {
+    _hidden_value = true
+  }
+  hidden_boolean HorribleTanEster {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UselessMoccasinSheelagh = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CarefulAquaDyna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AdministrativeCoffeeTiffy = "A steak pun is a rare medium well done."
+  DependentRedTrixie = "I'll tell you what often gets over looked... garden fences."
+  QuaintRoseTiffie = 860
+  RepresentativeAzureZaria = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

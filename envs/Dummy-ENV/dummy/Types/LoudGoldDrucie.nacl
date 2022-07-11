@@ -1,0 +1,50 @@
+type dummy.Loudgold2Drucie {
+  annotations {
+    dummy.StructuralChocolateMeggie AdministrativeTanZonnya {
+    }
+    serviceid InnocentCrimsonChelsy {
+    }
+    string HungryLimeRetha {
+    }
+    dummy.DEFAULT PrettyPlumCarrie {
+    }
+    number EuropeanCoralTessa {
+    }
+    json NearAquaTommy {
+    }
+  }
+  hidden_boolean NeighbouringBronzeTarah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean IntellectualScarletDeni {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean WarmIndigoDarcy {
+    _hidden_value = true
+  }
+  string YoungAmaranthJilleen {
+    _hidden_value = true
+  }
+  serviceid GreasyAmberJolyn {
+    _hidden_value = true
+  }
+  string Surroundinggold2Rora {
+    _hidden_value = true
+  }
+  serviceid ModerateVioletTherese {
+    _hidden_value = true
+  }
+  AdministrativeTanZonnya = 140
+  InnocentCrimsonChelsy = "Why was it called the dark ages? Because of all the knights. "
+  HungryLimeRetha = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PrettyPlumCarrie = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  EuropeanCoralTessa = 241
+  NearAquaTommy = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

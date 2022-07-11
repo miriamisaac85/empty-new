@@ -1,0 +1,97 @@
+type dummy.HostileSilverCecilia {
+  annotations {
+    hidden_boolean PuzzledRedAndromache {
+    }
+    string PreparedCopperEstel {
+    }
+    number FatOrangeGnni {
+    }
+    string Oldgold2Roch {
+    }
+    hidden_boolean GleamingBrownJunia {
+    }
+  }
+  number UnacceptableAquaDaveen {
+    _hidden_value = true
+  }
+  serviceid GentleAmberFaun {
+    _hidden_value = true
+  }
+  dummy.DifficultBlackDeanne BlushingLavenderDorise {
+    CruelCrimsonGinelle = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    ConceptualApricotCathie = "To be Frank, I'd have to change my name."
+    FemaleWhiteRobina = "Why do birds fly south for the winter? Because it's too far to walk."
+    PreliminaryTanBelicia = "What do you call two barracuda fish?  A Pairacuda!"
+    CalmScarletMead = true
+    CheapCoralNissy = "Why didnt the skeleton cross the road? Because he had no guts."
+    TightTealGiulietta = 136
+    DefiniteOlivePierette = false
+    CooperativeSapphireBobinette = "I'll tell you what often gets over looked... garden fences."
+    OkayPurplePietra = "Why do birds fly south for the winter? Because it's too far to walk."
+    HumanChocolateTricia = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  string LocalChocolateElsy {
+    _hidden_value = true
+  }
+  boolean ConstantAzureIngeborg {
+    _hidden_value = true
+  }
+  serviceid BadWhiteKimmy {
+    _hidden_value = true
+  }
+  serviceid EverydaySalmonJenni {
+    _hidden_value = true
+  }
+  hidden_boolean SpontaneousJadeZarla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean TastyVioletTybie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SevereBronzeKatee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MuteBeigeValina {
+    _hidden_value = true
+  }
+  serviceid ToughMaroonOrelee {
+    _hidden_value = true
+  }
+  number IntensiveOliveDorisa {
+    _hidden_value = true
+  }
+  boolean InnerBeigeElisa {
+    _hidden_value = true
+  }
+  string ShinyMaroonGisella {
+    _hidden_value = true
+  }
+  serviceid OralBlushJewel {
+    _hidden_value = true
+  }
+  number BrilliantSilverBonita {
+    _hidden_value = true
+  }
+  number GrubbyBlushSile {
+    _hidden_value = true
+  }
+  string ConcernedRoseIssie {
+    _hidden_value = true
+  }
+  string UnpleasantAmethystLexis {
+    _hidden_value = true
+  }
+  PreparedCopperEstel = "Why didnt the skeleton cross the road? Because he had no guts."
+  FatOrangeGnni = 117
+  Oldgold2Roch = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

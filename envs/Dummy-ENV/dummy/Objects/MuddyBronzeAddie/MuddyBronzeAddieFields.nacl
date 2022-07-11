@@ -1,0 +1,22 @@
+type dummy.MuddyBronzeAddie {
+  boolean ClearWhiteLilyan {
+  }
+  hidden_boolean UnhappyApricotGuendolen {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string RecentAmethystTatiana {
+  }
+  serviceid SuccessfulTanCaritta {
+  }
+  number QuietBeigeLisha {
+  }
+  number SilkyWhiteBeatrix {
+  }
+  hidden_boolean DynamicAquaViv {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+}

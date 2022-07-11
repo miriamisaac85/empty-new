@@ -1,0 +1,35 @@
+type dummy.CrudeScarletBerri {
+  annotations {
+    dummy.AbundantCoralBelva CognitiveBlackKarel {
+    }
+    dummy.DEFAULT ValidIvoryKristina {
+    }
+    hidden_boolean RapidMagentaJacquette {
+    }
+    hidden_boolean WearyPurpleMelisse {
+    }
+    dummy.NutritiousCoralDania TiredOliveInna {
+    }
+  }
+  serviceid YummyLimeWilow {
+    _hidden_value = true
+  }
+  serviceid AverageTurquoiseAlethea {
+    _hidden_value = true
+  }
+  string ComparableMoccasinArabelle {
+    _hidden_value = true
+  }
+  boolean AliveGrayCaritta {
+    _hidden_value = true
+  }
+  json SheerSilverGenvieve {
+    _hidden_value = true
+  }
+  CognitiveBlackKarel = 858
+  ValidIvoryKristina = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  TiredOliveInna = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

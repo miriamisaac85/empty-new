@@ -1,0 +1,31 @@
+type dummy.PoisedCoffeeDanna {
+  annotations {
+    serviceid MainScarletRowe {
+    }
+    json StraightRedNerissa {
+    }
+    boolean RespectiveApricotNydia {
+    }
+    json SoundTurquoiseTybi {
+    }
+    serviceid MaleSilverWilly {
+    }
+    dummy.DEFAULT DreadfulRedHonor {
+    }
+    boolean ShockedCopperOlwen {
+    }
+  }
+  string RelevantWhiteMarge {
+    _hidden_value = true
+  }
+  MainScarletRowe = "Dad Im hungry  Hi hungry Im dad"
+  StraightRedNerissa = "I'll tell you what often gets over looked... garden fences."
+  RespectiveApricotNydia = false
+  SoundTurquoiseTybi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MaleSilverWilly = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DreadfulRedHonor = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  ShockedCopperOlwen = false
+  _hidden_value = true
+}

@@ -1,0 +1,65 @@
+type dummy.ColonialJadeCharis {
+  serviceid SuperBronzeKaren {
+  }
+  dummy.SmallPlumLiana Gloriousgold2Dannie {
+    DecentAquamarineTabina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    EssentialLavenderFlor = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    GenerousBlueKiele = true
+    SensitiveTurquoiseClaresta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  boolean ProfoundPurpleZsazsa {
+  }
+  string FuzzyBronzeMarieann {
+  }
+  hidden_boolean LargeSapphireArlena {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean IntegralPlumMorgana {
+  }
+  number RigidScarletDarci {
+  }
+  dummy.PuzzledBlackPavia GiantAmaranthRuby {
+    IntensiveRedHelli = true
+    FoolishMaroonAimil = "Why didnt the skeleton cross the road? Because he had no guts."
+    GreenAmethystOphelie = "What creature is smarter than a talking parrot? A spelling bee."
+    FutureTealJesse = "Why did the kid cross the playground? To get to the other slide."
+  }
+  serviceid ElectricalBronzeBabbie {
+  }
+  string EconomicMaroonSari {
+  }
+  dummy.WonderfulGreenVeronica WetChocolateAudi {
+    FellowRedCheslie = false
+    WeakTealSharl = 75
+    NursingSalmonArdis = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CheerfulAquaKendre = "Dad Im hungry  Hi hungry Im dad"
+  }
+  number HighTanTimmy {
+  }
+  hidden_boolean LinguisticAzureFlss {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json HistoricAmethystElfrieda {
+  }
+  number ImmenseSapphireGrethel {
+  }
+  hidden_boolean FatalJadeFannie {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean AsianScarletAbbye {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ExcitedTurquoiseLula {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+}

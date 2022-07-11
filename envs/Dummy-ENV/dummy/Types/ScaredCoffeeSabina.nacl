@@ -1,0 +1,20 @@
+type dummy.ScaredCoffeeSabina {
+  annotations {
+    serviceid GradualVioletDotti {
+    }
+    json ConcernedSilverTrix {
+    }
+    boolean NavalMaroonEsmaria {
+    }
+    serviceid PrimitiveLavenderFaythe {
+    }
+  }
+  boolean MagneticSapphireAdelaida {
+    _hidden_value = true
+  }
+  GradualVioletDotti = "Whoever invented the knock-knock joke should get a no bell prize."
+  ConcernedSilverTrix = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NavalMaroonEsmaria = true
+  PrimitiveLavenderFaythe = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

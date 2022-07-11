@@ -1,0 +1,100 @@
+type dummy.WonderfulCopperWallis {
+  annotations {
+    hidden_boolean InquisitiveBlueJennifer {
+    }
+    boolean GracefulIndigoFilippa {
+    }
+    json OccupationalCyanNonna {
+    }
+    string JointMagentaDoralynn {
+    }
+    dummy.DEFAULT SmartBlushCristal {
+    }
+    json AverageCoffeeJean {
+    }
+  }
+  json RaspyBlackLenore {
+    _hidden_value = true
+  }
+  serviceid ProtestantAquaFederica {
+    _hidden_value = true
+  }
+  hidden_boolean ImplicitOliveWendi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SureIndigoShanie {
+    _hidden_value = true
+  }
+  serviceid WastefulIvoryKrissy {
+    _hidden_value = true
+  }
+  string InterestedAquaJanice {
+    _hidden_value = true
+  }
+  boolean ProgressiveCyanJolene {
+    _hidden_value = true
+  }
+  number NeighbouringTomatoMarthena {
+    _hidden_value = true
+  }
+  serviceid ScrawnyTealShanta {
+    _hidden_value = true
+  }
+  serviceid NosyTomatoMala {
+    _hidden_value = true
+  }
+  hidden_boolean SuitableHarlequinShari {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ShrillRedBerry {
+    _hidden_value = true
+  }
+  string FancyGreenJacqueline {
+    _hidden_value = true
+  }
+  boolean AcuteYellowAmye {
+    _hidden_value = true
+  }
+  json LuckyScarletKarleen {
+    _hidden_value = true
+  }
+  serviceid HumanBlushDarleen {
+    _hidden_value = true
+  }
+  string ProfitableMaroonStafani {
+    _hidden_value = true
+  }
+  json AdvancedPlumDelora {
+    _hidden_value = true
+  }
+  boolean WorryingCopperTommi {
+    _hidden_value = true
+  }
+  number ReliableSalmonWileen {
+    _hidden_value = true
+  }
+  json CrudeTealDenys {
+    _hidden_value = true
+  }
+  serviceid NeutralPeachIngunna {
+    _hidden_value = true
+  }
+  boolean LivelyPinkAppolonia {
+    _hidden_value = true
+  }
+  "List<boolean>" BreakableAmaranthChelsey {
+    _hidden_value = true
+  }
+  GracefulIndigoFilippa = false
+  OccupationalCyanNonna = "Im only familiar with 25 letters in the English language. I dont know why."
+  JointMagentaDoralynn = "Dad Im hungry  Hi hungry Im dad"
+  SmartBlushCristal = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  AverageCoffeeJean = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

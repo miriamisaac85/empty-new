@@ -1,0 +1,59 @@
+type dummy.ForthcomingVioletCammi {
+  annotations {
+    string IntegratedOrangeDaile {
+    }
+    serviceid ImportantGreenGrazia {
+    }
+    dummy.DirectEmeraldDanya PowerfulBlushElka {
+    }
+    number FeministHarlequinSybilla {
+    }
+    boolean LonelyTanFerdinanda {
+    }
+    number Criminalgold2Celestina {
+    }
+    string ObedientBlueAlidia {
+    }
+    number ZanyGreenMaisey {
+    }
+    json CooperativeYellowKati {
+    }
+    boolean PinkRedElmira {
+    }
+    number EnchantingGrayPatience {
+    }
+    boolean ApparentPinkChristal {
+    }
+    string ElderlyRedSheeree {
+    }
+    hidden_boolean GrotesqueSilverHertha {
+    }
+    dummy.LightAmethystFrank SoftBrownVerena {
+    }
+    string PrivateMaroonAlie {
+    }
+    json DefiantCoralJaynell {
+    }
+    serviceid ImaginativeIndigoClareta {
+    }
+    dummy.VoluntaryBlushSonja UgliestGrayMoyna {
+    }
+  }
+  IntegratedOrangeDaile = "Why did the kid cross the playground? To get to the other slide."
+  ImportantGreenGrazia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FeministHarlequinSybilla = 609
+  LonelyTanFerdinanda = false
+  Criminalgold2Celestina = 668
+  ObedientBlueAlidia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ZanyGreenMaisey = 812
+  CooperativeYellowKati = "Why is Peter Pan always flying? Because he Neverlands."
+  PinkRedElmira = false
+  EnchantingGrayPatience = 892
+  ApparentPinkChristal = true
+  ElderlyRedSheeree = "To be Frank, I'd have to change my name."
+  SoftBrownVerena = false
+  PrivateMaroonAlie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DefiantCoralJaynell = "Slept like a log last night  woke up in the fireplace."
+  ImaginativeIndigoClareta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UgliestGrayMoyna = false
+}

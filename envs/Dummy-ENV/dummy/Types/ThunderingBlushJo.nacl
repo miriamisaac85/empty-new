@@ -1,0 +1,48 @@
+type dummy.ThunderingBlushJo {
+  annotations {
+    boolean BrightBeigeShara {
+    }
+    serviceid TestyApricotTracey {
+    }
+    dummy.DEFAULT FriendlyBrownAlexi {
+    }
+    json LovelySilverOdella {
+    }
+    boolean TameMaroonCornelle {
+    }
+    string WetAmaranthDorena {
+    }
+  }
+  hidden_boolean ObjectivePeachShirline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.RunningAquaRoshelle DelicatePlumVittoria {
+    _hidden_value = true
+  }
+  boolean KeySapphireImogene {
+    _hidden_value = true
+  }
+  json WorldwideAzurePatrizia {
+    _hidden_value = true
+  }
+  string PartialCyanCarmelle {
+    _hidden_value = true
+  }
+  number NovelIvoryAva {
+    _hidden_value = true
+  }
+  json EnthusiasticIndigoKyrstin {
+    _hidden_value = true
+  }
+  BrightBeigeShara = true
+  TestyApricotTracey = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FriendlyBrownAlexi = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  LovelySilverOdella = "Why do birds fly south for the winter? Because it's too far to walk."
+  TameMaroonCornelle = true
+  WetAmaranthDorena = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

@@ -1,0 +1,38 @@
+type dummy.SleepyAzureTobey {
+  annotations {
+    serviceid WonderfulJadeCoriss {
+    }
+    boolean TinyAmaranthLina {
+    }
+    string FutureYellowDorene {
+    }
+    json CostlyBlushBenny {
+    }
+    boolean ReliableEmeraldAlejandrina {
+    }
+    number MassWhiteCaryl {
+    }
+  }
+  serviceid TiredMoccasinAbagael {
+    _hidden_value = true
+  }
+  json UnconsciousCoralTrix {
+    _hidden_value = true
+  }
+  boolean ActiveEmeraldAugusta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LightBronzeCorinne {
+    _hidden_value = true
+  }
+  json WidespreadSapphireAllis {
+    _hidden_value = true
+  }
+  WonderfulJadeCoriss = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TinyAmaranthLina = true
+  FutureYellowDorene = "Dad Im hungry  Hi hungry Im dad"
+  CostlyBlushBenny = "Im only familiar with 25 letters in the English language. I dont know why."
+  ReliableEmeraldAlejandrina = false
+  MassWhiteCaryl = 969
+  _hidden_value = true
+}

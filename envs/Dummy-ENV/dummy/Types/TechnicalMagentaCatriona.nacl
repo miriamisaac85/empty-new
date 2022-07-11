@@ -1,0 +1,25 @@
+type dummy.TechnicalMagentaCatriona {
+  annotations {
+    number LateRedShel {
+    }
+    dummy.DEFAULT GloriousBlackMelisent {
+    }
+    hidden_boolean CommunistAmberMelly {
+    }
+    serviceid MoaningPeachTersina {
+    }
+    hidden_boolean Cleangold2Joanie {
+    }
+  }
+  hidden_boolean DifficultPeachClary {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  LateRedShel = 892
+  GloriousBlackMelisent = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  MoaningPeachTersina = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

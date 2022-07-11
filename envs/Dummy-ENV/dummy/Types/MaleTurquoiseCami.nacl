@@ -1,0 +1,26 @@
+type dummy.MaleTurquoiseCami {
+  annotations {
+    boolean CriminalCoffeeMaegan {
+    }
+    serviceid FreshRoseJoyan {
+    }
+    hidden_boolean MusicalPeachLeontine {
+    }
+    hidden_boolean RoyalChocolateAnjanette {
+    }
+    json NarrowTurquoiseSelia {
+    }
+    string PrimaryJadeGiulietta {
+    }
+  }
+  hidden_boolean RivalCoffeeHulda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  CriminalCoffeeMaegan = true
+  FreshRoseJoyan = "Why did the kid cross the playground? To get to the other slide."
+  NarrowTurquoiseSelia = "Slept like a log last night  woke up in the fireplace."
+  PrimaryJadeGiulietta = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

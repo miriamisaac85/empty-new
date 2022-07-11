@@ -1,0 +1,39 @@
+type dummy.ChubbyRedVenita {
+  annotations {
+    hidden_boolean JuniorEmeraldKatie {
+    }
+    number HorriblePinkRanique {
+    }
+    string ImportantChocolateStacy {
+    }
+    number SlimHarlequinFionnula {
+    }
+    boolean ProbableHarlequinCristy {
+    }
+  }
+  boolean FuzzySapphireBliss {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcuteAquaAdorne {
+    _hidden_value = true
+  }
+  string HurtRoseJolie {
+    _hidden_value = true
+  }
+  hidden_boolean GenerousMoccasinLaurette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json DevelopedRedDallas {
+    _hidden_value = true
+  }
+  serviceid RelatedGrayMerissa {
+    _hidden_value = true
+  }
+  HorriblePinkRanique = 214
+  ImportantChocolateStacy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SlimHarlequinFionnula = 529
+  ProbableHarlequinCristy = false
+  _hidden_value = true
+}

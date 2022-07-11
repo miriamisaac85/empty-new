@@ -1,0 +1,40 @@
+type dummy.AmateurAzureCallida {
+  annotations {
+    string CalmBronzeHalie {
+    }
+    hidden_boolean SafeApricotEmelia {
+    }
+    number NavalAquaClaudelle {
+    }
+  }
+  json LazyPurpleAdrienne {
+    _hidden_value = true
+  }
+  json ThenGreenZorine {
+    _hidden_value = true
+  }
+  number VisualRoseLu {
+    _hidden_value = true
+  }
+  dummy.DifferentLimeChristen VividAzureJoela {
+    IndianOrangeFilippa = true
+    QuietLimeCristen = 645
+    GrievingLavenderTera = false
+    PatientApricotMidge = 38
+    CertainScarletClarine = "What do you call two barracuda fish?  A Pairacuda!"
+    AccurateYellowElfrida = false
+    SlowCrimsonIvett = "Why did the kid cross the playground? To get to the other slide."
+    RigidBrownAllene = "How come the stadium got hot after the game? Because all of the fans left."
+    NegativeScarletWilly = "To be Frank, I'd have to change my name."
+    PossibleAquaRanda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  hidden_boolean BetterGrayBirgitta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  CalmBronzeHalie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NavalAquaClaudelle = 83
+  _hidden_value = true
+}

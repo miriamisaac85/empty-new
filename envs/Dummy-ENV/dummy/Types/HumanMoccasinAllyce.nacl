@@ -1,0 +1,60 @@
+type dummy.HumanMoccasinAllyce {
+  annotations {
+    hidden_boolean ProfoundOliveDotti {
+    }
+    serviceid TypicalPinkEmmye {
+    }
+    json MadAmethystEden {
+    }
+    serviceid LittleJadePamella {
+    }
+    dummy.MinimumIvoryFrankie FlyingAzureZara {
+    }
+  }
+  hidden_boolean ArmedAmethystAubrie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string BalancedRedAlessandra {
+    _hidden_value = true
+  }
+  number UnconsciousScarletCammi {
+    _hidden_value = true
+  }
+  string DoubtfulWhiteDedie {
+    _hidden_value = true
+  }
+  boolean FlutteringApricotBenni {
+    _hidden_value = true
+  }
+  serviceid AnonymousBronzeKaralee {
+    _hidden_value = true
+  }
+  number ProudAmberBernadette {
+    _hidden_value = true
+  }
+  boolean VitalCrimsonLouise {
+    _hidden_value = true
+  }
+  boolean FilthyMoccasinMargo {
+    _hidden_value = true
+  }
+  string MinimumIndigoKylynn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HelpfulIvoryTilly {
+    _hidden_value = true
+  }
+  json RepulsiveBlackRosemarie {
+    _hidden_value = true
+  }
+  number PleasantEmeraldEvangelia {
+    _hidden_value = true
+  }
+  TypicalPinkEmmye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MadAmethystEden = "Why do birds fly south for the winter? Because it's too far to walk."
+  LittleJadePamella = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FlyingAzureZara = true
+  _hidden_value = true
+}

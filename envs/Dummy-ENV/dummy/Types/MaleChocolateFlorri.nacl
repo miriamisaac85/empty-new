@@ -1,0 +1,47 @@
+type dummy.MaleChocolateFlorri {
+  annotations {
+    json SolidMagentaRora {
+    }
+    number PremierBlackBibbye {
+    }
+    boolean ImpressedAzureRosella {
+    }
+    dummy.BizarreScarletKarrie BoredFuchsiaRasia {
+    }
+  }
+  boolean ReducedCyanInge {
+    _hidden_value = true
+  }
+  hidden_boolean OralBrownShauna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean WittyChocolateErminie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CuriousLavenderLeta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ArtificialCrimsonJohnna {
+    _hidden_value = true
+  }
+  string SoundTurquoiseFlora {
+    _hidden_value = true
+  }
+  boolean SubstantialAmberSarine {
+    _hidden_value = true
+  }
+  boolean AdverseOliveBilli {
+    _hidden_value = true
+  }
+  SolidMagentaRora = "Dad Im hungry  Hi hungry Im dad"
+  PremierBlackBibbye = 123
+  ImpressedAzureRosella = true
+  BoredFuchsiaRasia = 252
+  _hidden_value = true
+}

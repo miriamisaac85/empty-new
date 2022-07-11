@@ -1,0 +1,19 @@
+type dummy.LoudGreenWanids {
+  annotations {
+    number SoftCyanCheryl {
+    }
+    serviceid ComplexLavenderBobby {
+    }
+    hidden_boolean PleasedBlushDierdre {
+    }
+    number SuccessfulSilverNonnah {
+    }
+  }
+  string SeriousApricotEmmalyn {
+    _hidden_value = true
+  }
+  SoftCyanCheryl = 556
+  ComplexLavenderBobby = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SuccessfulSilverNonnah = 259
+  _hidden_value = true
+}

@@ -1,0 +1,64 @@
+type dummy.ShortTanMegen {
+  annotations {
+    dummy.BroadYellowBrit RottenIndigoSephira {
+    }
+    json MaleTomatoCoretta {
+    }
+    dummy.RulingBronzeKip DistinctPeachRafa {
+    }
+    serviceid InteriorBlushGlad {
+    }
+    string ToughFuchsiaCourtenay {
+    }
+    boolean EfficientAmaranthLudovika {
+    }
+    json FoolishBlueCoral {
+    }
+    serviceid ConservationScarletVanya {
+    }
+    number ToxicJadeKandace {
+    }
+    json SuperJadeTine {
+    }
+    string ElderlyAquamarineDaloris {
+    }
+    json SwiftMaroonMarcie {
+    }
+    dummy.RealMoccasinHermine MushyAmaranthMichele {
+    }
+    boolean BoilingCopperCyndie {
+    }
+    hidden_boolean WeeklyBrownJacquie {
+    }
+    json MassBeigeLorilyn {
+    }
+    string LivingOliveAnnalee {
+    }
+    serviceid AlrightSalmonLuise {
+    }
+    hidden_boolean ShyPeachLenna {
+    }
+    string JollyTurquoiseDelphinia {
+    }
+  }
+  MaleTomatoCoretta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InteriorBlushGlad = '''
+Im only familiar with 25 letters in the English language. I dont know why.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Why is Peter Pan always flying? Because he Neverlands.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+'''
+  ToughFuchsiaCourtenay = "Why did the tomato blush? Because it saw the salad dressing."
+  EfficientAmaranthLudovika = true
+  FoolishBlueCoral = "What do you call two barracuda fish?  A Pairacuda!"
+  ConservationScarletVanya = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ToxicJadeKandace = 885
+  SuperJadeTine = "Slept like a log last night  woke up in the fireplace."
+  ElderlyAquamarineDaloris = "What creature is smarter than a talking parrot? A spelling bee."
+  SwiftMaroonMarcie = "How come the stadium got hot after the game? Because all of the fans left."
+  BoilingCopperCyndie = false
+  MassBeigeLorilyn = "Did you know that protons have mass? I didn't even know they were catholic."
+  LivingOliveAnnalee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AlrightSalmonLuise = "A steak pun is a rare medium well done."
+  JollyTurquoiseDelphinia = "Why is Peter Pan always flying? Because he Neverlands."
+}

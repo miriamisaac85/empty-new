@@ -1,0 +1,41 @@
+type dummy.CostlyPurpleJasmina {
+  annotations {
+    string RepresentativePurpleKerrie {
+    }
+    boolean SpecifiedAzureRowe {
+    }
+    serviceid ExpectedMoccasinCthrine {
+    }
+    hidden_boolean EventualCrimsonAilis {
+    }
+  }
+  hidden_boolean VisitingGreenBrunhilde {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SleepyGreenTabby {
+    _hidden_value = true
+  }
+  string ChosenVioletSofie {
+    _hidden_value = true
+  }
+  serviceid OverwhelmingIndigoJannelle {
+    _hidden_value = true
+  }
+  serviceid WideVioletTerza {
+    _hidden_value = true
+  }
+  boolean LooseTealNadia {
+    _hidden_value = true
+  }
+  hidden_boolean MarineAmaranthHendrika {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  RepresentativePurpleKerrie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SpecifiedAzureRowe = false
+  ExpectedMoccasinCthrine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

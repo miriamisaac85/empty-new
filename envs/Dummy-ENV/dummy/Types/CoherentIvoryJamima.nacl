@@ -1,0 +1,57 @@
+type dummy.CoherentIvoryJamima {
+  annotations {
+    string PurpleIvoryDulsea {
+    }
+    json AgreeableOrangeAbigael {
+    }
+    serviceid BadLimeDasha {
+    }
+  }
+  hidden_boolean SpanishCopperGabriellia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BeautifulPlumBetsey {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number NursingGrayJacinta {
+    _hidden_value = true
+  }
+  serviceid SmoggyAquamarineMeghann {
+    _hidden_value = true
+  }
+  serviceid OkayCoralJessie {
+    _hidden_value = true
+  }
+  boolean EnergeticLimeRhonda {
+    _hidden_value = true
+  }
+  "List<serviceid>" VagueOliveRonica {
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa MagneticPinkMaren {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IdeologicalEmeraldRevkah {
+    _hidden_value = true
+  }
+  boolean ImpossibleChocolateFilia {
+    _hidden_value = true
+  }
+  json DifferentAmethystJacklyn {
+    _hidden_value = true
+  }
+  json RoughCyanDorri {
+    _hidden_value = true
+  }
+  json OrganicGrayMaris {
+    _hidden_value = true
+  }
+  PurpleIvoryDulsea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AgreeableOrangeAbigael = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BadLimeDasha = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

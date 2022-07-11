@@ -1,0 +1,37 @@
+type dummy.HeavyChocolateGenni {
+  annotations {
+    boolean SubtleGreenMichal {
+    }
+    string WealthyMaroonWilow {
+    }
+    serviceid Stripedgold2Davine {
+    }
+    serviceid TenderTomatoStephenie {
+    }
+    hidden_boolean PerfectAquamarineDorian {
+    }
+  }
+  json AwareCoralModesta {
+    _hidden_value = true
+  }
+  serviceid CrudeAquaRomonda {
+    _hidden_value = true
+  }
+  serviceid CalmSalmonOllie {
+    _hidden_value = true
+  }
+  string UniqueRoseNessie {
+    _hidden_value = true
+  }
+  boolean MoralLavenderDore {
+    _hidden_value = true
+  }
+  boolean CatholicSalmonKetty {
+    _hidden_value = true
+  }
+  SubtleGreenMichal = false
+  WealthyMaroonWilow = "Why did the tomato blush? Because it saw the salad dressing."
+  Stripedgold2Davine = "Whoever invented the knock-knock joke should get a no bell prize."
+  TenderTomatoStephenie = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

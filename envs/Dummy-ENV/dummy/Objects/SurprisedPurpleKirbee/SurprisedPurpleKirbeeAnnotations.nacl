@@ -1,0 +1,63 @@
+type dummy.SurprisedPurpleKirbee {
+  annotations {
+    json NobleLimeSuzy {
+    }
+    serviceid RapidBronzeNorean {
+    }
+    number BritishBeigeKerstin {
+    }
+    number WellJadeKimberly {
+    }
+    boolean KindVioletMichaeline {
+    }
+    boolean TenseChocolateCissy {
+    }
+    json BrokenOliveGiselle {
+    }
+    boolean AwfulJadeLeoline {
+    }
+    dummy.ContinuousCoffeeRae CentralTurquoiseJenny {
+    }
+    serviceid FriendlyPlumValry {
+    }
+    boolean SecondaryGreenModesty {
+    }
+    serviceid OrdinaryFuchsiaSib {
+    }
+    hidden_boolean LongRedDamita {
+    }
+    number DefeatedPlumLindsay {
+    }
+    number FastEmeraldEdna {
+    }
+    string IndirectMagentaBrunhilde {
+    }
+    dummy.LikelyLavenderBreena PrimitiveHarlequinFeliza {
+    }
+    serviceid ConcernedYellowLindsay {
+    }
+    string NuclearJadeConsuelo {
+    }
+    string WrongFuchsiaKylen {
+    }
+    hidden_boolean SillyBronzeDasie {
+    }
+  }
+  NobleLimeSuzy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RapidBronzeNorean = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BritishBeigeKerstin = 339
+  WellJadeKimberly = 914
+  KindVioletMichaeline = true
+  TenseChocolateCissy = true
+  BrokenOliveGiselle = "Why is Peter Pan always flying? Because he Neverlands."
+  AwfulJadeLeoline = false
+  FriendlyPlumValry = "Whoever invented the knock-knock joke should get a no bell prize."
+  SecondaryGreenModesty = true
+  OrdinaryFuchsiaSib = "Why do birds fly south for the winter? Because it's too far to walk."
+  DefeatedPlumLindsay = 544
+  FastEmeraldEdna = 819
+  IndirectMagentaBrunhilde = "Why was it called the dark ages? Because of all the knights. "
+  ConcernedYellowLindsay = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NuclearJadeConsuelo = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WrongFuchsiaKylen = "Slept like a log last night  woke up in the fireplace."
+}

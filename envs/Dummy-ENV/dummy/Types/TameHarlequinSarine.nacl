@@ -1,0 +1,39 @@
+type dummy.TameHarlequinSarine {
+  annotations {
+    json MysteriousTealDoreen {
+    }
+    number ElectricalPeachOdille {
+    }
+    hidden_boolean GreenBeigeDalia {
+    }
+    json EarlySilverMichaeline {
+    }
+    serviceid RainyJadeOttilie {
+    }
+  }
+  hidden_boolean CoolAzureGustie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PreliminaryBeigeMurielle {
+    _hidden_value = true
+  }
+  number ComparativeTomatoDamara {
+    _hidden_value = true
+  }
+  serviceid PlainChocolateSusannah {
+    _hidden_value = true
+  }
+  serviceid DifficultAmethystJerrilyn {
+    _hidden_value = true
+  }
+  boolean RegulatoryAmethystPage {
+    _hidden_value = true
+  }
+  MysteriousTealDoreen = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ElectricalPeachOdille = 555
+  EarlySilverMichaeline = "What do you call two barracuda fish?  A Pairacuda!"
+  RainyJadeOttilie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

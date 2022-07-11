@@ -1,0 +1,82 @@
+type dummy.FlyingAmberKaye {
+  annotations {
+    json LoudCrimsonPatrizia {
+    }
+    json FunctionalAquamarineCecilia {
+    }
+    string UncomfortablePlumVanna {
+    }
+    hidden_boolean VariousCopperAngelia {
+    }
+    number ProspectiveTomatoJuli {
+    }
+    serviceid TechnicalBlushCodi {
+    }
+    dummy.DEFAULT SecondaryMoccasinFilippa {
+    }
+    hidden_boolean MonthlyPurpleAlissa {
+    }
+  }
+  serviceid ComparativeBlushValery {
+    _hidden_value = true
+  }
+  boolean FastBrownAnne {
+    _hidden_value = true
+  }
+  hidden_boolean MolecularMagentaLissa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<string>" UnderlyingVioletClarey {
+    _hidden_value = true
+  }
+  number ResidentialHarlequinCoralyn {
+    _hidden_value = true
+  }
+  number Provincialgold2Maribelle {
+    _hidden_value = true
+  }
+  string InternationalFuchsiaMargaretta {
+    _hidden_value = true
+  }
+  boolean IdealAquaAdelind {
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeTurquoiseKasey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean UnexpectedPurpleAllene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SurvivingAmethystJacklin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number GiganticScarletWendy {
+    _hidden_value = true
+  }
+  number YoungTealTheressa {
+    _hidden_value = true
+  }
+  json RoughOrangeAnnissa {
+    _hidden_value = true
+  }
+  json PrincipalBronzeDionne {
+    _hidden_value = true
+  }
+  LoudCrimsonPatrizia = "Why do birds fly south for the winter? Because it's too far to walk."
+  FunctionalAquamarineCecilia = "Slept like a log last night  woke up in the fireplace."
+  UncomfortablePlumVanna = "What creature is smarter than a talking parrot? A spelling bee."
+  ProspectiveTomatoJuli = 234
+  TechnicalBlushCodi = "A steak pun is a rare medium well done."
+  SecondaryMoccasinFilippa = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.LowTomatoSadella {
+  annotations {
+    serviceid IndianBronzeAiley {
+    }
+    boolean AvailableTanAlica {
+    }
+    json ExcessGreenKirbee {
+    }
+    number OverwhelmingBrownTheresita {
+    }
+    string ElectricScarletJillayne {
+    }
+    dummy.Printedgold2Lauralee OpenEmeraldNanni {
+    }
+  }
+  json MidOrangeChristina {
+    _hidden_value = true
+  }
+  IndianBronzeAiley = "Why didnt the skeleton cross the road? Because he had no guts."
+  AvailableTanAlica = false
+  ExcessGreenKirbee = "Why is Peter Pan always flying? Because he Neverlands."
+  OverwhelmingBrownTheresita = 424
+  ElectricScarletJillayne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OpenEmeraldNanni = false
+  _hidden_value = true
+}

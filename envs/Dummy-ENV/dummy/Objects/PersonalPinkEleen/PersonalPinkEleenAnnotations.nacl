@@ -1,0 +1,45 @@
+type dummy.PersonalPinkEleen {
+  annotations {
+    dummy.MinimumIvoryFrankie RomanticYellowAnneliese {
+    }
+    dummy.DesirableScarletDelila NoisyBlushAnnamarie {
+    }
+    json CloseBlackBabara {
+    }
+    string OutstandingSalmonDorthea {
+    }
+    hidden_boolean ConcreteAmberLatrena {
+    }
+    boolean BlushingSilverDonielle {
+    }
+    dummy.CautiousAquamarineMorgan PleasantScarletCorrine {
+    }
+    dummy.Printedgold2Lauralee SafeOrangeJaney {
+    }
+    number SaltyAmethystShannah {
+    }
+    hidden_boolean HonCrimsonJehanna {
+    }
+    dummy.SportingBronzeIsahella SoreWhiteJemimah {
+    }
+    dummy.DigitalMaroonJany JuniorChocolateCrissie {
+    }
+    boolean UnfortunatePurpleBenedetta {
+    }
+    boolean ExtremeBlueAriel {
+    }
+    dummy.TameHarlequinSarine StructuralMagentaNonna {
+    }
+    boolean SevereTanMarris {
+    }
+  }
+  RomanticYellowAnneliese = false
+  CloseBlackBabara = "A steak pun is a rare medium well done."
+  OutstandingSalmonDorthea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BlushingSilverDonielle = false
+  SafeOrangeJaney = false
+  SaltyAmethystShannah = 810
+  UnfortunatePurpleBenedetta = false
+  ExtremeBlueAriel = true
+  SevereTanMarris = true
+}

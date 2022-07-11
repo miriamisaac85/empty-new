@@ -1,0 +1,52 @@
+type dummy.SourAquamarineLaurella {
+  annotations {
+    number WorthySilverRosalinde {
+    }
+    dummy.VoluntaryBlushSonja ArrogantTanEllissa {
+    }
+    boolean AnxiousCoralRoseanna {
+    }
+    string SelectivePurpleKora {
+    }
+    hidden_boolean ArmedRoseSabina {
+    }
+    string DepressedBronzeSibel {
+    }
+  }
+  hidden_boolean DynamicAmethystVickie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number BrownTurquoiseBert {
+    _hidden_value = true
+  }
+  boolean ElectricMaroonStarlin {
+    _hidden_value = true
+  }
+  hidden_boolean MuddySalmonSibley {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SingleIvoryTova {
+    _hidden_value = true
+  }
+  json ProgressiveTealLindi {
+    _hidden_value = true
+  }
+  boolean IndividualFuchsiaCesya {
+    _hidden_value = true
+  }
+  hidden_boolean Seniorgold2Heda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  WorthySilverRosalinde = 891
+  ArrogantTanEllissa = true
+  AnxiousCoralRoseanna = false
+  SelectivePurpleKora = "I'll tell you what often gets over looked... garden fences."
+  DepressedBronzeSibel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

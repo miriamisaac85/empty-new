@@ -1,0 +1,45 @@
+type dummy.IndianVioletDdene {
+  annotations {
+    hidden_boolean LovelyBlueJanaye {
+    }
+    hidden_boolean SkinnyScarletIvy {
+    }
+    dummy.DeliberateMaroonGabbey AliveGreenJanina {
+    }
+    string Honestgold2Tarrah {
+    }
+  }
+  string DemocraticIvoryGalina {
+    _hidden_value = true
+  }
+  boolean InvisibleGreenFayette {
+    _hidden_value = true
+  }
+  json Frailgold2Violante {
+    _hidden_value = true
+  }
+  number CombinedFuchsiaArlana {
+    _hidden_value = true
+  }
+  boolean BoldIndigoAnnissa {
+    _hidden_value = true
+  }
+  "List<json>" ExpensivePeachElsinore {
+    _hidden_value = true
+  }
+  boolean InsufficientGrayCyndy {
+    _hidden_value = true
+  }
+  json PermanentBlackLoree {
+    _hidden_value = true
+  }
+  string SoftPlumLauralee {
+    _hidden_value = true
+  }
+  boolean LikePeachNonie {
+    _hidden_value = true
+  }
+  AliveGreenJanina = 242
+  Honestgold2Tarrah = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

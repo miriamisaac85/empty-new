@@ -1,0 +1,101 @@
+type dummy.BritishBeigeEadith {
+  annotations {
+    number BrownTanRuthe {
+    }
+    number RightSalmonKerrin {
+    }
+    number Innocentgold2Lulu {
+    }
+    string FrozenAmberMalinde {
+    }
+    boolean ConfidentTealAnnadiana {
+    }
+    serviceid AncientBlueDorrie {
+    }
+  }
+  boolean ExoticMaroonWinonah {
+    _hidden_value = true
+  }
+  boolean StrongBrownLucinda {
+    _hidden_value = true
+  }
+  serviceid BluePurpleNeila {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyBlueEzmeralda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json VocationalGrayMisha {
+    _hidden_value = true
+  }
+  boolean StrategicAmethystLeeann {
+    _hidden_value = true
+  }
+  boolean BreezyWhiteJosee {
+    _hidden_value = true
+  }
+  number FaithfulBlueAlyss {
+    _hidden_value = true
+  }
+  "List<string>" EmptyCoffeeJilly {
+    _hidden_value = true
+  }
+  number ShyAquamarineTwila {
+    _hidden_value = true
+  }
+  json SpiritualPeachPatty {
+    _hidden_value = true
+  }
+  boolean TinyBlushCharleen {
+    _hidden_value = true
+  }
+  hidden_boolean UncomfortableApricotMela {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ScornfulApricotAdria {
+    _hidden_value = true
+  }
+  serviceid NuttyCoralLoree {
+    _hidden_value = true
+  }
+  json QuickestSilverGates {
+    _hidden_value = true
+  }
+  hidden_boolean AwkwardAmethystShirlene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid WillingCoffeeEthyl {
+    _hidden_value = true
+  }
+  boolean CrudeCrimsonGweneth {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DecentBlushBerty {
+    _hidden_value = true
+  }
+  "Map<string>" TraditionalAquamarinePauline {
+    _hidden_value = true
+  }
+  json RespectableLavenderSheelah {
+    _hidden_value = true
+  }
+  number FundamentalCoffeeJoice {
+    _hidden_value = true
+  }
+  number LeadingAmethystElianore {
+    _hidden_value = true
+  }
+  BrownTanRuthe = 791
+  RightSalmonKerrin = 560
+  Innocentgold2Lulu = 825
+  FrozenAmberMalinde = "Im only familiar with 25 letters in the English language. I dont know why."
+  ConfidentTealAnnadiana = true
+  AncientBlueDorrie = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

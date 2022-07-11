@@ -1,0 +1,63 @@
+type dummy.AncientCyanShawnee {
+  annotations {
+    json ColossalGreenCecile {
+    }
+    dummy.SubjectiveAmethystBel TheoreticalAzureSada {
+    }
+    hidden_boolean GlamorousHarlequinDoralynne {
+    }
+    serviceid Rainygold2Denny {
+    }
+    hidden_boolean UnhappyTomatoImelda {
+    }
+  }
+  boolean PolitePlumSallie {
+    _hidden_value = true
+  }
+  json WideBlackMercedes {
+    _hidden_value = true
+  }
+  json ManagingBronzeRonda {
+    _hidden_value = true
+  }
+  "List<json>" SecondaryAmaranthHelaina {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea ProspectiveBrownPatrice {
+    MinorPinkAriadne = "Why is Peter Pan always flying? Because he Neverlands."
+    ChubbyRoseConstancia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ImmenseTurquoiseNita = "I'll tell you what often gets over looked... garden fences."
+    FluffyYellowMarybelle = false
+    PainfulPlumRomy = 159
+    CompleteSapphireTeressa = true
+    HungryTomatoCarmelita = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FluffyPurpleRoselin = "What creature is smarter than a talking parrot? A spelling bee."
+    IdealVioletKania = "What creature is smarter than a talking parrot? A spelling bee."
+    HomelessPurpleJane = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SkilledAquaTammara = "I'll tell you what often gets over looked... garden fences."
+    PeculiarAmethystBethanne = 358
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    LinearBlueGilli = "Slept like a log last night  woke up in the fireplace."
+    AssociatedCrimsonDreddy = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" HumanAquaCorilla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string TightWhiteRosemary {
+    _hidden_value = true
+  }
+  number VocationalIndigoGwenore {
+    _hidden_value = true
+  }
+  boolean PsychologicalMaroonAllison {
+    _hidden_value = true
+  }
+  ColossalGreenCecile = "To be Frank, I'd have to change my name."
+  TheoreticalAzureSada = 845
+  Rainygold2Denny = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

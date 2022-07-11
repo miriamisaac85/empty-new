@@ -1,0 +1,41 @@
+type dummy.BroadYellowBrit {
+  annotations {
+    serviceid NastyHarlequinRycca {
+    }
+    boolean TinyCoralMerrili {
+    }
+    dummy.OrthodoxEmeraldFelicity YummyVioletRianon {
+    }
+    serviceid ObviousIvoryIna {
+    }
+    hidden_boolean ArbitrarySapphireOttilie {
+    }
+  }
+  hidden_boolean AllegedMaroonStarla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DullMaroonCarree {
+    _hidden_value = true
+  }
+  hidden_boolean AliveAmaranthSallee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SleepyCopperSheela {
+    _hidden_value = true
+  }
+  serviceid LostAmaranthVirginia {
+    _hidden_value = true
+  }
+  serviceid RetiredPinkSiana {
+    _hidden_value = true
+  }
+  NastyHarlequinRycca = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TinyCoralMerrili = false
+  YummyVioletRianon = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ObviousIvoryIna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

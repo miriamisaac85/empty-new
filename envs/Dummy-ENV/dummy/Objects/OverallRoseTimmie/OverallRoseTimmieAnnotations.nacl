@@ -1,0 +1,56 @@
+type dummy.OverallRoseTimmie {
+  annotations {
+    string InnocentLimeBiddie {
+    }
+    number MarineGreenLynn {
+    }
+    number ParallelPinkFina {
+    }
+    number RelevantCyanElsie {
+    }
+    number AncientCyanLola {
+    }
+    number AssistantAmethystGenni {
+    }
+    json AfricanPinkNatalina {
+    }
+    hidden_boolean ExtensiveSapphireAdriana {
+    }
+    string TastelessCrimsonCrin {
+    }
+    boolean LonelyPinkToni {
+    }
+    dummy.ShallowSalmonAdelaide JoyousVioletGretel {
+    }
+    json StructuralBlueZoe {
+    }
+    boolean NoisyIndigoDodi {
+    }
+    number SoundMaroonKoren {
+    }
+    serviceid WonderfulWhiteSalomi {
+    }
+    boolean GentleSapphireLela {
+    }
+    dummy.QuietAmaranthTeena DisastrousBeigeMarcelia {
+    }
+    number RuralAzureCaria {
+    }
+  }
+  InnocentLimeBiddie = "What creature is smarter than a talking parrot? A spelling bee."
+  MarineGreenLynn = 898
+  ParallelPinkFina = 60
+  RelevantCyanElsie = 317
+  AncientCyanLola = 914
+  AssistantAmethystGenni = 165
+  AfricanPinkNatalina = "Slept like a log last night  woke up in the fireplace."
+  TastelessCrimsonCrin = "A steak pun is a rare medium well done."
+  LonelyPinkToni = true
+  JoyousVioletGretel = file("PsychiatricCyanHettie.txt")
+  StructuralBlueZoe = "Why do birds fly south for the winter? Because it's too far to walk."
+  NoisyIndigoDodi = false
+  SoundMaroonKoren = 801
+  WonderfulWhiteSalomi = "Why did the kid cross the playground? To get to the other slide."
+  GentleSapphireLela = true
+  RuralAzureCaria = 998
+}

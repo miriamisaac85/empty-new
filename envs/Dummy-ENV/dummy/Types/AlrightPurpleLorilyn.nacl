@@ -1,0 +1,71 @@
+type dummy.AlrightPurpleLorilyn {
+  annotations {
+    dummy.DEFAULT SharpCoralRosmunda {
+    }
+    number PsychologicalApricotAshien {
+    }
+    string ElaborateTealRomola {
+    }
+    string PureAquamarineCally {
+    }
+    boolean LargeMaroonMelloney {
+    }
+  }
+  json CreativeAmberCorie {
+    _hidden_value = true
+  }
+  hidden_boolean NumerousPinkRani {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean TeenageSilverValene {
+    _hidden_value = true
+  }
+  number WickedWhiteDorrie {
+    _hidden_value = true
+  }
+  hidden_boolean ToryIvoryRodi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ConcernedCoffeeValida {
+    _hidden_value = true
+  }
+  string UnhappyBronzeBrittan {
+    _hidden_value = true
+  }
+  serviceid InformalPurpleReba {
+    _hidden_value = true
+  }
+  dummy.NutritiousCoralDania ImmenseVioletVioletta {
+    _hidden_value = true
+  }
+  boolean ToxicVioletMarty {
+    _hidden_value = true
+  }
+  number MarginalGreenMarleah {
+    _hidden_value = true
+  }
+  boolean RequiredTealMarijo {
+    _hidden_value = true
+  }
+  string StrangeIndigoHarlie {
+    _hidden_value = true
+  }
+  number Actualgold2Cathrine {
+    _hidden_value = true
+  }
+  string NaughtyGrayArlee {
+    _hidden_value = true
+  }
+  SharpCoralRosmunda = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  PsychologicalApricotAshien = 236
+  ElaborateTealRomola = "Why was it called the dark ages? Because of all the knights. "
+  PureAquamarineCally = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LargeMaroonMelloney = false
+  _hidden_value = true
+}

@@ -1,0 +1,48 @@
+type dummy.NearLimeKimberlyn {
+  annotations {
+    dummy.DEFAULT EuropeanIvoryShaylyn {
+    }
+    string MagneticBronzeBrittan {
+    }
+    boolean ActualOliveBetteanne {
+    }
+    hidden_boolean EncouragingCoralIssy {
+    }
+    hidden_boolean UncertainTurquoiseJenna {
+    }
+    string BrilliantWhiteKelly {
+    }
+  }
+  hidden_boolean FilthyAzureFifi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string PoliticalTealOdelinda {
+    _hidden_value = true
+  }
+  number HurtGreenPhilly {
+    _hidden_value = true
+  }
+  boolean CrucialIndigoElsy {
+    _hidden_value = true
+  }
+  serviceid SecondaryEmeraldMallissa {
+    _hidden_value = true
+  }
+  boolean SteepChocolateBella {
+    _hidden_value = true
+  }
+  hidden_boolean RedCoffeeMagdalene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  EuropeanIvoryShaylyn = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  MagneticBronzeBrittan = "Why is Peter Pan always flying? Because he Neverlands."
+  ActualOliveBetteanne = true
+  BrilliantWhiteKelly = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

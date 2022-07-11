@@ -1,0 +1,25 @@
+type dummy.WoodenMaroonUlrika {
+  annotations {
+    number AppropriateMagentaEsmaria {
+    }
+    number Faintgold2Nance {
+    }
+    serviceid LivelyBronzeManon {
+    }
+    json BlondeTealGlenine {
+    }
+    boolean MedievalAquaMimi {
+    }
+  }
+  hidden_boolean WanderingCrimsonJosy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  AppropriateMagentaEsmaria = 196
+  Faintgold2Nance = 898
+  LivelyBronzeManon = "A steak pun is a rare medium well done."
+  BlondeTealGlenine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MedievalAquaMimi = false
+  _hidden_value = true
+}

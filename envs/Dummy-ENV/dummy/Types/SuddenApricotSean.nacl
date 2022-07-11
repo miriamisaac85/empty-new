@@ -1,0 +1,67 @@
+type dummy.SuddenApricotSean {
+  annotations {
+    number DamagedBlushNikki {
+    }
+    serviceid HotBlueMary {
+    }
+    number ChangingRoseMargo {
+    }
+    string SuccessivePeachTeresina {
+    }
+    number PrettyRoseReggi {
+    }
+  }
+  number CombativeSalmonDoreen {
+    _hidden_value = true
+  }
+  hidden_boolean ItalianAmaranthKarissa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean PeacefulFuchsiaAnjela {
+    _hidden_value = true
+  }
+  string AfricanAzureAnabella {
+    _hidden_value = true
+  }
+  json SunnyBlushRoxi {
+    _hidden_value = true
+  }
+  number ColdEmeraldGail {
+    _hidden_value = true
+  }
+  dummy.SubjectiveAmethystBel PrincipalWhiteGermana {
+    BadBronzeKristel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ComingChocolateCharmane = "My first time using an elevator was an uplifting experience. The second time let me down."
+    BlueIvoryHollie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  dummy.DEFAULT SolidEmeraldFrances {
+    _hidden_value = true
+  }
+  boolean RealEmeraldScarlett {
+    _hidden_value = true
+  }
+  boolean MusicalEmeraldLaurice {
+    _hidden_value = true
+  }
+  number AnnualIvoryNat {
+    _hidden_value = true
+  }
+  serviceid LovelyRedDeidre {
+    _hidden_value = true
+  }
+  boolean SmallPurpleRanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreekHarlequinQuerida {
+    _hidden_value = true
+  }
+  DamagedBlushNikki = 568
+  HotBlueMary = "Why didnt the skeleton cross the road? Because he had no guts."
+  ChangingRoseMargo = 977
+  SuccessivePeachTeresina = "I'll tell you what often gets over looked... garden fences."
+  PrettyRoseReggi = 527
+  _hidden_value = true
+}

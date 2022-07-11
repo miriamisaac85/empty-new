@@ -1,0 +1,116 @@
+type dummy.Greengold2Lelah {
+  annotations {
+    boolean GrubbySilverNanci {
+    }
+    hidden_boolean ScrawnyScarletNicoline {
+    }
+    dummy.DEFAULT IndependentGreenBarbara {
+    }
+    serviceid IndianBrownAlayne {
+    }
+    number ParliamentaryScarletErnestine {
+    }
+  }
+  number GrowingAmberTiphani {
+    _hidden_value = true
+  }
+  boolean TerribleVioletHarriot {
+    _hidden_value = true
+  }
+  hidden_boolean ExcitedTanMariann {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine ImmenseVioletMartina {
+    ContentAzureLindsay = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FellowVioletSapphire = "Slept like a log last night  woke up in the fireplace."
+    LittleCrimsonRosina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DeafeningCyanCassandry = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  hidden_boolean NumerousEmeraldSindee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FrequentPurpleSheelah {
+    _hidden_value = true
+  }
+  "List<boolean>" EmotionalAmaranthLaurella {
+    _hidden_value = true
+  }
+  number PracticalScarletSabina {
+    _hidden_value = true
+  }
+  hidden_boolean RealisticBeigeLenore {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SeriousHarlequinShayne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string GenerousEmeraldCatherin {
+    _hidden_value = true
+  }
+  string GentleCrimsonClementina {
+    _hidden_value = true
+  }
+  string NumerousLavenderMarleen {
+    _hidden_value = true
+  }
+  string NorthernIvoryJanie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CooperativeAmberEba {
+    _hidden_value = true
+  }
+  number EfficientBrownJerrylee {
+    _hidden_value = true
+  }
+  boolean MentalTanDenise {
+    _hidden_value = true
+  }
+  serviceid TenderOliveLilly {
+    _hidden_value = true
+  }
+  serviceid BrokenTurquoiseTiffi {
+    _hidden_value = true
+  }
+  hidden_boolean ExcessivePurpleBea {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number MetropolitanPurpleAlena {
+    _hidden_value = true
+  }
+  string Securegold2Cristina {
+    _hidden_value = true
+  }
+  json StupidSilverViola {
+    _hidden_value = true
+  }
+  number HarshOliveAlyse {
+    _hidden_value = true
+  }
+  string UndergroundAquaLindsey {
+    _hidden_value = true
+  }
+  boolean SubtlePlumJosee {
+    _hidden_value = true
+  }
+  json MaleCrimsonSashenka {
+    _hidden_value = true
+  }
+  GrubbySilverNanci = false
+  IndependentGreenBarbara = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  IndianBrownAlayne = "Why was it called the dark ages? Because of all the knights. "
+  ParliamentaryScarletErnestine = 756
+  _hidden_value = true
+}

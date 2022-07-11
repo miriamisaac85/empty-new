@@ -1,0 +1,20 @@
+type dummy.BitterAzureHalley {
+  annotations {
+    string NarrowMagentaLeonie {
+    }
+    json ShinyChocolateMargaret {
+    }
+    serviceid GloriousTanBea {
+    }
+    serviceid UnwillingAquaJami {
+    }
+  }
+  boolean IndividualPlumDina {
+    _hidden_value = true
+  }
+  NarrowMagentaLeonie = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShinyChocolateMargaret = "What do you call two barracuda fish?  A Pairacuda!"
+  GloriousTanBea = "How come the stadium got hot after the game? Because all of the fans left."
+  UnwillingAquaJami = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

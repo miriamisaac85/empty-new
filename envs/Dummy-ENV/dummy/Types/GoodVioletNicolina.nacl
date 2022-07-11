@@ -1,0 +1,25 @@
+type dummy.GoodVioletNicolina {
+  annotations {
+    boolean VictoriousAmberFedora {
+    }
+    string SharedPlumEugenia {
+    }
+    boolean UglyCrimsonGale {
+    }
+    json EarlySilverAnthe {
+    }
+  }
+  hidden_boolean FilthyBrownShannon {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MilitaryRedRobinet {
+    _hidden_value = true
+  }
+  VictoriousAmberFedora = true
+  SharedPlumEugenia = "What do you call two barracuda fish?  A Pairacuda!"
+  UglyCrimsonGale = false
+  EarlySilverAnthe = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

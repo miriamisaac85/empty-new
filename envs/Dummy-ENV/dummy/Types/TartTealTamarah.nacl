@@ -1,0 +1,82 @@
+type dummy.TartTealTamarah {
+  annotations {
+    boolean DeterminedYellowKellsie {
+    }
+    serviceid TastyRedDaisi {
+    }
+    boolean SuperSapphireJuliette {
+    }
+    serviceid ActualHarlequinJaneen {
+    }
+  }
+  string LocalYellowAnabella {
+    _hidden_value = true
+  }
+  string ConstantChocolateSosanna {
+    _hidden_value = true
+  }
+  serviceid BetterIndigoAsia {
+    _hidden_value = true
+  }
+  string ExcessiveAmethystBev {
+    _hidden_value = true
+  }
+  boolean LinearMagentaKaylil {
+    _hidden_value = true
+  }
+  number AssistantPurpleDanit {
+    _hidden_value = true
+  }
+  boolean KeyOliveAtlanta {
+    _hidden_value = true
+  }
+  hidden_boolean LooseAmethystMargery {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string WearyIvoryKarlee {
+    _hidden_value = true
+  }
+  string SharpSalmonEaster {
+    _hidden_value = true
+  }
+  number DevelopedBlueSheelah {
+    _hidden_value = true
+  }
+  json CoolAmethystCathie {
+    _hidden_value = true
+  }
+  serviceid ObligedFuchsiaMarjie {
+    _hidden_value = true
+  }
+  serviceid JewishSalmonEricha {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyBlushJilly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SuitableJadeMonika {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean VoluntarySapphireDaryl {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MechanicalOliveRebeka {
+    _hidden_value = true
+  }
+  serviceid StableBeigeFae {
+    _hidden_value = true
+  }
+  DeterminedYellowKellsie = true
+  TastyRedDaisi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SuperSapphireJuliette = false
+  ActualHarlequinJaneen = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

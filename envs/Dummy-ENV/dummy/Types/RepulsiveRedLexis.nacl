@@ -1,0 +1,76 @@
+type dummy.RepulsiveRedLexis {
+  annotations {
+    number ControversialBrownVivian {
+    }
+    hidden_boolean DustyBlueMarinna {
+    }
+    dummy.DEFAULT DoubtfulBlueGodiva {
+    }
+    string ExternalAzureFelecia {
+    }
+    serviceid OfficialLavenderLuella {
+    }
+    number ExtensiveTealRobinia {
+    }
+  }
+  serviceid FaintEmeraldSharai {
+    _hidden_value = true
+  }
+  json OrthodoxGrayChristel {
+    _hidden_value = true
+  }
+  string ImprovedBeigeWilhelmina {
+    _hidden_value = true
+  }
+  json SpatialBlackAlessandra {
+    _hidden_value = true
+  }
+  json TheoreticalMaroonLinda {
+    _hidden_value = true
+  }
+  number DifficultTanIvie {
+    _hidden_value = true
+  }
+  serviceid FewGrayShirleen {
+    _hidden_value = true
+  }
+  json FunnySilverSerena {
+    _hidden_value = true
+  }
+  number ColossalBeigeEran {
+    _hidden_value = true
+  }
+  string FrozenAzureAlbertina {
+    _hidden_value = true
+  }
+  hidden_boolean ShortSalmonCharita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean StaticCoralMichell {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number EerieApricotGwendolen {
+    _hidden_value = true
+  }
+  string AdjacentLimeNoelani {
+    _hidden_value = true
+  }
+  string ShrillBrownStephie {
+    _hidden_value = true
+  }
+  string EntitledOliveDonielle {
+    _hidden_value = true
+  }
+  ControversialBrownVivian = 414
+  DoubtfulBlueGodiva = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ExternalAzureFelecia = "Why did the kid cross the playground? To get to the other slide."
+  OfficialLavenderLuella = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ExtensiveTealRobinia = 514
+  _hidden_value = true
+}

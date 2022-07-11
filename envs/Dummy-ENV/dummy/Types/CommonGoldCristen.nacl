@@ -1,0 +1,26 @@
+type dummy.Commongold2Cristen {
+  annotations {
+    json FaithfulTomatoBevvy {
+    }
+    number SoleBlushChiarra {
+    }
+    json BadYellowSonnie {
+    }
+    number ConfidentPlumRoanne {
+    }
+    number MysteriousJadeLeisha {
+    }
+  }
+  json WeeGreenKora {
+    _hidden_value = true
+  }
+  number CautiousCopperNadeen {
+    _hidden_value = true
+  }
+  FaithfulTomatoBevvy = "A steak pun is a rare medium well done."
+  SoleBlushChiarra = 618
+  BadYellowSonnie = "Why was it called the dark ages? Because of all the knights. "
+  ConfidentPlumRoanne = 501
+  MysteriousJadeLeisha = 887
+  _hidden_value = true
+}

@@ -1,0 +1,51 @@
+type dummy.FatBrownQuinta {
+  annotations {
+    dummy.DEFAULT WeeTomatoWilie {
+    }
+    hidden_boolean CalmBlushGwenneth {
+    }
+    serviceid RespectableOliveLiuka {
+    }
+    hidden_boolean TraditionalEmeraldNina {
+    }
+    dummy.HumanAzureReeba SkinnyTanMarybeth {
+    }
+  }
+  json UselessTanKaye {
+    _hidden_value = true
+  }
+  boolean OperationalAmberPhilis {
+    _hidden_value = true
+  }
+  serviceid PreviousIndigoBernadina {
+    _hidden_value = true
+  }
+  serviceid ProminentMagentaMaxie {
+    _hidden_value = true
+  }
+  json FemaleAmberGillan {
+    _hidden_value = true
+  }
+  hidden_boolean OrthodoxBlackFerdinanda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SmoggyBeigeXaviera {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CalmYellowLurleen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FavourableAquaIrena {
+    _hidden_value = true
+  }
+  WeeTomatoWilie = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  RespectableOliveLiuka = "Why didnt the skeleton cross the road? Because he had no guts."
+  SkinnyTanMarybeth = true
+  _hidden_value = true
+}

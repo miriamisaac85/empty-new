@@ -1,0 +1,65 @@
+type dummy.WholeTomatoTiffany {
+  hidden_boolean ExtensiveApricotKirsteni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ShallowRoseHannie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DemocraticBlueJemmy {
+  }
+  json DevelopingTanCarmencita {
+  }
+  dummy.UglyBlushKaterine PaleRoseHalli {
+    StaleLavenderBobine = false
+    ProductivePlumJsandye = "What do you call two barracuda fish?  A Pairacuda!"
+    DirtyEmeraldBinni = 8
+    OpenTurquoiseGreer = "Why was it called the dark ages? Because of all the knights. "
+    HilariousAzureAnnamarie = true
+    CasualIndigoGiana = "Dad Im hungry  Hi hungry Im dad"
+    InvisibleTomatoDeanna = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+  }
+  dummy.AfraidAquaFawn DeafeningEmeraldPavia {
+    WideJadeWynny = 360
+    ColdOrangeCamel = "Why didnt the skeleton cross the road? Because he had no guts."
+    DesperateAquamarineBrandea = 641
+    DecentCoralAnthia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    HelplessAquaSharline = "Im only familiar with 25 letters in the English language. I dont know why."
+    DyingTurquoisePage = 897
+    AfraidBrownFawnia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PositivePinkFerdinande = 56
+    IncredibleOliveLeila = "Why do birds fly south for the winter? Because it's too far to walk."
+    FlutteringPlumLydia = 643
+    ArrogantBlueMilena = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ElegantBeigeFran = "Why did the kid cross the playground? To get to the other slide."
+  }
+  "List<boolean>" CollectiveAquamarineAdaline {
+  }
+  number AbleTomatoEssy {
+  }
+  boolean Mammothgold2Odessa {
+  }
+  json SorryPinkFerne {
+  }
+  string CrowdedBrownSascha {
+  }
+  json MadCopperSerena {
+  }
+  json StatutoryPurpleFranni {
+  }
+  dummy.DeterminedChocolateSonia ContinuingGrayToinette {
+    SymbolicPurplePatti = true
+    LowScarletJanie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BrokenMaroonIngrid = true
+    PlannedBeigeJennifer = "What creature is smarter than a talking parrot? A spelling bee."
+    WholeBlackJennee = "What creature is smarter than a talking parrot? A spelling bee."
+    SheerBronzeFlore = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+}

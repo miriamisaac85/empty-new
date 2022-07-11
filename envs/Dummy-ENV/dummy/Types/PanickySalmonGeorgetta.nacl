@@ -1,0 +1,111 @@
+type dummy.PanickySalmonGeorgetta {
+  annotations {
+    boolean LongBrownMarcia {
+    }
+    number DramaticLavenderKetti {
+    }
+    json AnnoyedLavenderShanna {
+    }
+    number IntermediateMagentaLibbie {
+    }
+    boolean EquivalentPinkVerine {
+    }
+    json HomelessScarletConni {
+    }
+    number DevelopingIvoryUlla {
+    }
+  }
+  serviceid FreshCoralHeather {
+    _hidden_value = true
+  }
+  number GenuineScarletNeala {
+    _hidden_value = true
+  }
+  dummy.VoluntaryBlushSonja SeniorRoseRivy {
+    CoolAmberOfelia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    OrthodoxYellowVally = 140
+    AfricanPinkSteffane = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    HelpfulLavenderErna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DualMaroonRosmunda = 503
+    InternationalMaroonKaia = "How come the stadium got hot after the game? Because all of the fans left."
+    ObligedMoccasinAtlante = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    IntelligentAmaranthKarine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  string ChemicalCopperSonni {
+    _hidden_value = true
+  }
+  json CuriousBrownAntonina {
+    _hidden_value = true
+  }
+  serviceid HorizontalCoralTommi {
+    _hidden_value = true
+  }
+  number ItchyApricotJoanne {
+    _hidden_value = true
+  }
+  json LostAmaranthLatrena {
+    _hidden_value = true
+  }
+  hidden_boolean ExactSapphireBarbra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SleepyMoccasinCamella {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<number>" ImportantCopperDella {
+    _hidden_value = true
+  }
+  json SurprisedCoffeeBryana {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPeachHedda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RelevantYellowMaible {
+    _hidden_value = true
+  }
+  boolean UniqueAquaEmelia {
+    _hidden_value = true
+  }
+  serviceid PresentIndigoPaloma {
+    _hidden_value = true
+  }
+  boolean ConcernedLavenderGretel {
+    _hidden_value = true
+  }
+  number GrievingRedJoeann {
+    _hidden_value = true
+  }
+  string CrookedOliveKathrine {
+    _hidden_value = true
+  }
+  number ProductivePurpleJanna {
+    _hidden_value = true
+  }
+  number SatisfactoryAmberNorah {
+    _hidden_value = true
+  }
+  serviceid DeadVioletGenia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VisibleLimeKaycee {
+    _hidden_value = true
+  }
+  LongBrownMarcia = false
+  DramaticLavenderKetti = 631
+  AnnoyedLavenderShanna = "Why did the kid cross the playground? To get to the other slide."
+  IntermediateMagentaLibbie = 438
+  EquivalentPinkVerine = true
+  HomelessScarletConni = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DevelopingIvoryUlla = 643
+  _hidden_value = true
+}

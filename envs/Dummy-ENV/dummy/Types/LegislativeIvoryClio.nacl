@@ -1,0 +1,114 @@
+type dummy.LegislativeIvoryClio {
+  annotations {
+    number ChubbyPeachDotti {
+    }
+    string ElegantYellowJayne {
+    }
+    hidden_boolean LittleTomatoRandi {
+    }
+    hidden_boolean KeyAquaLeone {
+    }
+    json PopularCyanCarlota {
+    }
+  }
+  json SuitableMaroonMamie {
+    _hidden_value = true
+  }
+  hidden_boolean BloodyApricotJaneva {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HandsomeCoffeeRenie {
+    _hidden_value = true
+  }
+  number InterimCrimsonJoey {
+    _hidden_value = true
+  }
+  json AshamedFuchsiaColly {
+    _hidden_value = true
+  }
+  serviceid ComparableLavenderSaba {
+    _hidden_value = true
+  }
+  serviceid TropicalScarletCora {
+    _hidden_value = true
+  }
+  number WetPurpleAmalia {
+    _hidden_value = true
+  }
+  number TerribleBlackAugustine {
+    _hidden_value = true
+  }
+  serviceid UnfairBrownLetty {
+    _hidden_value = true
+  }
+  string RollingBronzeJennee {
+    _hidden_value = true
+  }
+  number LesserScarletPaula {
+    _hidden_value = true
+  }
+  number DullCrimsonFlora {
+    _hidden_value = true
+  }
+  boolean BalancedCopperPrudence {
+    _hidden_value = true
+  }
+  string RadicalHarlequinMargaux {
+    _hidden_value = true
+  }
+  serviceid FamousHarlequinAlyse {
+    _hidden_value = true
+  }
+  dummy.InlandGreenSarene PastVioletKatti {
+    DullSapphireMeredith = "Why do birds fly south for the winter? Because it's too far to walk."
+    RealisticOliveMarinna = 86
+    TroubledIndigoWinnie = 614
+    CrazyBlackNeille = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PassingCyanHeida = "Why do birds fly south for the winter? Because it's too far to walk."
+    Politicalgold2Mozelle = "Why is Peter Pan always flying? Because he Neverlands."
+    GreatBronzeEttie = 426
+    CloseRedClarine = 109
+    _hidden_value = true
+  }
+  number NutritiousAmaranthFelita {
+    _hidden_value = true
+  }
+  dummy.EntireBrownJacki SmallRedStephenie {
+    gold2enWhiteKarin = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UgliestPeachMerla = 785
+    CoolCoralAtlante = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    LiteraryPeachMilzie = 452
+    PregnantPinkRobbie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AcuteBrownMaryellen = "What creature is smarter than a talking parrot? A spelling bee."
+    MisleadingCoffeeHarriette = "How come the stadium got hot after the game? Because all of the fans left."
+    ModernBronzeGilli = 175
+    ElaborateMoccasinArdis = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ComprehensiveSilverDanette = true
+    JustMagentaDevina = true
+    UnexpectedMoccasinRene = 699
+    CulturalRoseElora = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CanadianAmberDoe = 529
+    IntelligentTomatoConstancy = "To be Frank, I'd have to change my name."
+    InappropriateGrayCourtney = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RivalAquamarineGerda = "Slept like a log last night  woke up in the fireplace."
+    PatientFuchsiaMatelda = false
+    _hidden_value = true
+  }
+  json AdministrativeAzureLeora {
+    _hidden_value = true
+  }
+  hidden_boolean AbleOliveMichaella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SecretJadeVirginie {
+    _hidden_value = true
+  }
+  ChubbyPeachDotti = 648
+  ElegantYellowJayne = "Why is Peter Pan always flying? Because he Neverlands."
+  PopularCyanCarlota = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

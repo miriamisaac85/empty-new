@@ -1,0 +1,64 @@
+type dummy.BraveVioletMarja {
+  annotations {
+    json SuddenBlueMair {
+    }
+    string PsychiatricPeachThomasin {
+    }
+    number DifficultVioletBeret {
+    }
+    json YoungChocolateNike {
+    }
+    string ThickMaroonRenate {
+    }
+    serviceid RoundBeigeValeda {
+    }
+    serviceid ViolentScarletBrittney {
+    }
+    hidden_boolean UniformScarletAngeline {
+    }
+    serviceid ParliamentaryCrimsonTandie {
+    }
+    dummy.MainGrayNathalia VariableSilverCalley {
+    }
+    string Largegold2Estel {
+    }
+    hidden_boolean OralPurpleKimmie {
+    }
+    boolean MobileAquaAdela {
+    }
+    hidden_boolean HurtTealAvivah {
+    }
+    string CrucialYellowBria {
+    }
+    dummy.JewishCoralJannel PatientPurpleGilberta {
+    }
+    hidden_boolean InitialBeigeKerry {
+    }
+    string FeministIndigoRene {
+    }
+    number ProvincialOliveElayne {
+    }
+    boolean SillyAquamarineAgnola {
+    }
+    string WoodenCyanFancy {
+    }
+    hidden_boolean GastricCopperVonnie {
+    }
+  }
+  SuddenBlueMair = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PsychiatricPeachThomasin = "Why didnt the skeleton cross the road? Because he had no guts."
+  DifficultVioletBeret = 376
+  YoungChocolateNike = "Why do birds fly south for the winter? Because it's too far to walk."
+  ThickMaroonRenate = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RoundBeigeValeda = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ViolentScarletBrittney = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ParliamentaryCrimsonTandie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  Largegold2Estel = "Why did the tomato blush? Because it saw the salad dressing."
+  MobileAquaAdela = true
+  CrucialYellowBria = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PatientPurpleGilberta = file("KeenIvoryTherine.txt")
+  FeministIndigoRene = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ProvincialOliveElayne = 456
+  SillyAquamarineAgnola = false
+  WoodenCyanFancy = "To be Frank, I'd have to change my name."
+}

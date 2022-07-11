@@ -1,0 +1,23 @@
+type dummy.ValidLavenderOthilia {
+  annotations {
+    serviceid FineCopperLynne {
+    }
+    hidden_boolean HugeCrimsonGina {
+    }
+    hidden_boolean AdvisoryJadeMellisa {
+    }
+    hidden_boolean MarvellousIndigoMillicent {
+    }
+    serviceid DullApricotPeg {
+    }
+  }
+  serviceid ClassicSapphireMagdalene {
+    _hidden_value = true
+  }
+  boolean AestheticSilverLelah {
+    _hidden_value = true
+  }
+  FineCopperLynne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DullApricotPeg = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

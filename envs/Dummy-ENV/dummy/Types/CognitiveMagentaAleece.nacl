@@ -1,0 +1,27 @@
+type dummy.CognitiveMagentaAleece {
+  annotations {
+    hidden_boolean AbundantIvoryNora {
+    }
+    dummy.SubjectiveAmethystBel SupportingPlumGeorgianne {
+    }
+    dummy.DEFAULT MarineCoralMarielle {
+    }
+    serviceid OddOliveCristi {
+    }
+  }
+  serviceid ResidentialMaroonKristina {
+    _hidden_value = true
+  }
+  "List<json>" ParliamentaryMoccasinPrisca {
+    _hidden_value = true
+  }
+  number MagneticScarletRosie {
+    _hidden_value = true
+  }
+  SupportingPlumGeorgianne = 215
+  MarineCoralMarielle = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  OddOliveCristi = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

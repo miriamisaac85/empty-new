@@ -1,0 +1,87 @@
+type dummy.DisturbingBronzeCecily {
+  annotations {
+    json ChangingTurquoiseXylina {
+    }
+    serviceid FaintApricotLydie {
+    }
+    boolean NiceIndigoBiddie {
+    }
+    string ScornfulGrayHarriot {
+    }
+    serviceid CarefulAzureKaterina {
+    }
+  }
+  dummy.DeliberateMaroonGabbey SillyBronzeBabara {
+    LexicalLavenderAlthea = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    DampLavenderCindee = "To be Frank, I'd have to change my name."
+    MinimumChocolateSydelle = "Dad Im hungry  Hi hungry Im dad"
+    AngryAquaIlise = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    ConfidentCopperMariam = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ScatteredSalmonAddi = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    AlrightChocolateAmalle = true
+    CautiousIndigoNichol = false
+    SweetLimeShayna = 129
+    MilitaryMaroonLee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    GreasyAquamarineNanny = "What creature is smarter than a talking parrot? A spelling bee."
+    HilariousIvoryYettie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AsianSapphireSerena = "How come the stadium got hot after the game? Because all of the fans left."
+    ShinyAquamarinePenny = "What do you call two barracuda fish?  A Pairacuda!"
+    BroadSapphireTildy = "To be Frank, I'd have to change my name."
+    JustVioletSosanna = "How come the stadium got hot after the game? Because all of the fans left."
+    InstantTomatoBinny = "Whoever invented the knock-knock joke should get a no bell prize."
+    DullIndigoKaralynn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PreciseApricotTory = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  hidden_boolean AlternativeAquaReiko {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean WelshTanCecily {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT GeneralAquaBrear {
+    _hidden_value = true
+  }
+  hidden_boolean RecentLimeDonni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json TechnicalLavenderGratiana {
+    _hidden_value = true
+  }
+  json TenseScarletLilia {
+    _hidden_value = true
+  }
+  number TropicalBrownMaudie {
+    _hidden_value = true
+  }
+  boolean JitteryScarletCloris {
+    _hidden_value = true
+  }
+  number SatisfiedCoffeeModesty {
+    _hidden_value = true
+  }
+  json EmbarrassedAmberDianna {
+    _hidden_value = true
+  }
+  number ImpossibleRedErinn {
+    _hidden_value = true
+  }
+  ChangingTurquoiseXylina = "Why do birds fly south for the winter? Because it's too far to walk."
+  FaintApricotLydie = "Why do birds fly south for the winter? Because it's too far to walk."
+  NiceIndigoBiddie = false
+  ScornfulGrayHarriot = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CarefulAzureKaterina = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

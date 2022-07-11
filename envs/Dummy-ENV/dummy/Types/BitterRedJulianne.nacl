@@ -1,0 +1,42 @@
+type dummy.BitterRedJulianne {
+  annotations {
+    json IntermediateApricotMelissa {
+    }
+    boolean EmbarrassingAmberTeddi {
+    }
+    string Applicablegold2Matty {
+    }
+    string BusyMoccasinFidelia {
+    }
+  }
+  json UncertainAmberMarie {
+    _hidden_value = true
+  }
+  hidden_boolean MagentaPlumDelcina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json AlliedOrangeJoann {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LuckyChocolateNaomi {
+    _hidden_value = true
+  }
+  "List<json>" HarshApricotClem {
+    _hidden_value = true
+  }
+  json MobileOliveImogen {
+    _hidden_value = true
+  }
+  hidden_boolean ImperialEmeraldKala {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  IntermediateApricotMelissa = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EmbarrassingAmberTeddi = false
+  Applicablegold2Matty = "Why did the kid cross the playground? To get to the other slide."
+  BusyMoccasinFidelia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

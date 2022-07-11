@@ -1,0 +1,32 @@
+type dummy.StrongMoccasinDelphine {
+  annotations {
+    number HurtMagentaArabel {
+    }
+    string TameVioletMarice {
+    }
+    serviceid RegisteredAquamarineRosalind {
+    }
+    number RidiculousPurpleMollee {
+    }
+    serviceid StrangeBrownMiguelita {
+    }
+    string DeterminedPurpleFaunie {
+    }
+  }
+  boolean MistyWhiteSukey {
+    _hidden_value = true
+  }
+  boolean EnchantingSalmonMalvina {
+    _hidden_value = true
+  }
+  serviceid ExactChocolateKathy {
+    _hidden_value = true
+  }
+  HurtMagentaArabel = 613
+  TameVioletMarice = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RegisteredAquamarineRosalind = "What do you call two barracuda fish?  A Pairacuda!"
+  RidiculousPurpleMollee = 345
+  StrangeBrownMiguelita = "To be Frank, I'd have to change my name."
+  DeterminedPurpleFaunie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

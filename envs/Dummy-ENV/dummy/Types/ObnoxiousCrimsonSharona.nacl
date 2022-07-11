@@ -1,0 +1,22 @@
+type dummy.ObnoxiousCrimsonSharona {
+  annotations {
+    boolean WarmCopperLorianne {
+    }
+    hidden_boolean LittlePinkFidela {
+    }
+    json LargeMaroonAdelaida {
+    }
+    string EmbarrassedAzureKalindi {
+    }
+    json HappyFuchsiaFleur {
+    }
+  }
+  string BoredPeachMara {
+    _hidden_value = true
+  }
+  WarmCopperLorianne = false
+  LargeMaroonAdelaida = "I'll tell you what often gets over looked... garden fences."
+  EmbarrassedAzureKalindi = "To be Frank, I'd have to change my name."
+  HappyFuchsiaFleur = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

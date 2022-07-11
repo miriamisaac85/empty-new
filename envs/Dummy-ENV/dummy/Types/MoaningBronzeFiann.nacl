@@ -1,0 +1,97 @@
+type dummy.MoaningBronzeFiann {
+  annotations {
+    number PuzzledVioletFannie {
+    }
+    hidden_boolean TastelessBronzeKalie {
+    }
+    string BoringVioletCayla {
+    }
+    boolean ActiveAmberSarette {
+    }
+    boolean LivingSapphireJanith {
+    }
+    hidden_boolean ReliableJadeTatum {
+    }
+  }
+  string StrangePinkFrances {
+    _hidden_value = true
+  }
+  "List<json>" LeftApricotPearline {
+    _hidden_value = true
+  }
+  "List<serviceid>" BadCoffeeAnnamaria {
+    _hidden_value = true
+  }
+  string NeighbouringAmberBrianna {
+    _hidden_value = true
+  }
+  json SemanticSilverElane {
+    _hidden_value = true
+  }
+  boolean IraqiPurpleDaphne {
+    _hidden_value = true
+  }
+  serviceid SubstantialMaroonLita {
+    _hidden_value = true
+  }
+  boolean NarrowOrangeEtti {
+    _hidden_value = true
+  }
+  hidden_boolean ExtremePurpleDari {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MagnificentBlueMil {
+    _hidden_value = true
+  }
+  string NecessarySilverHally {
+    _hidden_value = true
+  }
+  number AdditionalBrownRoanna {
+    _hidden_value = true
+  }
+  hidden_boolean CrowdedRedPavla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OverseasJadeModesta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CreepyEmeraldChristean {
+    _hidden_value = true
+  }
+  boolean LowPurpleKristina {
+    _hidden_value = true
+  }
+  hidden_boolean MolecularOliveFelipa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PleasantEmeraldEleen {
+    _hidden_value = true
+  }
+  json AlternativeGrayDianna {
+    _hidden_value = true
+  }
+  json UnexpectedCrimsonInes {
+    _hidden_value = true
+  }
+  serviceid BlackTealNadya {
+    _hidden_value = true
+  }
+  hidden_boolean AgriculturalWhiteAuroora {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  PuzzledVioletFannie = 658
+  BoringVioletCayla = "Dad Im hungry  Hi hungry Im dad"
+  ActiveAmberSarette = false
+  LivingSapphireJanith = true
+  _hidden_value = true
+}

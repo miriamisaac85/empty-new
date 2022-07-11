@@ -1,0 +1,64 @@
+type dummy.VocationalYellowCordey {
+  annotations {
+    boolean DifficultAquamarineJoanie {
+    }
+    dummy.MinimumIvoryFrankie FrightenedOrangeYoshiko {
+    }
+    string AwareRoseGeneva {
+    }
+    serviceid TinyTanSteffane {
+    }
+    serviceid GayApricotLacey {
+    }
+    string BetterYellowKinna {
+    }
+    hidden_boolean SystematicBronzeRois {
+    }
+    dummy.ElectricalPinkBiddie DisturbedGrayAlisun {
+    }
+    json EvilAquamarineNata {
+    }
+    string WidespreadAzureEleen {
+    }
+    json MoralCoralLinda {
+    }
+    string NeutralAzureCindy {
+    }
+    json FairTealArlyn {
+    }
+    boolean GreatGreenLeone {
+    }
+    serviceid FunctionalScarletBettine {
+    }
+    boolean Tinygold2Aileen {
+    }
+    json RealVioletHelga {
+    }
+    dummy.ConfidentialScarletAntonie AbsentApricotDoralynne {
+    }
+    string NovelPlumJerrine {
+    }
+    hidden_boolean DominantAmaranthShanda {
+    }
+    dummy.ContemporaryPurpleZabrina RunningIndigoRonnie {
+    }
+  }
+  DifficultAquamarineJoanie = true
+  FrightenedOrangeYoshiko = true
+  AwareRoseGeneva = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  TinyTanSteffane = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GayApricotLacey = "Why did the tomato blush? Because it saw the salad dressing."
+  BetterYellowKinna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EvilAquamarineNata = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WidespreadAzureEleen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MoralCoralLinda = "What creature is smarter than a talking parrot? A spelling bee."
+  NeutralAzureCindy = "What creature is smarter than a talking parrot? A spelling bee."
+  FairTealArlyn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GreatGreenLeone = false
+  FunctionalScarletBettine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  Tinygold2Aileen = false
+  RealVioletHelga = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AbsentApricotDoralynne = 646
+  NovelPlumJerrine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RunningIndigoRonnie = file("MathematicalSilverKacey.txt")
+}

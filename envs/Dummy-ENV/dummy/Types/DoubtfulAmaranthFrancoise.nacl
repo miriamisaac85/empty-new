@@ -1,0 +1,28 @@
+type dummy.DoubtfulAmaranthFrancoise {
+  annotations {
+    dummy.DEFAULT ElectricalPeachTimmi {
+    }
+    boolean DevelopedAquaBerget {
+    }
+    serviceid GrotesqueTanJerrie {
+    }
+    number RespectableRoseRosita {
+    }
+    boolean WesternIvoryJulissa {
+    }
+    string LexicalAquamarineRobbin {
+    }
+  }
+  string PetiteBlackCelina {
+    _hidden_value = true
+  }
+  ElectricalPeachTimmi = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  DevelopedAquaBerget = false
+  GrotesqueTanJerrie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RespectableRoseRosita = 822
+  WesternIvoryJulissa = false
+  LexicalAquamarineRobbin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

@@ -1,0 +1,59 @@
+type dummy.Everydaygold2Elle {
+  annotations {
+    boolean ActualRoseJohannah {
+    }
+    hidden_boolean WildAmberJenifer {
+    }
+    json RealisticTurquoiseEva {
+    }
+    json InnovativeFuchsiaAleta {
+    }
+  }
+  hidden_boolean PoliteMaroonAmelie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LateMagentaGiacinta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ProgressiveMagentaAinslee {
+    _hidden_value = true
+  }
+  string PositiveTomatoEliza {
+    _hidden_value = true
+  }
+  string CalmBrownSheena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReasonableScarletHallie {
+    _hidden_value = true
+  }
+  boolean SpatialYellowRoxana {
+    _hidden_value = true
+  }
+  dummy.JewishCoralJannel Respectivegold2Nikoletta {
+    AlivePeachImogen = false
+    HollowCopperKaitlynn = 746
+    BottomBlushWinonah = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RelativeTealLeontine = "How come the stadium got hot after the game? Because all of the fans left."
+    RepresentativeScarletLorenza = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DesperateAquamarineLisabeth = true
+    UndergroundBlackBenni = "Dad Im hungry  Hi hungry Im dad"
+    FunnyRedTimi = false
+    GlobalCopperFanechka = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  json PremierTurquoiseBibbye {
+    _hidden_value = true
+  }
+  serviceid QualifiedLimeCybil {
+    _hidden_value = true
+  }
+  ActualRoseJohannah = false
+  RealisticTurquoiseEva = "How come the stadium got hot after the game? Because all of the fans left."
+  InnovativeFuchsiaAleta = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

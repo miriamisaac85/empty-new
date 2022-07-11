@@ -1,0 +1,75 @@
+type dummy.HealthyMagentaPetronilla {
+  annotations {
+    json SplendidGreenCindelyn {
+    }
+    number StandardCoffeeBlancha {
+    }
+    number ElaboratePurpleWilone {
+    }
+    string EnergeticTanVirgie {
+    }
+    json AtomicCopperAshia {
+    }
+  }
+  hidden_boolean LightRedCinnamon {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulBrownMavra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" UnderlyingGreenHatty {
+    _hidden_value = true
+  }
+  string RearLavenderJulie {
+    _hidden_value = true
+  }
+  boolean WelcomeOrangeLynn {
+    _hidden_value = true
+  }
+  number GrandPurpleKatey {
+    _hidden_value = true
+  }
+  json StrongJadeHarlene {
+    _hidden_value = true
+  }
+  string HandicappedFuchsiaHynda {
+    _hidden_value = true
+  }
+  string DullOrangeGavrielle {
+    _hidden_value = true
+  }
+  serviceid ResonantMoccasinPerla {
+    _hidden_value = true
+  }
+  json SecretOrangeLethia {
+    _hidden_value = true
+  }
+  serviceid RecentBronzeStepha {
+    _hidden_value = true
+  }
+  json WelshSilverElise {
+    _hidden_value = true
+  }
+  serviceid OfficialTomatoJoye {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OddTomatoRosalinda {
+    _hidden_value = true
+  }
+  json MarginalVioletJehanna {
+    _hidden_value = true
+  }
+  string RomanticBronzeHeath {
+    _hidden_value = true
+  }
+  SplendidGreenCindelyn = "I'll tell you what often gets over looked... garden fences."
+  StandardCoffeeBlancha = 231
+  ElaboratePurpleWilone = 736
+  EnergeticTanVirgie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AtomicCopperAshia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

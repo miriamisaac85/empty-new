@@ -1,0 +1,105 @@
+type dummy.BrownIndigoJenn {
+  annotations {
+    hidden_boolean MutualTealLorne {
+    }
+    serviceid BoilingSalmonVitoria {
+    }
+    boolean InformalGreenMadalena {
+    }
+    serviceid ConcernedCopperDomeniga {
+    }
+    json ConsiderableBlushLuce {
+    }
+  }
+  number DrunkYellowHally {
+    _hidden_value = true
+  }
+  json CourageousMagentaLenee {
+    _hidden_value = true
+  }
+  "List<json>" DamagedBrownElbertine {
+    _hidden_value = true
+  }
+  boolean ItalianRoseMelisande {
+    _hidden_value = true
+  }
+  serviceid ResonantCoralAnnette {
+    _hidden_value = true
+  }
+  boolean PalePurpleCharis {
+    _hidden_value = true
+  }
+  json ModernScarletKathleen {
+    _hidden_value = true
+  }
+  dummy.MinimumIvoryFrankie FinancialCoffeeDevon {
+    ExperiencedApricotFelicity = 250
+    AdverseVioletHali = 774
+    HurtTanStormi = "My first time using an elevator was an uplifting experience. The second time let me down."
+    DefiniteMagentaVanda = "Why did the tomato blush? Because it saw the salad dressing."
+    OuterPlumGabrila = "Dad Im hungry  Hi hungry Im dad"
+    StrangeSilverGuenna = "Why didnt the skeleton cross the road? Because he had no guts."
+    LivelyIvoryMabelle = "Why didnt the skeleton cross the road? Because he had no guts."
+    IndividualFuchsiaJobyna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ProtectiveAzureElva = "How come the stadium got hot after the game? Because all of the fans left."
+    AnxiousAquamarineKarylin = "Why did the kid cross the playground? To get to the other slide."
+    ExplicitSapphireSophia = "How come the stadium got hot after the game? Because all of the fans left."
+    AllegedMaroonCharmine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    LoyalRedCordi = false
+    IdealApricotNerti = 837
+    _hidden_value = true
+  }
+  serviceid RoundAquamarineDalenna {
+    _hidden_value = true
+  }
+  json FormalOliveNomi {
+    _hidden_value = true
+  }
+  boolean ThinCopperCarma {
+    _hidden_value = true
+  }
+  hidden_boolean ColorfulJadeEttie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CrowdedTurquoiseVeda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ActualApricotDoralin {
+    _hidden_value = true
+  }
+  json ActiveMoccasinChristiane {
+    _hidden_value = true
+  }
+  json TamePinkHeddi {
+    _hidden_value = true
+  }
+  boolean OrangeIvoryMarna {
+    _hidden_value = true
+  }
+  json DeepSilverShaylynn {
+    _hidden_value = true
+  }
+  boolean BewilderedSapphireGiralda {
+    _hidden_value = true
+  }
+  hidden_boolean TiredMaroonLanna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT EvilSapphireKlara {
+    _hidden_value = true
+  }
+  boolean YummyVioletFern {
+    _hidden_value = true
+  }
+  BoilingSalmonVitoria = "Whoever invented the knock-knock joke should get a no bell prize."
+  InformalGreenMadalena = true
+  ConcernedCopperDomeniga = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConsiderableBlushLuce = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

@@ -1,0 +1,38 @@
+type dummy.UnconsciousSalmonWandis {
+  annotations {
+    hidden_boolean LengthyCopperFrancene {
+    }
+    json SovietSilverAnnadiane {
+    }
+    serviceid RespectableBlackRozele {
+    }
+    number PuzzledAmaranthEdyth {
+    }
+  }
+  boolean HiddenBrownLuella {
+    _hidden_value = true
+  }
+  hidden_boolean Poisedgold2Tracie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WetLimeSybilla {
+    _hidden_value = true
+  }
+  hidden_boolean RareLavenderStacie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ExplicitTurquoiseGretna {
+    _hidden_value = true
+  }
+  boolean GiganticOrangeSioux {
+    _hidden_value = true
+  }
+  SovietSilverAnnadiane = "What do you call two barracuda fish?  A Pairacuda!"
+  RespectableBlackRozele = "Dad Im hungry  Hi hungry Im dad"
+  PuzzledAmaranthEdyth = 687
+  _hidden_value = true
+}

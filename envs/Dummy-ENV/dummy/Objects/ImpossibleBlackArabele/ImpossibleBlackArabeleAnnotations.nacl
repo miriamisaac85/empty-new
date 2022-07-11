@@ -1,0 +1,68 @@
+type dummy.ImpossibleBlackArabele {
+  annotations {
+    hidden_boolean CostlyMagentaOthilia {
+    }
+    number DepressedBlushMargie {
+    }
+    boolean Inadequategold2Xylia {
+    }
+    number AfraidMoccasinAnabal {
+    }
+    serviceid ThoughtlessChocolateLouella {
+    }
+    dummy.PerfectEmeraldBarry TroubledCyanKeelia {
+    }
+    boolean HungryRoseRoseanne {
+    }
+    boolean VariedAmethystBevvy {
+    }
+    json HonestRedRomy {
+    }
+    dummy.MaleChocolateFlorri SuspiciousPlumMelony {
+    }
+    serviceid AmericanBeigeConny {
+    }
+    boolean SlightPlumNonnah {
+    }
+    number LowAmberHulda {
+    }
+    serviceid StupidCoralMarylinda {
+    }
+    string KeenBeigeIlise {
+    }
+    boolean MysteriousOliveBeryl {
+    }
+    json RetiredMoccasinXena {
+    }
+    dummy.MassiveTurquoiseHildegarde FastRedRoze {
+    }
+    hidden_boolean EventualPurpleRuthi {
+    }
+    dummy.FormalIndigoStephenie GrubbyAmaranthNatassia {
+    }
+    string CurvedPlumAngeline {
+    }
+    json LivingPlumRonnie {
+    }
+  }
+  DepressedBlushMargie = 902
+  Inadequategold2Xylia = true
+  AfraidMoccasinAnabal = 465
+  ThoughtlessChocolateLouella = "How come the stadium got hot after the game? Because all of the fans left."
+  HungryRoseRoseanne = false
+  VariedAmethystBevvy = false
+  HonestRedRomy = "Did you know that protons have mass? I didn't even know they were catholic."
+  AmericanBeigeConny = "How come the stadium got hot after the game? Because all of the fans left."
+  SlightPlumNonnah = true
+  LowAmberHulda = 249
+  StupidCoralMarylinda = "Whoever invented the knock-knock joke should get a no bell prize."
+  KeenBeigeIlise = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MysteriousOliveBeryl = false
+  RetiredMoccasinXena = '''
+Why was it called the dark ages? Because of all the knights. 
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+'''
+  CurvedPlumAngeline = "What creature is smarter than a talking parrot? A spelling bee."
+  LivingPlumRonnie = "Why do birds fly south for the winter? Because it's too far to walk."
+}

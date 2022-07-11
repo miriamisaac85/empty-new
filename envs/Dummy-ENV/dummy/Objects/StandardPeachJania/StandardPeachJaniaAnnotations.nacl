@@ -1,0 +1,51 @@
+type dummy.StandardPeachJania {
+  annotations {
+    number PassingSalmonEkaterina {
+    }
+    string FarBlackMerci {
+    }
+    boolean WorriedGrayReine {
+    }
+    boolean LiableBrownBertina {
+    }
+    serviceid BlushingFuchsiaChiquia {
+    }
+    string IrrelevantPurpleMartelle {
+    }
+    string YellowAmethystVicki {
+    }
+    number Comfortablegold2Valma {
+    }
+    json TerritorialBlueNathalie {
+    }
+    string ShallowSilverNichol {
+    }
+    boolean FundamentalPeachBarbaraanne {
+    }
+    hidden_boolean UglyPurpleAurelea {
+    }
+    dummy.ShallowSalmonAdelaide SecretSilverJoline {
+    }
+    number UniquePurpleRhianon {
+    }
+    serviceid ExcessiveYellowVilhelmina {
+    }
+    number OkScarletJulietta {
+    }
+  }
+  PassingSalmonEkaterina = 143
+  FarBlackMerci = "Im only familiar with 25 letters in the English language. I dont know why."
+  WorriedGrayReine = false
+  LiableBrownBertina = true
+  BlushingFuchsiaChiquia = "Whoever invented the knock-knock joke should get a no bell prize."
+  IrrelevantPurpleMartelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  YellowAmethystVicki = "Slept like a log last night  woke up in the fireplace."
+  Comfortablegold2Valma = 124
+  TerritorialBlueNathalie = "How come the stadium got hot after the game? Because all of the fans left."
+  ShallowSilverNichol = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FundamentalPeachBarbaraanne = false
+  SecretSilverJoline = file("RomanOliveBenoite.txt")
+  UniquePurpleRhianon = 444
+  ExcessiveYellowVilhelmina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  OkScarletJulietta = 879
+}

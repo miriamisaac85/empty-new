@@ -1,0 +1,88 @@
+type dummy.AshamedOliveSophie {
+  annotations {
+    string AlternativeRedLatrina {
+    }
+    string ThunderingCoffeeKylen {
+    }
+    serviceid VariousBlueKate {
+    }
+    hidden_boolean GrandMoccasinMarys {
+    }
+    hidden_boolean HomelessVioletKelsey {
+    }
+    json JollyPinkReeva {
+    }
+  }
+  string EfficientAquamarineDanette {
+    _hidden_value = true
+  }
+  number PayableAquaMarrilee {
+    _hidden_value = true
+  }
+  hidden_boolean PuzzledChocolateDawna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SurprisingSalmonJulienne {
+    _hidden_value = true
+  }
+  number InsufficientMaroonMargaretha {
+    _hidden_value = true
+  }
+  serviceid OrthodoxMagentaCathleen {
+    _hidden_value = true
+  }
+  json GenerousAquaNedda {
+    _hidden_value = true
+  }
+  string OuterGrayKylen {
+    _hidden_value = true
+  }
+  number ChangingLavenderOttilie {
+    _hidden_value = true
+  }
+  boolean WetIndigoCaitlin {
+    _hidden_value = true
+  }
+  string TenderOrangeCariotta {
+    _hidden_value = true
+  }
+  hidden_boolean ArmedFuchsiaPauly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean JewishTanGilbertine {
+    _hidden_value = true
+  }
+  json WastefulCoffeeSaba {
+    _hidden_value = true
+  }
+  json DecisiveBeigeOralee {
+    _hidden_value = true
+  }
+  json AfraidAzureCristin {
+    _hidden_value = true
+  }
+  serviceid SecureMoccasinBrittney {
+    _hidden_value = true
+  }
+  boolean CheapAmberHestia {
+    _hidden_value = true
+  }
+  boolean DistinctBeigeSavina {
+    _hidden_value = true
+  }
+  string MarxistBronzeRana {
+    _hidden_value = true
+  }
+  json AnxiousEmeraldLarine {
+    _hidden_value = true
+  }
+  AlternativeRedLatrina = "What creature is smarter than a talking parrot? A spelling bee."
+  ThunderingCoffeeKylen = "How come the stadium got hot after the game? Because all of the fans left."
+  VariousBlueKate = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JollyPinkReeva = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

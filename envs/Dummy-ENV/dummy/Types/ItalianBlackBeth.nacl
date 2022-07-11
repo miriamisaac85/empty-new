@@ -1,0 +1,20 @@
+type dummy.ItalianBlackBeth {
+  annotations {
+    boolean SourIvoryMelitta {
+    }
+    serviceid RainyLavenderKellyann {
+    }
+    serviceid UninterestedLavenderTrix {
+    }
+    boolean SufficientBlackJanifer {
+    }
+  }
+  "List<json>" GreekMagentaKimberlee {
+    _hidden_value = true
+  }
+  SourIvoryMelitta = false
+  RainyLavenderKellyann = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UninterestedLavenderTrix = "What do you call two barracuda fish?  A Pairacuda!"
+  SufficientBlackJanifer = false
+  _hidden_value = true
+}

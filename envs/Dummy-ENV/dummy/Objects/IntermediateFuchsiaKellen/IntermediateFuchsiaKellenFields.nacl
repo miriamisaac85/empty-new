@@ -1,0 +1,9 @@
+type dummy.IntermediateFuchsiaKellen {
+  hidden_boolean WetBlackAmberly {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean MassCrimsonMercie {
+  }
+}

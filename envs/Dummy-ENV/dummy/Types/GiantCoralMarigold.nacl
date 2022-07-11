@@ -1,0 +1,114 @@
+type dummy.GiantCoralMarigold {
+  annotations {
+    json HolyGrayEleanor {
+    }
+    boolean TastyAzureLoria {
+    }
+    json HealthySilverViviyan {
+    }
+    json SadPeachLaetitia {
+    }
+    hidden_boolean ChronicScarletOliy {
+    }
+    json DeadGreenLeyla {
+    }
+    boolean GrubbyAzureMissy {
+    }
+  }
+  boolean OppositeLavenderCassaundra {
+    _hidden_value = true
+  }
+  boolean FamiliarIvoryElicia {
+    _hidden_value = true
+  }
+  dummy.PuzzledTanTildi UsefulChocolateRonica {
+    Oldgold2Kaylil = false
+    _hidden_value = true
+  }
+  string JuicyJadeVivianna {
+    _hidden_value = true
+  }
+  hidden_boolean StatisticalWhiteBarbra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HotAmberOrsa {
+    _hidden_value = true
+  }
+  number VulnerableAmaranthDreddy {
+    _hidden_value = true
+  }
+  dummy.SubjectiveAmethystBel CharmingBlushRosemarie {
+    BadBronzeKristel = "Why do birds fly south for the winter? Because it's too far to walk."
+    ComingChocolateCharmane = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    BlueIvoryHollie = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  string UpperMoccasinBrittan {
+    _hidden_value = true
+  }
+  boolean ElegantCoralKesley {
+    _hidden_value = true
+  }
+  string InstantCoralFarrand {
+    _hidden_value = true
+  }
+  hidden_boolean NarrowCrimsonRoselia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MassiveBeigeMelisent {
+    _hidden_value = true
+  }
+  number MotionlessLimeStephani {
+    _hidden_value = true
+  }
+  boolean ArbitraryLimeLettie {
+    _hidden_value = true
+  }
+  boolean WholeAquamarineJuline {
+    _hidden_value = true
+  }
+  hidden_boolean BiologicalIndigoAdoree {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GratefulCyanMira {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json HappyApricotBilli {
+    _hidden_value = true
+  }
+  json OperationalPlumMarylou {
+    _hidden_value = true
+  }
+  hidden_boolean PleasantVioletEllynn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FunnyAmethystLolly {
+    _hidden_value = true
+  }
+  boolean ProfitableSilverLaureen {
+    _hidden_value = true
+  }
+  json EstablishedTomatoValerye {
+    _hidden_value = true
+  }
+  boolean AccurateCopperCherrita {
+    _hidden_value = true
+  }
+  HolyGrayEleanor = "To be Frank, I'd have to change my name."
+  TastyAzureLoria = true
+  HealthySilverViviyan = "Why did the kid cross the playground? To get to the other slide."
+  SadPeachLaetitia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DeadGreenLeyla = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GrubbyAzureMissy = true
+  _hidden_value = true
+}

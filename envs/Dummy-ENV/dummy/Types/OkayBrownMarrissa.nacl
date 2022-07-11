@@ -1,0 +1,110 @@
+type dummy.OkayBrownMarrissa {
+  annotations {
+    boolean ThunderingCoffeeWinnifred {
+    }
+    string AbleAmberSunshine {
+    }
+    dummy.DEFAULT ExoticYellowDyan {
+    }
+    hidden_boolean SymbolicSalmonDaryl {
+    }
+  }
+  string SpiritualPeachJosy {
+    _hidden_value = true
+  }
+  string ZanyAmaranthVirgie {
+    _hidden_value = true
+  }
+  hidden_boolean AdjacentCoralStormi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DrabPurpleCathryn {
+    _hidden_value = true
+  }
+  json IndependentAmethystMadelle {
+    _hidden_value = true
+  }
+  number SplendidBeigeVinny {
+    _hidden_value = true
+  }
+  number EldestHarlequinRomy {
+    _hidden_value = true
+  }
+  json Surprisinggold2Chelsea {
+    _hidden_value = true
+  }
+  dummy.JewishCoralJannel ColdSilverFrancene {
+    AlivePeachImogen = false
+    HollowCopperKaitlynn = 252
+    BottomBlushWinonah = "How come the stadium got hot after the game? Because all of the fans left."
+    RelativeTealLeontine = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RepresentativeScarletLorenza = "What creature is smarter than a talking parrot? A spelling bee."
+    DesperateAquamarineLisabeth = false
+    UndergroundBlackBenni = "Why did the tomato blush? Because it saw the salad dressing."
+    FunnyRedTimi = true
+    GlobalCopperFanechka = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  hidden_boolean CompetitiveAquamarineMariana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LivelyIvoryOrtensia {
+    _hidden_value = true
+  }
+  string EndlessBlackMina {
+    _hidden_value = true
+  }
+  number SensitiveJadeCarlynne {
+    _hidden_value = true
+  }
+  boolean HelplessEmeraldDiandra {
+    _hidden_value = true
+  }
+  serviceid HistoricTanKassi {
+    _hidden_value = true
+  }
+  string SpicyPeachDarell {
+    _hidden_value = true
+  }
+  json EasyRoseCassandre {
+    _hidden_value = true
+  }
+  number InternalCopperRenelle {
+    _hidden_value = true
+  }
+  serviceid ExtendedAmethystTeena {
+    _hidden_value = true
+  }
+  serviceid CriticalMagentaStarlene {
+    _hidden_value = true
+  }
+  hidden_boolean WorthyBlushDevan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string RealisticCoralNelia {
+    _hidden_value = true
+  }
+  json HilariousTurquoiseShaun {
+    _hidden_value = true
+  }
+  hidden_boolean ArtificialBlackSharron {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GothicSapphireMelony {
+    _hidden_value = true
+  }
+  ThunderingCoffeeWinnifred = true
+  AbleAmberSunshine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ExoticYellowDyan = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  _hidden_value = true
+}

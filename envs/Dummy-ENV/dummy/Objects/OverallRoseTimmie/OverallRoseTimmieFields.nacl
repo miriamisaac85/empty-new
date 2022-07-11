@@ -1,0 +1,39 @@
+type dummy.OverallRoseTimmie {
+  number ConstantBeigeLeanora {
+  }
+  json HonestSalmonAnjela {
+  }
+  json UsualBlackModesta {
+  }
+  dummy.MinimumIvoryFrankie InclinedAmaranthHanna {
+    ExperiencedApricotFelicity = 745
+    AdverseVioletHali = 730
+    HurtTanStormi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DefiniteMagentaVanda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    OuterPlumGabrila = "What did one nut say as he chased another nut?  I'm a cashew!"
+    StrangeSilverGuenna = "How come the stadium got hot after the game? Because all of the fans left."
+    LivelyIvoryMabelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+    IndividualFuchsiaJobyna = "A steak pun is a rare medium well done."
+    ProtectiveAzureElva = "Why was it called the dark ages? Because of all the knights. "
+    AnxiousAquamarineKarylin = "Why do birds fly south for the winter? Because it's too far to walk."
+    ExplicitSapphireSophia = "Im only familiar with 25 letters in the English language. I dont know why."
+    AllegedMaroonCharmine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    LoyalRedCordi = false
+    IdealApricotNerti = 432
+  }
+  serviceid OverwhelmingAmaranthBabara {
+  }
+  serviceid AverageEmeraldPaola {
+  }
+  string WeakTanClementina {
+  }
+  serviceid ExcitedAzureOlympia {
+  }
+  hidden_boolean BrightAmberMandy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ManyBlackArabella {
+  }
+}

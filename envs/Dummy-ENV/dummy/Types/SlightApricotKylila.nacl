@@ -1,0 +1,23 @@
+type dummy.SlightApricotKylila {
+  annotations {
+    serviceid Relevantgold2Dix {
+    }
+    json UnpleasantPurpleGael {
+    }
+    boolean RollingRoseTessie {
+    }
+    number PossibleGreenArliene {
+    }
+    json InnovativeSapphireRoxanne {
+    }
+  }
+  number ModernCrimsonAndeee {
+    _hidden_value = true
+  }
+  Relevantgold2Dix = "What do you call two barracuda fish?  A Pairacuda!"
+  UnpleasantPurpleGael = "Why is Peter Pan always flying? Because he Neverlands."
+  RollingRoseTessie = false
+  PossibleGreenArliene = 383
+  InnovativeSapphireRoxanne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

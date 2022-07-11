@@ -1,0 +1,122 @@
+type dummy.FiscalAzureJaquith {
+  annotations {
+    dummy.LightAmethystFrank CrazyBronzeEtty {
+    }
+    dummy.DEFAULT ColourfulScarletSara {
+    }
+    string Tinygold2Gwenore {
+    }
+    boolean ConservationYellowBeret {
+    }
+    string EvilYellowSilva {
+    }
+    hidden_boolean BlindVioletMariejeanne {
+    }
+  }
+  json ReluctantSapphireBeryl {
+    _hidden_value = true
+  }
+  hidden_boolean GlobalOrangeAmargo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.EntireBrownJacki FunctionalHarlequinChrista {
+    gold2enWhiteKarin = "Whoever invented the knock-knock joke should get a no bell prize."
+    UgliestPeachMerla = 194
+    CoolCoralAtlante = "Whoever invented the knock-knock joke should get a no bell prize."
+    LiteraryPeachMilzie = 798
+    PregnantPinkRobbie = "What creature is smarter than a talking parrot? A spelling bee."
+    AcuteBrownMaryellen = "A steak pun is a rare medium well done."
+    MisleadingCoffeeHarriette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ModernBronzeGilli = 96
+    ElaborateMoccasinArdis = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ComprehensiveSilverDanette = false
+    JustMagentaDevina = false
+    UnexpectedMoccasinRene = 520
+    CulturalRoseElora = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    CanadianAmberDoe = 658
+    IntelligentTomatoConstancy = "Dad Im hungry  Hi hungry Im dad"
+    InappropriateGrayCourtney = "Slept like a log last night  woke up in the fireplace."
+    RivalAquamarineGerda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PatientFuchsiaMatelda = true
+    _hidden_value = true
+  }
+  hidden_boolean OldOliveNadine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FoolishIvoryHyacinthe {
+    _hidden_value = true
+  }
+  serviceid OutrageousMagentaElsy {
+    _hidden_value = true
+  }
+  number WeeklyYellowTonie {
+    _hidden_value = true
+  }
+  string DefiniteTanLidia {
+    _hidden_value = true
+  }
+  hidden_boolean WholeBrownRochella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SacredVioletCristie {
+    _hidden_value = true
+  }
+  serviceid FutureGreenDelphine {
+    _hidden_value = true
+  }
+  hidden_boolean DualMoccasinNedi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EnvironmentalWhiteMilka {
+    _hidden_value = true
+  }
+  dummy.DeliberateMaroonGabbey Busygold2Dulcine {
+    LexicalLavenderAlthea = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    DampLavenderCindee = "Why was it called the dark ages? Because of all the knights. "
+    MinimumChocolateSydelle = "Why do birds fly south for the winter? Because it's too far to walk."
+    AngryAquaIlise = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ConfidentCopperMariam = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ScatteredSalmonAddi = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    AlrightChocolateAmalle = false
+    CautiousIndigoNichol = true
+    SweetLimeShayna = 938
+    MilitaryMaroonLee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GreasyAquamarineNanny = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    HilariousIvoryYettie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AsianSapphireSerena = "Why do birds fly south for the winter? Because it's too far to walk."
+    ShinyAquamarinePenny = "What creature is smarter than a talking parrot? A spelling bee."
+    BroadSapphireTildy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    JustVioletSosanna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    InstantTomatoBinny = "Why did the kid cross the playground? To get to the other slide."
+    DullIndigoKaralynn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PreciseApricotTory = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  hidden_boolean AmazingEmeraldRhoda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CrazyBronzeEtty = true
+  ColourfulScarletSara = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  Tinygold2Gwenore = "Whoever invented the knock-knock joke should get a no bell prize."
+  ConservationYellowBeret = false
+  EvilYellowSilva = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

@@ -1,0 +1,147 @@
+type dummy.EarlyBeigeHenka {
+  annotations {
+    number LongPeachCaroline {
+    }
+    dummy.DEFAULT FormalCyanStephenie {
+    }
+    hidden_boolean VariousTealJune {
+    }
+    boolean IncreasedPeachBeatrice {
+    }
+    boolean LikelyAzureGenni {
+    }
+  }
+  hidden_boolean SupremeBeigeSilvana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number EncouragingTanJolee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpiritualApricotRosamond {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedWhiteAlameda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json UnchangedTanChelsy {
+    _hidden_value = true
+  }
+  boolean BroadMoccasinAnette {
+    _hidden_value = true
+  }
+  hidden_boolean UnwillingIvoryCaitlin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AbsentPurpleElberta {
+    _hidden_value = true
+  }
+  hidden_boolean ThenChocolateHarli {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SurvivingAmberRey {
+    _hidden_value = true
+  }
+  json PassingOrangeFrancesca {
+    _hidden_value = true
+  }
+  boolean StingyPinkJillana {
+    _hidden_value = true
+  }
+  hidden_boolean VisualJadeSallyann {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT CarefulMaroonOra {
+    _hidden_value = true
+  }
+  string TroubledAzureAnselma {
+    _hidden_value = true
+  }
+  hidden_boolean WetMagentaLorrayne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean StiffEmeraldRonnica {
+    _hidden_value = true
+  }
+  boolean InjuredPinkAntonina {
+    _hidden_value = true
+  }
+  serviceid GiantMaroonMarcie {
+    _hidden_value = true
+  }
+  string Pleasantgold2Zaneta {
+    _hidden_value = true
+  }
+  number FeministAquamarinePhyllis {
+    _hidden_value = true
+  }
+  serviceid KnownBeigeJammie {
+    _hidden_value = true
+  }
+  hidden_boolean AnnualBeigeSally {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SteadyGrayKrissie {
+    _hidden_value = true
+  }
+  json SadFuchsiaCristy {
+    _hidden_value = true
+  }
+  number StrategicVioletBobbette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OppositeBronzeJune {
+    _hidden_value = true
+  }
+  serviceid AblePurpleElyse {
+    _hidden_value = true
+  }
+  "List<dummy.StrikingMoccasinLonnie>" EssentialMoccasinHedvig {
+    TastelessYellowTheodora = "Whoever invented the knock-knock joke should get a no bell prize."
+    UnableCrimsonSydel = false
+    AfraidLavenderAbagail = 350
+    CarefulRoseMichell = "Why did the tomato blush? Because it saw the salad dressing."
+    SpanishIvoryCordey = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SmoothAmberKatharyn = true
+    WoodenGrayKaitlin = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  boolean ArabTurquoiseHarriot {
+    _hidden_value = true
+  }
+  string GuiltyRoseBetty {
+    _hidden_value = true
+  }
+  "List<json>" RichApricotAjay {
+    _hidden_value = true
+  }
+  json ClinicalTomatoAngelica {
+    _hidden_value = true
+  }
+  json OriginalBronzeRanna {
+    _hidden_value = true
+  }
+  json MilitaryYellowRosabella {
+    _hidden_value = true
+  }
+  LongPeachCaroline = 912
+  FormalCyanStephenie = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  IncreasedPeachBeatrice = false
+  LikelyAzureGenni = true
+  _hidden_value = true
+}

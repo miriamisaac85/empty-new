@@ -1,0 +1,48 @@
+type dummy.ThoughtfulAmberMuriel {
+  annotations {
+    serviceid EvilMoccasinBibby {
+    }
+    hidden_boolean DifficultBlueDenice {
+    }
+    string SlowRoseKattie {
+    }
+    boolean StupidPurpleOpalina {
+    }
+  }
+  dummy.DEFAULT MassiveMoccasinDulsea {
+    _hidden_value = true
+  }
+  number UnnecessaryCoffeeCatriona {
+    _hidden_value = true
+  }
+  number Inappropriategold2Virginie {
+    _hidden_value = true
+  }
+  number OrangeLimeFancy {
+    _hidden_value = true
+  }
+  number ImportantRedMariana {
+    _hidden_value = true
+  }
+  number ZanyTomatoCorenda {
+    _hidden_value = true
+  }
+  boolean JitteryBlackInge {
+    _hidden_value = true
+  }
+  serviceid PlainHarlequinCelestyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlackVioletRomona {
+    _hidden_value = true
+  }
+  hidden_boolean StingyOrangeDedra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  EvilMoccasinBibby = "How come the stadium got hot after the game? Because all of the fans left."
+  SlowRoseKattie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StupidPurpleOpalina = true
+  _hidden_value = true
+}

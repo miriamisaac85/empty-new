@@ -1,0 +1,53 @@
+type dummy.QuickestIndigoElianore {
+  annotations {
+    number PossibleSapphireTatiania {
+    }
+    hidden_boolean SystematicPlumDaphne {
+    }
+    json RecentJadeRoslyn {
+    }
+    number TheoreticalAmberLavinie {
+    }
+  }
+  number ReluctantIvoryLeontyne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HiddenAzureAdeline {
+    _hidden_value = true
+  }
+  serviceid RegulatoryGrayMalorie {
+    _hidden_value = true
+  }
+  json DrunkYellowMichal {
+    _hidden_value = true
+  }
+  boolean BewilderedAzureCorina {
+    _hidden_value = true
+  }
+  serviceid WetTanCalley {
+    _hidden_value = true
+  }
+  hidden_boolean CompetitiveMoccasinMoselle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ProposedTealLarina {
+    _hidden_value = true
+  }
+  hidden_boolean PrintedJadeFaythe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string WeakRedVivienne {
+    _hidden_value = true
+  }
+  json CruelHarlequinAmandie {
+    _hidden_value = true
+  }
+  PossibleSapphireTatiania = 840
+  RecentJadeRoslyn = "How come the stadium got hot after the game? Because all of the fans left."
+  TheoreticalAmberLavinie = 123
+  _hidden_value = true
+}

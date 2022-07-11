@@ -1,0 +1,31 @@
+type dummy.ComingLimeJoline {
+  annotations {
+    dummy.DEFAULT OrangeAmaranthElspeth {
+    }
+    json ForwardCyanLeoline {
+    }
+    json DeafBlackJeri {
+    }
+    boolean OrdinaryAquaSibylla {
+    }
+    boolean ImportantTurquoiseGerhardine {
+    }
+    number ObviousHarlequinAllyn {
+    }
+    boolean AsleepAmberCarleen {
+    }
+  }
+  string UnacceptableIndigoHarriette {
+    _hidden_value = true
+  }
+  OrangeAmaranthElspeth = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  ForwardCyanLeoline = "Im only familiar with 25 letters in the English language. I dont know why."
+  DeafBlackJeri = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OrdinaryAquaSibylla = false
+  ImportantTurquoiseGerhardine = false
+  ObviousHarlequinAllyn = 138
+  AsleepAmberCarleen = true
+  _hidden_value = true
+}

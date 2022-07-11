@@ -1,0 +1,37 @@
+type dummy.MagnificentMaroonHilary {
+  annotations {
+    hidden_boolean GreenAzureLenka {
+    }
+    boolean SpecialApricotChristye {
+    }
+    serviceid LatinBlackMahalia {
+    }
+    json ExistingTealSadie {
+    }
+    string UndergroundSapphireMavis {
+    }
+    json TrickyEmeraldJoanie {
+    }
+  }
+  "List<number>" AsianBlushJoan {
+    _hidden_value = true
+  }
+  boolean PurpleMaroonGwennie {
+    _hidden_value = true
+  }
+  boolean ProudTealStoddard {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HandsomeBlackLauryn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoundGrayMargit {
+    _hidden_value = true
+  }
+  SpecialApricotChristye = false
+  LatinBlackMahalia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExistingTealSadie = "I'll tell you what often gets over looked... garden fences."
+  UndergroundSapphireMavis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  TrickyEmeraldJoanie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

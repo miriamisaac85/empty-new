@@ -1,0 +1,28 @@
+type dummy.WorriedEmeraldKacy {
+  annotations {
+    string MinorIvoryMatti {
+    }
+    boolean SuitableAquaAtlante {
+    }
+    string PersistentCoffeeSharl {
+    }
+    hidden_boolean OverseasOliveDenise {
+    }
+    dummy.JewishCoralJannel CrudeTurquoiseAugusta {
+    }
+    dummy.DifficultBlackDeanne VocationalLimeAlejandra {
+    }
+    string BeneficialMoccasinCristine {
+    }
+  }
+  "List<number>" JuicyCopperAustin {
+    _hidden_value = true
+  }
+  MinorIvoryMatti = "I'll tell you what often gets over looked... garden fences."
+  SuitableAquaAtlante = true
+  PersistentCoffeeSharl = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CrudeTurquoiseAugusta = "Why didnt the skeleton cross the road? Because he had no guts."
+  VocationalLimeAlejandra = "Why do birds fly south for the winter? Because it's too far to walk."
+  BeneficialMoccasinCristine = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

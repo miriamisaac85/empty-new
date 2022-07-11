@@ -1,0 +1,49 @@
+type dummy.LightAmethystFrank is boolean {
+  annotations {
+    number HonCrimsonGwen {
+    }
+    hidden_boolean RoundPurplePaulie {
+    }
+    boolean ProposedBrownDominique {
+    }
+    json ScaryMagentaJoby {
+    }
+    number ObligedAquamarineLise {
+    }
+    number IraqiCoffeeKaree {
+    }
+    boolean Burninggold2Sybille {
+    }
+    dummy.DEFAULT SubsequentGrayKania {
+    }
+    string RespectableAmberCassy {
+    }
+    json DiversePinkJoanne {
+    }
+    json FrontPlumCamila {
+    }
+    string DelightfulAmberFrieda {
+    }
+    json DeafCoffeeCookie {
+    }
+    number TastyFuchsiaCarol {
+    }
+    hidden_boolean GastricIndigoCris {
+    }
+  }
+  HonCrimsonGwen = 224
+  ProposedBrownDominique = false
+  ScaryMagentaJoby = "Why was it called the dark ages? Because of all the knights. "
+  ObligedAquamarineLise = 186
+  IraqiCoffeeKaree = 607
+  Burninggold2Sybille = true
+  SubsequentGrayKania = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  RespectableAmberCassy = "I'll tell you what often gets over looked... garden fences."
+  DiversePinkJoanne = "Why is Peter Pan always flying? Because he Neverlands."
+  FrontPlumCamila = "Dad Im hungry  Hi hungry Im dad"
+  DelightfulAmberFrieda = "Slept like a log last night  woke up in the fireplace."
+  DeafCoffeeCookie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TastyFuchsiaCarol = 38
+}

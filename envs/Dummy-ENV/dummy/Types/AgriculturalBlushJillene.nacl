@@ -1,0 +1,94 @@
+type dummy.AgriculturalBlushJillene {
+  annotations {
+    string PolishRoseDode {
+    }
+    boolean ForwardOliveWinona {
+    }
+    serviceid SpareTealGustie {
+    }
+    json AsleepTomatoBernardine {
+    }
+    string BurningAmaranthAmandie {
+    }
+    json AngryRedLorelle {
+    }
+  }
+  json IntegralBrownPattie {
+    _hidden_value = true
+  }
+  serviceid DeliciousMagentaRosalynd {
+    _hidden_value = true
+  }
+  number JapaneseApricotErina {
+    _hidden_value = true
+  }
+  number BeautifulApricotGinelle {
+    _hidden_value = true
+  }
+  string HorribleBlackGilbertine {
+    _hidden_value = true
+  }
+  boolean ReligiousHarlequinCarolina {
+    _hidden_value = true
+  }
+  hidden_boolean LuckyBrownJoelie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CalmAquaMarlo {
+    _hidden_value = true
+  }
+  dummy.DifficultBlackDeanne HomelessBlushMarci {
+    CruelCrimsonGinelle = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ConceptualApricotCathie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FemaleWhiteRobina = "Did you know that protons have mass? I didn't even know they were catholic."
+    PreliminaryTanBelicia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CalmScarletMead = true
+    CheapCoralNissy = "Slept like a log last night  woke up in the fireplace."
+    TightTealGiulietta = 872
+    DefiniteOlivePierette = true
+    CooperativeSapphireBobinette = "What do you call two barracuda fish?  A Pairacuda!"
+    OkayPurplePietra = "Why was it called the dark ages? Because of all the knights. "
+    HumanChocolateTricia = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  boolean IntermediateAmethystLinnell {
+    _hidden_value = true
+  }
+  serviceid UniqueOrangeCherice {
+    _hidden_value = true
+  }
+  number TenderPeachJillie {
+    _hidden_value = true
+  }
+  number ProfoundIndigoAjay {
+    _hidden_value = true
+  }
+  string PresentBronzeDinnie {
+    _hidden_value = true
+  }
+  number RemainingSalmonVictoria {
+    _hidden_value = true
+  }
+  number SpatialMoccasinLilyan {
+    _hidden_value = true
+  }
+  hidden_boolean WellTomatoFaye {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ProposedAquaShelli {
+    _hidden_value = true
+  }
+  PolishRoseDode = "Whoever invented the knock-knock joke should get a no bell prize."
+  ForwardOliveWinona = true
+  SpareTealGustie = "A steak pun is a rare medium well done."
+  AsleepTomatoBernardine = "Why was it called the dark ages? Because of all the knights. "
+  BurningAmaranthAmandie = "I'll tell you what often gets over looked... garden fences."
+  AngryRedLorelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

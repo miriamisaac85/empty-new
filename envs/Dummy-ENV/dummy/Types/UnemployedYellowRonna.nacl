@@ -1,0 +1,136 @@
+type dummy.UnemployedYellowRonna {
+  annotations {
+    json NorthernBlackZondra {
+    }
+    serviceid FormalTanCecilla {
+    }
+    string FavourableEmeraldFrancyne {
+    }
+    json SheerLimegold2arina {
+    }
+  }
+  boolean WetTurquoiseSavina {
+    _hidden_value = true
+  }
+  dummy.AppropriateChocolateLadonna TightBlueRanique {
+    SilentLavenderMidge = "What do you call two barracuda fish?  A Pairacuda!"
+    PotentialBronzeManya = "Why is Peter Pan always flying? Because he Neverlands."
+    FirmTurquoiseMagdalena = "Why is Peter Pan always flying? Because he Neverlands."
+    DirectIndigoNannie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    EthicalHarlequinCarmon = "I'll tell you what often gets over looked... garden fences."
+    KindIndigoHelen = false
+    PlannedOrangeWynn = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number UnchangedWhiteFerdinanda {
+    _hidden_value = true
+  }
+  serviceid ComprehensiveSalmonJenine {
+    _hidden_value = true
+  }
+  json ExclusiveWhiteNanci {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HeadCrimsonMelitta {
+    _hidden_value = true
+  }
+  json RomanTanEvangelia {
+    _hidden_value = true
+  }
+  string DepressedCoffeeSosanna {
+    _hidden_value = true
+  }
+  "List<number>" AcuteOrangeJennette {
+    _hidden_value = true
+  }
+  boolean ExtraordinaryApricotKate {
+    _hidden_value = true
+  }
+  number LightCyanCoraline {
+    _hidden_value = true
+  }
+  hidden_boolean MassiveRoseJoela {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number IndustrialVioletIbby {
+    _hidden_value = true
+  }
+  json CooperativeAmberMargareta {
+    _hidden_value = true
+  }
+  boolean MolecularScarletHildegaard {
+    _hidden_value = true
+  }
+  serviceid MultipleRoseTory {
+    _hidden_value = true
+  }
+  serviceid DisastrousIndigoCilka {
+    _hidden_value = true
+  }
+  serviceid CircularOliveJoelle {
+    _hidden_value = true
+  }
+  number ExpectedHarlequinPansie {
+    _hidden_value = true
+  }
+  string StrongIndigoSela {
+    _hidden_value = true
+  }
+  dummy.VoluntaryBlushSonja DarkApricotGlory {
+    CoolAmberOfelia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    OrthodoxYellowVally = 620
+    AfricanPinkSteffane = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    HelpfulLavenderErna = "Dad Im hungry  Hi hungry Im dad"
+    DualMaroonRosmunda = 483
+    InternationalMaroonKaia = "Why was it called the dark ages? Because of all the knights. "
+    ObligedMoccasinAtlante = "How come the stadium got hot after the game? Because all of the fans left."
+    IntelligentAmaranthKarine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  serviceid GloriousTealGabi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ThenFuchsiaFina {
+    _hidden_value = true
+  }
+  boolean MagneticPeachTammy {
+    _hidden_value = true
+  }
+  json ClinicalAquamarineCristionna {
+    _hidden_value = true
+  }
+  string BrokenIvoryRora {
+    _hidden_value = true
+  }
+  number ExuberantOrangeCarol {
+    _hidden_value = true
+  }
+  hidden_boolean MultipleYellowMame {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CarefulPinkVerla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json UpsetTealSteffie {
+    _hidden_value = true
+  }
+  json PerfectLimeEllie {
+    _hidden_value = true
+  }
+  boolean WholeBronzeVerine {
+    _hidden_value = true
+  }
+  NorthernBlackZondra = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FormalTanCecilla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FavourableEmeraldFrancyne = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SheerLimegold2arina = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

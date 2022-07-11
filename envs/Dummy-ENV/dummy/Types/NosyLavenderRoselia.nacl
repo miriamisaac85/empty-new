@@ -1,0 +1,25 @@
+type dummy.NosyLavenderRoselia {
+  annotations {
+    serviceid NiceAmethystZahara {
+    }
+    json RelevantYellowCollette {
+    }
+    hidden_boolean MultipleVioletFrancene {
+    }
+    serviceid EnchantingPurpleMaryellen {
+    }
+    number TinyChocolateTobye {
+    }
+    dummy.IntegratedMoccasinClarissa FamiliarMagentaRhonda {
+    }
+  }
+  number RubberMoccasinMinnie {
+    _hidden_value = true
+  }
+  NiceAmethystZahara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RelevantYellowCollette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EnchantingPurpleMaryellen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TinyChocolateTobye = 220
+  FamiliarMagentaRhonda = 595
+  _hidden_value = true
+}

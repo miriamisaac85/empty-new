@@ -1,0 +1,89 @@
+type dummy.SufficientCoralDasie {
+  annotations {
+    boolean IntellectualPurpleKelci {
+    }
+    string MagnificentPinkAlicea {
+    }
+    serviceid Usedgold2Steffane {
+    }
+    dummy.DEFAULT NegativeEmeraldWandie {
+    }
+  }
+  serviceid DizzyBronzeChickie {
+    _hidden_value = true
+  }
+  hidden_boolean OutstandingAzureJosephina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AfricanIvoryDierdre {
+    _hidden_value = true
+  }
+  serviceid LevelTanJaneva {
+    _hidden_value = true
+  }
+  "List<string>" PurringAmaranthSavina {
+    _hidden_value = true
+  }
+  string WillingTealWinne {
+    _hidden_value = true
+  }
+  serviceid VerticalGrayTyne {
+    _hidden_value = true
+  }
+  number DesirableBlueRobby {
+    _hidden_value = true
+  }
+  serviceid WearyBlackEmlynne {
+    _hidden_value = true
+  }
+  boolean SuperCrimsonCherish {
+    _hidden_value = true
+  }
+  serviceid ConfusedCoralMarna {
+    _hidden_value = true
+  }
+  json EnvironmentalGreenErina {
+    _hidden_value = true
+  }
+  number GivenGraySosanna {
+    _hidden_value = true
+  }
+  number ProgressiveChocolateTony {
+    _hidden_value = true
+  }
+  boolean FaithfulJadeFlorenza {
+    _hidden_value = true
+  }
+  "List<string>" SorryCyanWendeline {
+    _hidden_value = true
+  }
+  string TallAzureMerl {
+    _hidden_value = true
+  }
+  hidden_boolean FragileSalmonArlena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EstablishedAmberCorissa {
+    _hidden_value = true
+  }
+  number MeaningfulRedMignon {
+    _hidden_value = true
+  }
+  number SupportingBlueCelka {
+    _hidden_value = true
+  }
+  json AfraidAmaranthDelila {
+    _hidden_value = true
+  }
+  IntellectualPurpleKelci = false
+  MagnificentPinkAlicea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  Usedgold2Steffane = "What creature is smarter than a talking parrot? A spelling bee."
+  NegativeEmeraldWandie = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  _hidden_value = true
+}

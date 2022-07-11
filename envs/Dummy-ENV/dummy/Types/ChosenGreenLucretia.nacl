@@ -1,0 +1,49 @@
+type dummy.ChosenGreenLucretia {
+  annotations {
+    boolean AfraidTurquoiseDorelle {
+    }
+    string DeterminedMoccasinIna {
+    }
+    hidden_boolean RipeAzureKimberli {
+    }
+    json AlliedWhiteKamilah {
+    }
+    serviceid SuccessfulLimePerrine {
+    }
+    number PriorBlackNancey {
+    }
+  }
+  json UninterestedTealJaclin {
+    _hidden_value = true
+  }
+  hidden_boolean WisePeachShirlee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json EvilPeachClary {
+    _hidden_value = true
+  }
+  boolean RevolutionaryTurquoiseNatassia {
+    _hidden_value = true
+  }
+  number MushyBronzeGlynda {
+    _hidden_value = true
+  }
+  dummy.SmallPlumLiana StatutorySapphireMaggee {
+    DecentAquamarineTabina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EssentialLavenderFlor = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GenerousBlueKiele = true
+    SensitiveTurquoiseClaresta = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  number IncreasedIndigoEmmalee {
+    _hidden_value = true
+  }
+  AfraidTurquoiseDorelle = false
+  DeterminedMoccasinIna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AlliedWhiteKamilah = "Im only familiar with 25 letters in the English language. I dont know why."
+  SuccessfulLimePerrine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PriorBlackNancey = 429
+  _hidden_value = true
+}

@@ -1,0 +1,21 @@
+type dummy.LoudOrangeTobi {
+  annotations {
+    serviceid SpecificOliveHoney {
+    }
+    hidden_boolean ConcreteTealCollete {
+    }
+    hidden_boolean GratefulOliveAnnecorinne {
+    }
+    boolean SubstantialMoccasinLu {
+    }
+    boolean RemainingEmeraldGretal {
+    }
+  }
+  boolean ExtremeMaroonSabine {
+    _hidden_value = true
+  }
+  SpecificOliveHoney = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SubstantialMoccasinLu = false
+  RemainingEmeraldGretal = true
+  _hidden_value = true
+}

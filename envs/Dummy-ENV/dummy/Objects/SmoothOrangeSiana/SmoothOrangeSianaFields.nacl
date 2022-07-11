@@ -1,0 +1,40 @@
+type dummy.SmoothOrangeSiana {
+  json ResonantChocolateMarcella {
+  }
+  json OnlyBronzeConni {
+  }
+  hidden_boolean VisibleBrownPortia {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean SophisticatedAquaCeleste {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  dummy.FiscalAzureJaquith CorporateCyanKalinda {
+    CrazyBronzeEtty = true
+    ColourfulScarletSara = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    Tinygold2Gwenore = "Why is Peter Pan always flying? Because he Neverlands."
+    ConservationYellowBeret = true
+    EvilYellowSilva = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  json SurprisingHarlequinMay {
+  }
+  string Voluntarygold2Hedda {
+  }
+  hidden_boolean TraditionalSalmonHaily {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UnemployedLimeCherye {
+  }
+  string BeautifulFuchsiaFaunie {
+  }
+  serviceid AggressiveIndigoChristabel {
+  }
+}

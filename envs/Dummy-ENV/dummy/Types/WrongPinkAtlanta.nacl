@@ -1,0 +1,63 @@
+type dummy.WrongPinkAtlanta {
+  annotations {
+    string RationalRedRosalie {
+    }
+    number SquareSilverJessika {
+    }
+    string UnpleasantTealKatha {
+    }
+    hidden_boolean JollyBronzeOdetta {
+    }
+  }
+  hidden_boolean DistinctBlushAshia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.RunningAquaRoshelle RawSilverRory {
+    _hidden_value = true
+  }
+  json QuietBronzeTiertza {
+    _hidden_value = true
+  }
+  boolean SuperiorGrayKaterine {
+    _hidden_value = true
+  }
+  string UniqueTealMarji {
+    _hidden_value = true
+  }
+  json AdverseCoffeeBobette {
+    _hidden_value = true
+  }
+  serviceid TastyMaroonRoselin {
+    _hidden_value = true
+  }
+  json FreshBrownChristabella {
+    _hidden_value = true
+  }
+  string AdministrativeBlushLanni {
+    _hidden_value = true
+  }
+  number AverageAzureViviyan {
+    _hidden_value = true
+  }
+  string GleamingGreenLeontine {
+    _hidden_value = true
+  }
+  "List<string>" SoreSilverEnrika {
+    _hidden_value = true
+  }
+  boolean DifficultAzureGlen {
+    _hidden_value = true
+  }
+  json WidespreadMaroonGeorgeta {
+    _hidden_value = true
+  }
+  serviceid DailyBronzeLanae {
+    _hidden_value = true
+  }
+  RationalRedRosalie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SquareSilverJessika = 136
+  UnpleasantTealKatha = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

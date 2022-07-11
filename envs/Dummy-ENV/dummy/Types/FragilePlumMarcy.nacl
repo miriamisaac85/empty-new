@@ -1,0 +1,51 @@
+type dummy.FragilePlumMarcy {
+  annotations {
+    serviceid HelpfulTurquoiseDaile {
+    }
+    serviceid FullEmeraldBrynna {
+    }
+    hidden_boolean PurringMaroonBetsey {
+    }
+    string PainfulCopperKristel {
+    }
+    json RightPurpleJesse {
+    }
+  }
+  serviceid ReluctantSapphireAmaleta {
+    _hidden_value = true
+  }
+  number BigPinkJessika {
+    _hidden_value = true
+  }
+  number EarlyAquamarineJuliane {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LowScarletAlmeta {
+    _hidden_value = true
+  }
+  hidden_boolean FriendlyRoseDoti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ComfortableAmberKirsteni {
+    _hidden_value = true
+  }
+  dummy.FilthyLimeFaye IntegratedCoralAriella {
+    DomesticIvoryVanny = 99
+    SupremeEmeraldTraci = "Why is Peter Pan always flying? Because he Neverlands."
+    RomanticAmberYalonda = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  boolean GoodLavenderMadelina {
+    _hidden_value = true
+  }
+  serviceid ImportantMagentaLanette {
+    _hidden_value = true
+  }
+  HelpfulTurquoiseDaile = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FullEmeraldBrynna = "Why is Peter Pan always flying? Because he Neverlands."
+  PainfulCopperKristel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RightPurpleJesse = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

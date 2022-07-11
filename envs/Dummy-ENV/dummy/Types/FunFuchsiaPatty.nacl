@@ -1,0 +1,30 @@
+type dummy.FunFuchsiaPatty {
+  annotations {
+    hidden_boolean ImperialWhiteMorgen {
+    }
+    serviceid WeeklyCoralMilka {
+    }
+    json EstablishedGrayLegra {
+    }
+    serviceid UncomfortableYellowJeannine {
+    }
+    string ClassicalMoccasinRenelle {
+    }
+    string ConvincingRoseMadalena {
+    }
+    dummy.RunningAquaRoshelle UrbanCyanSusette {
+    }
+  }
+  hidden_boolean SmoothSalmonGabbey {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  WeeklyCoralMilka = "Whoever invented the knock-knock joke should get a no bell prize."
+  EstablishedGrayLegra = "How come the stadium got hot after the game? Because all of the fans left."
+  UncomfortableYellowJeannine = "Did you know that protons have mass? I didn't even know they were catholic."
+  ClassicalMoccasinRenelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ConvincingRoseMadalena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UrbanCyanSusette = 18
+  _hidden_value = true
+}

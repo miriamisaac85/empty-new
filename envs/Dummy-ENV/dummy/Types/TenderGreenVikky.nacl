@@ -1,0 +1,50 @@
+type dummy.TenderGreenVikky {
+  annotations {
+    serviceid IntegralGrayCristi {
+    }
+    boolean InsufficientCyanBlythe {
+    }
+    serviceid FrightenedSalmonLydia {
+    }
+    boolean EmotionalPinkRaven {
+    }
+  }
+  json ConfusedPeachYovonnda {
+    _hidden_value = true
+  }
+  serviceid SolarMagentaAgnese {
+    _hidden_value = true
+  }
+  number OldGrayCatha {
+    _hidden_value = true
+  }
+  number DeterminedMoccasinShandeigh {
+    _hidden_value = true
+  }
+  json DisturbedIndigoLacey {
+    _hidden_value = true
+  }
+  boolean AllegedMoccasinCynthia {
+    _hidden_value = true
+  }
+  number ExcitingSapphireGrissel {
+    _hidden_value = true
+  }
+  boolean SmallLavenderArdyce {
+    _hidden_value = true
+  }
+  boolean SmartScarletRene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InappropriateMagentaDorise {
+    _hidden_value = true
+  }
+  boolean FutureFuchsiaEssa {
+    _hidden_value = true
+  }
+  IntegralGrayCristi = "A steak pun is a rare medium well done."
+  InsufficientCyanBlythe = false
+  FrightenedSalmonLydia = "What creature is smarter than a talking parrot? A spelling bee."
+  EmotionalPinkRaven = true
+  _hidden_value = true
+}

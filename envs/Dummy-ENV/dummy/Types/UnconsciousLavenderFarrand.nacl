@@ -1,0 +1,25 @@
+type dummy.UnconsciousLavenderFarrand {
+  annotations {
+    number AddedRedCheryl {
+    }
+    boolean ImpressiveCopperRoxane {
+    }
+    serviceid UpperAmberDarb {
+    }
+    hidden_boolean LocalJadeLila {
+    }
+    string LatinSilverJoelie {
+    }
+    serviceid OppositeRedJaney {
+    }
+  }
+  string AbsentEmeraldAdel {
+    _hidden_value = true
+  }
+  AddedRedCheryl = 536
+  ImpressiveCopperRoxane = false
+  UpperAmberDarb = "Slept like a log last night  woke up in the fireplace."
+  LatinSilverJoelie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OppositeRedJaney = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

@@ -1,0 +1,31 @@
+type dummy.TroubledMaroonAnne {
+  annotations {
+    number DramaticGreenHaleigh {
+    }
+    boolean TurkishBronzeWren {
+    }
+    boolean HelplessCoffeeNancey {
+    }
+    serviceid UnchangedYellowDorothee {
+    }
+    number DoublePeachgold2arina {
+    }
+  }
+  hidden_boolean UniversalAmaranthStar {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string WoodenAquamarineAstrid {
+    _hidden_value = true
+  }
+  serviceid SunnyGreenMinnie {
+    _hidden_value = true
+  }
+  DramaticGreenHaleigh = 880
+  TurkishBronzeWren = true
+  HelplessCoffeeNancey = true
+  UnchangedYellowDorothee = "I'll tell you what often gets over looked... garden fences."
+  DoublePeachgold2arina = 589
+  _hidden_value = true
+}

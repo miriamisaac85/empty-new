@@ -1,0 +1,127 @@
+type dummy.ExperiencedMagentaEulalie {
+  hidden_boolean GrossYellowMandie {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  number ComprehensiveBrownZaneta {
+  }
+  serviceid PartialIvoryCrystie {
+  }
+  number Gradualgold2Claudina {
+  }
+  number StickyMaroonRuthann {
+  }
+  string ImportantCopperPamelina {
+  }
+  "List<hidden_boolean>" CautiousAmberJulina {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string FavouriteScarletAlys {
+  }
+  serviceid InsufficientScarletKira {
+  }
+  hidden_boolean TeenageGreenReena {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean LimitedJadeMignonne {
+  }
+  string AdvancedBlushJunia {
+  }
+  boolean ConceptualOrangeJo {
+  }
+  "List<boolean>" ArtisticBlackArdene {
+  }
+  hidden_boolean HumanSilverLita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json DisturbingGreenSherline {
+  }
+  serviceid PolishLavenderStephi {
+  }
+  serviceid CarefulSilverTisha {
+  }
+  boolean ResonantPurpleAnissa {
+  }
+  string DueCoralClaudine {
+  }
+  json SuspiciousSilverMarrilee {
+  }
+  boolean TastyBlackZelma {
+  }
+  dummy.ImaginativeGreenPamella DustyLimeBirdie {
+    JapaneseJadeLurline = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SoftBronzeSal = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    NarrowTanPaulita = "What do you do on a remote island? Try and find the TV island it belongs to."
+    Vastgold2Roanne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    IntellectualHarlequinJaynell = false
+  }
+  serviceid RecentGreenHoney {
+  }
+  string FoolishLavenderReyna {
+  }
+  json GenuineTurquoiseHattie {
+  }
+  dummy.JewishCoffeeRoobbie UnhappyOrangeLani {
+    BadSilverCasandra = false
+    EmptySapphireNolie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ElectricPinkMarketa = 240
+    ProductiveTurquoiseVonni = "How come the stadium got hot after the game? Because all of the fans left."
+    LengthyAzureJoni = "Why did the kid cross the playground? To get to the other slide."
+    InterestedCoralMarguerite = false
+  }
+  serviceid InappropriateApricotEditha {
+  }
+  dummy.EquivalentJadeCaria DomesticTanConsuela {
+    ImpressiveCoralRoanne = false
+    AwareScarletRhianon = "Why didnt the skeleton cross the road? Because he had no guts."
+    SimilarTealTova = 549
+    LazyJadeAlvina = false
+    InsufficientBlushGertrude = "What do you call two barracuda fish?  A Pairacuda!"
+    PlasticPinkSidonia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HappyAmaranthRhianna = false
+    RoughOliveKailey = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    SatisfiedAmaranthCarilyn = 587
+    NarrowPinkMadeleine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  boolean MiserableOrangeDebora {
+  }
+  boolean LiberalVioletValentine {
+  }
+  dummy.PureApricotZonnya GratefulCopperDorie {
+    MelodicBlushMargot = true
+    BeautifulCrimsonZita = 865
+    HungryYellowJonie = 79
+    ExceptionalSapphireZorina = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    InquisitiveBlackCorrianne = 464
+  }
+  dummy.UnconsciousOliveKris OkAmaranthAtlanta {
+    WoodenMaroonMartelle = 320
+    EmptyLavenderKatuscha = "Did you know that protons have mass? I didn't even know they were catholic."
+    FortunateIndigoGuillemette = true
+  }
+  hidden_boolean CruelPinkLynelle {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean TameIndigoLelia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ResonantAzureLorelei {
+  }
+}

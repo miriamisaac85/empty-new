@@ -1,0 +1,58 @@
+type dummy.WoodenBlueMarcella {
+  annotations {
+    string BlueApricotFernande {
+    }
+    number LegitimateLavenderSeline {
+    }
+    json AssistantCyanTyne {
+    }
+  }
+  boolean DepressedChocolateCordula {
+    _hidden_value = true
+  }
+  serviceid ColonialCrimsonMillicent {
+    _hidden_value = true
+  }
+  string DifficultGrayMerissa {
+    _hidden_value = true
+  }
+  boolean MiddleCopperLotty {
+    _hidden_value = true
+  }
+  hidden_boolean FlatBlueMechelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid InvolvedApricotBrena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AliveAquaJoly {
+    _hidden_value = true
+  }
+  json BloodyLavenderSamaria {
+    _hidden_value = true
+  }
+  boolean AdverseTanLorry {
+    _hidden_value = true
+  }
+  serviceid ShakyAmethystAriadne {
+    _hidden_value = true
+  }
+  number ConfidentAquaMarlie {
+    _hidden_value = true
+  }
+  serviceid WildOliveAngelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CombativeSilverUlrica {
+    _hidden_value = true
+  }
+  string IrrelevantBronzeTrude {
+    _hidden_value = true
+  }
+  BlueApricotFernande = "Why did the tomato blush? Because it saw the salad dressing."
+  LegitimateLavenderSeline = 399
+  AssistantCyanTyne = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

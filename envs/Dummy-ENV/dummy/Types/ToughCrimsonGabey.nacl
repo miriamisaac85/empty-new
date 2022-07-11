@@ -1,0 +1,25 @@
+type dummy.ToughCrimsonGabey {
+  annotations {
+    hidden_boolean CorporateRedClementine {
+    }
+    serviceid NakedSapphireRona {
+    }
+    boolean DullJadeCarita {
+    }
+    serviceid MelodicIvoryRandee {
+    }
+    serviceid HushedPinkLilith {
+    }
+    boolean StrangeAquaSabrina {
+    }
+  }
+  serviceid LikelyRoseKelley {
+    _hidden_value = true
+  }
+  NakedSapphireRona = "I'll tell you what often gets over looked... garden fences."
+  DullJadeCarita = false
+  MelodicIvoryRandee = "Why is Peter Pan always flying? Because he Neverlands."
+  HushedPinkLilith = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StrangeAquaSabrina = true
+  _hidden_value = true
+}

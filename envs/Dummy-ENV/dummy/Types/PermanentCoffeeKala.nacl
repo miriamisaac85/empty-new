@@ -1,0 +1,45 @@
+type dummy.PermanentCoffeeKala {
+  annotations {
+    json OptimisticIndigoMaritsa {
+    }
+    serviceid PracticalHarlequinDaniela {
+    }
+    hidden_boolean ControlledChocolateAlane {
+    }
+    number ReligiousEmeraldDacie {
+    }
+    serviceid JapaneseYellowZelda {
+    }
+    json StrongCrimsonTiffanie {
+    }
+    string SkinnyCoralCecelia {
+    }
+  }
+  number ShortPlumRemy {
+    _hidden_value = true
+  }
+  boolean ThoroughTealMelinda {
+    _hidden_value = true
+  }
+  hidden_boolean BoldYellowFredrika {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number VivaciousAmethystPamelina {
+    _hidden_value = true
+  }
+  json EndlessIndigoAnselma {
+    _hidden_value = true
+  }
+  "List<json>" TenderAmberDamara {
+    _hidden_value = true
+  }
+  OptimisticIndigoMaritsa = "Why is Peter Pan always flying? Because he Neverlands."
+  PracticalHarlequinDaniela = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ReligiousEmeraldDacie = 997
+  JapaneseYellowZelda = "My first time using an elevator was an uplifting experience. The second time let me down."
+  StrongCrimsonTiffanie = "Im only familiar with 25 letters in the English language. I dont know why."
+  SkinnyCoralCecelia = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

@@ -1,0 +1,31 @@
+type dummy.RespectiveCyanClary {
+  annotations {
+    boolean JollyMagentaJillian {
+    }
+    string UnawareCopperElsa {
+    }
+    number AngryOliveNancie {
+    }
+    number ObligedAmaranthAleta {
+    }
+    boolean VivaciousScarletCoreen {
+    }
+    hidden_boolean MysteriousAquaBellanca {
+    }
+  }
+  json DullEmeraldAgnella {
+    _hidden_value = true
+  }
+  number ControversialCoralSelena {
+    _hidden_value = true
+  }
+  "List<serviceid>" SelfishMoccasinDodi {
+    _hidden_value = true
+  }
+  JollyMagentaJillian = true
+  UnawareCopperElsa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AngryOliveNancie = 880
+  ObligedAmaranthAleta = 884
+  VivaciousScarletCoreen = true
+  _hidden_value = true
+}

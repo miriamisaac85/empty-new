@@ -1,0 +1,71 @@
+type dummy.OptimisticIndigoMax {
+  annotations {
+    boolean ProvincialEmeraldSharline {
+    }
+    string TypicalPurpleMandi {
+    }
+    hidden_boolean WonderfulRoseWinni {
+    }
+    string HappyCrimsonJaimie {
+    }
+    json PanickyScarletValeria {
+    }
+  }
+  serviceid OperationalMoccasinHeddie {
+    _hidden_value = true
+  }
+  serviceid LivelyAquamarineCarlynne {
+    _hidden_value = true
+  }
+  string DelightfulTurquoiseRoobbie {
+    _hidden_value = true
+  }
+  number LabourBrownJillene {
+    _hidden_value = true
+  }
+  number FantasticYellowAudie {
+    _hidden_value = true
+  }
+  hidden_boolean AdorableApricotCaralie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SadSapphireIbby {
+    _hidden_value = true
+  }
+  hidden_boolean ConvenientPlumMarilyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json GastricFuchsiaRori {
+    _hidden_value = true
+  }
+  "List<string>" EnviousTealCaril {
+    _hidden_value = true
+  }
+  json TenderMaroonXylina {
+    _hidden_value = true
+  }
+  hidden_boolean RattyScarletArlen {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AdjacentAzureAubrie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FranticHarlequinTabbie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ProvincialEmeraldSharline = false
+  TypicalPurpleMandi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HappyCrimsonJaimie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PanickyScarletValeria = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

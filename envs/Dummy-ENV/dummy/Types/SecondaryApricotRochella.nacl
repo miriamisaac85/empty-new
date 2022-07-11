@@ -1,0 +1,52 @@
+type dummy.SecondaryApricotRochella {
+  annotations {
+    hidden_boolean OrdinaryLimeCarly {
+    }
+    dummy.DifficultBlackDeanne InnocentCrimsonCelisse {
+    }
+    string FriendlyBrownRosmunda {
+    }
+    dummy.DEFAULT PopularYellowCarena {
+    }
+    boolean EntireCoffeeJesse {
+    }
+    dummy.DEFAULT FlatOrangeVittoria {
+    }
+  }
+  json CalmCrimsonClem {
+    _hidden_value = true
+  }
+  hidden_boolean CorporateTomatoHollyanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GlobalSilverJennette {
+    _hidden_value = true
+  }
+  number LowApricotRuby {
+    _hidden_value = true
+  }
+  boolean JitteryCoffeeBunny {
+    _hidden_value = true
+  }
+  serviceid LiteraryPinkLusa {
+    _hidden_value = true
+  }
+  string RevolutionaryOrangeSherye {
+    _hidden_value = true
+  }
+  number SpareMaroonRevkah {
+    _hidden_value = true
+  }
+  InnocentCrimsonCelisse = "To be Frank, I'd have to change my name."
+  FriendlyBrownRosmunda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PopularYellowCarena = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  EntireCoffeeJesse = true
+  FlatOrangeVittoria = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  _hidden_value = true
+}

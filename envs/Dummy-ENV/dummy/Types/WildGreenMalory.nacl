@@ -1,0 +1,77 @@
+type dummy.WildGreenMalory {
+  annotations {
+    serviceid HeadAzureRivkah {
+    }
+    number ExceptionalTanKristel {
+    }
+    serviceid YummyAmberLibbi {
+    }
+    number NastyPeachVonny {
+    }
+    hidden_boolean CarefulLavenderLea {
+    }
+  }
+  hidden_boolean YoungAmaranthLeese {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number IdenticalAmberShauna {
+    _hidden_value = true
+  }
+  hidden_boolean ProperPinkSiusan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<boolean>" LateTealMelisandra {
+    _hidden_value = true
+  }
+  boolean FierceMaroonJana {
+    _hidden_value = true
+  }
+  hidden_boolean StripedTomatoWren {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.NutritiousCoralDania ExclusiveVioletDulcia {
+    _hidden_value = true
+  }
+  number CompactIndigoJoyan {
+    _hidden_value = true
+  }
+  json IllBlueJosselyn {
+    _hidden_value = true
+  }
+  hidden_boolean PerfectLavenderShanon {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SubsequentBlueDayle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CompleteAmaranthJacky {
+    _hidden_value = true
+  }
+  number GastricIvoryMaisey {
+    _hidden_value = true
+  }
+  boolean RealAzureRenelle {
+    _hidden_value = true
+  }
+  boolean ArtificialIvoryErica {
+    _hidden_value = true
+  }
+  json MeltedJadeGisella {
+    _hidden_value = true
+  }
+  HeadAzureRivkah = "I'll tell you what often gets over looked... garden fences."
+  ExceptionalTanKristel = 214
+  YummyAmberLibbi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  NastyPeachVonny = 778
+  _hidden_value = true
+}

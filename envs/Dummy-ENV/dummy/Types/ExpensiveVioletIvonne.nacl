@@ -1,0 +1,79 @@
+type dummy.ExpensiveVioletIvonne {
+  annotations {
+    json FilthyTanMarchelle {
+    }
+    dummy.MinimumIvoryFrankie HandsomeMaroonRyann {
+    }
+    json ProtestantPinkEtty {
+    }
+    hidden_boolean HiddenAmberShauna {
+    }
+    number RollingAmaranthOthella {
+    }
+    serviceid PowerfulGrayAlex {
+    }
+  }
+  dummy.DEFAULT MassiveHarlequinTaffy {
+    _hidden_value = true
+  }
+  serviceid TechnicalChocolateKamillah {
+    _hidden_value = true
+  }
+  string JuniorBronzePhebe {
+    _hidden_value = true
+  }
+  hidden_boolean RainyOliveConstanta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ControlledWhiteHermia {
+    _hidden_value = true
+  }
+  json NakedAmaranthJordana {
+    _hidden_value = true
+  }
+  number CleverBrownMerle {
+    _hidden_value = true
+  }
+  string GothicMagentaNadiya {
+    _hidden_value = true
+  }
+  number CourageousLimeMoreen {
+    _hidden_value = true
+  }
+  number JustBlackDareen {
+    _hidden_value = true
+  }
+  number TurkishBlueNorry {
+    _hidden_value = true
+  }
+  boolean IndividualCyanMatilda {
+    _hidden_value = true
+  }
+  number WiseBlushTory {
+    _hidden_value = true
+  }
+  serviceid DiverseSilverMarianna {
+    _hidden_value = true
+  }
+  hidden_boolean SystematicEmeraldLoutitia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BigBlushDenny {
+    _hidden_value = true
+  }
+  hidden_boolean DampCoffeeCecile {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  FilthyTanMarchelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HandsomeMaroonRyann = true
+  ProtestantPinkEtty = "To be Frank, I'd have to change my name."
+  RollingAmaranthOthella = 250
+  PowerfulGrayAlex = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

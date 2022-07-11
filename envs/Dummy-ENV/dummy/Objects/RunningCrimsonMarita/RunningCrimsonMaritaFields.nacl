@@ -1,0 +1,43 @@
+type dummy.RunningCrimsonMarita {
+  hidden_boolean ModernGreenKate {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid HotAzureMagda {
+  }
+  hidden_boolean SourPlumChristin {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean Softgold2Ailis {
+  }
+  hidden_boolean UnexpectedRedTiffany {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FiscalSapphireFayth {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid ItchyLimeGwen {
+  }
+  dummy.ConservationOliveGrayce BeneficialPinkVerene {
+    FatOrangeOlympie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ProtectiveYellowAlly = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WholeTanArdis = 617
+  }
+  number WonderfulMaroonNorri {
+  }
+  number EuropeanOliveChiquita {
+  }
+  json EconomicGreenSaree {
+  }
+  number DampTomatoAeriell {
+  }
+  boolean LooseTurquoisePooh {
+  }
+}

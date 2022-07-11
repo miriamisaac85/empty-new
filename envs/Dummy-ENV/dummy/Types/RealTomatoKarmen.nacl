@@ -1,0 +1,56 @@
+type dummy.RealTomatoKarmen {
+  annotations {
+    boolean DramaticPurpleBrit {
+    }
+    number DangerousBeigeRosalinda {
+    }
+    string UptightGreenNanny {
+    }
+    string TropicalJadeJordanna {
+    }
+    number SupremeOrangeEmlynn {
+    }
+    hidden_boolean IntellectualYellowMathilda {
+    }
+  }
+  hidden_boolean OkIvoryTeddy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ChillyBronzeMarnia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PregnantVioletTarah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AloneMagentaMartina {
+    _hidden_value = true
+  }
+  number LatePeachWinnah {
+    _hidden_value = true
+  }
+  number EquivalentCopperVenus {
+    _hidden_value = true
+  }
+  number LesserBronzeRosalyn {
+    _hidden_value = true
+  }
+  string IndirectTurquoiseSondra {
+    _hidden_value = true
+  }
+  number RealAmethystFawne {
+    _hidden_value = true
+  }
+  serviceid ElectricTomatoKirstin {
+    _hidden_value = true
+  }
+  DramaticPurpleBrit = false
+  DangerousBeigeRosalinda = 992
+  UptightGreenNanny = "How come the stadium got hot after the game? Because all of the fans left."
+  TropicalJadeJordanna = "Im only familiar with 25 letters in the English language. I dont know why."
+  SupremeOrangeEmlynn = 476
+  _hidden_value = true
+}

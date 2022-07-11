@@ -1,0 +1,22 @@
+type dummy.GratefulIvoryCinda {
+  annotations {
+    hidden_boolean RetiredFuchsiaKordula {
+    }
+    string AlliedOrangeTracee {
+    }
+    serviceid PaleHarlequinJuliet {
+    }
+    boolean SuspiciousMaroonShannen {
+    }
+    number EndlessAmberOrel {
+    }
+  }
+  json WrittenPinkGeralda {
+    _hidden_value = true
+  }
+  AlliedOrangeTracee = "Why did the kid cross the playground? To get to the other slide."
+  PaleHarlequinJuliet = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SuspiciousMaroonShannen = true
+  EndlessAmberOrel = 999
+  _hidden_value = true
+}

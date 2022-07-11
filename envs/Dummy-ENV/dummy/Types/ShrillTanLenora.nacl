@@ -1,0 +1,97 @@
+type dummy.ShrillTanLenora {
+  annotations {
+    serviceid ConventionalIvoryRuthe {
+    }
+    hidden_boolean CoolLimeEmmy {
+    }
+    dummy.DEFAULT LevelIndigoVerena {
+    }
+  }
+  boolean OrangeScarletLeoline {
+    _hidden_value = true
+  }
+  json UnacceptableLavenderKatrina {
+    _hidden_value = true
+  }
+  string GenerousIndigoAlta {
+    _hidden_value = true
+  }
+  string LegitimateYellowBuffy {
+    _hidden_value = true
+  }
+  hidden_boolean WorthyHarlequinDinah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ConfusedPlumFerdinanda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number CapableGrayKay {
+    _hidden_value = true
+  }
+  dummy.SoundAmaranthImelda UpsetEmeraldCathie {
+    SaltyOrangeMaribeth = "Why do birds fly south for the winter? Because it's too far to walk."
+    LazyPlumStafani = 939
+    MiserableChocolateFaina = 943
+    RespectableJadeAgatha = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    IslamicFuchsiaAidan = "Did you know that protons have mass? I didn't even know they were catholic."
+    RainyGreenMalia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    HomelessWhiteMathilde = "I'll tell you what often gets over looked... garden fences."
+    TanRoseCamellia = "A steak pun is a rare medium well done."
+    FlutteringTealHester = true
+    EagerMagentaRoslyn = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    IntensivePurpleBarbabra = 391
+    WidespreadIvoryIdelle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DepressedFuchsiaCordula = true
+    InteriorTurquoiseCharyl = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  number StrangeBlueDarby {
+    _hidden_value = true
+  }
+  number PerfectApricotJillie {
+    _hidden_value = true
+  }
+  string GeneticWhiteKerri {
+    _hidden_value = true
+  }
+  serviceid MentalBeigePattie {
+    _hidden_value = true
+  }
+  number CrudeWhiteTatum {
+    _hidden_value = true
+  }
+  boolean ProudSapphireIsabelle {
+    _hidden_value = true
+  }
+  boolean WetVioletAmmamaria {
+    _hidden_value = true
+  }
+  boolean UniqueOrangeTeresa {
+    _hidden_value = true
+  }
+  number ClassicVioletDael {
+    _hidden_value = true
+  }
+  string AccurateFuchsiaBriney {
+    _hidden_value = true
+  }
+  serviceid DynamicScarletWilmette {
+    _hidden_value = true
+  }
+  hidden_boolean VeryRoseHetty {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ConventionalIvoryRuthe = "To be Frank, I'd have to change my name."
+  LevelIndigoVerena = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  _hidden_value = true
+}

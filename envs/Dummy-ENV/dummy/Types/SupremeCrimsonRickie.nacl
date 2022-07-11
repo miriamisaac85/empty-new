@@ -1,0 +1,26 @@
+type dummy.SupremeCrimsonRickie {
+  annotations {
+    string GayCopperDebra {
+    }
+    boolean DisabledPinkCairistiona {
+    }
+    boolean DigitalMoccasinVerna {
+    }
+    number UgliestSapphireShani {
+    }
+    serviceid DisgustedBrownKial {
+    }
+    boolean OrganicGrayLatashia {
+    }
+  }
+  json TestyRoseChristiane {
+    _hidden_value = true
+  }
+  GayCopperDebra = "Why was it called the dark ages? Because of all the knights. "
+  DisabledPinkCairistiona = true
+  DigitalMoccasinVerna = false
+  UgliestSapphireShani = 890
+  DisgustedBrownKial = "Slept like a log last night  woke up in the fireplace."
+  OrganicGrayLatashia = true
+  _hidden_value = true
+}

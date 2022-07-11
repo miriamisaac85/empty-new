@@ -1,0 +1,67 @@
+type dummy.DrivingTanLeah {
+  annotations {
+    dummy.ContemporaryBlushArleyne EasySapphireMag {
+    }
+    string PlannedTanJelene {
+    }
+    dummy.AgreedAmberFredra ThenWhiteJanna {
+    }
+    string ViolentCoffeeKatey {
+    }
+    json NuttyFuchsiaAmandi {
+    }
+    boolean CorporateOliveMair {
+    }
+    boolean InternalApricotHadria {
+    }
+    hidden_boolean ShortTurquoiseLaney {
+    }
+    string ConcernedRoseDannye {
+    }
+    boolean CleverBlushTedda {
+    }
+    serviceid GoodJadeBarbara {
+    }
+    number ColonialYellowStarr {
+    }
+    json HotSapphireSalli {
+    }
+    dummy.ExtraTealDelphine NarrowLavenderJerrilyn {
+    }
+    string LatinAzureBlithe {
+    }
+    hidden_boolean BetterBronzeAlthea {
+    }
+    number AccurateMaroonPeggie {
+    }
+    number PoorYellowNessa {
+    }
+    hidden_boolean EstablishedLimeTrudy {
+    }
+    serviceid ImmediateTealGui {
+    }
+    serviceid FeministCopperRobinia {
+    }
+    serviceid ConvincingAmaranthDela {
+    }
+    boolean DepressedVioletEmmey {
+    }
+  }
+  PlannedTanJelene = "Why was it called the dark ages? Because of all the knights. "
+  ViolentCoffeeKatey = "What do you call two barracuda fish?  A Pairacuda!"
+  NuttyFuchsiaAmandi = "Im only familiar with 25 letters in the English language. I dont know why."
+  CorporateOliveMair = false
+  InternalApricotHadria = true
+  ConcernedRoseDannye = "Why is Peter Pan always flying? Because he Neverlands."
+  CleverBlushTedda = false
+  GoodJadeBarbara = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ColonialYellowStarr = 45
+  HotSapphireSalli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LatinAzureBlithe = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AccurateMaroonPeggie = 543
+  PoorYellowNessa = 567
+  ImmediateTealGui = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FeministCopperRobinia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConvincingAmaranthDela = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DepressedVioletEmmey = false
+}

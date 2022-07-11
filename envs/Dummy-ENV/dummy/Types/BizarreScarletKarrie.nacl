@@ -1,0 +1,35 @@
+type dummy.BizarreScarletKarrie is number {
+  annotations {
+    number BrightFuchsiaVivianne {
+    }
+    json HonWhiteCorrina {
+    }
+    number IntegratedFuchsiaNell {
+    }
+    json DramaticCoralVelma {
+    }
+    dummy.DEFAULT VariousBlackOdilia {
+    }
+    json ManyApricotPierette {
+    }
+    json CloudySilverLara {
+    }
+    hidden_boolean IcyCoralSofia {
+    }
+    json ItchyJadeMelina {
+    }
+    number HumanAquamarineAnnabella {
+    }
+  }
+  BrightFuchsiaVivianne = 219
+  HonWhiteCorrina = "Why did the tomato blush? Because it saw the salad dressing."
+  IntegratedFuchsiaNell = 126
+  DramaticCoralVelma = "Dad Im hungry  Hi hungry Im dad"
+  VariousBlackOdilia = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  ManyApricotPierette = "Whoever invented the knock-knock joke should get a no bell prize."
+  CloudySilverLara = "To be Frank, I'd have to change my name."
+  ItchyJadeMelina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HumanAquamarineAnnabella = 487
+}

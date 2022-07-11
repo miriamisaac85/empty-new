@@ -1,0 +1,84 @@
+type dummy.UnpleasantIvoryKristina {
+  annotations {
+    serviceid SolidGrayGlynnis {
+    }
+    string LegislativeYellowAndee {
+    }
+    serviceid ModerateFuchsiaVeradis {
+    }
+    number IsolatedTurquoiseGwen {
+    }
+    serviceid DangerousBrownDarsey {
+    }
+    number PresentRoseDeanna {
+    }
+  }
+  serviceid AlertBrownErena {
+    _hidden_value = true
+  }
+  json StormyApricotAdore {
+    _hidden_value = true
+  }
+  json PersonalOliveRandee {
+    _hidden_value = true
+  }
+  json IndirectCopperHilary {
+    _hidden_value = true
+  }
+  boolean AshamedLavenderTabitha {
+    _hidden_value = true
+  }
+  serviceid PolishPlumRegine {
+    _hidden_value = true
+  }
+  string SoftIndigoAuguste {
+    _hidden_value = true
+  }
+  number PetiteEmeraldAngy {
+    _hidden_value = true
+  }
+  hidden_boolean DetailedPurpleRosalind {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string EnormousWhiteNerita {
+    _hidden_value = true
+  }
+  json BareTanAdelle {
+    _hidden_value = true
+  }
+  string MammothCoralMaribelle {
+    _hidden_value = true
+  }
+  string PreciousHarlequinJanka {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SportingScarletOphelia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string LowYellowDi {
+    _hidden_value = true
+  }
+  json LiberalOliveChloe {
+    _hidden_value = true
+  }
+  number EagerBlackLexine {
+    _hidden_value = true
+  }
+  boolean ModernPlumDaffi {
+    _hidden_value = true
+  }
+  serviceid FellowTurquoiseVittoria {
+    _hidden_value = true
+  }
+  SolidGrayGlynnis = "Why did the tomato blush? Because it saw the salad dressing."
+  LegislativeYellowAndee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ModerateFuchsiaVeradis = "Im only familiar with 25 letters in the English language. I dont know why."
+  IsolatedTurquoiseGwen = 102
+  DangerousBrownDarsey = "Why didnt the skeleton cross the road? Because he had no guts."
+  PresentRoseDeanna = 99
+  _hidden_value = true
+}

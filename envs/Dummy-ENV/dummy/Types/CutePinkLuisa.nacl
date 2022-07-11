@@ -1,0 +1,93 @@
+type dummy.CutePinkLuisa {
+  annotations {
+    number FaithfulGrayRomy {
+    }
+    boolean PersistentGrayKrystyna {
+    }
+    hidden_boolean SillyEmeraldElita {
+    }
+    number FatalOliveCyndi {
+    }
+  }
+  number SatisfactoryOrangeCandi {
+    _hidden_value = true
+  }
+  serviceid RollingIndigoMarcille {
+    _hidden_value = true
+  }
+  json PreciousSilverCindelyn {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentCoffeeFrieda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SexualApricotHestia {
+    _hidden_value = true
+  }
+  number QuickTurquoiseCorny {
+    _hidden_value = true
+  }
+  boolean EfficientTurquoiseSadella {
+    _hidden_value = true
+  }
+  serviceid ArtificialOliveDona {
+    _hidden_value = true
+  }
+  boolean RigidCoffeeAngy {
+    _hidden_value = true
+  }
+  hidden_boolean JollySilverCatherina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number Sillygold2Lulu {
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulMaroonTuesday {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PastOliveReena {
+    _hidden_value = true
+  }
+  number DepressedCyanCon {
+    _hidden_value = true
+  }
+  json SubjectiveIvoryGiovanna {
+    _hidden_value = true
+  }
+  string VisibleLimeSharl {
+    _hidden_value = true
+  }
+  hidden_boolean UselessAmberRhianna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT CharacteristicBronzeJudi {
+    _hidden_value = true
+  }
+  serviceid Smoothgold2Bunnie {
+    _hidden_value = true
+  }
+  dummy.SubjectiveAmethystBel HonestAzureDorris {
+    BadBronzeKristel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ComingChocolateCharmane = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    BlueIvoryHollie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  json BusyJadeKaitlyn {
+    _hidden_value = true
+  }
+  number SpatialBronzeKarolina {
+    _hidden_value = true
+  }
+  FaithfulGrayRomy = 479
+  PersistentGrayKrystyna = true
+  FatalOliveCyndi = 672
+  _hidden_value = true
+}

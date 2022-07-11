@@ -1,0 +1,34 @@
+type dummy.AgriculturalAmberAdela {
+  annotations {
+    serviceid LargePurpleCarolin {
+    }
+    boolean LongCyanSibel {
+    }
+    hidden_boolean EvilSapphireBritta {
+    }
+    number PhilosophicalBeigeTallou {
+    }
+    json EthicalYellowJeni {
+    }
+  }
+  dummy.DEFAULT AncientSilverRaquela {
+    _hidden_value = true
+  }
+  json StiffPlumBethanne {
+    _hidden_value = true
+  }
+  number BeautifulCrimsonVere {
+    _hidden_value = true
+  }
+  serviceid SubstantialCrimsonArlette {
+    _hidden_value = true
+  }
+  boolean ModernYellowJeannine {
+    _hidden_value = true
+  }
+  LargePurpleCarolin = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LongCyanSibel = true
+  PhilosophicalBeigeTallou = 160
+  EthicalYellowJeni = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

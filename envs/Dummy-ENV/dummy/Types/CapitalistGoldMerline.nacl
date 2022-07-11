@@ -1,0 +1,43 @@
+type dummy.Capitalistgold2Merline {
+  annotations {
+    serviceid BitterIndigoNeila {
+    }
+    boolean LongTealAida {
+    }
+    number SovietTanBabs {
+    }
+    boolean RacialAmberCassandry {
+    }
+    json TypicalGreenFreddy {
+    }
+  }
+  number BroadFuchsiaMaryl {
+    _hidden_value = true
+  }
+  hidden_boolean ScientificCoralDora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AncientGreenSibelle {
+    _hidden_value = true
+  }
+  json RomanMagentaBrunhilde {
+    _hidden_value = true
+  }
+  number BroadSapphireWillyt {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EconomicAmberLorette {
+    _hidden_value = true
+  }
+  number ConsciousOrangeEloise {
+    _hidden_value = true
+  }
+  BitterIndigoNeila = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LongTealAida = false
+  SovietTanBabs = 883
+  RacialAmberCassandry = true
+  TypicalGreenFreddy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

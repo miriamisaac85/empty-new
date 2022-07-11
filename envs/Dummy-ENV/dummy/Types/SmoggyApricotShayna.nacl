@@ -1,0 +1,39 @@
+type dummy.SmoggyApricotShayna is number {
+  annotations {
+    dummy.DEFAULT CondemnedTealMorna {
+    }
+    dummy.DEFAULT ExcitingRedEdith {
+    }
+    hidden_boolean PublicLavenderAlvera {
+    }
+    string InnovativeAquaMurial {
+    }
+    hidden_boolean CoolEmeraldLeela {
+    }
+    json AnnoyedYellowAlaine {
+    }
+    serviceid ScrawnyLavenderEveline {
+    }
+    json EuropeanOliveKalie {
+    }
+    serviceid BeautifulCoffeeArleta {
+    }
+    serviceid SuperCrimsonYalonda {
+    }
+    number UncertainOliveMaridel {
+    }
+  }
+  CondemnedTealMorna = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  ExcitingRedEdith = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  InnovativeAquaMurial = "Why was it called the dark ages? Because of all the knights. "
+  AnnoyedYellowAlaine = "Why did the kid cross the playground? To get to the other slide."
+  ScrawnyLavenderEveline = "Why was it called the dark ages? Because of all the knights. "
+  EuropeanOliveKalie = "Dad Im hungry  Hi hungry Im dad"
+  BeautifulCoffeeArleta = "Why did the tomato blush? Because it saw the salad dressing."
+  SuperCrimsonYalonda = "Whoever invented the knock-knock joke should get a no bell prize."
+  UncertainOliveMaridel = 144
+}

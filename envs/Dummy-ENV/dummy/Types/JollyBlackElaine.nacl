@@ -1,0 +1,28 @@
+type dummy.JollyBlackElaine {
+  annotations {
+    dummy.SmallPlumLiana CurlyLavenderBritte {
+    }
+    string WealthyWhiteRafaelia {
+    }
+    string AdvancedMoccasinBecky {
+    }
+    boolean StuckHarlequinConni {
+    }
+    json InvolvedAmaranthJoelynn {
+    }
+    dummy.AppropriateChocolateLadonna RawPlumAllsun {
+    }
+  }
+  hidden_boolean SpontaneousMaroonIormina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CurlyLavenderBritte = true
+  WealthyWhiteRafaelia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AdvancedMoccasinBecky = "Dad Im hungry  Hi hungry Im dad"
+  StuckHarlequinConni = false
+  InvolvedAmaranthJoelynn = "Why was it called the dark ages? Because of all the knights. "
+  RawPlumAllsun = 778
+  _hidden_value = true
+}

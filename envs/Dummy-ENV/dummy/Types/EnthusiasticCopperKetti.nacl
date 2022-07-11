@@ -1,0 +1,118 @@
+type dummy.EnthusiasticCopperKetti {
+  annotations {
+    number OutrageousBrownEmmye {
+    }
+    serviceid PreparedMoccasinDeerdre {
+    }
+    dummy.DEFAULT StrangeAquaPetrina {
+    }
+    number IsolatedSalmonJillane {
+    }
+    dummy.DEFAULT MiniatureLimeDot {
+    }
+  }
+  dummy.DEFAULT PrimeTealTimmy {
+    _hidden_value = true
+  }
+  boolean FunnyVioletDolli {
+    _hidden_value = true
+  }
+  number IsolatedLavenderCecil {
+    _hidden_value = true
+  }
+  boolean CertainApricotEdita {
+    _hidden_value = true
+  }
+  string SubstantialTomatoGunilla {
+    _hidden_value = true
+  }
+  json ExactLavenderCamellia {
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine WoodenOliveAnnmarie {
+    ContentAzureLindsay = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    FellowVioletSapphire = "Why did the tomato blush? Because it saw the salad dressing."
+    LittleCrimsonRosina = "I'll tell you what often gets over looked... garden fences."
+    DeafeningCyanCassandry = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  "Map<boolean>" LatinMoccasinArdyce {
+    _hidden_value = true
+  }
+  number ColossalAzureCarlene {
+    _hidden_value = true
+  }
+  string StrongRedMignonne {
+    _hidden_value = true
+  }
+  json StrangeSalmonStesha {
+    _hidden_value = true
+  }
+  json MonthlyYellowAnnadiana {
+    _hidden_value = true
+  }
+  boolean FranticMaroonAmandie {
+    _hidden_value = true
+  }
+  json PromisingHarlequinFania {
+    _hidden_value = true
+  }
+  dummy.AbundantCoralBelva MaleCyanKalina {
+    NarrowLavenderWren = false
+    JustAquaTobi = "Whoever invented the knock-knock joke should get a no bell prize."
+    NutritiousApricotKarly = "Slept like a log last night  woke up in the fireplace."
+    ScreechingJadeRennie = true
+    SharedHarlequinMarnie = true
+    ImmenseBlushJyoti = 25
+    SmoothGrayGilemette = 77
+    _hidden_value = true
+  }
+  boolean HappyGrayLonna {
+    _hidden_value = true
+  }
+  boolean MildTanKarel {
+    _hidden_value = true
+  }
+  boolean EstimatedHarlequinKaryn {
+    _hidden_value = true
+  }
+  json AfricanSilverKitti {
+    _hidden_value = true
+  }
+  number SpecificCopperHelga {
+    _hidden_value = true
+  }
+  number CurrentTealMeredithe {
+    _hidden_value = true
+  }
+  string BrainySalmonAlanna {
+    _hidden_value = true
+  }
+  hidden_boolean HealthyTomatoKristy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DrunkSalmonBillie {
+    _hidden_value = true
+  }
+  serviceid PunyYellowNikolia {
+    _hidden_value = true
+  }
+  boolean InquisitiveCopperRay {
+    _hidden_value = true
+  }
+  json LegalBlushArlene {
+    _hidden_value = true
+  }
+  OutrageousBrownEmmye = 146
+  PreparedMoccasinDeerdre = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  StrangeAquaPetrina = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  IsolatedSalmonJillane = 817
+  MiniatureLimeDot = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+}

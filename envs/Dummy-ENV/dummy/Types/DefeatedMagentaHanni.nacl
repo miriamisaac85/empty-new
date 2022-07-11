@@ -1,0 +1,39 @@
+type dummy.DefeatedMagentaHanni {
+  annotations {
+    hidden_boolean FrightenedMoccasinNina {
+    }
+    number Scientificgold2Novelia {
+    }
+    json DepressedMagentaZoe {
+    }
+    serviceid IndependentIvoryJoscelin {
+    }
+  }
+  string InterestedOliveHetty {
+    _hidden_value = true
+  }
+  boolean BeautifulCrimsonCaresa {
+    _hidden_value = true
+  }
+  "List<serviceid>" ProfitableScarletBlake {
+    _hidden_value = true
+  }
+  boolean ExtraordinaryBlackCorinna {
+    _hidden_value = true
+  }
+  hidden_boolean BewilderedSalmonKonstanze {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ConfidentAzureVonnie {
+    _hidden_value = true
+  }
+  number WetGreenKristy {
+    _hidden_value = true
+  }
+  Scientificgold2Novelia = 580
+  DepressedMagentaZoe = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IndependentIvoryJoscelin = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

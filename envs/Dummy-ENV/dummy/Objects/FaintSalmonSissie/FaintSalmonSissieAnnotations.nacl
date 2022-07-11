@@ -1,0 +1,55 @@
+type dummy.FaintSalmonSissie {
+  annotations {
+    serviceid ShortBlushEthelind {
+    }
+    string DesperateBlackRuthe {
+    }
+    dummy.RunningAquaRoshelle GracefulSilverDorris {
+    }
+    hidden_boolean SocialMaroonOndrea {
+    }
+    boolean SteadyPeachChicky {
+    }
+    serviceid CheerfulAmethystMaure {
+    }
+    boolean EnviousBlushAnnalise {
+    }
+    dummy.FilthyLimeFaye NaughtyTealKippie {
+    }
+    hidden_boolean MajorPlumCharmaine {
+    }
+    string DistinguishedBlueTrina {
+    }
+    json ConfusedFuchsiaSarita {
+    }
+    boolean ElectronicLimeMadalena {
+    }
+    number PreciousTomatoBernardina {
+    }
+    boolean BareMagentaArdelia {
+    }
+    number ColossalBlackMarcellina {
+    }
+    dummy.VastAquamarineGianina BlindJadeKarin {
+    }
+    string FascinatingBlackIra {
+    }
+    number VictoriousRedBeverley {
+    }
+  }
+  ShortBlushEthelind = "Why is Peter Pan always flying? Because he Neverlands."
+  DesperateBlackRuthe = "What creature is smarter than a talking parrot? A spelling bee."
+  GracefulSilverDorris = 732
+  SteadyPeachChicky = true
+  CheerfulAmethystMaure = "What creature is smarter than a talking parrot? A spelling bee."
+  EnviousBlushAnnalise = false
+  NaughtyTealKippie = false
+  DistinguishedBlueTrina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ConfusedFuchsiaSarita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ElectronicLimeMadalena = false
+  PreciousTomatoBernardina = 657
+  BareMagentaArdelia = true
+  ColossalBlackMarcellina = 861
+  FascinatingBlackIra = "Slept like a log last night  woke up in the fireplace."
+  VictoriousRedBeverley = 667
+}

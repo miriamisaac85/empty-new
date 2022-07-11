@@ -1,0 +1,39 @@
+type dummy.EffectiveSapphireMureil {
+  annotations {
+    string SlimApricotElmira {
+    }
+    serviceid SillyRedJosy {
+    }
+    number AliveAquamarineXena {
+    }
+    dummy.DEFAULT UnderlyingAmaranthBenni {
+    }
+    serviceid NearbyTurquoiseJen {
+    }
+  }
+  json DeadAmaranthKatherina {
+    _hidden_value = true
+  }
+  string EnglishMoccasinLiv {
+    _hidden_value = true
+  }
+  hidden_boolean DemocraticAmethystAgna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string BlushingSapphireLaureen {
+    _hidden_value = true
+  }
+  string Dirtygold2Madella {
+    _hidden_value = true
+  }
+  SlimApricotElmira = "Why is Peter Pan always flying? Because he Neverlands."
+  SillyRedJosy = "A steak pun is a rare medium well done."
+  AliveAquamarineXena = 848
+  UnderlyingAmaranthBenni = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  NearbyTurquoiseJen = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

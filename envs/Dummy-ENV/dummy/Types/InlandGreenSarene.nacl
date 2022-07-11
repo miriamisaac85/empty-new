@@ -1,0 +1,36 @@
+type dummy.InlandGreenSarene is boolean {
+  annotations {
+    json DullSapphireMeredith {
+    }
+    number RealisticOliveMarinna {
+    }
+    number TroubledIndigoWinnie {
+    }
+    hidden_boolean CollectiveTanMissy {
+    }
+    string CrazyBlackNeille {
+    }
+    json PassingCyanHeida {
+    }
+    serviceid Politicalgold2Mozelle {
+    }
+    number GreatBronzeEttie {
+    }
+    number CloseRedClarine {
+    }
+    hidden_boolean YellowIvoryKimberley {
+    }
+    hidden_boolean CuddlyCrimsonNessie {
+    }
+    hidden_boolean YummyTanSimonette {
+    }
+  }
+  DullSapphireMeredith = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RealisticOliveMarinna = 702
+  TroubledIndigoWinnie = 75
+  CrazyBlackNeille = "Slept like a log last night  woke up in the fireplace."
+  PassingCyanHeida = "What do you do on a remote island? Try and find the TV island it belongs to."
+  Politicalgold2Mozelle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GreatBronzeEttie = 622
+  CloseRedClarine = 928
+}

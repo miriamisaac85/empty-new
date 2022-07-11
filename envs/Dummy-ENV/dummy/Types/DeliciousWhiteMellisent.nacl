@@ -1,0 +1,98 @@
+type dummy.DeliciousWhiteMellisent {
+  annotations {
+    string CorporateYellowLacy {
+    }
+    json GayCyanCalida {
+    }
+    json PurringYellowKaterina {
+    }
+    hidden_boolean ControlledBronzeLorraine {
+    }
+  }
+  boolean AbovePeachNerita {
+    _hidden_value = true
+  }
+  hidden_boolean Thoroughgold2Brynn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FixedBeigeSher {
+    _hidden_value = true
+  }
+  string LengthyYellowJoan {
+    _hidden_value = true
+  }
+  boolean ResonantTurquoiseBlakelee {
+    _hidden_value = true
+  }
+  hidden_boolean EasternTanFredra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string BadBronzeSaree {
+    _hidden_value = true
+  }
+  number CivilianCrimsonChelsie {
+    _hidden_value = true
+  }
+  serviceid FoolishTealPearline {
+    _hidden_value = true
+  }
+  boolean GreekCopperCarolin {
+    _hidden_value = true
+  }
+  boolean HorribleCyanCami {
+    _hidden_value = true
+  }
+  number EconomicTealVita {
+    _hidden_value = true
+  }
+  string ForthcomingOliveLina {
+    _hidden_value = true
+  }
+  boolean DifferentTealViolante {
+    _hidden_value = true
+  }
+  json PricklySapphireAnnecorinne {
+    _hidden_value = true
+  }
+  number NovelScarletMaxy {
+    _hidden_value = true
+  }
+  number ShiveringScarletAurore {
+    _hidden_value = true
+  }
+  "List<json>" RequiredMaroonLonni {
+    _hidden_value = true
+  }
+  dummy.EquivalentJadeCaria InsufficientAmethystMei {
+    ImpressiveCoralRoanne = true
+    AwareScarletRhianon = "Did you know that protons have mass? I didn't even know they were catholic."
+    SimilarTealTova = 690
+    LazyJadeAlvina = true
+    InsufficientBlushGertrude = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PlasticPinkSidonia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    HappyAmaranthRhianna = false
+    RoughOliveKailey = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    SatisfiedAmaranthCarilyn = 446
+    NarrowPinkMadeleine = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  number LightAquaHedda {
+    _hidden_value = true
+  }
+  number HugeRedCherice {
+    _hidden_value = true
+  }
+  serviceid UnlikelyYellowFarra {
+    _hidden_value = true
+  }
+  CorporateYellowLacy = "Why was it called the dark ages? Because of all the knights. "
+  GayCyanCalida = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PurringYellowKaterina = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

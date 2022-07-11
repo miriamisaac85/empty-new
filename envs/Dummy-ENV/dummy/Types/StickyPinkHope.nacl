@@ -1,0 +1,106 @@
+type dummy.StickyPinkHope {
+  annotations {
+    serviceid DevelopingOliveAnnabell {
+    }
+    hidden_boolean AliveMagentaCherilyn {
+    }
+    number ElectoralRedCordula {
+    }
+    boolean DeepSilverNoell {
+    }
+    number ParentalBronzeNorri {
+    }
+  }
+  dummy.VoluntaryBlushSonja TrickyCrimsonLurline {
+    CoolAmberOfelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OrthodoxYellowVally = 551
+    AfricanPinkSteffane = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    HelpfulLavenderErna = "How come the stadium got hot after the game? Because all of the fans left."
+    DualMaroonRosmunda = 631
+    InternationalMaroonKaia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ObligedMoccasinAtlante = "Why did the tomato blush? Because it saw the salad dressing."
+    IntelligentAmaranthKarine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  hidden_boolean ShrillLimeTheadora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SilentAquamarineTilda {
+    _hidden_value = true
+  }
+  boolean SuperBlushAgna {
+    _hidden_value = true
+  }
+  json RattyPurpleGennie {
+    _hidden_value = true
+  }
+  number FlatTurquoiseEthelda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RegionalCrimsonBelicia {
+    _hidden_value = true
+  }
+  string ExcessYellowLisha {
+    _hidden_value = true
+  }
+  serviceid ItchyBeigeZia {
+    _hidden_value = true
+  }
+  serviceid ExceptionalCrimsonGerry {
+    _hidden_value = true
+  }
+  dummy.EntireBrownJacki MeanMoccasinBernete {
+    gold2enWhiteKarin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UgliestPeachMerla = 36
+    CoolCoralAtlante = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    LiteraryPeachMilzie = 841
+    PregnantPinkRobbie = "I'll tell you what often gets over looked... garden fences."
+    AcuteBrownMaryellen = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MisleadingCoffeeHarriette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ModernBronzeGilli = 133
+    ElaborateMoccasinArdis = "Why did the tomato blush? Because it saw the salad dressing."
+    ComprehensiveSilverDanette = true
+    JustMagentaDevina = false
+    UnexpectedMoccasinRene = 990
+    CulturalRoseElora = "Slept like a log last night  woke up in the fireplace."
+    CanadianAmberDoe = 878
+    IntelligentTomatoConstancy = "My first time using an elevator was an uplifting experience. The second time let me down."
+    InappropriateGrayCourtney = "Why did the kid cross the playground? To get to the other slide."
+    RivalAquamarineGerda = '''
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+'''
+    PatientFuchsiaMatelda = true
+    _hidden_value = true
+  }
+  hidden_boolean ZanyApricotRobin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SmartChocolateGuendolen {
+    _hidden_value = true
+  }
+  hidden_boolean SquarePinkJacklyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GeneralCrimsonDorelle {
+    _hidden_value = true
+  }
+  hidden_boolean NavalBlackNollie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  DevelopingOliveAnnabell = "To be Frank, I'd have to change my name."
+  ElectoralRedCordula = 493
+  DeepSilverNoell = false
+  ParentalBronzeNorri = 39
+  _hidden_value = true
+}

@@ -1,0 +1,91 @@
+type dummy.CautiousCoralCassondra {
+  annotations {
+    serviceid MuddyBlushLucita {
+    }
+    string SecureIndigoCherlyn {
+    }
+    hidden_boolean FreshAmaranthNadeen {
+    }
+    json TastyTanBlondell {
+    }
+    dummy.PuzzledTanTildi LatinCyanThekla {
+    }
+    json LazyMaroonPansie {
+    }
+  }
+  hidden_boolean SuperbYellowCordey {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json UnconsciousGrayMarcellina {
+    _hidden_value = true
+  }
+  dummy.SmoggyApricotShayna BusyRedSybila {
+    CondemnedTealMorna = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    ExcitingRedEdith = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    InnovativeAquaMurial = "Why was it called the dark ages? Because of all the knights. "
+    AnnoyedYellowAlaine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ScrawnyLavenderEveline = "Why did the kid cross the playground? To get to the other slide."
+    EuropeanOliveKalie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BeautifulCoffeeArleta = "Why do birds fly south for the winter? Because it's too far to walk."
+    SuperCrimsonYalonda = "Did you know that protons have mass? I didn't even know they were catholic."
+    UncertainOliveMaridel = 924
+    _hidden_value = true
+  }
+  number EuropeanSilverKora {
+    _hidden_value = true
+  }
+  serviceid ExcitedSapphireTerrijo {
+    _hidden_value = true
+  }
+  string WideRoseVanda {
+    _hidden_value = true
+  }
+  dummy.ShallowSalmonAdelaide ClumsyMagentaAila {
+    AdvancedAquaMarion = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    MonetaryLimeElectra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ResponsibleEmeraldBetti = "Dad Im hungry  Hi hungry Im dad"
+    RichLimeSukey = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SorryWhitePrue = "I'll tell you what often gets over looked... garden fences."
+    TemporaryTomatoLinnell = 114
+    YummyPinkMinnnie = "A steak pun is a rare medium well done."
+    RemarkableOliveLeona = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    RelievedCopperMozelle = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObedientTomatoAllis {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConstitutionalAmberHenrieta {
+    _hidden_value = true
+  }
+  hidden_boolean MarkedPlumBessy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number GreekIndigoAnallese {
+    _hidden_value = true
+  }
+  json LightGraySayre {
+    _hidden_value = true
+  }
+  string DemocraticOrangeKatey {
+    _hidden_value = true
+  }
+  MuddyBlushLucita = "Why is Peter Pan always flying? Because he Neverlands."
+  SecureIndigoCherlyn = "Slept like a log last night  woke up in the fireplace."
+  TastyTanBlondell = "A steak pun is a rare medium well done."
+  LatinCyanThekla = 798
+  LazyMaroonPansie = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

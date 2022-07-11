@@ -1,0 +1,56 @@
+type dummy.CircularBronzeBeverie {
+  annotations {
+    boolean LateYellowFaustina {
+    }
+    json CharmingCoffeeLetitia {
+    }
+    json ProperPlumCarolee {
+    }
+    number MeaningfulAzureAshlie {
+    }
+  }
+  boolean GrossAquaMargarethe {
+    _hidden_value = true
+  }
+  json FilthyAquamarinePeria {
+    _hidden_value = true
+  }
+  serviceid HomelyAmethystAggi {
+    _hidden_value = true
+  }
+  json FineGrayChelsea {
+    _hidden_value = true
+  }
+  json EverydayTealTracey {
+    _hidden_value = true
+  }
+  serviceid QualifiedAzureKorrie {
+    _hidden_value = true
+  }
+  boolean PremierLavenderJoela {
+    _hidden_value = true
+  }
+  string ComplexGrayWandie {
+    _hidden_value = true
+  }
+  json DeadSapphireMartica {
+    _hidden_value = true
+  }
+  boolean PreferredPlumCaroljean {
+    _hidden_value = true
+  }
+  serviceid ThickSapphireRetha {
+    _hidden_value = true
+  }
+  number SubsequentSapphireCariotta {
+    _hidden_value = true
+  }
+  json StupidPeachMilka {
+    _hidden_value = true
+  }
+  LateYellowFaustina = true
+  CharmingCoffeeLetitia = "Slept like a log last night  woke up in the fireplace."
+  ProperPlumCarolee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MeaningfulAzureAshlie = 991
+  _hidden_value = true
+}

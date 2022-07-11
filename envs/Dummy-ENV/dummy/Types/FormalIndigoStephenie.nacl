@@ -1,0 +1,86 @@
+type dummy.FormalIndigoStephenie {
+  annotations {
+    string EnthusiasticIvoryRaquel {
+    }
+    hidden_boolean FemaleAmberNinetta {
+    }
+    boolean SuperiorRoseKittie {
+    }
+    number TechnologicalWhiteGusta {
+    }
+  }
+  string ReligiousPlumGrethel {
+    _hidden_value = true
+  }
+  serviceid MidFuchsiaDorolisa {
+    _hidden_value = true
+  }
+  string AdverseCyanOrelle {
+    _hidden_value = true
+  }
+  json IndianCoralFlorie {
+    _hidden_value = true
+  }
+  number DeliciousPlumEllissa {
+    _hidden_value = true
+  }
+  boolean Priorgold2Tammara {
+    _hidden_value = true
+  }
+  boolean FrightenedBronzeZoe {
+    _hidden_value = true
+  }
+  string NervousIndigoTomasina {
+    _hidden_value = true
+  }
+  boolean GrubbyMaroonBettye {
+    _hidden_value = true
+  }
+  json ExplicitChocolateGuillemette {
+    _hidden_value = true
+  }
+  hidden_boolean SpiritualWhiteJerrine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FatTomatoLaurette {
+    _hidden_value = true
+  }
+  boolean NiceCyanMalvina {
+    _hidden_value = true
+  }
+  serviceid RoastedTurquoisePhillida {
+    _hidden_value = true
+  }
+  "List<boolean>" RemainingTanLindy {
+    _hidden_value = true
+  }
+  boolean BreezyBlueLori {
+    _hidden_value = true
+  }
+  string AbstractIndigoTrudi {
+    _hidden_value = true
+  }
+  hidden_boolean BitterTealDavina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SuccessfulSilverUmeko {
+    _hidden_value = true
+  }
+  number PerfectBeigeAigneis {
+    _hidden_value = true
+  }
+  serviceid ControversialTanMaryjo {
+    _hidden_value = true
+  }
+  serviceid SuitableSapphireDanica {
+    _hidden_value = true
+  }
+  EnthusiasticIvoryRaquel = "Why is Peter Pan always flying? Because he Neverlands."
+  SuperiorRoseKittie = false
+  TechnologicalWhiteGusta = 944
+  _hidden_value = true
+}

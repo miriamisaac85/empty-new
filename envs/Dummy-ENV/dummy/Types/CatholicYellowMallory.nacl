@@ -1,0 +1,155 @@
+type dummy.CatholicYellowMallory {
+  annotations {
+    json AustralianGrayDara {
+    }
+    hidden_boolean RelievedBlackElinore {
+    }
+    serviceid TemporarySalmonIris {
+    }
+    serviceid NarrowEmeraldGrazia {
+    }
+  }
+  json NaughtyVioletSharona {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WideBrownJany {
+    _hidden_value = true
+  }
+  hidden_boolean WealthyApricotJillene {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string UnchangedCyanMarieann {
+    _hidden_value = true
+  }
+  json ProbablePlumSelena {
+    _hidden_value = true
+  }
+  json OutstandingAzureKariotta {
+    _hidden_value = true
+  }
+  hidden_boolean LittleWhiteRey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json NiceBlushZorana {
+    _hidden_value = true
+  }
+  number CrazyRedLeshia {
+    _hidden_value = true
+  }
+  json Undergroundgold2Kathye {
+    _hidden_value = true
+  }
+  boolean DivineGreenCam {
+    _hidden_value = true
+  }
+  dummy.StrikingMoccasinLonnie StrongTanMinetta {
+    TastelessYellowTheodora = "Slept like a log last night  woke up in the fireplace."
+    UnableCrimsonSydel = true
+    AfraidLavenderAbagail = 478
+    CarefulRoseMichell = "What do you call two barracuda fish?  A Pairacuda!"
+    SpanishIvoryCordey = "Why was it called the dark ages? Because of all the knights. "
+    SmoothAmberKatharyn = true
+    WoodenGrayKaitlin = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  dummy.DEFAULT SlowLimeFernandina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BindingLimeEmilee {
+    _hidden_value = true
+  }
+  serviceid MuddyPinkDarline {
+    _hidden_value = true
+  }
+  json ConvincingMoccasinAnnamaria {
+    _hidden_value = true
+  }
+  hidden_boolean VeryCyanBriny {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid IntactAzureCaterina {
+    _hidden_value = true
+  }
+  number FirmAmberNanny {
+    _hidden_value = true
+  }
+  number PoorOliveDeanna {
+    _hidden_value = true
+  }
+  serviceid Grimgold2Rozella {
+    _hidden_value = true
+  }
+  boolean HorribleBrownLavina {
+    _hidden_value = true
+  }
+  serviceid SoftCrimsonHelaina {
+    _hidden_value = true
+  }
+  dummy.SorryPlumLottie RoundSapphireNancey {
+    VaryingTealDyanne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HandicappedBrownMartita = "Im only familiar with 25 letters in the English language. I dont know why."
+    CoolTurquoiseCaryl = "Whoever invented the knock-knock joke should get a no bell prize."
+    WonderfulSilverOralle = true
+    RapidAmethystTerza = 619
+    TightCoralAbagael = 354
+    YummyAmethystLenore = false
+    ManyAquaEdi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HarshCrimsonValry = 567
+    CulturalPurpleWenonah = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AfraidTanRozanna = 159
+    BeautifulYellowStacy = 136
+    ImmenseSalmonBatsheva = 674
+    ManagerialTurquoiseBelva = "Why do birds fly south for the winter? Because it's too far to walk."
+    Leadinggold2Harriot = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa LoudWhiteKelila {
+    _hidden_value = true
+  }
+  hidden_boolean VoluntaryPinkAntoinette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SlimGrayTonie {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedBlueAnnissa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AdorableLavenderNicolea {
+    _hidden_value = true
+  }
+  "List<serviceid>" ImpossibleMoccasinColline {
+    _hidden_value = true
+  }
+  serviceid PermanentSapphireTeriann {
+    _hidden_value = true
+  }
+  number FullTurquoiseZahara {
+    _hidden_value = true
+  }
+  string JapaneseBlueKarina {
+    _hidden_value = true
+  }
+  number DangerousWhiteLotty {
+    _hidden_value = true
+  }
+  hidden_boolean GreyIvoryKoressa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  AustralianGrayDara = "Slept like a log last night  woke up in the fireplace."
+  TemporarySalmonIris = "A steak pun is a rare medium well done."
+  NarrowEmeraldGrazia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

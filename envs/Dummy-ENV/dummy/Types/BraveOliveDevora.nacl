@@ -1,0 +1,114 @@
+type dummy.BraveOliveDevora {
+  annotations {
+    json ToxicCopperCelle {
+    }
+    json ManyAmberNicholle {
+    }
+    hidden_boolean DisturbedSapphireGlenn {
+    }
+    number BareFuchsiaNeysa {
+    }
+    boolean ExcessWhiteFiann {
+    }
+    boolean WorriedGreenShir {
+    }
+  }
+  boolean DeterminedAquaLeah {
+    _hidden_value = true
+  }
+  hidden_boolean NavalLimeNatividad {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string WidespreadBlueKarissa {
+    _hidden_value = true
+  }
+  string AccusedIvoryKathlin {
+    _hidden_value = true
+  }
+  boolean NursingBlueCamille {
+    _hidden_value = true
+  }
+  hidden_boolean VerticalLavenderDaryl {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string TopLimeEmelia {
+    _hidden_value = true
+  }
+  json WetHarlequinMaia {
+    _hidden_value = true
+  }
+  json PassingGreenCacilie {
+    _hidden_value = true
+  }
+  json IraqiRoseJohanna {
+    _hidden_value = true
+  }
+  serviceid KoreanSilverTasia {
+    _hidden_value = true
+  }
+  dummy.AfraidAquaFawn PurpleJadeKorie {
+    WideJadeWynny = 880
+    ColdOrangeCamel = "Why did the kid cross the playground? To get to the other slide."
+    DesperateAquamarineBrandea = 522
+    DecentCoralAnthia = "Whoever invented the knock-knock joke should get a no bell prize."
+    HelplessAquaSharline = "Why did the kid cross the playground? To get to the other slide."
+    DyingTurquoisePage = 579
+    AfraidBrownFawnia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PositivePinkFerdinande = 890
+    IncredibleOliveLeila = "Why do birds fly south for the winter? Because it's too far to walk."
+    FlutteringPlumLydia = 732
+    ArrogantBlueMilena = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    ElegantBeigeFran = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  hidden_boolean ExtendedBlueLurline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AgreedRoseKaryn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PersistentLimeCher {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BoldPinkCate {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DirectWhiteJan {
+    _hidden_value = true
+  }
+  string WonderfulOrangeHonoria {
+    _hidden_value = true
+  }
+  string ConcreteOrangeRoxi {
+    _hidden_value = true
+  }
+  json RetiredYellowAdelaida {
+    _hidden_value = true
+  }
+  number ZanyFuchsiaElisabet {
+    _hidden_value = true
+  }
+  string Sourgold2Magdalen {
+    _hidden_value = true
+  }
+  ToxicCopperCelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ManyAmberNicholle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BareFuchsiaNeysa = 182
+  ExcessWhiteFiann = false
+  WorriedGreenShir = false
+  _hidden_value = true
+}

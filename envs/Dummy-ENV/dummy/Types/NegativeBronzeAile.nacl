@@ -1,0 +1,78 @@
+type dummy.NegativeBronzeAile {
+  annotations {
+    boolean EntireFuchsiaElsa {
+    }
+    hidden_boolean LinearSapphireFelice {
+    }
+    dummy.BizarreScarletKarrie ShaggyYellowImogen {
+    }
+    boolean UptightFuchsiaLivy {
+    }
+    number ExtendedCyanGilbertina {
+    }
+  }
+  hidden_boolean CutePurpleStephine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json IntegralPurpleMadelle {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentPinkKaylyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<json>" WelcomeVioletNicholle {
+    _hidden_value = true
+  }
+  number AttractiveGreenLilias {
+    _hidden_value = true
+  }
+  boolean BraveYellowWendie {
+    _hidden_value = true
+  }
+  json SquarePinkMyrilla {
+    _hidden_value = true
+  }
+  number BackMaroonJacquie {
+    _hidden_value = true
+  }
+  json MereHarlequinErica {
+    _hidden_value = true
+  }
+  string BottomBlueCelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT Formalgold2Jorrie {
+    _hidden_value = true
+  }
+  json FunnyHarlequinElly {
+    _hidden_value = true
+  }
+  serviceid RobustBlushMatelda {
+    _hidden_value = true
+  }
+  hidden_boolean DisgustedBeigeLexis {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RetiredSilverMaisey {
+    _hidden_value = true
+  }
+  hidden_boolean ReliableCrimsonHarriett {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SimpleSalmonLiane {
+    _hidden_value = true
+  }
+  EntireFuchsiaElsa = false
+  ShaggyYellowImogen = 444
+  UptightFuchsiaLivy = true
+  ExtendedCyanGilbertina = 291
+  _hidden_value = true
+}

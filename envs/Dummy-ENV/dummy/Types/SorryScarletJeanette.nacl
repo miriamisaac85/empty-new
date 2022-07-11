@@ -1,0 +1,40 @@
+type dummy.SorryScarletJeanette {
+  annotations {
+    dummy.DEFAULT BrightRedFanny {
+    }
+    serviceid FreshTomatoCandi {
+    }
+    hidden_boolean ComplexVioletGilemette {
+    }
+    boolean RelievedCoralRozina {
+    }
+    hidden_boolean UptightCoralLeonore {
+    }
+    serviceid UnhappyBlushSapphire {
+    }
+  }
+  boolean CalmOliveJorie {
+    _hidden_value = true
+  }
+  boolean LinearChocolateAshli {
+    _hidden_value = true
+  }
+  json BadSilverWendye {
+    _hidden_value = true
+  }
+  hidden_boolean ProtestantOrangeFederica {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SpecifiedMaroonDael {
+    _hidden_value = true
+  }
+  BrightRedFanny = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  FreshTomatoCandi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RelievedCoralRozina = true
+  UnhappyBlushSapphire = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

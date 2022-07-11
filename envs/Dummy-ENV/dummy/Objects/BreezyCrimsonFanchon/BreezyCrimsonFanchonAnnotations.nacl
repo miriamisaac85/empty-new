@@ -1,0 +1,68 @@
+type dummy.BreezyCrimsonFanchon {
+  annotations {
+    number ContemporaryBeigeSibley {
+    }
+    serviceid UnevenEmeraldCinnamon {
+    }
+    boolean BlushingFuchsiaCarolynn {
+    }
+    number EldestGreenOlivette {
+    }
+    serviceid LightBlushAime {
+    }
+    serviceid BottomMoccasinNada {
+    }
+    json PracticalRedLissi {
+    }
+    string SourMoccasinLeilah {
+    }
+    boolean SuperPeachHaley {
+    }
+    hidden_boolean DoubleWhiteAshla {
+    }
+    string RipeRoseBinni {
+    }
+    dummy.InlandGreenSarene ArmedFuchsiaAmara {
+    }
+    number FunnyPeachRhodia {
+    }
+    dummy.ProudScarletTheodora CoastalLimeNell {
+    }
+    json StickyFuchsiaAnallise {
+    }
+    hidden_boolean EnvironmentalLavenderRoxie {
+    }
+    hidden_boolean JollyOrangeTova {
+    }
+    number NakedApricotRana {
+    }
+    number PossibleAquamarineDarcie {
+    }
+    string IsraeliBlushSharline {
+    }
+    serviceid SwissBeigeElectra {
+    }
+    number ModestTealRoxana {
+    }
+    hidden_boolean GreatPinkFrancoise {
+    }
+  }
+  ContemporaryBeigeSibley = 210
+  UnevenEmeraldCinnamon = "What creature is smarter than a talking parrot? A spelling bee."
+  BlushingFuchsiaCarolynn = false
+  EldestGreenOlivette = 832
+  LightBlushAime = "Why did the tomato blush? Because it saw the salad dressing."
+  BottomMoccasinNada = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PracticalRedLissi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SourMoccasinLeilah = "Why did the tomato blush? Because it saw the salad dressing."
+  SuperPeachHaley = false
+  RipeRoseBinni = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ArmedFuchsiaAmara = true
+  FunnyPeachRhodia = 366
+  StickyFuchsiaAnallise = "What creature is smarter than a talking parrot? A spelling bee."
+  NakedApricotRana = 554
+  PossibleAquamarineDarcie = 37
+  IsraeliBlushSharline = "Why didnt the skeleton cross the road? Because he had no guts."
+  SwissBeigeElectra = "Why do birds fly south for the winter? Because it's too far to walk."
+  ModestTealRoxana = 651
+}

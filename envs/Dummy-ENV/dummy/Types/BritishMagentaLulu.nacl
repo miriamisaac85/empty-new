@@ -1,0 +1,60 @@
+type dummy.BritishMagentaLulu {
+  annotations {
+    hidden_boolean CrudeTealLorianne {
+    }
+    json DisastrousHarlequinTiffanie {
+    }
+    hidden_boolean FrequentGreenSaba {
+    }
+    json RespectableMaroonMoselle {
+    }
+    serviceid HiddenSapphireDrusilla {
+    }
+  }
+  string VerticalPeachAlexandrina {
+    _hidden_value = true
+  }
+  json PainfulBrownSisely {
+    _hidden_value = true
+  }
+  hidden_boolean LightVioletCrissy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string InappropriateBlushSharity {
+    _hidden_value = true
+  }
+  hidden_boolean PsychiatricAmethystClari {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PricklyCoffeeRoselle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ProductiveApricotPeggie {
+    _hidden_value = true
+  }
+  json StraightWhiteRosalinda {
+    _hidden_value = true
+  }
+  serviceid ConservationLimeKarole {
+    _hidden_value = true
+  }
+  boolean SoreSapphirePavia {
+    _hidden_value = true
+  }
+  serviceid FairCoffeeDelinda {
+    _hidden_value = true
+  }
+  number HotSilverSophi {
+    _hidden_value = true
+  }
+  DisastrousHarlequinTiffanie = "What do you call two barracuda fish?  A Pairacuda!"
+  RespectableMaroonMoselle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HiddenSapphireDrusilla = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

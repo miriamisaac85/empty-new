@@ -1,0 +1,115 @@
+type dummy.EligibleGraySandie {
+  annotations {
+    boolean CreepySapphireGretal {
+    }
+    dummy.PuzzledTanTildi FranticTealKalindi {
+    }
+    json ToryTanFerdinande {
+    }
+    number CrookedPlumKrissy {
+    }
+    serviceid BusyChocolateAmandie {
+    }
+    number RudeHarlequinEttie {
+    }
+  }
+  string RelatedMoccasinKarlen {
+    _hidden_value = true
+  }
+  number CivilianBlueDeloria {
+    _hidden_value = true
+  }
+  boolean AdverseBlueSherrie {
+    _hidden_value = true
+  }
+  serviceid CleverIndigoDomini {
+    _hidden_value = true
+  }
+  json OldBlueAnnelise {
+    _hidden_value = true
+  }
+  json FemaleOliveAdelheid {
+    _hidden_value = true
+  }
+  hidden_boolean ObviousVioletAlidia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" CrazyTurquoiseMoina {
+    _hidden_value = true
+  }
+  number PreciousGrayLudovika {
+    _hidden_value = true
+  }
+  boolean LooseBrownLia {
+    _hidden_value = true
+  }
+  serviceid LimitedJadeSusana {
+    _hidden_value = true
+  }
+  serviceid RedAquaCindy {
+    _hidden_value = true
+  }
+  number LooseGreenPia {
+    _hidden_value = true
+  }
+  json SecretCrimsonGenni {
+    _hidden_value = true
+  }
+  number BlackScarletMariana {
+    _hidden_value = true
+  }
+  json DefiantPeachMelly {
+    _hidden_value = true
+  }
+  number CivilIndigoLyndell {
+    _hidden_value = true
+  }
+  hidden_boolean ShortCoffeeCarolynn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SlowIndigoShelli {
+    _hidden_value = true
+  }
+  dummy.ContemporaryPurpleZabrina MoaningBrownJenilee {
+    SecureGrayMerralee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RobustAquaAlly = "What do you call two barracuda fish?  A Pairacuda!"
+    SwiftAmaranthGlyn = "What creature is smarter than a talking parrot? A spelling bee."
+    DullPurpleKora = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ShrillYellowConni = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PartialAmberKellsie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    OddScarletCaralie = "Did you know that protons have mass? I didn't even know they were catholic."
+    ExtremeTanArielle = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    YellowBronzeNessi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FlakyTanJeniffer = true
+    UnnecessarySapphireKathrine = true
+    FullTurquoiseCorabella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  hidden_boolean CurlyRedWallis {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ReadyOrangeNeille {
+    _hidden_value = true
+  }
+  number KindBlushGabie {
+    _hidden_value = true
+  }
+  json UniversalRedMarielle {
+    _hidden_value = true
+  }
+  CreepySapphireGretal = false
+  FranticTealKalindi = 869
+  ToryTanFerdinande = "Why was it called the dark ages? Because of all the knights. "
+  CrookedPlumKrissy = 580
+  BusyChocolateAmandie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RudeHarlequinEttie = 345
+  _hidden_value = true
+}

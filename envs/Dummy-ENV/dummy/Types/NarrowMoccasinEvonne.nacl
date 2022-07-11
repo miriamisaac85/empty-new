@@ -1,0 +1,43 @@
+type dummy.NarrowMoccasinEvonne {
+  annotations {
+    dummy.ContemporaryPurpleZabrina HighCyanZenia {
+    }
+    number EagerOrangeWhitney {
+    }
+    serviceid EarlyIndigoMitzi {
+    }
+    hidden_boolean AccurateBeigeConstantina {
+    }
+  }
+  number SweetSilverMarney {
+    _hidden_value = true
+  }
+  string ColourfulAzureBabette {
+    _hidden_value = true
+  }
+  hidden_boolean PoorCoffeeKathleen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PolishIndigoSonnie {
+    _hidden_value = true
+  }
+  hidden_boolean ViolentApricotBarbra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string HungryWhiteMonah {
+    _hidden_value = true
+  }
+  hidden_boolean LiveFuchsiaAiley {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  HighCyanZenia = "I'll tell you what often gets over looked... garden fences."
+  EagerOrangeWhitney = 399
+  EarlyIndigoMitzi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

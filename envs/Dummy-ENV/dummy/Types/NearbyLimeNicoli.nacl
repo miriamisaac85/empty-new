@@ -1,0 +1,163 @@
+type dummy.NearbyLimeNicoli {
+  annotations {
+    boolean DualPurpleAridatha {
+    }
+    number AshamedTanGuglielma {
+    }
+    hidden_boolean SubsequentLimeFelice {
+    }
+    string HollowLimeTootsie {
+    }
+  }
+  string MagnificentSilverTrudey {
+    _hidden_value = true
+  }
+  boolean TenseScarletReine {
+    _hidden_value = true
+  }
+  hidden_boolean FluffyCyanLesley {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PalestinianChocolateRosalind {
+    _hidden_value = true
+  }
+  string ArbitraryEmeraldAnselma {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BadMoccasinGael {
+    _hidden_value = true
+  }
+  "List<json>" DrunkLimeRobena {
+    _hidden_value = true
+  }
+  serviceid AshamedAmaranthVida {
+    _hidden_value = true
+  }
+  number DoubleBlackDela {
+    _hidden_value = true
+  }
+  json OriginalTanSonni {
+    _hidden_value = true
+  }
+  "List<json>" NarrowRoseMelisent {
+    _hidden_value = true
+  }
+  boolean OppositeRoseJeannie {
+    _hidden_value = true
+  }
+  serviceid ColorfulAzureMerrilee {
+    _hidden_value = true
+  }
+  json RoastedPlumGeraldine {
+    _hidden_value = true
+  }
+  boolean TurkishMagentaNorean {
+    _hidden_value = true
+  }
+  json GentleJadeMissie {
+    _hidden_value = true
+  }
+  boolean SecurePlumRegina {
+    _hidden_value = true
+  }
+  string GlamorousTanKylen {
+    _hidden_value = true
+  }
+  serviceid SlimyTurquoiseCathie {
+    _hidden_value = true
+  }
+  json PublicApricotVal {
+    _hidden_value = true
+  }
+  serviceid SmoggyGreenDoloritas {
+    _hidden_value = true
+  }
+  hidden_boolean FantasticAzureEmili {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SpecifiedJadeCharisse {
+    _hidden_value = true
+  }
+  hidden_boolean SoreMagentaAmargo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number OriginalRedBriana {
+    _hidden_value = true
+  }
+  boolean InsufficientTanBrigit {
+    _hidden_value = true
+  }
+  serviceid QuickBrownSheelah {
+    _hidden_value = true
+  }
+  number FantasticAmberCamile {
+    _hidden_value = true
+  }
+  boolean StickyPlumJodie {
+    _hidden_value = true
+  }
+  string BlondeCrimsonKate {
+    _hidden_value = true
+  }
+  string RenewedPurpleEdee {
+    _hidden_value = true
+  }
+  serviceid ParliamentaryCyanMarci {
+    _hidden_value = true
+  }
+  json HomelessVioletDreddy {
+    _hidden_value = true
+  }
+  hidden_boolean CompatibleAmberRozanne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlatCoffeeStella {
+    _hidden_value = true
+  }
+  string IntellectualSalmonJere {
+    _hidden_value = true
+  }
+  json UnpleasantJadeAlfy {
+    _hidden_value = true
+  }
+  dummy.DifferentLimeChristen HumanPeachAnna {
+    IndianOrangeFilippa = false
+    QuietLimeCristen = 892
+    GrievingLavenderTera = false
+    PatientApricotMidge = 685
+    CertainScarletClarine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AccurateYellowElfrida = false
+    SlowCrimsonIvett = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RigidBrownAllene = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    NegativeScarletWilly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PossibleAquaRanda = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  dummy.BewilderedGreenRosemarie ContemporaryMagentaTheodora {
+    HighBlushMoyna = "Why did the tomato blush? Because it saw the salad dressing."
+    ClearPeachUla = "Dad Im hungry  Hi hungry Im dad"
+    ControlledPeachKathye = 218
+    LeadingIvoryGlory = 758
+    _hidden_value = true
+  }
+  json LittleTurquoiseShandra {
+    _hidden_value = true
+  }
+  hidden_boolean ParentalOliveLucienne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DualPurpleAridatha = false
+  AshamedTanGuglielma = 80
+  HollowLimeTootsie = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}
