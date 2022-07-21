@@ -1,0 +1,64 @@
+type dummy.CasualMagentaCharla {
+  annotations {
+    number EntireBeigeBobina {
+    }
+    boolean SupposedSapphireOlly {
+    }
+    hidden_boolean ThunderingAquaLeanna {
+    }
+    string FlutteringIvoryMarley {
+    }
+    string LesserCopperMilli {
+    }
+    hidden_boolean BlackAzureHatti {
+    }
+    number ElectoralRoseThea {
+    }
+    dummy.JewishCoralJannel WeirdPlumJacinta {
+    }
+    string UpsetCoffeeKellie {
+    }
+    hidden_boolean MysteriousAquamarineCleopatra {
+    }
+    dummy.FilthyLimeFaye ItchyMoccasinMorna {
+    }
+    boolean Creativegold2Lishe {
+    }
+    boolean DepressedMagentaNat {
+    }
+    hidden_boolean ClumsyJadePhilippe {
+    }
+    number ImpossibleIndigoRachel {
+    }
+    serviceid EffectiveLimeDiandra {
+    }
+    serviceid DullHarlequinGinny {
+    }
+    dummy.BizarreScarletKarrie WonderfulSalmonTessy {
+    }
+    json LegalOrangeAlanah {
+    }
+    dummy.DeterminedChocolateSonia ContentAmberGlynnis {
+    }
+    hidden_boolean PreliminarySilverOthelia {
+    }
+    dummy.DeliberateMaroonGabbey ReligiousWhiteMathilda {
+    }
+  }
+  EntireBeigeBobina = 176
+  SupposedSapphireOlly = false
+  FlutteringIvoryMarley = "Whoever invented the knock-knock joke should get a no bell prize."
+  LesserCopperMilli = "Im only familiar with 25 letters in the English language. I dont know why."
+  ElectoralRoseThea = 116
+  WeirdPlumJacinta = file("WidespreadBlushConnie.txt")
+  UpsetCoffeeKellie = "Why did the kid cross the playground? To get to the other slide."
+  ItchyMoccasinMorna = true
+  Creativegold2Lishe = true
+  DepressedMagentaNat = true
+  ImpossibleIndigoRachel = 241
+  EffectiveLimeDiandra = "A steak pun is a rare medium well done."
+  DullHarlequinGinny = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WonderfulSalmonTessy = 926
+  LegalOrangeAlanah = "To be Frank, I'd have to change my name."
+  ReligiousWhiteMathilda = 212
+}
