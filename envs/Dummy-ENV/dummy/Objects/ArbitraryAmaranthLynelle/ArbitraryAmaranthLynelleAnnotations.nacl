@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 type dummy.ArbitraryAmaranthLynelle {
   annotations {
     string VariousBlushAuroora {
@@ -52,3 +53,5 @@ type dummy.ArbitraryAmaranthLynelle {
   FreshScarletGwyn = "Im only familiar with 25 letters in the English language. I dont know why."
   AbleWhiteAveryl = false
 }
+=======
+>>>>>>> dc8ef22 (3 squashed commits)
