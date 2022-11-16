@@ -4,5 +4,9 @@ envs {
       uuid = "b76b44fa-c2bd-4b83-96ef-0b2bd1c0fb66"
       folderName = "Dummy-ENV"
     },
+    {
+      uuid = "0fb2804f-1927-4ac4-a6e3-84f2877067cb"
+      folderName = "CPQ2"
+    },
   ]
 }
