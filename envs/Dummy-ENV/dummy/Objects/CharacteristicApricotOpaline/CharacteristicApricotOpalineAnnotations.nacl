@@ -1,0 +1,57 @@
+type dummy.CharacteristicApricotOpaline {
+  annotations {
+    string WorkingApricotRora {
+    }
+    number ImmensePeachSher {
+    }
+    string ObedientGraygold2a {
+    }
+    dummy.PureApricotZonnya ToughSapphireDevonna {
+    }
+    dummy.WrittenTomatoArliene PaleAzureAntonie {
+    }
+    serviceid BrokenSilverUrsuline {
+    }
+    serviceid Immensegold2Noelani {
+    }
+    hidden_boolean CondemnedCyanMela {
+    }
+    number SaltyCoralStephine {
+    }
+    serviceid MushyPurpleBrooke {
+    }
+    dummy.SteepRedDrusi OrthodoxFuchsiaAggie {
+    }
+    boolean ImpossibleWhiteFrankie {
+    }
+    string EarlyEmeraldCharlean {
+    }
+    number UniversalScarletDoralynn {
+    }
+    boolean RemainingBlushGlad {
+    }
+    number HonestRedSonni {
+    }
+    json PleasantPurpleLianna {
+    }
+    dummy.InlandGreenSarene NativeCyanKeri {
+    }
+    dummy.MinimumIvoryFrankie PromisingYellowHelen {
+    }
+  }
+  WorkingApricotRora = "Why did the tomato blush? Because it saw the salad dressing."
+  ImmensePeachSher = 720
+  ObedientGraygold2a = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BrokenSilverUrsuline = "What creature is smarter than a talking parrot? A spelling bee."
+  Immensegold2Noelani = "Did you know that protons have mass? I didn't even know they were catholic."
+  SaltyCoralStephine = 655
+  MushyPurpleBrooke = "Why didnt the skeleton cross the road? Because he had no guts."
+  ImpossibleWhiteFrankie = true
+  EarlyEmeraldCharlean = "Why didnt the skeleton cross the road? Because he had no guts."
+  UniversalScarletDoralynn = 746
+  RemainingBlushGlad = false
+  HonestRedSonni = 93
+  PleasantPurpleLianna = "Why is Peter Pan always flying? Because he Neverlands."
+  NativeCyanKeri = true
+  PromisingYellowHelen = false
+}

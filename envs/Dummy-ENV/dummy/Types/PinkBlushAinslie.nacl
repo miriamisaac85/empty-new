@@ -1,0 +1,37 @@
+type dummy.PinkBlushAinslie is string {
+  annotations {
+    hidden_boolean ExtendedSapphireMaren {
+    }
+    number NutritiousAquamarineElie {
+    }
+    string AdvisoryMaroonSharron {
+    }
+    number GenuineGreenAbbie {
+    }
+    string SupremeChocolateBria {
+    }
+    serviceid ObedientHarlequinChelsy {
+    }
+    serviceid MysteriousRoseJordana {
+    }
+    hidden_boolean SovietChocolateGus {
+    }
+    serviceid ThirstyTurquoiseMarne {
+    }
+    hidden_boolean RepulsivePlumDelia {
+    }
+    serviceid FinancialIndigoMonah {
+    }
+    json EntitledScarletPammie {
+    }
+  }
+  NutritiousAquamarineElie = 692
+  AdvisoryMaroonSharron = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GenuineGreenAbbie = 625
+  SupremeChocolateBria = "Why was it called the dark ages? Because of all the knights. "
+  ObedientHarlequinChelsy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MysteriousRoseJordana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ThirstyTurquoiseMarne = "I'll tell you what often gets over looked... garden fences."
+  FinancialIndigoMonah = "Dad Im hungry  Hi hungry Im dad"
+  EntitledScarletPammie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

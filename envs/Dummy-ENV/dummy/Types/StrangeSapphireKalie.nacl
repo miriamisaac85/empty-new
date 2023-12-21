@@ -1,0 +1,25 @@
+type dummy.StrangeSapphireKalie {
+  annotations {
+    dummy.HumanAzureReeba LongIvoryCorine {
+    }
+    hidden_boolean FoolishBlackJaneta {
+    }
+    json SteepLavenderGrayce {
+    }
+    number PreciseRoseEugenie {
+    }
+    json InnocentAmberMarcie {
+    }
+    dummy.ConfidentialScarletAntonie RottenAmberChastity {
+    }
+  }
+  boolean ProfitableWhiteMerilyn {
+    _hidden_value = true
+  }
+  LongIvoryCorine = true
+  SteepLavenderGrayce = "Why did the tomato blush? Because it saw the salad dressing."
+  PreciseRoseEugenie = 31
+  InnocentAmberMarcie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RottenAmberChastity = 199
+  _hidden_value = true
+}

@@ -1,0 +1,27 @@
+salesforce.ConnectedApp Salto_Dev {
+  fullName = "Salto_Dev"
+  contactEmail = "gilad.foyer@salto.io"
+  label = "Salto Dev"
+  logoUrl = "https://salto--c.documentforce.com/servlet/servlet.ImageServer?id=0154J000000b7h7&oid=00D4J000000Ewx9"
+  oauthConfig = {
+    callbackUrl = "http://localhost:8080/salesforce-oauth2-redirect"
+    consumerKey = "3MVG9tzQRhEbH_K2NTEe0oO4YJL3dxyuTGMB32ytsvVbuQ1erKGHfbBwd6Ocq.KlagL8R5uBZNRxqqYRIAMTx"
+    isAdminApproved = false
+    isConsumerSecretOptional = true
+    isIntrospectAllTokens = false
+    isSecretRequiredForRefreshToken = false
+    scopes = [
+      "Full",
+      "RefreshToken",
+    ]
+    isClientCredentialEnabled = false
+    isCodeCredentialEnabled = false
+    isCodeCredentialPostOnly = false
+    isNamedUserJwtEnabled = false
+  }
+  oauthPolicy = {
+    ipRelaxation = "ENFORCE"
+    refreshTokenPolicy = "infinite"
+  }
+  _alias = "Salto Dev"
+}

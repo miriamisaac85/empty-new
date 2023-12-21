@@ -1,0 +1,121 @@
+type salesforce.OmniDataTransformItem {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string defaultValue {
+  }
+  boolean disabled {
+  }
+  string filterDataType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "ADDRESS",
+        "ANYTYPE",
+        "BASE64",
+        "BOOLEAN",
+        "COMBOBOX",
+        "CURRENCY",
+        "DATACATEGORY",
+        "DATE",
+        "DATETIME",
+        "DOUBLE",
+        "EMAIL",
+        "ENCRYPTEDSTRING",
+        "GROUPREFERENCE",
+        "ID",
+        "INTEGER",
+        "LONG",
+        "MULTIPICKLIST",
+        "PERCENT",
+        "PHONE",
+        "PICKLIST",
+        "REFERENCE",
+        "STRING",
+        "TEXTAREA",
+        "TIME",
+        "URL",
+      ]
+    }
+  }
+  number filterGroup {
+  }
+  string filterOperator {
+  }
+  string filterValue {
+  }
+  string formulaConverted {
+  }
+  string formulaExpression {
+  }
+  string formulaResultPath {
+  }
+  number formulaSequence {
+  }
+  string globalKey {
+  }
+  string inputFieldName {
+  }
+  string inputObjectName {
+  }
+  number inputObjectQuerySequence {
+  }
+  string linkedFieldName {
+  }
+  number linkedObjectSequence {
+  }
+  string lookupByFieldName {
+  }
+  string lookupObjectName {
+  }
+  string lookupReturnedFieldName {
+  }
+  string migrationAttribute {
+  }
+  string migrationCategory {
+  }
+  string migrationGroup {
+  }
+  string migrationKey {
+  }
+  string migrationPattern {
+  }
+  string migrationProcess {
+  }
+  string migrationType {
+  }
+  string migrationValue {
+  }
+  string name {
+  }
+  string omniDataTransformation {
+  }
+  string omniDataTransformationId {
+  }
+  number outputCreationSequence {
+  }
+  string outputFieldFormat {
+  }
+  string outputFieldName {
+  }
+  string outputObjectName {
+  }
+  boolean requiredForUpsert {
+  }
+  string transformValuesMappings {
+  }
+  boolean upsertKey {
+  }
+  metadataType = "OmniDataTransformItem"
+}

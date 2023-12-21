@@ -1,0 +1,106 @@
+type salesforce.OmniProcessCompilation {
+  serviceid Id {
+    apiName = "OmniProcessCompilation.Id"
+    label = "Omni Process Compilation ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "OmniProcessCompilation.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "OmniProcessCompilation.Name"
+    length = 80
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "OmniProcessCompilation.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "OmniProcessCompilation.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "OmniProcessCompilation.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "OmniProcessCompilation.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "OmniProcessCompilation.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OmniProcessId {
+    apiName = "OmniProcessCompilation.OmniProcessId"
+    relationshipName = "OmniProcess"
+    referenceTo = [
+      salesforce.OmniProcess,
+    ]
+    _required = true
+    label = "Omni Process ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Number Sequence {
+    apiName = "OmniProcessCompilation.Sequence"
+    label = "Sequence"
+    precision = 18
+    scale = 0
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+  }
+  salesforce.LongTextArea Content {
+    apiName = "OmniProcessCompilation.Content"
+    length = 131072
+    label = "Content"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

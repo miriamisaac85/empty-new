@@ -1,0 +1,27 @@
+type dummy.AbundantCoralBelva is number {
+  annotations {
+    boolean NarrowLavenderWren {
+    }
+    serviceid JustAquaTobi {
+    }
+    string NutritiousApricotKarly {
+    }
+    boolean ScreechingJadeRennie {
+    }
+    boolean SharedHarlequinMarnie {
+    }
+    number ImmenseBlushJyoti {
+    }
+    hidden_boolean VagueBronzeChiquita {
+    }
+    number SmoothGrayGilemette {
+    }
+  }
+  NarrowLavenderWren = false
+  JustAquaTobi = "Why is Peter Pan always flying? Because he"
+  NutritiousApricotKarly = "did one nut say as he chased another nut?"
+  ScreechingJadeRennie = true
+  SharedHarlequinMarnie = true
+  ImmenseBlushJyoti = 528
+  SmoothGrayGilemette = 125
+}

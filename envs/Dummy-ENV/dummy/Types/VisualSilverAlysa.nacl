@@ -1,0 +1,95 @@
+type dummy.VisualSilverAlysa {
+  annotations {
+    boolean PricklyYellowTabatha {
+    }
+    number IncredibleIndigoValery {
+    }
+    serviceid BusyAquamarineBernita {
+    }
+    string CloudyAmberMae {
+    }
+    hidden_boolean ManagingLimePeg {
+    }
+  }
+  boolean FriendlyOliveLynda {
+    _hidden_value = true
+  }
+  dummy.LightAmethystFrank Wonderfulgold2Drusy {
+    HonCrimsonGwen = 580
+    ProposedBrownDominique = false
+    ScaryMagentaJoby = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ObligedAquamarineLise = 341
+    IraqiCoffeeKaree = 12
+    Burninggold2Sybille = false
+    SubsequentGrayKania = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    RespectableAmberCassy = "Why did the kid cross the playground? To get to the other slide."
+    DiversePinkJoanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FrontPlumCamila = "Did you know that protons have mass? I didn't even know they were catholic."
+    DelightfulAmberFrieda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DeafCoffeeCookie = "Dad Im hungry  Hi hungry Im dad"
+    TastyFuchsiaCarol = 703
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine OrangeOrangeMuffin {
+    ContentAzureLindsay = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FellowVioletSapphire = "What did one nut say as he chased another nut?  I'm a cashew!"
+    LittleCrimsonRosina = "Why didnt the skeleton cross the road? Because he had no guts."
+    DeafeningCyanCassandry = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  number ProbableIndigoMallory {
+    _hidden_value = true
+  }
+  serviceid ThoroughTealJanette {
+    _hidden_value = true
+  }
+  number FatCoralJoletta {
+    _hidden_value = true
+  }
+  boolean AdverseJadeCassey {
+    _hidden_value = true
+  }
+  number PlannedIvoryLatia {
+    _hidden_value = true
+  }
+  hidden_boolean CapitalistMagentaChristel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json HumanSilverEolande {
+    _hidden_value = true
+  }
+  json SlipperyAmethystJandy {
+    _hidden_value = true
+  }
+  dummy.InlandGreenSarene HeavyPurpleEmelyne {
+    DullSapphireMeredith = "I'll tell you what often gets over looked... garden fences."
+    RealisticOliveMarinna = 944
+    TroubledIndigoWinnie = 128
+    CrazyBlackNeille = "Why was it called the dark ages? Because of all the knights. "
+    PassingCyanHeida = "Why is Peter Pan always flying? Because he Neverlands."
+    Politicalgold2Mozelle = "Why did the kid cross the playground? To get to the other slide."
+    GreatBronzeEttie = 909
+    CloseRedClarine = 896
+    _hidden_value = true
+  }
+  number BusyTanLeontyne {
+    _hidden_value = true
+  }
+  serviceid TastelessAmaranthHedwiga {
+    _hidden_value = true
+  }
+  hidden_boolean RadicalAmaranthShalna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  PricklyYellowTabatha = false
+  IncredibleIndigoValery = 258
+  BusyAquamarineBernita = "Why did the kid cross the playground? To get to the other slide."
+  CloudyAmberMae = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

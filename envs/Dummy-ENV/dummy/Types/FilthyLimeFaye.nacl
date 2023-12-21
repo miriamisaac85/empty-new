@@ -1,0 +1,17 @@
+type dummy.FilthyLimeFaye is boolean {
+  annotations {
+    hidden_boolean HistoricalTurquoiseCandie {
+    }
+    hidden_boolean BlueBlueDarleen {
+    }
+    number DomesticIvoryVanny {
+    }
+    serviceid SupremeEmeraldTraci {
+    }
+    serviceid RomanticAmberYalonda {
+    }
+  }
+  DomesticIvoryVanny = 302
+  SupremeEmeraldTraci = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RomanticAmberYalonda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

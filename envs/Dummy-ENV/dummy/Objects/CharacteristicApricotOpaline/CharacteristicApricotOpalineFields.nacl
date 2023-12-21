@@ -1,0 +1,20 @@
+type dummy.CharacteristicApricotOpaline {
+ 
+  serviceid ProfessionalAzureAgata {
+  }
+  json IdealCyanRori {
+  }
+  hidden_boolean ColonialOrangeAnnabal {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json DirtyFuchsiaAllegra {
+  }
+  boolean ConservativeCrimsonNerty {
+  }
+  boolean PublicIndigoMatty {
+  }
+  string IllVioletOralee {
+  }
+}

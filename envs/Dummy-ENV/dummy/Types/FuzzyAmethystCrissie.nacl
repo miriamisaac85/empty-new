@@ -1,0 +1,70 @@
+type dummy.FuzzyAmethystCrissie {
+  annotations {
+    hidden_boolean CarefulMaroonMinni {
+    }
+    dummy.DEFAULT ShortMaroonBrandie {
+    }
+    serviceid CreepyJadeJackelyn {
+    }
+  }
+  "List<serviceid>" StaleEmeraldLulita {
+    _hidden_value = true
+  }
+  serviceid RollingEmeraldBriny {
+    _hidden_value = true
+  }
+  serviceid DistantJadeBiddy {
+    _hidden_value = true
+  }
+  boolean OldIndigoGae {
+    _hidden_value = true
+  }
+  serviceid SatisfiedScarletAmil {
+    _hidden_value = true
+  }
+  dummy.AfraidAquaFawn AveragePlumBonni {
+    WideJadeWynny = 315
+    ColdOrangeCamel = "What do you do on a remote island? Try and find the TV island it belongs to."
+    DesperateAquamarineBrandea = 290
+    DecentCoralAnthia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HelplessAquaSharline = "Why did the kid cross the playground? To get to the other slide."
+    DyingTurquoisePage = 906
+    AfraidBrownFawnia = "To be Frank, I'd have to change my name."
+    PositivePinkFerdinande = 123
+    IncredibleOliveLeila = "Dad Im hungry  Hi hungry Im dad"
+    FlutteringPlumLydia = 239
+    ArrogantBlueMilena = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    ElegantBeigeFran = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  serviceid FellowPlumKaria {
+    _hidden_value = true
+  }
+  serviceid GoodTurquoiseVinni {
+    _hidden_value = true
+  }
+  serviceid ExperimentalPinkAurelia {
+    _hidden_value = true
+  }
+  boolean PleasedIndigoAriela {
+    _hidden_value = true
+  }
+  json WhiteBronzeLorie {
+    _hidden_value = true
+  }
+  string FrozenCrimsonHolli {
+    _hidden_value = true
+  }
+  hidden_boolean CommonAquamarineAlysa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ShortMaroonBrandie = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  CreepyJadeJackelyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

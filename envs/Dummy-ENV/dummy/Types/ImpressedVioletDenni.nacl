@@ -1,0 +1,64 @@
+type dummy.ImpressedVioletDenni {
+  annotations {
+    hidden_boolean ChillyEmeraldBlinny {
+    }
+    number QualifiedPeachKassandra {
+    }
+    serviceid RoughBeigeRozanna {
+    }
+    boolean WhisperingCoffeeAdeline {
+    }
+    number ArbitraryJadeSabine {
+    }
+    number NumerousBeigeKrissy {
+    }
+  }
+  "List<hidden_boolean>" TastelessIndigoKarilynn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number UniqueRedGena {
+    _hidden_value = true
+  }
+  serviceid PsychiatricTanTatiania {
+    _hidden_value = true
+  }
+  number ConfusedLimeBlanch {
+    _hidden_value = true
+  }
+  serviceid DifferentCopperCahra {
+    _hidden_value = true
+  }
+  string WittyJadeRachel {
+    _hidden_value = true
+  }
+  dummy.SubjectiveAmethystBel WildTanJosefina {
+    BadBronzeKristel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ComingChocolateCharmane = "Why was it called the dark ages? Because of all the knights. "
+    BlueIvoryHollie = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  string EarlyVioletDebbi {
+    _hidden_value = true
+  }
+  boolean ConventionalOrangeMaurizia {
+    _hidden_value = true
+  }
+  hidden_boolean BackPlumAndreana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AlertTanTatiania {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  QualifiedPeachKassandra = 960
+  RoughBeigeRozanna = "Why did the kid cross the playground? To get to the other slide."
+  WhisperingCoffeeAdeline = true
+  ArbitraryJadeSabine = 295
+  NumerousBeigeKrissy = 369
+  _hidden_value = true
+}

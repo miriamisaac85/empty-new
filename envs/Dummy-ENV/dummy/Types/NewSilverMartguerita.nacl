@@ -1,0 +1,48 @@
+type dummy.NewSilverMartguerita {
+  annotations {
+    dummy.DEFAULT DangerousPeachMarga {
+    }
+    serviceid VariedRedDulcy {
+    }
+    string ExistingTealWilli {
+    }
+    string SwissPlumNana {
+    }
+    dummy.HumanAzureReeba IntermediateGrayThomasin {
+    }
+  }
+  dummy.ProspectiveAmberDevin SouthernBronzeLindsey {
+    MagentaAzureDelia = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LightVioletSelma = "What creature is smarter than a talking parrot? A spelling bee."
+    Innovativegold2Drusilla = 649
+    DoubtfulBlushAlisun = "Whoever invented the knock-knock joke should get a no bell prize."
+    VerticalTomatoCosetta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MysteriousBeigeDaisey = false
+    _hidden_value = true
+  }
+  "List<serviceid>" OddMagentaTheresina {
+    _hidden_value = true
+  }
+  json HorribleApricotRaphaela {
+    _hidden_value = true
+  }
+  hidden_boolean PriorGreenCinda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UptightPeachMartica {
+    _hidden_value = true
+  }
+  "List<json>" CapableRoseTerese {
+    _hidden_value = true
+  }
+  DangerousPeachMarga = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  VariedRedDulcy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ExistingTealWilli = "Why didnt the skeleton cross the road? Because he had no guts."
+  SwissPlumNana = "What do you call two barracuda fish?  A Pairacuda!"
+  IntermediateGrayThomasin = false
+  _hidden_value = true
+}

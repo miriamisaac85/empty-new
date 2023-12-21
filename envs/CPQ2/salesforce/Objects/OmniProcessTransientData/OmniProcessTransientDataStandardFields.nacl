@@ -1,0 +1,233 @@
+type salesforce.OmniProcessTransientData {
+  serviceid Id {
+    apiName = "OmniProcessTransientData.Id"
+    label = "Omni Process Transient Data ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "OmniProcessTransientData.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "OmniProcessTransientData.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "OmniProcessTransientData.Name"
+    length = 80
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "OmniProcessTransientData.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "OmniProcessTransientData.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "OmniProcessTransientData.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "OmniProcessTransientData.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "OmniProcessTransientData.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text AsyncApexJobIdentifier {
+    apiName = "OmniProcessTransientData.AsyncApexJobIdentifier"
+    length = 255
+    label = "Async Apex Job ID"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text AsyncTransactionIdentifier {
+    apiName = "OmniProcessTransientData.AsyncTransactionIdentifier"
+    length = 255
+    label = "Async Transaction ID"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Picklist AsyncTransactionStatus {
+    apiName = "OmniProcessTransientData.AsyncTransactionStatus"
+    valueSet = [
+      {
+        fullName = "InProgress"
+        isActive = true
+        label = "InProgress"
+        default = false
+      },
+      {
+        fullName = "Failed"
+        isActive = true
+        label = "Failed"
+        default = false
+      },
+      {
+        fullName = "Completed"
+        isActive = true
+        label = "Completed"
+        default = false
+      },
+      {
+        fullName = "JobStarted"
+        isActive = true
+        label = "JobStarted"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Async Transaction Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.LongTextArea InputData {
+    apiName = "OmniProcessTransientData.InputData"
+    length = 131072
+    label = "Input Data"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text ProcessKey {
+    apiName = "OmniProcessTransientData.ProcessKey"
+    length = 255
+    label = "Process Key"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.LongTextArea ErrorMessage {
+    apiName = "OmniProcessTransientData.ErrorMessage"
+    length = 32768
+    label = "Error Message"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.LongTextArea ProcessMetadata {
+    apiName = "OmniProcessTransientData.ProcessMetadata"
+    length = 32768
+    label = "Process Metadata"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ProcessStatus {
+    apiName = "OmniProcessTransientData.ProcessStatus"
+    valueSet = [
+      {
+        fullName = "Unprocessable"
+        isActive = true
+        label = "Unprocessable"
+        default = false
+      },
+      {
+        fullName = "Temp Parent"
+        isActive = true
+        label = "Temp Parent"
+        default = false
+      },
+      {
+        fullName = "Ready"
+        isActive = true
+        label = "Ready"
+        default = false
+      },
+      {
+        fullName = "Error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+      {
+        fullName = "Success"
+        isActive = true
+        label = "Success"
+        default = false
+      },
+      {
+        fullName = "Action Function Staging Object"
+        isActive = true
+        label = "Action Function Staging Object"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Process Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text GlobalKey {
+    apiName = "OmniProcessTransientData.GlobalKey"
+    length = 80
+    label = "Global Key"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+}

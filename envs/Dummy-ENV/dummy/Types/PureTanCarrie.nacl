@@ -1,0 +1,27 @@
+type dummy.PureTanCarrie {
+  annotations {
+    dummy.InlandGreenSarene BurningOrangeMelisenda {
+    }
+    json TestyMaroonAnnecorinne {
+    }
+    dummy.DEFAULT LongFuchsiaColly {
+    }
+    hidden_boolean StickyTurquoiseWynny {
+    }
+    serviceid IllegalBrownPhil {
+    }
+    serviceid UnhappyPlumAudry {
+    }
+  }
+  number RoughAmethystAngelita {
+    _hidden_value = true
+  }
+  BurningOrangeMelisenda = true
+  TestyMaroonAnnecorinne = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LongFuchsiaColly = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  IllegalBrownPhil = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnhappyPlumAudry = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

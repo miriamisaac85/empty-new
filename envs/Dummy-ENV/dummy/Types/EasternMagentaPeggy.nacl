@@ -1,0 +1,83 @@
+type dummy.EasternMagentaPeggy {
+  annotations {
+    serviceid HotMagentaDanita {
+    }
+    serviceid WateryCyanCarmon {
+    }
+    serviceid StripedMaroonSabine {
+    }
+    dummy.DEFAULT CasualMoccasinCherise {
+    }
+  }
+  boolean ValuableSilverFanny {
+    _hidden_value = true
+  }
+  hidden_boolean SpicyJadeTessy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT NakedBlueMinerva {
+    _hidden_value = true
+  }
+  hidden_boolean DecisiveSilverStacee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DisabledSilverTony {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean TurkishApricotTabbitha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean HorribleMagentaRorie {
+    _hidden_value = true
+  }
+  hidden_boolean QuickestTomatoMei {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string RespectiveCoralGleda {
+    _hidden_value = true
+  }
+  dummy.InlandGreenSarene DistinctRoseDre {
+    DullSapphireMeredith = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RealisticOliveMarinna = 86
+    TroubledIndigoWinnie = 202
+    CrazyBlackNeille = "Whoever invented the knock-knock joke should get a no bell prize."
+    PassingCyanHeida = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    Politicalgold2Mozelle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GreatBronzeEttie = 762
+    CloseRedClarine = 417
+    _hidden_value = true
+  }
+  dummy.ConfidentialScarletAntonie WonderfulPeachEvangelia {
+    SophisticatedScarletMolli = 767
+    AnxiousBeigeSydney = 335
+    ProudChocolateOfella = "Slept like a log last night  woke up in the fireplace."
+    DramaticPinkWilly = "Why did the kid cross the playground? To get to the other slide."
+    ImprovedRoseMorgana = "Why did the tomato blush? Because it saw the salad dressing."
+    PerfectChocolateDevondra = false
+    HungryRoseCarolina = "Why was it called the dark ages? Because of all the knights. "
+    PeacefulAmaranthRicca = "What do you call two barracuda fish?  A Pairacuda!"
+    EstablishedTurquoiseImogen = "To be Frank, I'd have to change my name."
+    PunyTanTommie = "Slept like a log last night  woke up in the fireplace."
+    InnovativeVioletEma = "Slept like a log last night  woke up in the fireplace."
+    EnvironmentalHarlequinJanaye = "To be Frank, I'd have to change my name."
+    VagueAmaranthJenine = 214
+    _hidden_value = true
+  }
+  HotMagentaDanita = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WateryCyanCarmon = "Why was it called the dark ages? Because of all the knights. "
+  StripedMaroonSabine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CasualMoccasinCherise = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  _hidden_value = true
+}

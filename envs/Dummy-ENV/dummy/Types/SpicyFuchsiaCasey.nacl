@@ -1,0 +1,88 @@
+type dummy.SpicyFuchsiaCasey {
+  annotations {
+    number Excessivegold2Alene {
+    }
+    number EnthusiasticBeigeChristiane {
+    }
+    hidden_boolean AliveTomatoGeorgia {
+    }
+    serviceid LocalTanEstrellita {
+    }
+  }
+  hidden_boolean FamousBlackCarrie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OutsideBlushErmengarde {
+    _hidden_value = true
+  }
+  boolean MarvellousAmaranthPetronilla {
+    _hidden_value = true
+  }
+  serviceid ManyJadeJaquenetta {
+    _hidden_value = true
+  }
+  boolean AestheticScarletFlorrie {
+    _hidden_value = true
+  }
+  serviceid AncientPeachGodiva {
+    _hidden_value = true
+  }
+  number ImprovedCrimsonLishe {
+    _hidden_value = true
+  }
+  "List<serviceid>" LiableCopperLinell {
+    _hidden_value = true
+  }
+  string RubberAmethystMarsha {
+    _hidden_value = true
+  }
+  number SickBlushAstrid {
+    _hidden_value = true
+  }
+  boolean LimitedJadeCristin {
+    _hidden_value = true
+  }
+  serviceid GeneralCoralDarsey {
+    _hidden_value = true
+  }
+  string ImpossibleMoccasinLetta {
+    _hidden_value = true
+  }
+  hidden_boolean SelectAzureAlena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ComfortableTomatoErmentrude {
+    _hidden_value = true
+  }
+  boolean TechnicalCrimsonBobbe {
+    _hidden_value = true
+  }
+  json RuralMoccasinBenni {
+    _hidden_value = true
+  }
+  string LiquidVioletGeorgina {
+    _hidden_value = true
+  }
+  hidden_boolean OutsideChocolateIdette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean VariousPurpleMinda {
+    _hidden_value = true
+  }
+  string FortunateIndigoCornelle {
+    _hidden_value = true
+  }
+  json PreviousGreenHedvig {
+    _hidden_value = true
+  }
+  Excessivegold2Alene = 961
+  EnthusiasticBeigeChristiane = 850
+  LocalTanEstrellita = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

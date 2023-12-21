@@ -1,0 +1,36 @@
+type dummy.VoluntaryBlushSonja is boolean {
+  annotations {
+    hidden_boolean Rattygold2Darci {
+    }
+    string CoolAmberOfelia {
+    }
+    number OrthodoxYellowVally {
+    }
+    hidden_boolean SolidMoccasinRyann {
+    }
+    dummy.DEFAULT AfricanPinkSteffane {
+    }
+    hidden_boolean AggregateGrayAndriana {
+    }
+    json HelpfulLavenderErna {
+    }
+    number DualMaroonRosmunda {
+    }
+    serviceid InternationalMaroonKaia {
+    }
+    string ObligedMoccasinAtlante {
+    }
+    json IntelligentAmaranthKarine {
+    }
+  }
+  CoolAmberOfelia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OrthodoxYellowVally = 85
+  AfricanPinkSteffane = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  HelpfulLavenderErna = "Why was it called the dark ages? Because of all the knights. "
+  DualMaroonRosmunda = 45
+  InternationalMaroonKaia = "What creature is smarter than a talking parrot? A spelling bee."
+  ObligedMoccasinAtlante = "Why do birds fly south for the winter? Because it's too far to walk."
+  IntelligentAmaranthKarine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

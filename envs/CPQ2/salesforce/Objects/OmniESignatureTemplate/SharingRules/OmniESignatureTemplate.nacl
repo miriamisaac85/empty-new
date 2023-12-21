@@ -1,0 +1,7 @@
+salesforce.SharingRules OmniESignatureTemplate {
+  fullName = "OmniESignatureTemplate"
+  _parent = [
+    salesforce.OmniESignatureTemplate,
+  ]
+  _alias = "OmniESignatureTemplate"
+}

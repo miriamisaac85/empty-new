@@ -1,0 +1,44 @@
+type dummy.UnusualBlueEsther {
+  json AlternativeAquamarineMelissa {
+  }
+  serviceid DeliberateChocolateHedvig {
+  }
+  hidden_boolean ColossalScarletRuth {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  string QuaintBeigeGinevra {
+  }
+  json TestyYellowCinda {
+  }
+  number AppropriateTomatoDeeann {
+  }
+  "List<hidden_boolean>" IncreasingPlumEunice {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  json ExpectedPurpleWinifred {
+  }
+  hidden_boolean MainMoccasinMagda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ExtendedAquaBlakelee {
+  }
+  hidden_boolean RichAmethystArabel {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string FortunateCoffeeMildred {
+  }
+  number HelpfulIvoryAbbi {
+  }
+  serviceid Depressedgold2Mala {
+  }
+  dummy.RunningAquaRoshelle MilitarySapphireBenedikta {
+  }
+}

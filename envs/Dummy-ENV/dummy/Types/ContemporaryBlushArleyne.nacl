@@ -1,0 +1,74 @@
+type dummy.ContemporaryBlushArleyne {
+  annotations {
+    boolean InstantBlackEleni {
+    }
+    number StatisticalRoseValaria {
+    }
+    json SupposedSilverLucie {
+    }
+    string GorgeousRoseHaily {
+    }
+    string ExclusiveTealMattie {
+    }
+    number RussianRosePhylys {
+    }
+    serviceid InternationalAquamarineLynda {
+    }
+  }
+  string MelodicGreenUlrikaumeko {
+    _hidden_value = true
+  }
+  json ImplicitBlushEmilee {
+    _hidden_value = true
+  }
+  serviceid HuskyIvoryKandy {
+    _hidden_value = true
+  }
+  number ScreechingPeachMollee {
+    _hidden_value = true
+  }
+  hidden_boolean ExternalGreenKyla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SubsequentBlushBari {
+    _hidden_value = true
+  }
+  number SelectCyanCallie {
+    _hidden_value = true
+  }
+  hidden_boolean TopMoccasinShaine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json UnemployedAquaCarey {
+    _hidden_value = true
+  }
+  number SkinnyEmeraldMerrili {
+    _hidden_value = true
+  }
+  json LongYellowUlrika {
+    _hidden_value = true
+  }
+  hidden_boolean GrievingSalmonIssy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PreparedOrangeLonni {
+    _hidden_value = true
+  }
+  number OutstandingAquamarineRiki {
+    _hidden_value = true
+  }
+  InstantBlackEleni = false
+  StatisticalRoseValaria = 975
+  SupposedSilverLucie = "What creature is smarter than a talking parrot? A spelling bee."
+  GorgeousRoseHaily = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExclusiveTealMattie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RussianRosePhylys = 83
+  InternationalAquamarineLynda = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

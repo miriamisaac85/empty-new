@@ -1,0 +1,61 @@
+type dummy.AbundantSalmonMarthe {
+  annotations {
+    hidden_boolean PowerfulCrimsonSybila {
+    }
+    number RepulsivePeachCarolyn {
+    }
+    number AbsentRedAnabel {
+    }
+    serviceid SquareMoccasinLindsay {
+    }
+  }
+  string DrunkAmethystCathrin {
+    _hidden_value = true
+  }
+  hidden_boolean TraditionalAquaCodie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UpsetRoseEalasaid {
+    _hidden_value = true
+  }
+  hidden_boolean FriendlyBeigeClaudina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json DampPeachDix {
+    _hidden_value = true
+  }
+  string BeneficialHarlequinZea {
+    _hidden_value = true
+  }
+  boolean AverageBlueLonee {
+    _hidden_value = true
+  }
+  boolean StrategicIvoryBernadene {
+    _hidden_value = true
+  }
+  json ElegantPurpleJaneen {
+    _hidden_value = true
+  }
+  "List<string>" BreakableBeigeStarr {
+    _hidden_value = true
+  }
+  number FlatMoccasinLoretta {
+    _hidden_value = true
+  }
+  json FavourableEmeraldChlo {
+    _hidden_value = true
+  }
+  hidden_boolean FancyGreenDevora {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  RepulsivePeachCarolyn = 621
+  AbsentRedAnabel = 92
+  SquareMoccasinLindsay = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

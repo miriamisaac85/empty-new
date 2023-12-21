@@ -1,0 +1,75 @@
+type dummy.FeministApricotCarlynn {
+  annotations {
+    number QuickBlushEthelyn {
+    }
+    string WeirdLavenderCarry {
+    }
+    dummy.DEFAULT FuzzyMoccasinMinnnie {
+    }
+    string IncreasingOliveFae {
+    }
+    string SparklingPinkChristie {
+    }
+  }
+  number SlowLimeMinda {
+    _hidden_value = true
+  }
+  string HighMoccasinInga {
+    _hidden_value = true
+  }
+  json GoverningMoccasinBrenn {
+    _hidden_value = true
+  }
+  number MeltedTurquoiseBarbe {
+    _hidden_value = true
+  }
+  serviceid CleanAquamarineEleanore {
+    _hidden_value = true
+  }
+  hidden_boolean MatureRedVilma {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpiritualWhiteSusana {
+    _hidden_value = true
+  }
+  json AbundantAmberJosephine {
+    _hidden_value = true
+  }
+  "List<serviceid>" EmbarrassedPlumMarji {
+    _hidden_value = true
+  }
+  serviceid DominantHarlequinLelah {
+    _hidden_value = true
+  }
+  serviceid RetiredIndigoChrysa {
+    _hidden_value = true
+  }
+  number Wickedgold2Tami {
+    _hidden_value = true
+  }
+  json ReluctantTealTandy {
+    _hidden_value = true
+  }
+  "Map<dummy.Printedgold2Lauralee>" ComprehensiveHarlequinFaythe {
+    DrabAmaranthGertruda = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PassingBeigeMorissa = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ClumsyTealDrona = "I'll tell you what often gets over looked... garden fences."
+    GoverningPeachValerie = false
+    AdjacentAquamarineRegan = 304
+    ProgressiveCoffeeZuzana = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  number SystematicPurpleErena {
+    _hidden_value = true
+  }
+  QuickBlushEthelyn = 526
+  WeirdLavenderCarry = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FuzzyMoccasinMinnnie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  IncreasingOliveFae = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SparklingPinkChristie = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

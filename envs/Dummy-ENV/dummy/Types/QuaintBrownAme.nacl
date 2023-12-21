@@ -1,0 +1,19 @@
+type dummy.QuaintBrownAme {
+  annotations {
+    number BasicBlackShirleen {
+    }
+    number StrategicRoseDoti {
+    }
+    json DrabChocolateRamonda {
+    }
+    hidden_boolean NetYellowMallorie {
+    }
+  }
+  json BewilderedMoccasinMadalena {
+    _hidden_value = true
+  }
+  BasicBlackShirleen = 666
+  StrategicRoseDoti = 333
+  DrabChocolateRamonda = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

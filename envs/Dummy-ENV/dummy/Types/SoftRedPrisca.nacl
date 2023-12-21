@@ -1,0 +1,85 @@
+type dummy.SoftRedPrisca {
+  annotations {
+    hidden_boolean KoreanTealRhetta {
+    }
+    serviceid FamiliarVioletLeanor {
+    }
+    boolean MentalCyanCelia {
+    }
+    serviceid UnconsciousBronzeJere {
+    }
+    json CompetentTurquoiseSheilakathryn {
+    }
+  }
+  string OddPurpleCatherine {
+    _hidden_value = true
+  }
+  "List<json>" LongPlumAdaline {
+    _hidden_value = true
+  }
+  boolean BigMaroonOlive {
+    _hidden_value = true
+  }
+  boolean Estimatedgold2Maighdiln {
+    _hidden_value = true
+  }
+  number EfficientHarlequinJanna {
+    _hidden_value = true
+  }
+  number RadicalLavenderWilie {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedLavenderChristan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LightPurpleChrista {
+    _hidden_value = true
+  }
+  json AcademicYellowLiana {
+    _hidden_value = true
+  }
+  number IcySalmonLeese {
+    _hidden_value = true
+  }
+  number CoherentBlushNixie {
+    _hidden_value = true
+  }
+  json DrivingIvorySaraann {
+    _hidden_value = true
+  }
+  serviceid ManagerialAquamarineMina {
+    _hidden_value = true
+  }
+  hidden_boolean AggressiveRoseKatheryn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConvenientBlushTybi {
+    _hidden_value = true
+  }
+  boolean LoyalMoccasinTate {
+    _hidden_value = true
+  }
+  dummy.BizarreScarletKarrie ObnoxiousRoseAngele {
+    BrightFuchsiaVivianne = 754
+    HonWhiteCorrina = "What do you call two barracuda fish?  A Pairacuda!"
+    IntegratedFuchsiaNell = 842
+    DramaticCoralVelma = "Why was it called the dark ages? Because of all the knights. "
+    VariousBlackOdilia = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    ManyApricotPierette = "What creature is smarter than a talking parrot? A spelling bee."
+    CloudySilverLara = "Why did the kid cross the playground? To get to the other slide."
+    ItchyJadeMelina = "Whoever invented the knock-knock joke should get a no bell prize."
+    HumanAquamarineAnnabella = 529
+    _hidden_value = true
+  }
+  FamiliarVioletLeanor = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MentalCyanCelia = true
+  UnconsciousBronzeJere = "I'll tell you what often gets over looked... garden fences."
+  CompetentTurquoiseSheilakathryn = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

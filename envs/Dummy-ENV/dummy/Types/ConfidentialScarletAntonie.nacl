@@ -1,0 +1,45 @@
+type dummy.ConfidentialScarletAntonie is number {
+  annotations {
+    number SophisticatedScarletMolli {
+    }
+    hidden_boolean SoftMagentaKris {
+    }
+    number AnxiousBeigeSydney {
+    }
+    serviceid ProudChocolateOfella {
+    }
+    string DramaticPinkWilly {
+    }
+    serviceid ImprovedRoseMorgana {
+    }
+    boolean PerfectChocolateDevondra {
+    }
+    string HungryRoseCarolina {
+    }
+    json PeacefulAmaranthRicca {
+    }
+    json EstablishedTurquoiseImogen {
+    }
+    json PunyTanTommie {
+    }
+    json InnovativeVioletEma {
+    }
+    json EnvironmentalHarlequinJanaye {
+    }
+    number VagueAmaranthJenine {
+    }
+  }
+  SophisticatedScarletMolli = 61
+  AnxiousBeigeSydney = 145
+  ProudChocolateOfella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DramaticPinkWilly = "Dad Im hungry  Hi hungry Im dad"
+  ImprovedRoseMorgana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PerfectChocolateDevondra = true
+  HungryRoseCarolina = "What creature is smarter than a talking parrot? A spelling bee."
+  PeacefulAmaranthRicca = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EstablishedTurquoiseImogen = "Im only familiar with 25 letters in the English language. I dont know why."
+  PunyTanTommie = "Why didnt the skeleton cross the road? Because he had no guts."
+  InnovativeVioletEma = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EnvironmentalHarlequinJanaye = "Did you know that protons have mass? I didn't even know they were catholic."
+  VagueAmaranthJenine = 554
+}

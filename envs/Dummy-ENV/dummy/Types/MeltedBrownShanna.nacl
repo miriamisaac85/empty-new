@@ -1,0 +1,65 @@
+type dummy.MeltedBrownShanna {
+  annotations {
+    dummy.DEFAULT VividAmaranthDeirdre {
+    }
+    number SmartMoccasinBarbette {
+    }
+    hidden_boolean InnocentOliveEvangelina {
+    }
+    dummy.SparklingAmaranthLeone ElegantMaroonMechelle {
+    }
+    boolean WonderfulAmaranthChryste {
+    }
+    hidden_boolean FunnyTanCelle {
+    }
+  }
+  string NorthernBronzeElberta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExperimentalCopperEloise {
+    _hidden_value = true
+  }
+  "List<json>" CriticalMagentaArdyce {
+    _hidden_value = true
+  }
+  number ResponsibleMagentaDarcey {
+    _hidden_value = true
+  }
+  dummy.DifferentLimeChristen LooseIndigoDamaris {
+    IndianOrangeFilippa = true
+    QuietLimeCristen = 531
+    GrievingLavenderTera = true
+    PatientApricotMidge = 71
+    CertainScarletClarine = "What do you call two barracuda fish?  A Pairacuda!"
+    AccurateYellowElfrida = false
+    SlowCrimsonIvett = "Why did the tomato blush? Because it saw the salad dressing."
+    RigidBrownAllene = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    NegativeScarletWilly = "Why is Peter Pan always flying? Because he Neverlands."
+    PossibleAquaRanda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  string HiddenBlueJoela {
+    _hidden_value = true
+  }
+  hidden_boolean TallAmberNina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string StandardYellowKeeley {
+    _hidden_value = true
+  }
+  number SuccessfulAquaKissie {
+    _hidden_value = true
+  }
+  string DarkMoccasinJanith {
+    _hidden_value = true
+  }
+  VividAmaranthDeirdre = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  SmartMoccasinBarbette = 943
+  ElegantMaroonMechelle = true
+  WonderfulAmaranthChryste = false
+  _hidden_value = true
+}

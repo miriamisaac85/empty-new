@@ -1,0 +1,39 @@
+type dummy.GloriousAzureEulalie {
+  annotations {
+    dummy.EquivalentJadeCaria BitterGreenBernice {
+    }
+    dummy.DEFAULT GeographicalAquaAlene {
+    }
+    number DrabTanInesita {
+    }
+    json HonFuchsiaAura {
+    }
+    dummy.SparklingAmaranthLeone MightyMaroonCortney {
+    }
+  }
+  boolean EmptyEmeraldAdoree {
+    _hidden_value = true
+  }
+  boolean PurpleBlackJacqueline {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyPlumLacie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FoolishPeachSharron {
+    _hidden_value = true
+  }
+  string UselessPinkAndriette {
+    _hidden_value = true
+  }
+  BitterGreenBernice = "I'll tell you what often gets over looked... garden fences."
+  GeographicalAquaAlene = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  DrabTanInesita = 602
+  HonFuchsiaAura = "Why is Peter Pan always flying? Because he Neverlands."
+  MightyMaroonCortney = true
+  _hidden_value = true
+}

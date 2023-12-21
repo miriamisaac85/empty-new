@@ -1,0 +1,100 @@
+type dummy.DualAquaBrandi {
+  annotations {
+    json BalancedCyanShalne {
+    }
+    string AmusedMagentaVanda {
+    }
+    hidden_boolean IdenticalLimeMerralee {
+    }
+    serviceid AssociatedPeachDru {
+    }
+    number AlrightScarletArabel {
+    }
+  }
+  string CivilGreenDomini {
+    _hidden_value = true
+  }
+  boolean CommunistTomatoDelcine {
+    _hidden_value = true
+  }
+  json WetPurpleHarmony {
+    _hidden_value = true
+  }
+  boolean ControversialBlackIssi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EuropeanBronzeElke {
+    _hidden_value = true
+  }
+  json TallBlueRosaleen {
+    _hidden_value = true
+  }
+  json TroubledOliveKarlen {
+    _hidden_value = true
+  }
+  number ExpectedPurpleKoren {
+    _hidden_value = true
+  }
+  boolean Faintgold2Shana {
+    _hidden_value = true
+  }
+  hidden_boolean HealthyEmeraldCathy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AddedIndigoRhonda {
+    _hidden_value = true
+  }
+  hidden_boolean InsufficientPinkLelia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ElectricalYellowBelicia {
+    _hidden_value = true
+  }
+  serviceid ProposedCoffeeLoren {
+    _hidden_value = true
+  }
+  string MereTanLotti {
+    _hidden_value = true
+  }
+  dummy.SoundAmaranthImelda SexualBlackWilhelmina {
+    SaltyOrangeMaribeth = "What creature is smarter than a talking parrot? A spelling bee."
+    LazyPlumStafani = 117
+    MiserableChocolateFaina = 475
+    RespectableJadeAgatha = "What do you call two barracuda fish?  A Pairacuda!"
+    IslamicFuchsiaAidan = "Slept like a log last night  woke up in the fireplace."
+    RainyGreenMalia = "Dad Im hungry  Hi hungry Im dad"
+    HomelessWhiteMathilde = "What do you do on a remote island? Try and find the TV island it belongs to."
+    TanRoseCamellia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FlutteringTealHester = true
+    EagerMagentaRoslyn = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    IntensivePurpleBarbabra = 551
+    WidespreadIvoryIdelle = "Did you know that protons have mass? I didn't even know they were catholic."
+    DepressedFuchsiaCordula = true
+    InteriorTurquoiseCharyl = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  hidden_boolean RapidCopperKassandra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ShiveringChocolateBelvia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SelfishHarlequinNari {
+    _hidden_value = true
+  }
+  BalancedCyanShalne = "A steak pun is a rare medium well done."
+  AmusedMagentaVanda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AssociatedPeachDru = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AlrightScarletArabel = 149
+  _hidden_value = true
+}

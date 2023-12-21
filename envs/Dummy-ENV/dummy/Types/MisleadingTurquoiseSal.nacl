@@ -1,0 +1,31 @@
+type dummy.MisleadingTurquoiseSal {
+  annotations {
+    serviceid HighCrimsonPhylys {
+    }
+    boolean HungryBlushPetronilla {
+    }
+    json MusicalPinkErnaline {
+    }
+    serviceid AliveCyanBarb {
+    }
+  }
+  boolean SoundFuchsiaTrix {
+    _hidden_value = true
+  }
+  hidden_boolean HissingBrownBernadene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string HappyJadeRoseline {
+    _hidden_value = true
+  }
+  number StrategicFuchsiaAlverta {
+    _hidden_value = true
+  }
+  HighCrimsonPhylys = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HungryBlushPetronilla = true
+  MusicalPinkErnaline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AliveCyanBarb = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

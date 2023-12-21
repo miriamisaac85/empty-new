@@ -1,0 +1,21 @@
+type dummy.OpenRoseMiquela {
+  annotations {
+    hidden_boolean FatalBronzeChelsea {
+    }
+    string DeliciousRedCyndy {
+    }
+    serviceid AppropriateRedNonah {
+    }
+    string ChiefAmaranthBeatrice {
+    }
+    hidden_boolean AlrightFuchsiaLoni {
+    }
+  }
+  serviceid LegalHarlequinDeloris {
+    _hidden_value = true
+  }
+  DeliciousRedCyndy = "What creature is smarter than a talking parrot? A spelling bee."
+  AppropriateRedNonah = "What do you call two barracuda fish?  A Pairacuda!"
+  ChiefAmaranthBeatrice = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.AustralianBlackMarya {
+  annotations {
+    hidden_boolean FilthyAmberViolante {
+    }
+    serviceid MagnificentPeachAlejandra {
+    }
+    hidden_boolean DepressedBlackCorliss {
+    }
+    number FavourableTurquoiseLezlie {
+    }
+    string ConfusedIndigoSunshine {
+    }
+    boolean ChineseAmethystLiv {
+    }
+  }
+  hidden_boolean ReducedLimeMagda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.NutritiousCoralDania HighGrayGloriane {
+    _hidden_value = true
+  }
+  hidden_boolean MeltedMagentaYvonne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number BlankAquaMarlyn {
+    _hidden_value = true
+  }
+  boolean YellowPinkSandie {
+    _hidden_value = true
+  }
+  boolean AllegedGreenAndee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YummyBronzeZea {
+    _hidden_value = true
+  }
+  MagnificentPeachAlejandra = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FavourableTurquoiseLezlie = 313
+  ConfusedIndigoSunshine = "What creature is smarter than a talking parrot? A spelling bee."
+  ChineseAmethystLiv = false
+  _hidden_value = true
+}

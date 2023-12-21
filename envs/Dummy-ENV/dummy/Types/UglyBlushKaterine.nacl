@@ -1,0 +1,82 @@
+type dummy.UglyBlushKaterine {
+  annotations {
+    boolean StaleLavenderBobine {
+    }
+    json ProductivePlumJsandye {
+    }
+    number DirtyEmeraldBinni {
+    }
+    serviceid OpenTurquoiseGreer {
+    }
+    boolean HilariousAzureAnnamarie {
+    }
+    hidden_boolean EthicalAmethystLilith {
+    }
+    serviceid CasualIndigoGiana {
+    }
+    dummy.DEFAULT InvisibleTomatoDeanna {
+    }
+  }
+  number ManagerialChocolateEvaleen {
+    _hidden_value = true
+  }
+  json DetailedPinkLoralee {
+    _hidden_value = true
+  }
+  boolean CombativeCoffeeHildagard {
+    _hidden_value = true
+  }
+  string ComparableAmethystStarr {
+    _hidden_value = true
+  }
+  hidden_boolean TallCopperZola {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string IraqiLavenderRonica {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PanickyBronzeMaia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AloneCoralHilliary {
+    _hidden_value = true
+  }
+  json ScaredAmberPearline {
+    _hidden_value = true
+  }
+  "List<json>" FashionableLimeFawnia {
+    _hidden_value = true
+  }
+  hidden_boolean StrongCrimsonRosanne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean GreenPlumLisette {
+    _hidden_value = true
+  }
+  json WhisperingAzureCinderella {
+    _hidden_value = true
+  }
+  serviceid RegionalAmaranthOlga {
+    _hidden_value = true
+  }
+  boolean DyingPurpleJenni {
+    _hidden_value = true
+  }
+  number FemaleLimeEllissa {
+    _hidden_value = true
+  }
+  StaleLavenderBobine = false
+  ProductivePlumJsandye = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DirtyEmeraldBinni = 426
+  OpenTurquoiseGreer = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HilariousAzureAnnamarie = false
+  CasualIndigoGiana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  InvisibleTomatoDeanna = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  _hidden_value = true
+}

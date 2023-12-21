@@ -1,0 +1,16 @@
+type dummy.BewilderedGreenRosemarie is string {
+  annotations {
+    json HighBlushMoyna {
+    }
+    string ClearPeachUla {
+    }
+    number ControlledPeachKathye {
+    }
+    number LeadingIvoryGlory {
+    }
+  }
+  HighBlushMoyna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ClearPeachUla = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ControlledPeachKathye = 439
+  LeadingIvoryGlory = 701
+}

@@ -1,0 +1,116 @@
+type salesforce.OmniDataTransform {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  boolean active {
+  }
+  boolean assignmentRulesUsed {
+  }
+  boolean deletedOnSuccess {
+  }
+  string description {
+  }
+  boolean errorIgnored {
+  }
+  string expectedInputJson {
+  }
+  string expectedInputOtherData {
+  }
+  string expectedInputXml {
+  }
+  string expectedOutputJson {
+  }
+  string expectedOutputOtherData {
+  }
+  string expectedOutputXml {
+  }
+  boolean fieldLevelSecurityEnabled {
+  }
+  string inputParsingClass {
+  }
+  string inputType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Custom",
+        "JSON",
+        "SObject",
+        "XML",
+      ]
+    }
+  }
+  string name {
+  }
+  string namespace {
+  }
+  boolean nullInputsIncludedInOutput {
+  }
+  salesforce.OmniDataTransformItem omniDataTransformItem {
+  }
+  string outputParsingClass {
+  }
+  string outputType {
+  }
+  string overrideKey {
+  }
+  string preprocessorClassName {
+  }
+  string previewJsonData {
+  }
+  string previewOtherData {
+  }
+  string previewSourceObjectData {
+  }
+  string previewXmlData {
+  }
+  boolean processSuperBulk {
+  }
+  string requiredPermission {
+  }
+  number responseCacheTtlMinutes {
+  }
+  string responseCacheType {
+  }
+  boolean rollbackOnError {
+  }
+  string sourceObject {
+  }
+  boolean sourceObjectDefault {
+  }
+  number synchronousProcessThreshold {
+  }
+  string targetOutputDocumentIdentifier {
+  }
+  string targetOutputFileName {
+  }
+  string type {
+  }
+  string uniqueName {
+  }
+  number versionNumber {
+  }
+  boolean xmlDeclarationRemoved {
+  }
+  string xmlOutputTagsOrder {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "rpt"
+  dirName = "omniDataTransforms"
+  metadataType = "OmniDataTransform"
+}

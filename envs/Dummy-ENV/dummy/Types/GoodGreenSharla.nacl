@@ -1,0 +1,25 @@
+type dummy.GoodGreenSharla {
+  annotations {
+    boolean PermanentCoralGlad {
+    }
+    hidden_boolean ReducedGreenSella {
+    }
+    json ExoticPeachFayre {
+    }
+    dummy.OrthodoxEmeraldFelicity HugeBlackErnesta {
+    }
+    boolean ScottishSilverGermaine {
+    }
+    serviceid IrishAmberRetha {
+    }
+  }
+  boolean CheapSapphireMarley {
+    _hidden_value = true
+  }
+  PermanentCoralGlad = false
+  ExoticPeachFayre = "A steak pun is a rare medium well done."
+  HugeBlackErnesta = "What creature is smarter than a talking parrot? A spelling bee."
+  ScottishSilverGermaine = true
+  IrishAmberRetha = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

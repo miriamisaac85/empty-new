@@ -1,0 +1,148 @@
+type dummy.ScreechingHarlequinAdriaens {
+  annotations {
+    serviceid BeautifulRedRobinet {
+    }
+    serviceid MuteHarlequinAdel {
+    }
+    string StrangeSapphireDulcie {
+    }
+    serviceid EligibleAquaKrystalle {
+    }
+    number Briefgold2Gracia {
+    }
+    json VivaciousCoralNoelyn {
+    }
+  }
+  dummy.DEFAULT CompulsoryAzureKatine {
+    _hidden_value = true
+  }
+  serviceid ToughSilverAddi {
+    _hidden_value = true
+  }
+  serviceid GrievingBronzeChrissie {
+    _hidden_value = true
+  }
+  number YummyAzureLynna {
+    _hidden_value = true
+  }
+  hidden_boolean CatholicLavenderRoshelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FormidableLimeLatrena {
+    _hidden_value = true
+  }
+  json FoolishOrangeAli {
+    _hidden_value = true
+  }
+  boolean Straightgold2Annadiana {
+    _hidden_value = true
+  }
+  dummy.OrthodoxEmeraldFelicity ExclusiveJadeIvette {
+    SpanishSalmonCaterina = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    Charminggold2Jessy = 89
+    UnlikelyGreenBarb = false
+    PreferredBlushClaudette = "A steak pun is a rare medium well done."
+    CrookedAmberCelinka = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    BiologicalSapphireElnora = "A steak pun is a rare medium well done."
+    VividTomatoTessy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    QualifiedPurpleKevina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    TremendousAzureMaria = "What do you call two barracuda fish?  A Pairacuda!"
+    AllegedEmeraldJobie = "Dad Im hungry  Hi hungry Im dad"
+    BritishGrayDasi = true
+    EldestPinkEkaterina = "To be Frank, I'd have to change my name."
+    CrazyBlackgold2ina = "What creature is smarter than a talking parrot? A spelling bee."
+    HighPinkEvvy = false
+    SwiftAmaranthCostanza = 687
+    LiberalMaroonMady = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    FierceBlueFannie = 798
+    _hidden_value = true
+  }
+  string OldCyanSheri {
+    _hidden_value = true
+  }
+  json GrossMagentaMalynda {
+    _hidden_value = true
+  }
+  serviceid StandardOliveFrancoise {
+    _hidden_value = true
+  }
+  json AverageAzureNessie {
+    _hidden_value = true
+  }
+  json HorizontalJadeJohnna {
+    _hidden_value = true
+  }
+  json ContinuousScarletKimberlyn {
+    _hidden_value = true
+  }
+  json IntactGrayAbagail {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea IslamicIndigoLynnette {
+    MinorPinkAriadne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ChubbyRoseConstancia = "Dad Im hungry  Hi hungry Im dad"
+    ImmenseTurquoiseNita = "Why did the kid cross the playground? To get to the other slide."
+    FluffyYellowMarybelle = false
+    PainfulPlumRomy = 984
+    CompleteSapphireTeressa = true
+    HungryTomatoCarmelita = "Slept like a log last night  woke up in the fireplace."
+    FluffyPurpleRoselin = "Why did the kid cross the playground? To get to the other slide."
+    IdealVioletKania = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HomelessPurpleJane = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SkilledAquaTammara = "Why did the kid cross the playground? To get to the other slide."
+    PeculiarAmethystBethanne = 855
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "Im only familiar with 25 letters in the English language. I dont know why."
+    LinearBlueGilli = "Why didnt the skeleton cross the road? Because he had no guts."
+    AssociatedCrimsonDreddy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  serviceid SplendidOrangeIleane {
+    _hidden_value = true
+  }
+  boolean ActualGrayBecca {
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialPlumMatty {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<dummy.SubjectiveAmethystBel>" SupportingWhiteRenata {
+    BadBronzeKristel = "Why do birds fly south for the winter? Because it's too far to walk."
+    ComingChocolateCharmane = "Why was it called the dark ages? Because of all the knights. "
+    BlueIvoryHollie = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  json FrenchMaroonNevsa {
+    _hidden_value = true
+  }
+  serviceid DefensiveAmethystgold2ina {
+    _hidden_value = true
+  }
+  number Indiangold2Deidre {
+    _hidden_value = true
+  }
+  number NecessaryCopperMaia {
+    _hidden_value = true
+  }
+  number QualifiedAquaAdelaida {
+    _hidden_value = true
+  }
+  number InformalMagentaDori {
+    _hidden_value = true
+  }
+  BeautifulRedRobinet = "Why was it called the dark ages? Because of all the knights. "
+  MuteHarlequinAdel = "How come the stadium got hot after the game? Because all of the fans left."
+  StrangeSapphireDulcie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EligibleAquaKrystalle = "Why do birds fly south for the winter? Because it's too far to walk."
+  Briefgold2Gracia = 782
+  VivaciousCoralNoelyn = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

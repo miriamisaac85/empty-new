@@ -1,0 +1,18 @@
+type dummy.CrazyFuchsiaEllette {
+  annotations {
+    string ExpensiveTanReggi {
+    }
+    hidden_boolean FarBronzeClarabelle {
+    }
+    string DrunkOrangeDesiree {
+    }
+  }
+  hidden_boolean RandomTomatoCostanza {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ExpensiveTanReggi = "What do you call two barracuda fish?  A Pairacuda!"
+  DrunkOrangeDesiree = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

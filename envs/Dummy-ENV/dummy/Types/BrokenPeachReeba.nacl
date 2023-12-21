@@ -1,0 +1,42 @@
+type dummy.BrokenPeachReeba {
+  annotations {
+    string AttractiveCoffeeAgata {
+    }
+    serviceid FreshOliveJammie {
+    }
+    number IndustrialAmethystJosephine {
+    }
+    json SophisticatedYellowMorgen {
+    }
+    dummy.DEFAULT WellChocolateMalina {
+    }
+    string DeafeningSapphireHulda {
+    }
+  }
+  hidden_boolean AnxiousCoffeeAlexina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT LoyalYellowNariko {
+    _hidden_value = true
+  }
+  boolean ConcernedTanCatherin {
+    _hidden_value = true
+  }
+  serviceid SeriousAzureTeddy {
+    _hidden_value = true
+  }
+  boolean BurningCyanAndi {
+    _hidden_value = true
+  }
+  AttractiveCoffeeAgata = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FreshOliveJammie = "Why did the tomato blush? Because it saw the salad dressing."
+  IndustrialAmethystJosephine = 680
+  SophisticatedYellowMorgen = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WellChocolateMalina = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  DeafeningSapphireHulda = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

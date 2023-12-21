@@ -1,0 +1,73 @@
+type dummy.ScreechingIndigoArden {
+  annotations {
+    string GeographicalAmethystAnnadiane {
+    }
+    json BeneficialVioletLeslie {
+    }
+    hidden_boolean UnchangedTanKiah {
+    }
+    number StrikingPlumCecelia {
+    }
+    json ImportantMagentaMarchelle {
+    }
+    json HurtTomatoMela {
+    }
+    json AggregateBlackPeg {
+    }
+  }
+  string FierceHarlequinCookie {
+    _hidden_value = true
+  }
+  serviceid FashionableCoffeeLauri {
+    _hidden_value = true
+  }
+  serviceid SovietAquamarineLibbie {
+    _hidden_value = true
+  }
+  string TragicMaroonMarketa {
+    _hidden_value = true
+  }
+  string SingleCoralMarissa {
+    _hidden_value = true
+  }
+  boolean SensitiveMagentaClerissa {
+    _hidden_value = true
+  }
+  serviceid ReadyCrimsonElly {
+    _hidden_value = true
+  }
+  dummy.InlandGreenSarene OutsideSalmonJoice {
+    DullSapphireMeredith = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RealisticOliveMarinna = 846
+    TroubledIndigoWinnie = 853
+    CrazyBlackNeille = "To be Frank, I'd have to change my name."
+    PassingCyanHeida = "Whoever invented the knock-knock joke should get a no bell prize."
+    Politicalgold2Mozelle = "Why did the tomato blush? Because it saw the salad dressing."
+    GreatBronzeEttie = 119
+    CloseRedClarine = 126
+    _hidden_value = true
+  }
+  boolean FragileFuchsiaEnrica {
+    _hidden_value = true
+  }
+  hidden_boolean NovelHarlequinElisabetta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean JealousVioletChickie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CuteCyanJenelle {
+    _hidden_value = true
+  }
+  GeographicalAmethystAnnadiane = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BeneficialVioletLeslie = "What creature is smarter than a talking parrot? A spelling bee."
+  StrikingPlumCecelia = 867
+  ImportantMagentaMarchelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HurtTomatoMela = "What do you call two barracuda fish?  A Pairacuda!"
+  AggregateBlackPeg = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

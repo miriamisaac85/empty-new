@@ -1,0 +1,56 @@
+type salesforce.OmniUiCard {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string authorName {
+  }
+  string clonedFromOmniUiCardKey {
+  }
+  string dataSourceConfig {
+  }
+  string description {
+  }
+  boolean isActive {
+  }
+  string name {
+  }
+  string omniUiCardType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Child",
+        "Parent",
+      ]
+    }
+  }
+  string overrideKey {
+  }
+  string propertySetConfig {
+  }
+  string sampleDataSourceResponse {
+  }
+  string stylingConfiguration {
+  }
+  string versionNumber {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "ouc"
+  dirName = "omniUiCard"
+  metadataType = "OmniUiCard"
+}

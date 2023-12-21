@@ -1,0 +1,67 @@
+type dummy.TerribleCyanAveril {
+  annotations {
+    number ScottishChocolateNoellyn {
+    }
+    hidden_boolean SheerFuchsiaElsbeth {
+    }
+    string AfraidLavenderJoana {
+    }
+    string GreyAquaCherin {
+    }
+    dummy.DEFAULT CommonBlackValerie {
+    }
+    hidden_boolean SteadyApricotCristina {
+    }
+  }
+  json SensitiveMoccasinDoralynn {
+    _hidden_value = true
+  }
+  boolean JuicyTealAriella {
+    _hidden_value = true
+  }
+  json InevitableChocolateJohanna {
+    _hidden_value = true
+  }
+  boolean FamousChocolateBerenice {
+    _hidden_value = true
+  }
+  hidden_boolean WideTomatoBeverie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number IndianBlushRosana {
+    _hidden_value = true
+  }
+  boolean ObligedCyanGermaine {
+    _hidden_value = true
+  }
+  boolean MoralPeachLona {
+    _hidden_value = true
+  }
+  hidden_boolean AfraidAmaranthUlrica {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DryMaroonCristi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AllegedCyanConstantina {
+    _hidden_value = true
+  }
+  hidden_boolean SuperbMagentaMichell {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ScottishChocolateNoellyn = 545
+  AfraidLavenderJoana = "Dad Im hungry  Hi hungry Im dad"
+  GreyAquaCherin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CommonBlackValerie = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  _hidden_value = true
+}

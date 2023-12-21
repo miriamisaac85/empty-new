@@ -1,0 +1,35 @@
+type dummy.MysteriousMaroonDaloris {
+  annotations {
+    json Overwhelminggold2Giulietta {
+    }
+    serviceid FunnyAquaBeverlee {
+    }
+    serviceid RivalBronzeKarina {
+    }
+    number GladBrownTamiko {
+    }
+    string HistoricPinkRozele {
+    }
+  }
+  boolean EfficientCrimsonMeghan {
+    _hidden_value = true
+  }
+  json RoughCoffeeCelisse {
+    _hidden_value = true
+  }
+  string SharedIndigoCarissa {
+    _hidden_value = true
+  }
+  number WeeklyBeigeJoela {
+    _hidden_value = true
+  }
+  number PsychiatricRedRorie {
+    _hidden_value = true
+  }
+  Overwhelminggold2Giulietta = "Why did the tomato blush? Because it saw the salad dressing."
+  FunnyAquaBeverlee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RivalBronzeKarina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GladBrownTamiko = 416
+  HistoricPinkRozele = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

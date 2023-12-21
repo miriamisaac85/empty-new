@@ -1,0 +1,4 @@
+salesforce.SharingRules OmniDataTransform {
+  fullName = "OmniDataTransform"
+  _alias = "OmniDataTransform"
+}

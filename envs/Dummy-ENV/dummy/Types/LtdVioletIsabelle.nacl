@@ -1,0 +1,88 @@
+type dummy.LtdVioletIsabelle {
+  annotations {
+    serviceid AppropriateTurquoiseFaunie {
+    }
+    string FriendlyLavenderDasya {
+    }
+    number ProtectiveOliveDamara {
+    }
+    number PublicYellowBobbette {
+    }
+    dummy.DEFAULT OverallCoffeeConchita {
+    }
+    boolean DeterminedSilverWinnah {
+    }
+  }
+  serviceid SocialJadeRosy {
+    _hidden_value = true
+  }
+  json PricklyApricotIlyssa {
+    _hidden_value = true
+  }
+  serviceid BadIvoryDale {
+    _hidden_value = true
+  }
+  hidden_boolean CivilianMoccasinMaddie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RepresentativePlumStaci {
+    _hidden_value = true
+  }
+  hidden_boolean FinalIndigoJonell {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DeafeningTanStefanie {
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa MonetaryAmaranthEsta {
+    _hidden_value = true
+  }
+  number LivelyMagentaBrenn {
+    _hidden_value = true
+  }
+  string ScatteredAmethystSalli {
+    _hidden_value = true
+  }
+  dummy.HurtJadeVevay DryVioletNatalina {
+    DeliberateBlueDeirdre = true
+    MinimumApricotEdee = false
+    BewilderedCopperDorotea = "Why did the tomato blush? Because it saw the salad dressing."
+    VulnerableMagentaInga = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HighLavenderLucretia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ScrawnyBeigeNoni = true
+    LevelBlueAdelind = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ChristianFuchsiaRobenia = "Why do birds fly south for the winter? Because it's too far to walk."
+    OutrageousAquaDina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    EvolutionaryTurquoiseKristen = 708
+    DryOliveDoralia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    HappyOrangeEdin = "What do you call two barracuda fish?  A Pairacuda!"
+    BrownSalmonGrier = 328
+    CarefulHarlequinPhaidra = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    CombativeTanDarline = false
+    ChillyAzureElaina = 540
+    _hidden_value = true
+  }
+  json NiceRoseRosita {
+    _hidden_value = true
+  }
+  hidden_boolean ManyAmaranthChelsae {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  AppropriateTurquoiseFaunie = "Why was it called the dark ages? Because of all the knights. "
+  FriendlyLavenderDasya = "Why did the kid cross the playground? To get to the other slide."
+  ProtectiveOliveDamara = 395
+  PublicYellowBobbette = 647
+  OverallCoffeeConchita = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  DeterminedSilverWinnah = false
+  _hidden_value = true
+}

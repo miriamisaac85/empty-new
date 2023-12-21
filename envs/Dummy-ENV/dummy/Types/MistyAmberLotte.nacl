@@ -1,0 +1,78 @@
+type dummy.MistyAmberLotte {
+  annotations {
+    serviceid UnknownBrownAlmira {
+    }
+    string AdministrativeIndigoCaritta {
+    }
+    serviceid PrettyYellowFaythe {
+    }
+    serviceid EventualAmaranthMommy {
+    }
+    boolean InstitutionalEmeraldMira {
+    }
+  }
+  serviceid SuccessfulMaroonTobye {
+    _hidden_value = true
+  }
+  json InvisibleBlackBerna {
+    _hidden_value = true
+  }
+  hidden_boolean RoughAmaranthShandie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean HelpfulYellowTherese {
+    _hidden_value = true
+  }
+  boolean ChosenPurpleLiz {
+    _hidden_value = true
+  }
+  number ProvincialAmberBrett {
+    _hidden_value = true
+  }
+  "List<dummy.AppropriateChocolateLadonna>" DefiniteWhiteSondra {
+    SilentLavenderMidge = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PotentialBronzeManya = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    FirmTurquoiseMagdalena = "How come the stadium got hot after the game? Because all of the fans left."
+    DirectIndigoNannie = "What do you call two barracuda fish?  A Pairacuda!"
+    EthicalHarlequinCarmon = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    KindIndigoHelen = false
+    PlannedOrangeWynn = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  string RubberAmberLatia {
+    _hidden_value = true
+  }
+  serviceid HilariousScarletLia {
+    _hidden_value = true
+  }
+  string InterestedIvoryAbigale {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea TurkishWhiteNancie {
+    MinorPinkAriadne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ChubbyRoseConstancia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ImmenseTurquoiseNita = "Dad Im hungry  Hi hungry Im dad"
+    FluffyYellowMarybelle = false
+    PainfulPlumRomy = 544
+    CompleteSapphireTeressa = false
+    HungryTomatoCarmelita = "Why do birds fly south for the winter? Because it's too far to walk."
+    FluffyPurpleRoselin = "Whoever invented the knock-knock joke should get a no bell prize."
+    IdealVioletKania = "Why was it called the dark ages? Because of all the knights. "
+    HomelessPurpleJane = "Dad Im hungry  Hi hungry Im dad"
+    SkilledAquaTammara = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PeculiarAmethystBethanne = 6
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "A steak pun is a rare medium well done."
+    LinearBlueGilli = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AssociatedCrimsonDreddy = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  UnknownBrownAlmira = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AdministrativeIndigoCaritta = "Why didnt the skeleton cross the road? Because he had no guts."
+  PrettyYellowFaythe = "I'll tell you what often gets over looked... garden fences."
+  EventualAmaranthMommy = "A steak pun is a rare medium well done."
+  InstitutionalEmeraldMira = false
+  _hidden_value = true
+}

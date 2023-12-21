@@ -1,0 +1,27 @@
+type dummy.TrickyLimeLinda {
+  annotations {
+    hidden_boolean WideEmeraldRuthe {
+    }
+    dummy.DEFAULT HomelyRedBlondy {
+    }
+    boolean ShyAmaranthSydel {
+    }
+    serviceid SweetAquamarineMarilyn {
+    }
+    serviceid NuclearGrayBriny {
+    }
+  }
+  serviceid GuiltyTealLetta {
+    _hidden_value = true
+  }
+  number SelectedSalmonStaci {
+    _hidden_value = true
+  }
+  HomelyRedBlondy = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  ShyAmaranthSydel = false
+  SweetAquamarineMarilyn = "A steak pun is a rare medium well done."
+  NuclearGrayBriny = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

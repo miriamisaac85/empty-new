@@ -1,0 +1,71 @@
+type dummy.TypicalSilverMarcy {
+  annotations {
+    json SupportingLimeAg {
+    }
+    json BigLavenderHildegarde {
+    }
+    dummy.DEFAULT RetiredAquamarineMaia {
+    }
+    string ConcreteBronzeConstanta {
+    }
+    number CautiousAmaranthCorene {
+    }
+  }
+  number LooseVioletCharisse {
+    _hidden_value = true
+  }
+  string RespectiveFuchsiaGeorgena {
+    _hidden_value = true
+  }
+  dummy.NuclearBlueCorinna MainAmberAlicea {
+    GermanCrimsonRobbie = "Why did the tomato blush? Because it saw the salad dressing."
+    MiddleAmaranthCherlyn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ColonialCoralKat = false
+    MushyBlushEirena = "Why do birds fly south for the winter? Because it's too far to walk."
+    HotCopperBertina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    TenderAzureDoreen = "Im only familiar with 25 letters in the English language. I dont know why."
+    PerfectOliveGabie = "Did you know that protons have mass? I didn't even know they were catholic."
+    SorryCrimsonAudi = true
+    AssociatedBronzeArlen = "Slept like a log last night  woke up in the fireplace."
+    GivenWhiteJan = "Why is Peter Pan always flying? Because he Neverlands."
+    CondemnedLimeIanthe = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VerbalOrangeUlrika = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    HomelyBrownRochette = "Whoever invented the knock-knock joke should get a no bell prize."
+    ExpectedWhiteJeanie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PracticalSalmonCarmela = "Dad Im hungry  Hi hungry Im dad"
+    NativeCoffeeKlara = 56
+    _hidden_value = true
+  }
+  string HeavyChocolateChrista {
+    _hidden_value = true
+  }
+  dummy.SorryPlumLottie DamagedOliveAnnadiane {
+    VaryingTealDyanne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HandicappedBrownMartita = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CoolTurquoiseCaryl = "Slept like a log last night  woke up in the fireplace."
+    WonderfulSilverOralle = false
+    RapidAmethystTerza = 284
+    TightCoralAbagael = 605
+    YummyAmethystLenore = false
+    ManyAquaEdi = "What creature is smarter than a talking parrot? A spelling bee."
+    HarshCrimsonValry = 480
+    CulturalPurpleWenonah = "Why is Peter Pan always flying? Because he Neverlands."
+    AfraidTanRozanna = 886
+    BeautifulYellowStacy = 587
+    ImmenseSalmonBatsheva = 304
+    ManagerialTurquoiseBelva = "What do you do on a remote island? Try and find the TV island it belongs to."
+    Leadinggold2Harriot = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  "List<boolean>" SophisticatedEmeraldLulu {
+    _hidden_value = true
+  }
+  SupportingLimeAg = "Whoever invented the knock-knock joke should get a no bell prize."
+  BigLavenderHildegarde = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RetiredAquamarineMaia = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  ConcreteBronzeConstanta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CautiousAmaranthCorene = 75
+  _hidden_value = true
+}

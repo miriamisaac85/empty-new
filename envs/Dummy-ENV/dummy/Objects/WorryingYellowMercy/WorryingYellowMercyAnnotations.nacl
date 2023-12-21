@@ -1,0 +1,66 @@
+type dummy.WorryingYellowMercy {
+  annotations {
+    number MiddleSapphireKristan {
+    }
+    serviceid FondTurquoiseAurel {
+    }
+    hidden_boolean GrubbyCrimsonVenita {
+    }
+    number FineYellowGilemette {
+    }
+    json LazyBrownLorelle {
+    }
+    dummy.KnownVioletHalie IsolatedTealVittoria {
+    }
+    string ExternalBrownAlla {
+    }
+    json AdditionalGrayKellyann {
+    }
+    number BusyFuchsiaEugenia {
+    }
+    string ClumsyCopperHedwig {
+    }
+    hidden_boolean RemoteBlushIrena {
+    }
+    dummy.DifficultBlackDeanne MarriedMoccasinWilona {
+    }
+    serviceid CompleteGreenGerrie {
+    }
+    hidden_boolean ShrillFuchsiaSandy {
+    }
+    dummy.PinkBlushAinslie BadScarletVivia {
+    }
+    number TroubledBlueDennie {
+    }
+    dummy.AbundantCoralBelva EncouragingBronzeMalorie {
+    }
+    number SuitableIndigoVeriee {
+    }
+    number FeministPurpleLoralie {
+    }
+    boolean HandsomeCrimsonValery {
+    }
+    json ExcessGreenVivyan {
+    }
+    number FeministCopperMichell {
+    }
+  }
+  MiddleSapphireKristan = 649
+  FondTurquoiseAurel = "What creature is smarter than a talking parrot? A spelling bee."
+  FineYellowGilemette = 403
+  LazyBrownLorelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExternalBrownAlla = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AdditionalGrayKellyann = "What creature is smarter than a talking parrot? A spelling bee."
+  BusyFuchsiaEugenia = 224
+  ClumsyCopperHedwig = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MarriedMoccasinWilona = file("RightMagentaClemence.txt")
+  CompleteGreenGerrie = "Did you know that protons have mass? I didn't even know they were catholic."
+  BadScarletVivia = file("ExcellentAmethystEvvy.txt")
+  TroubledBlueDennie = 787
+  EncouragingBronzeMalorie = 651
+  SuitableIndigoVeriee = 902
+  FeministPurpleLoralie = 884
+  HandsomeCrimsonValery = true
+  ExcessGreenVivyan = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FeministCopperMichell = 342
+}

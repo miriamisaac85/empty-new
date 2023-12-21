@@ -1,0 +1,26 @@
+type dummy.DyingBlushTedi {
+  annotations {
+    json MidCrimsonCoral {
+    }
+    boolean VaryingAquamarineRora {
+    }
+    json PleasedTomatoCaril {
+    }
+    string ProductiveGreenKatherina {
+    }
+    number FullBlackDulcie {
+    }
+    number HollowPinkMellisa {
+    }
+  }
+  serviceid DirtyTomatoJoelynn {
+    _hidden_value = true
+  }
+  MidCrimsonCoral = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VaryingAquamarineRora = true
+  PleasedTomatoCaril = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProductiveGreenKatherina = "Why was it called the dark ages? Because of all the knights. "
+  FullBlackDulcie = 453
+  HollowPinkMellisa = 414
+  _hidden_value = true
+}

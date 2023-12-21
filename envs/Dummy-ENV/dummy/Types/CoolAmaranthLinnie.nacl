@@ -1,0 +1,25 @@
+type dummy.CoolAmaranthLinnie {
+  annotations {
+    number Shakygold2Willa {
+    }
+    dummy.NuclearBlueCorinna BraveAquamarineKaile {
+    }
+    boolean ColossalAmethystGwyneth {
+    }
+    hidden_boolean BitterBronzeBambie {
+    }
+  }
+  boolean Unexpectedgold2Jennica {
+    _hidden_value = true
+  }
+  "List<json>" IslamicGraySibley {
+    _hidden_value = true
+  }
+  serviceid PreciousBrownCallie {
+    _hidden_value = true
+  }
+  Shakygold2Willa = 379
+  BraveAquamarineKaile = 809
+  ColossalAmethystGwyneth = true
+  _hidden_value = true
+}

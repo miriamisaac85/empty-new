@@ -1,0 +1,73 @@
+type dummy.BusyHarlequinDeborah {
+  string AbundantGreenBrietta {
+  }
+  string OppositeScarletFelicle {
+  }
+  json TightAmethystDelphine {
+  }
+  json LivingGreenKimberli {
+  }
+  boolean NativeCrimsonMara {
+  }
+  dummy.BizarreScarletKarrie JitteryTanJoane {
+    BrightFuchsiaVivianne = 715
+    HonWhiteCorrina = "My first time using an elevator was an uplifting experience. The second time let me down."
+    IntegratedFuchsiaNell = 504
+    DramaticCoralVelma = "Why did the kid cross the playground? To get to the other slide."
+    VariousBlackOdilia = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    ManyApricotPierette = "How come the stadium got hot after the game? Because all of the fans left."
+    CloudySilverLara = "What do you call two barracuda fish?  A Pairacuda!"
+    ItchyJadeMelina = "I'll tell you what often gets over looked... garden fences."
+    HumanAquamarineAnnabella = 660
+  }
+  number CloudyYellowDeeann {
+  }
+  string HurtSilverPia {
+  }
+  serviceid SoundTomatoBrittan {
+  }
+  number WhisperingFuchsiaJocelin {
+  }
+  hidden_boolean ShrillPeachRoxine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RealApricotJorie {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  "List<serviceid>" InternalMoccasinSaraann {
+  }
+  string PurpleCopperCollete {
+  }
+  boolean EagerAmaranthAmara {
+  }
+  "List<dummy.ChosenGreenLucretia>" RomanticTealStarr {
+    AfraidTurquoiseDorelle = false
+    DeterminedMoccasinIna = "Why is Peter Pan always flying? Because he Neverlands."
+    AlliedWhiteKamilah = "Whoever invented the knock-knock joke should get a no bell prize."
+    SuccessfulLimePerrine = "How come the stadium got hot after the game? Because all of the fans left."
+    PriorBlackNancey = 335
+  }
+  hidden_boolean Outstandinggold2Maddi {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  dummy.BewilderedGreenRosemarie ConsistentMoccasinGratia {
+    HighBlushMoyna = "Why was it called the dark ages? Because of all the knights. "
+    ClearPeachUla = "Why was it called the dark ages? Because of all the knights. "
+    ControlledPeachKathye = 164
+    LeadingIvoryGlory = 151
+  }
+  string HungryAzureLilllie {
+  }
+  number FineSilverTanya {
+  }
+  number ShallowAmethystKirsten {
+  }
+}

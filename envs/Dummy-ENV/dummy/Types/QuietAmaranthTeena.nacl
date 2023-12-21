@@ -1,0 +1,45 @@
+type dummy.QuietAmaranthTeena {
+  annotations {
+    json WonderfulFuchsiaRochella {
+    }
+    dummy.DEFAULT ImpossibleBronzeTiertza {
+    }
+    dummy.SubjectiveAmethystBel ExactCyanCarlie {
+    }
+    serviceid NaturalAmethystFallon {
+    }
+    boolean UnsightlyAmethystMamie {
+    }
+    serviceid ProfitableMoccasinDela {
+    }
+    number EducationalPlumTommie {
+    }
+  }
+  json MagicAzureStephana {
+    _hidden_value = true
+  }
+  hidden_boolean RandomHarlequinCathy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DistinctivePinkAlmira {
+    _hidden_value = true
+  }
+  serviceid AlliedRoseMaddie {
+    _hidden_value = true
+  }
+  number FatWhiteGuillemette {
+    _hidden_value = true
+  }
+  WonderfulFuchsiaRochella = "What creature is smarter than a talking parrot? A spelling bee."
+  ImpossibleBronzeTiertza = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ExactCyanCarlie = 259
+  NaturalAmethystFallon = "What creature is smarter than a talking parrot? A spelling bee."
+  UnsightlyAmethystMamie = false
+  ProfitableMoccasinDela = "What creature is smarter than a talking parrot? A spelling bee."
+  EducationalPlumTommie = 380
+  _hidden_value = true
+}

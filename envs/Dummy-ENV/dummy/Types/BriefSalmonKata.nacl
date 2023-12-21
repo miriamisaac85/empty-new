@@ -1,0 +1,22 @@
+type dummy.BriefSalmonKata {
+  annotations {
+    json BrokenBeigeLucienne {
+    }
+    hidden_boolean ConsistentCoffeeSabine {
+    }
+    string WorldwideBronzeEvelina {
+    }
+    string ClinicalRoseLonee {
+    }
+    json HorribleSapphireRahal {
+    }
+  }
+  serviceid ExtensiveBlushJacquenetta {
+    _hidden_value = true
+  }
+  BrokenBeigeLucienne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WorldwideBronzeEvelina = "Did you know that protons have mass? I didn't even know they were catholic."
+  ClinicalRoseLonee = "Why is Peter Pan always flying? Because he Neverlands."
+  HorribleSapphireRahal = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

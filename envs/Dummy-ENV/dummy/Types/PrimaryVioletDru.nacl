@@ -1,0 +1,67 @@
+type dummy.PrimaryVioletDru {
+  annotations {
+    hidden_boolean RandomHarlequinBrande {
+    }
+    string PeculiarTanOlimpia {
+    }
+    number MuteOrangeTara {
+    }
+    string ControlledAmaranthRonny {
+    }
+    json DirtySalmonClemence {
+    }
+    serviceid UnacceptableOrangeRiane {
+    }
+    boolean LuckyLavenderFanya {
+    }
+  }
+  json NarrowGreenTrudi {
+    _hidden_value = true
+  }
+  string BoredAquaMaurene {
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa NastyRedEleanore {
+    _hidden_value = true
+  }
+  boolean LovelySilverLyn {
+    _hidden_value = true
+  }
+  string FollowingPlumErda {
+    _hidden_value = true
+  }
+  serviceid ResidentialLavenderSal {
+    _hidden_value = true
+  }
+  hidden_boolean RoundSapphireChlo {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FunctionalTurquoiseCarey {
+    _hidden_value = true
+  }
+  dummy.VoluntaryBlushSonja AggregateCoralJanetta {
+    CoolAmberOfelia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    OrthodoxYellowVally = 909
+    AfricanPinkSteffane = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    HelpfulLavenderErna = "What creature is smarter than a talking parrot? A spelling bee."
+    DualMaroonRosmunda = 170
+    InternationalMaroonKaia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ObligedMoccasinAtlante = "What creature is smarter than a talking parrot? A spelling bee."
+    IntelligentAmaranthKarine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  string WeirdCopperCristy {
+    _hidden_value = true
+  }
+  PeculiarTanOlimpia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MuteOrangeTara = 281
+  ControlledAmaranthRonny = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DirtySalmonClemence = "Whoever invented the knock-knock joke should get a no bell prize."
+  UnacceptableOrangeRiane = "Did you know that protons have mass? I didn't even know they were catholic."
+  LuckyLavenderFanya = false
+  _hidden_value = true
+}

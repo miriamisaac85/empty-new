@@ -1,0 +1,63 @@
+type dummy.EldestYellowDona {
+  annotations {
+    hidden_boolean WildTurquoiseTobi {
+    }
+    boolean CleanCrimsonJunia {
+    }
+    dummy.RunningAquaRoshelle LargeMagentaFanchon {
+    }
+    number FreshScarletOralla {
+    }
+    json HeavyJadeWilly {
+    }
+    serviceid HarshAmethystTamqrah {
+    }
+    serviceid WelshAmethystEma {
+    }
+    number GayHarlequinMarissa {
+    }
+    boolean NavalBeigeMillisent {
+    }
+    dummy.WrongPinkAtlanta RulingRedElsa {
+    }
+    number EssentialCoralDulciana {
+    }
+    json HotBeigeKatina {
+    }
+    dummy.DryBeigeWinni MathematicalHarlequinDorette {
+    }
+    string SolidJadeSapphira {
+    }
+    json RenewedJadeLauretta {
+    }
+    boolean VeryGrayTrude {
+    }
+    json ForthcomingBeigeSisile {
+    }
+    boolean SoreLavenderJaclin {
+    }
+    number IntegratedIndigoDanica {
+    }
+    dummy.ContemporaryPurpleZabrina DelightfulPurpleRoobbie {
+    }
+    hidden_boolean GiantPurpleRaine {
+    }
+  }
+  CleanCrimsonJunia = true
+  LargeMagentaFanchon = 15
+  FreshScarletOralla = 147
+  HeavyJadeWilly = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HarshAmethystTamqrah = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WelshAmethystEma = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GayHarlequinMarissa = 321
+  NavalBeigeMillisent = false
+  EssentialCoralDulciana = 428
+  HotBeigeKatina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SolidJadeSapphira = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RenewedJadeLauretta = "A steak pun is a rare medium well done."
+  VeryGrayTrude = true
+  ForthcomingBeigeSisile = "Why was it called the dark ages? Because of all the knights. "
+  SoreLavenderJaclin = false
+  IntegratedIndigoDanica = 125
+  DelightfulPurpleRoobbie = file("GoverningBronzeOla.txt")
+}

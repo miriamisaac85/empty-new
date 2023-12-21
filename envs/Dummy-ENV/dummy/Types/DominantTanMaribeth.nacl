@@ -1,0 +1,110 @@
+type dummy.DominantTanMaribeth {
+  annotations {
+    json AppropriateCyanMeghann {
+    }
+    string ProudBeigeAbbie {
+    }
+    dummy.DEFAULT FragileScarletMalissia {
+    }
+    number Toughgold2Emmalee {
+    }
+    hidden_boolean FunctionalChocolateMerrily {
+    }
+    dummy.StrikingMoccasinLonnie OperationalIndigoMyrtice {
+    }
+  }
+  json Worthwhilegold2Nessie {
+    _hidden_value = true
+  }
+  serviceid IntensiveMaroonDianna {
+    _hidden_value = true
+  }
+  boolean GentleIvoryRae {
+    _hidden_value = true
+  }
+  number OptimisticOliveHollyanne {
+    _hidden_value = true
+  }
+  hidden_boolean ProgressiveCrimsonMarillin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CrookedBrownBriney {
+    _hidden_value = true
+  }
+  hidden_boolean JustTomatoRosmunda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid MightyPinkShela {
+    _hidden_value = true
+  }
+  string ResidentialPinkPhillida {
+    _hidden_value = true
+  }
+  json FlutteringMagentaKimberly {
+    _hidden_value = true
+  }
+  hidden_boolean RealisticSapphireAline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CautiousChocolateDaphna {
+    _hidden_value = true
+  }
+  number ApparentChocolateCherye {
+    _hidden_value = true
+  }
+  boolean BasicAzureJoletta {
+    _hidden_value = true
+  }
+  serviceid OrganicCoralKessia {
+    _hidden_value = true
+  }
+  string BadPinkDona {
+    _hidden_value = true
+  }
+  hidden_boolean MolecularGrayAdriaens {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SuperLimeDina {
+    _hidden_value = true
+  }
+  string DrabFuchsiaSharl {
+    _hidden_value = true
+  }
+  hidden_boolean GladBlushCaren {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean TiredYellowRow {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MarginalHarlequinMarjy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FranticIndigoEmyle {
+    _hidden_value = true
+  }
+  boolean SmoothSapphireTildy {
+    _hidden_value = true
+  }
+  AppropriateCyanMeghann = "Why did the tomato blush? Because it saw the salad dressing."
+  ProudBeigeAbbie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FragileScarletMalissia = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  Toughgold2Emmalee = 862
+  OperationalIndigoMyrtice = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

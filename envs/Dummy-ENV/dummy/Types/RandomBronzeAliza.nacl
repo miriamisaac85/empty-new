@@ -1,0 +1,30 @@
+type dummy.RandomBronzeAliza {
+  annotations {
+    json RaspySilverNeile {
+    }
+    number BindingBlushStevena {
+    }
+    number ComprehensiveSapphireCayla {
+    }
+    dummy.DEFAULT FancyRoseCharis {
+    }
+    dummy.PinkBlushAinslie ColdMaroonValma {
+    }
+    number TopIvoryTessi {
+    }
+  }
+  hidden_boolean WearyBlushAnnecorinne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  RaspySilverNeile = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BindingBlushStevena = 364
+  ComprehensiveSapphireCayla = 151
+  FancyRoseCharis = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  ColdMaroonValma = "Why did the tomato blush? Because it saw the salad dressing."
+  TopIvoryTessi = 189
+  _hidden_value = true
+}

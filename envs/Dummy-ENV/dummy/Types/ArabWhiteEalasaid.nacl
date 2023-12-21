@@ -1,0 +1,60 @@
+type dummy.ArabWhiteEalasaid {
+  annotations {
+    json ChronicSilverFerne {
+    }
+    string BlackLimeDeeann {
+    }
+    boolean OlympicFuchsiaMaire {
+    }
+    boolean YellowOliveRona {
+    }
+    dummy.LightAmethystFrank FragileCoralDanice {
+    }
+  }
+  json BoilingLavenderCynde {
+    _hidden_value = true
+  }
+  string KoreanRoseOrelle {
+    _hidden_value = true
+  }
+  json NumerousRedMargarita {
+    _hidden_value = true
+  }
+  boolean KindGrayJohnette {
+    _hidden_value = true
+  }
+  number IndividualGrayFred {
+    _hidden_value = true
+  }
+  boolean ZanyGraySelena {
+    _hidden_value = true
+  }
+  json SelfishChocolateTedi {
+    _hidden_value = true
+  }
+  boolean OddFuchsiaLoralyn {
+    _hidden_value = true
+  }
+  serviceid FamousIvoryEvanne {
+    _hidden_value = true
+  }
+  number InstantChocolateNancee {
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeAquaKaril {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RoughOrangeTwyla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ChronicSilverFerne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BlackLimeDeeann = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OlympicFuchsiaMaire = false
+  YellowOliveRona = true
+  FragileCoralDanice = false
+  _hidden_value = true
+}

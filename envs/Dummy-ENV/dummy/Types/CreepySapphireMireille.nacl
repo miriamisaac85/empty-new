@@ -1,0 +1,28 @@
+type dummy.CreepySapphireMireille {
+  annotations {
+    string InadequateChocolateAlena {
+    }
+    boolean AdorableAzureCarol {
+    }
+    boolean RespectiveAzureMara {
+    }
+    number FaithfulBlueMeg {
+    }
+    hidden_boolean LowAmaranthTeressa {
+    }
+  }
+  string DifficultBronzeJudie {
+    _hidden_value = true
+  }
+  string RemarkableIndigoAile {
+    _hidden_value = true
+  }
+  json FragilePeachDorolisa {
+    _hidden_value = true
+  }
+  InadequateChocolateAlena = "Why did the kid cross the playground? To get to the other slide."
+  AdorableAzureCarol = false
+  RespectiveAzureMara = true
+  FaithfulBlueMeg = 460
+  _hidden_value = true
+}

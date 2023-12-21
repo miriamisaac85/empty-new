@@ -1,0 +1,32 @@
+type dummy.UglyFuchsiaRhonda {
+  "List<serviceid>" SkilledCopperChristiane {
+  }
+  hidden_boolean NobleRedTerese {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string ShyRedAndrea {
+  }
+  hidden_boolean ConstitutionalTanErinna {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  dummy.MassiveTurquoiseHildegarde PainfulOrangeBethany {
+    ZealousTurquoiseAlaine = "I'll tell you what often gets over looked... garden fences."
+    SplendidAmaranthMeara = "Im only familiar with 25 letters in the English language. I dont know why."
+    GratefulEmeraldBerna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ShortMagentaOpal = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    OuterApricotLorelei = 219
+  }
+  hidden_boolean SimpleTealFilippa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PurringFuchsiaClementia {
+  }
+  string GladLavenderLindsey {
+  }
+}

@@ -1,0 +1,68 @@
+type dummy.VerbalIvoryMercedes {
+  boolean YoungChocolateHeidi {
+  }
+  "List<json>" PlainSalmonCourtenay {
+  }
+  serviceid ThunderingBronzeRorie {
+  }
+  serviceid DirtyAmethystVan {
+  }
+  serviceid BreezyPurpleTandy {
+  }
+  number CognitiveApricotGermana {
+  }
+  serviceid JointTomatoElspeth {
+  }
+  number NervousLavenderKrissie {
+  }
+  json FamiliarAmaranthCasie {
+  }
+  serviceid EligiblePurpleEdie {
+  }
+  json InnerCopperCele {
+  }
+  json SimpleCyanEmilie {
+  }
+  json DeliciousOrangeAlberta {
+  }
+  boolean WideLavenderMellicent {
+  }
+  string AnonymousAmethystNorina {
+  }
+  json ArabMaroonCoriss {
+  }
+  number StupidGrayFredelia {
+  }
+  json RipePurpleAbbye {
+  }
+  number BadBlackBasia {
+  }
+  hidden_boolean SecondaryBlackDyna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ConventionalApricotTanya {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SubsequentCyanGermaine {
+  }
+  boolean FavouriteScarletEmmalee {
+  }
+  serviceid DependentLimeJoelle {
+  }
+  json OverallScarletRina {
+  }
+  string NegativePlumAmelita {
+  }
+  dummy.UndergroundSalmonLurlene ScaryCopperJeniffer {
+    PartialAzureDarrelle = 843
+    Prominentgold2Susann = "How come the stadium got hot after the game? Because all of the fans left."
+    ConstitutionalFuchsiaMattie = 830
+    IndependentHarlequinBeret = "Why was it called the dark ages? Because of all the knights. "
+  }
+  number BloodyOliveBabara {
+  }
+}

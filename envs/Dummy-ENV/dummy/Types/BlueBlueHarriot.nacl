@@ -1,0 +1,110 @@
+type dummy.BlueBlueHarriot {
+  annotations {
+    string ParticularLimeSonia {
+    }
+    hidden_boolean CleverCrimsonAggy {
+    }
+    number FullGrayLorene {
+    }
+    boolean NegativeBlushCinderella {
+    }
+    hidden_boolean PotentialOliveCharla {
+    }
+    serviceid DullCoffeeCal {
+    }
+    boolean ExcitedSalmonKarissa {
+    }
+  }
+  string WelcomeEmeraldDennie {
+    _hidden_value = true
+  }
+  serviceid BoredRedMadlin {
+    _hidden_value = true
+  }
+  string InnovativeSapphireShandee {
+    _hidden_value = true
+  }
+  hidden_boolean HappyFuchsiaAndria {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NiceMagentaKikelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SelectiveBlackLolly {
+    _hidden_value = true
+  }
+  hidden_boolean ApparentBlueRafaelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FondYellowPetunia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DisappointedMaroonGenovera {
+    _hidden_value = true
+  }
+  "List<boolean>" ElegantBlackGlynis {
+    _hidden_value = true
+  }
+  serviceid LinguisticCrimsonCorrina {
+    _hidden_value = true
+  }
+  hidden_boolean UnnecessaryIvoryFelecia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT LiquidCoralBlancha {
+    _hidden_value = true
+  }
+  boolean TallAzureOliy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UpsetApricotFelita {
+    _hidden_value = true
+  }
+  dummy.InlandGreenSarene OccupationalLavenderConchita {
+    DullSapphireMeredith = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RealisticOliveMarinna = 44
+    TroubledIndigoWinnie = 639
+    CrazyBlackNeille = "Im only familiar with 25 letters in the English language. I dont know why."
+    PassingCyanHeida = "Why didnt the skeleton cross the road? Because he had no guts."
+    Politicalgold2Mozelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    GreatBronzeEttie = 228
+    CloseRedClarine = 327
+    _hidden_value = true
+  }
+  json WorkingAquamarineHildagarde {
+    _hidden_value = true
+  }
+  serviceid ShallowWhiteEden {
+    _hidden_value = true
+  }
+  string MedicalTurquoiseAlfie {
+    _hidden_value = true
+  }
+  string BriefRedMariette {
+    _hidden_value = true
+  }
+  hidden_boolean ProfessionalAzureCornelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT UpperMaroonTara {
+    _hidden_value = true
+  }
+  ParticularLimeSonia = "Whoever invented the knock-knock joke should get a no bell prize."
+  FullGrayLorene = 158
+  NegativeBlushCinderella = false
+  DullCoffeeCal = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExcitedSalmonKarissa = true
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.UrgentChocolateSharity {
+  annotations {
+    hidden_boolean ConvincingRoseLiesa {
+    }
+    string PlainEmeraldJillian {
+    }
+    json UrgentGrayKristi {
+    }
+    serviceid VulnerableAquamarineMirna {
+    }
+  }
+  json VisualAmaranthEddy {
+    _hidden_value = true
+  }
+  string EthicalCopperNicola {
+    _hidden_value = true
+  }
+  serviceid PerfectBeigeDona {
+    _hidden_value = true
+  }
+  boolean FinancialBrownCarlynne {
+    _hidden_value = true
+  }
+  PlainEmeraldJillian = "Slept like a log last night  woke up in the fireplace."
+  UrgentGrayKristi = "How come the stadium got hot after the game? Because all of the fans left."
+  VulnerableAquamarineMirna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.EquivalentJadeCaria is string {
+  annotations {
+    boolean ImpressiveCoralRoanne {
+    }
+    serviceid AwareScarletRhianon {
+    }
+    number SimilarTealTova {
+    }
+    boolean LazyJadeAlvina {
+    }
+    string InsufficientBlushGertrude {
+    }
+    json PlasticPinkSidonia {
+    }
+    boolean HappyAmaranthRhianna {
+    }
+    hidden_boolean SolidFuchsiaOlivia {
+    }
+    hidden_boolean EducationalJadeEdiva {
+    }
+    dummy.DEFAULT RoughOliveKailey {
+    }
+    hidden_boolean MistyGrayCollete {
+    }
+    number SatisfiedAmaranthCarilyn {
+    }
+    json NarrowPinkMadeleine {
+    }
+    hidden_boolean ShallowWhiteDahlia {
+    }
+    hidden_boolean RandomRedJolene {
+    }
+  }
+  ImpressiveCoralRoanne = true
+  AwareScarletRhianon = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SimilarTealTova = 615
+  LazyJadeAlvina = true
+  InsufficientBlushGertrude = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PlasticPinkSidonia = "Slept like a log last night  woke up in the fireplace."
+  HappyAmaranthRhianna = false
+  RoughOliveKailey = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  SatisfiedAmaranthCarilyn = 375
+  NarrowPinkMadeleine = "To be Frank, I'd have to change my name."
+}

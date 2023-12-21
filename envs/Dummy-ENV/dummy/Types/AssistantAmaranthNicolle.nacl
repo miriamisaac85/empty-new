@@ -1,0 +1,81 @@
+type dummy.AssistantAmaranthNicolle {
+  annotations {
+    dummy.DEFAULT ManagerialHarlequinAllyce {
+    }
+    hidden_boolean GratefulAmaranthKatya {
+    }
+    number InevitableIvoryDeirdre {
+    }
+    dummy.SmoggyApricotShayna MagicGreenTimi {
+    }
+  }
+  number SensitiveCoffeeCarry {
+    _hidden_value = true
+  }
+  serviceid RationalBlackFelita {
+    _hidden_value = true
+  }
+  hidden_boolean AccurateApricotAuria {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid MidCopperGwenni {
+    _hidden_value = true
+  }
+  json EquivalentHarlequinEvangelina {
+    _hidden_value = true
+  }
+  boolean PrimitiveCrimsonKata {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CompatibleMoccasinCharmain {
+    _hidden_value = true
+  }
+  boolean OutsideOrangeSimone {
+    _hidden_value = true
+  }
+  json FrightenedIvoryKatina {
+    _hidden_value = true
+  }
+  serviceid PurpleAquaChloette {
+    _hidden_value = true
+  }
+  hidden_boolean BigIvoryThomasin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json OrthodoxIvoryJinny {
+    _hidden_value = true
+  }
+  hidden_boolean CheapTanConstantia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ParallelCyanKoren {
+    _hidden_value = true
+  }
+  hidden_boolean Excitinggold2Renate {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FinePeachMeade {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousScarletMarys {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ManagerialHarlequinAllyce = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  InevitableIvoryDeirdre = 962
+  MagicGreenTimi = 408
+  _hidden_value = true
+}

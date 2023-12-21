@@ -1,0 +1,60 @@
+type dummy.NuclearBlueCorinna is number {
+  annotations {
+    string GermanCrimsonRobbie {
+    }
+    json MiddleAmaranthCherlyn {
+    }
+    hidden_boolean WrongVioletDaloris {
+    }
+    boolean ColonialCoralKat {
+    }
+    json MushyBlushEirena {
+    }
+    serviceid HotCopperBertina {
+    }
+    json TenderAzureDoreen {
+    }
+    string PerfectOliveGabie {
+    }
+    hidden_boolean FullMaroonLissi {
+    }
+    boolean SorryCrimsonAudi {
+    }
+    serviceid AssociatedBronzeArlen {
+    }
+    serviceid GivenWhiteJan {
+    }
+    hidden_boolean InstantMaroonGabi {
+    }
+    serviceid CondemnedLimeIanthe {
+    }
+    json VerbalOrangeUlrika {
+    }
+    hidden_boolean ShallowApricotMarylin {
+    }
+    string HomelyBrownRochette {
+    }
+    string ExpectedWhiteJeanie {
+    }
+    string PracticalSalmonCarmela {
+    }
+    number NativeCoffeeKlara {
+    }
+  }
+  GermanCrimsonRobbie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MiddleAmaranthCherlyn = "Why did the kid cross the playground? To get to the other slide."
+  ColonialCoralKat = true
+  MushyBlushEirena = "Why did the tomato blush? Because it saw the salad dressing."
+  HotCopperBertina = "Why did the kid cross the playground? To get to the other slide."
+  TenderAzureDoreen = "Why didnt the skeleton cross the road? Because he had no guts."
+  PerfectOliveGabie = "Why do birds fly south for the winter? Because it's too far to walk."
+  SorryCrimsonAudi = false
+  AssociatedBronzeArlen = "Why didnt the skeleton cross the road? Because he had no guts."
+  GivenWhiteJan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CondemnedLimeIanthe = "To be Frank, I'd have to change my name."
+  VerbalOrangeUlrika = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HomelyBrownRochette = "Why did the kid cross the playground? To get to the other slide."
+  ExpectedWhiteJeanie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PracticalSalmonCarmela = "I'll tell you what often gets over looked... garden fences."
+  NativeCoffeeKlara = 280
+}

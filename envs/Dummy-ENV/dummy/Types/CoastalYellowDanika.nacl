@@ -1,0 +1,54 @@
+type dummy.CoastalYellowDanika {
+  annotations {
+    hidden_boolean SteepLavenderJanina {
+    }
+    boolean LonelyBronzeNorry {
+    }
+    json WeirdRedEbonee {
+    }
+    json ManagerialPurpleBessie {
+    }
+    number ImpressiveMaroonMahala {
+    }
+    serviceid FashionableSilverOdessa {
+    }
+  }
+  serviceid ClassicalAquaStoddard {
+    _hidden_value = true
+  }
+  string ParliamentaryTomatoCorliss {
+    _hidden_value = true
+  }
+  "List<boolean>" DelightfulLavenderMatilda {
+    _hidden_value = true
+  }
+  boolean VoicelessGreenEmmi {
+    _hidden_value = true
+  }
+  boolean ViolentChocolateMerna {
+    _hidden_value = true
+  }
+  number FlakyOrangeCarina {
+    _hidden_value = true
+  }
+  hidden_boolean OrthodoxMoccasinJillian {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json BiologicalBlackJanifer {
+    _hidden_value = true
+  }
+  string LightAquaOpal {
+    _hidden_value = true
+  }
+  json GrievingMagentaLinnea {
+    _hidden_value = true
+  }
+  LonelyBronzeNorry = false
+  WeirdRedEbonee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ManagerialPurpleBessie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImpressiveMaroonMahala = 812
+  FashionableSilverOdessa = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

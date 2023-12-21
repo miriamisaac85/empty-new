@@ -1,0 +1,20 @@
+type dummy.SquareLimeGreta {
+  annotations {
+    number GermanGrayAngelique {
+    }
+    json AppallingAmberWilow {
+    }
+    string HilariousAquamarineTeresina {
+    }
+    number WetCyanMadeleine {
+    }
+  }
+  string CorrectCyanJillie {
+    _hidden_value = true
+  }
+  GermanGrayAngelique = 522
+  AppallingAmberWilow = "Why didnt the skeleton cross the road? Because he had no guts."
+  HilariousAquamarineTeresina = "Whoever invented the knock-knock joke should get a no bell prize."
+  WetCyanMadeleine = 545
+  _hidden_value = true
+}

@@ -1,0 +1,49 @@
+type dummy.ImpressedBlackJonis {
+  annotations {
+    hidden_boolean ThenCyanTherese {
+    }
+    number CloudyLavenderRozele {
+    }
+    string LeadingCrimsonGayel {
+    }
+    dummy.DEFAULT PoorWhiteGiulietta {
+    }
+    hidden_boolean StripedCopperMyrah {
+    }
+    string ScornfulYellowKrissie {
+    }
+  }
+  json QuietScarletFidela {
+    _hidden_value = true
+  }
+  serviceid RudeIvoryKellyann {
+    _hidden_value = true
+  }
+  json ConventionalTurquoiseAnnabella {
+    _hidden_value = true
+  }
+  number UsualWhiteEdin {
+    _hidden_value = true
+  }
+  number BrightGreenCherri {
+    _hidden_value = true
+  }
+  json DarkSapphireEdith {
+    _hidden_value = true
+  }
+  number SquareSilverFelice {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundRoseConstantia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CloudyLavenderRozele = 476
+  LeadingCrimsonGayel = "Why did the tomato blush? Because it saw the salad dressing."
+  PoorWhiteGiulietta = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  ScornfulYellowKrissie = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

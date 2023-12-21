@@ -1,0 +1,7 @@
+salesforce.SharingRules OmniProcess {
+  fullName = "OmniProcess"
+  _parent = [
+    salesforce.OmniProcess,
+  ]
+  _alias = "OmniProcess"
+}

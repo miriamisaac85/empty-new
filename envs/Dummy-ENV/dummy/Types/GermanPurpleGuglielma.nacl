@@ -1,0 +1,43 @@
+type dummy.GermanPurpleGuglielma {
+  annotations {
+    dummy.ExclusiveEmeraldCorrine MarriedEmeraldAileen {
+    }
+    dummy.DEFAULT BeneficialVioletIsa {
+    }
+    hidden_boolean StrangeJadeViolette {
+    }
+    dummy.EquivalentJadeCaria PersistentBrownClaude {
+    }
+    boolean FriendlyAmethystDeeann {
+    }
+    string RunningCrimsonAlix {
+    }
+  }
+  number IntermediateCrimsonHedwig {
+    _hidden_value = true
+  }
+  hidden_boolean BoldHarlequinAnissa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string RareMaroonPearle {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulTurquoiseMaud {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  MarriedEmeraldAileen = 308
+  BeneficialVioletIsa = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  PersistentBrownClaude = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FriendlyAmethystDeeann = true
+  RunningCrimsonAlix = '''
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+What do you do on a remote island? Try and find the TV island it belongs to.
+'''
+  _hidden_value = true
+}

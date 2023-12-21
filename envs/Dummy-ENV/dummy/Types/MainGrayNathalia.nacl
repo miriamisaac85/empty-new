@@ -1,0 +1,44 @@
+type dummy.MainGrayNathalia {
+  annotations {
+    serviceid EstimatedBronzeCicely {
+    }
+    number BalancedRedGilbertina {
+    }
+    boolean LittleRedFreddi {
+    }
+    string BeneficialLimeIsa {
+    }
+    string JointSalmonLeese {
+    }
+  }
+  serviceid RetailYellowMyranda {
+    _hidden_value = true
+  }
+  serviceid BusyBlackIngeberg {
+    _hidden_value = true
+  }
+  "List<number>" AnxiousWhiteBrunhilde {
+    _hidden_value = true
+  }
+  string BrokenBlushSallyanne {
+    _hidden_value = true
+  }
+  boolean ParentalIndigoMadelina {
+    _hidden_value = true
+  }
+  number Sheergold2Taffy {
+    _hidden_value = true
+  }
+  string RaspyPeachBobbi {
+    _hidden_value = true
+  }
+  boolean CharmingMoccasinDorree {
+    _hidden_value = true
+  }
+  EstimatedBronzeCicely = "What do you do on a remote island? Try and find the TV island it belongs to."
+  BalancedRedGilbertina = 447
+  LittleRedFreddi = false
+  BeneficialLimeIsa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  JointSalmonLeese = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

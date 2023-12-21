@@ -1,0 +1,7 @@
+salesforce.SharingRules OmniDataPack {
+  fullName = "OmniDataPack"
+  _parent = [
+    salesforce.OmniDataPack,
+  ]
+  _alias = "OmniDataPack"
+}

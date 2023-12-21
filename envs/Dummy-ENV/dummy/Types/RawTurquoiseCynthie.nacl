@@ -1,0 +1,45 @@
+type dummy.RawTurquoiseCynthie {
+  annotations {
+    json UnchangedOrangeJosie {
+    }
+    string SportingAmethystConstantine {
+    }
+    serviceid SurroundingPurpleKessiah {
+    }
+    hidden_boolean IncredibleAquamarineGwendolin {
+    }
+    json DamagedLavenderGussie {
+    }
+    boolean ExtremeMoccasinGlynis {
+    }
+  }
+  boolean FilthyBeigeColleen {
+    _hidden_value = true
+  }
+  boolean CreepyBeigeFiann {
+    _hidden_value = true
+  }
+  boolean RearOliveLoreen {
+    _hidden_value = true
+  }
+  hidden_boolean FoolishYellowLatrena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ShallowBlackMeryl {
+    _hidden_value = true
+  }
+  json LiveBlueJada {
+    _hidden_value = true
+  }
+  string RegisteredMaroonJaclyn {
+    _hidden_value = true
+  }
+  UnchangedOrangeJosie = "Im only familiar with 25 letters in the English language. I dont know why."
+  SportingAmethystConstantine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SurroundingPurpleKessiah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DamagedLavenderGussie = "Why did the kid cross the playground? To get to the other slide."
+  ExtremeMoccasinGlynis = true
+  _hidden_value = true
+}

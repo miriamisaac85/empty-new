@@ -1,0 +1,30 @@
+type dummy.RelatedPlumTanya {
+  annotations {
+    number RepulsivePeachUna {
+    }
+    dummy.SoundAmaranthImelda LongTomatoMartha {
+    }
+    number OrdinaryTealPhebe {
+    }
+    number ConceptualOrangeAnthe {
+    }
+    dummy.DEFAULT FamousCopperAthene {
+    }
+    hidden_boolean LittleBlushJonie {
+    }
+    number DesperateBronzeNicol {
+    }
+  }
+  dummy.DEFAULT ChosenGrayJanaye {
+    _hidden_value = true
+  }
+  RepulsivePeachUna = 145
+  LongTomatoMartha = 52
+  OrdinaryTealPhebe = 632
+  ConceptualOrangeAnthe = 686
+  FamousCopperAthene = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  DesperateBronzeNicol = 131
+  _hidden_value = true
+}

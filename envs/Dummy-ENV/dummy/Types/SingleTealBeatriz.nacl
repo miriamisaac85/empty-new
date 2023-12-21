@@ -1,0 +1,72 @@
+type dummy.SingleTealBeatriz {
+  annotations {
+    dummy.ProspectiveAmberDevin VitalOrangeMargaretta {
+    }
+    number FlatSalmonViviana {
+    }
+    string TameApricotMelva {
+    }
+    string ElatedAmberUlrike {
+    }
+    dummy.LightAmethystFrank StrongAmethystGinelle {
+    }
+  }
+  serviceid SubstantialBeigeShirline {
+    _hidden_value = true
+  }
+  boolean DeterminedBeigeLilian {
+    _hidden_value = true
+  }
+  serviceid BadMagentaNadia {
+    _hidden_value = true
+  }
+  boolean ColonialTealCheslie {
+    _hidden_value = true
+  }
+  number SecureMagentaSean {
+    _hidden_value = true
+  }
+  boolean PricklyMaroonOlenka {
+    _hidden_value = true
+  }
+  string DailyAmberSuzette {
+    _hidden_value = true
+  }
+  number ContinuingCrimsonDody {
+    _hidden_value = true
+  }
+  number BrownAmethystBinni {
+    _hidden_value = true
+  }
+  number SolarHarlequinAthene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GloriousGreenCatriona {
+    _hidden_value = true
+  }
+  string WorthwhileVioletLoise {
+    _hidden_value = true
+  }
+  number QuaintCrimsonQuintana {
+    _hidden_value = true
+  }
+  hidden_boolean FutureLimeCristine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RoughYellowHilary {
+    _hidden_value = true
+  }
+  hidden_boolean SafeTanErina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  VitalOrangeMargaretta = 860
+  FlatSalmonViviana = 274
+  TameApricotMelva = "To be Frank, I'd have to change my name."
+  ElatedAmberUlrike = "Why didnt the skeleton cross the road? Because he had no guts."
+  StrongAmethystGinelle = true
+  _hidden_value = true
+}

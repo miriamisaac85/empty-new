@@ -1,0 +1,28 @@
+type dummy.CurvedIvoryQueenie is boolean {
+  annotations {
+    serviceid GreasyJadeHynda {
+    }
+    json AcceptableAmaranthFreddi {
+    }
+    dummy.DEFAULT SquareMaroonFaun {
+    }
+    hidden_boolean AmbitiousBronzeLeanora {
+    }
+    dummy.DEFAULT UndergroundRedAudrey {
+    }
+    string Economicgold2Johnath {
+    }
+    string ExcitingVioletLelah {
+    }
+  }
+  GreasyJadeHynda = "Why did the kid cross the playground? To get to the other slide."
+  AcceptableAmaranthFreddi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SquareMaroonFaun = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  UndergroundRedAudrey = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  Economicgold2Johnath = "What creature is smarter than a talking parrot? A spelling bee."
+  ExcitingVioletLelah = "What creature is smarter than a talking parrot? A spelling bee."
+}

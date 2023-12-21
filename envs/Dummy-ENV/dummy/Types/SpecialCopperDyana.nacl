@@ -1,0 +1,99 @@
+type dummy.SpecialCopperDyana {
+  annotations {
+    hidden_boolean ShortCoffeeGenovera {
+    }
+    json BewilderedFuchsiaKyle {
+    }
+    dummy.BewilderedGreenRosemarie RenewedSapphireRayshell {
+    }
+    json DisappointedApricotGabey {
+    }
+    dummy.NuclearBlueCorinna UnfortunatePurpleIlene {
+    }
+    number PrimeMoccasinCele {
+    }
+  }
+  string BigBeigeKorney {
+    _hidden_value = true
+  }
+  number MarvellousYellowUna {
+    _hidden_value = true
+  }
+  serviceid SorryFuchsiaDyna {
+    _hidden_value = true
+  }
+  boolean StableBrownNoella {
+    _hidden_value = true
+  }
+  json AssociatedTealAdiana {
+    _hidden_value = true
+  }
+  boolean StillCoralAnnadiane {
+    _hidden_value = true
+  }
+  serviceid FastCrimsonLurette {
+    _hidden_value = true
+  }
+  boolean FormalOrangeMavis {
+    _hidden_value = true
+  }
+  hidden_boolean ChemicalWhiteLina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json KeyCyanBeatriz {
+    _hidden_value = true
+  }
+  dummy.HurtJadeVevay EconomicMaroonLesly {
+    DeliberateBlueDeirdre = false
+    MinimumApricotEdee = true
+    BewilderedCopperDorotea = "How come the stadium got hot after the game? Because all of the fans left."
+    VulnerableMagentaInga = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    HighLavenderLucretia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ScrawnyBeigeNoni = false
+    LevelBlueAdelind = "Why is Peter Pan always flying? Because he Neverlands."
+    ChristianFuchsiaRobenia = "Dad Im hungry  Hi hungry Im dad"
+    OutrageousAquaDina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EvolutionaryTurquoiseKristen = 820
+    DryOliveDoralia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HappyOrangeEdin = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BrownSalmonGrier = 850
+    CarefulHarlequinPhaidra = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    CombativeTanDarline = true
+    ChillyAzureElaina = 990
+    _hidden_value = true
+  }
+  number TremendousBlackLucita {
+    _hidden_value = true
+  }
+  serviceid FitJadeAnni {
+    _hidden_value = true
+  }
+  json PeacefulBlushJojo {
+    _hidden_value = true
+  }
+  serviceid ElegantAmethystJacquenetta {
+    _hidden_value = true
+  }
+  json FlatVioletJada {
+    _hidden_value = true
+  }
+  string RelevantCopperReta {
+    _hidden_value = true
+  }
+  string InherentCopperSuzanna {
+    _hidden_value = true
+  }
+  json ClassicalPeachArabela {
+    _hidden_value = true
+  }
+  BewilderedFuchsiaKyle = "Im only familiar with 25 letters in the English language. I dont know why."
+  RenewedSapphireRayshell = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DisappointedApricotGabey = "What creature is smarter than a talking parrot? A spelling bee."
+  UnfortunatePurpleIlene = 285
+  PrimeMoccasinCele = 32
+  _hidden_value = true
+}

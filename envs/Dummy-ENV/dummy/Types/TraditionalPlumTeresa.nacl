@@ -1,0 +1,82 @@
+type dummy.TraditionalPlumTeresa {
+  annotations {
+    string QuickAzureMommy {
+    }
+    string BritishRedAlex {
+    }
+    hidden_boolean EducationalTanCorrey {
+    }
+    string DecisiveAzureCaressa {
+    }
+  }
+  json PurringTurquoiseDanit {
+    _hidden_value = true
+  }
+  string MissingAmberChelsae {
+    _hidden_value = true
+  }
+  string ProtectiveOrangeKameko {
+    _hidden_value = true
+  }
+  json GoodPurpleAdrianna {
+    _hidden_value = true
+  }
+  hidden_boolean CivilianCopperTamera {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RareYellowMariya {
+    _hidden_value = true
+  }
+  boolean Balancedgold2Candi {
+    _hidden_value = true
+  }
+  boolean EvidentJadeCathleen {
+    _hidden_value = true
+  }
+  serviceid GeneticBlackJolynn {
+    _hidden_value = true
+  }
+  boolean ReluctantWhiteElaine {
+    _hidden_value = true
+  }
+  number AdvancedAquamarineCamel {
+    _hidden_value = true
+  }
+  number JollyIvoryMara {
+    _hidden_value = true
+  }
+  serviceid ArbitraryMagentaLynnet {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RussianTealGwenny {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DryJadeBrandie {
+    _hidden_value = true
+  }
+  hidden_boolean PoisedHarlequinAlexina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number EmbarrassingTealDido {
+    _hidden_value = true
+  }
+  string FaintLimeEnid {
+    _hidden_value = true
+  }
+  json EnergeticBrownIngeborg {
+    _hidden_value = true
+  }
+  string MiddleRedMarinna {
+    _hidden_value = true
+  }
+  QuickAzureMommy = "Did you know that protons have mass? I didn't even know they were catholic."
+  BritishRedAlex = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DecisiveAzureCaressa = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

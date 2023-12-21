@@ -1,0 +1,57 @@
+type dummy.RequiredSilverAaren {
+  annotations {
+    string CrazyOliveDehlia {
+    }
+    serviceid MammothCyanVivian {
+    }
+    json AfricanYellowPrudence {
+    }
+    string WealthyBeigeIrina {
+    }
+    number UniformPinkJannelle {
+    }
+    string DirtyIvoryBrandy {
+    }
+  }
+  serviceid ConservativeCoralLonee {
+    _hidden_value = true
+  }
+  hidden_boolean AttractiveChocolateLetta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BreezyAquamarineBritte {
+    _hidden_value = true
+  }
+  hidden_boolean ExpectedHarlequinFayth {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.EquivalentJadeCaria ContinuousRedStacey {
+    ImpressiveCoralRoanne = true
+    AwareScarletRhianon = "Why didnt the skeleton cross the road? Because he had no guts."
+    SimilarTealTova = 945
+    LazyJadeAlvina = false
+    InsufficientBlushGertrude = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PlasticPinkSidonia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HappyAmaranthRhianna = true
+    RoughOliveKailey = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    SatisfiedAmaranthCarilyn = 56
+    NarrowPinkMadeleine = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  json CombinedBlueShalne {
+    _hidden_value = true
+  }
+  CrazyOliveDehlia = "Why did the tomato blush? Because it saw the salad dressing."
+  MammothCyanVivian = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AfricanYellowPrudence = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WealthyBeigeIrina = "Why do birds fly south for the winter? Because it's too far to walk."
+  UniformPinkJannelle = 801
+  DirtyIvoryBrandy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

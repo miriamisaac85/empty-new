@@ -1,0 +1,57 @@
+type dummy.SorryPlumLottie is boolean {
+  annotations {
+    string VaryingTealDyanne {
+    }
+    json HandicappedBrownMartita {
+    }
+    string CoolTurquoiseCaryl {
+    }
+    boolean WonderfulSilverOralle {
+    }
+    hidden_boolean MagicSapphireAllison {
+    }
+    number RapidAmethystTerza {
+    }
+    number TightCoralAbagael {
+    }
+    boolean YummyAmethystLenore {
+    }
+    serviceid ManyAquaEdi {
+    }
+    number HarshCrimsonValry {
+    }
+    hidden_boolean PleasantScarletMia {
+    }
+    json CulturalPurpleWenonah {
+    }
+    number AfraidTanRozanna {
+    }
+    hidden_boolean BrainyOlivePerle {
+    }
+    hidden_boolean DoublePinkEkaterina {
+    }
+    number BeautifulYellowStacy {
+    }
+    number ImmenseSalmonBatsheva {
+    }
+    string ManagerialTurquoiseBelva {
+    }
+    serviceid Leadinggold2Harriot {
+    }
+  }
+  VaryingTealDyanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HandicappedBrownMartita = "Why was it called the dark ages? Because of all the knights. "
+  CoolTurquoiseCaryl = "Why was it called the dark ages? Because of all the knights. "
+  WonderfulSilverOralle = true
+  RapidAmethystTerza = 743
+  TightCoralAbagael = 127
+  YummyAmethystLenore = true
+  ManyAquaEdi = "Why didnt the skeleton cross the road? Because he had no guts."
+  HarshCrimsonValry = 127
+  CulturalPurpleWenonah = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AfraidTanRozanna = 632
+  BeautifulYellowStacy = 54
+  ImmenseSalmonBatsheva = 490
+  ManagerialTurquoiseBelva = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  Leadinggold2Harriot = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

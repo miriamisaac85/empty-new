@@ -1,0 +1,21 @@
+type dummy.HungrySilverGusta {
+  annotations {
+    string StrongTealMatti {
+    }
+    dummy.DEFAULT BalancedAquamarineAfton {
+    }
+    hidden_boolean HeavySilverShena {
+    }
+    json InternalHarlequinArliene {
+    }
+  }
+  number RelievedAquamarineSena {
+    _hidden_value = true
+  }
+  StrongTealMatti = "What do you call two barracuda fish?  A Pairacuda!"
+  BalancedAquamarineAfton = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  InternalHarlequinArliene = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,48 @@
+type dummy.MultipleLimeAlysia {
+  annotations {
+    hidden_boolean CrazyWhiteAmalea {
+    }
+    boolean FunctionalJadeFelicity {
+    }
+    json ComprehensiveCrimsonAudra {
+    }
+    dummy.MolecularApricotDido SupportingEmeraldLydie {
+    }
+    boolean BrokenVioletLaura {
+    }
+    hidden_boolean EquivalentPlumJourdan {
+    }
+    json DeadPinkKathryn {
+    }
+    dummy.GeneralBlushLynelle RomanAzureTheressa {
+    }
+    json AmbitiousRoseFawn {
+    }
+    string EssentialHarlequinRoze {
+    }
+    string AcutePeachClara {
+    }
+    boolean ConservationTurquoiseLura {
+    }
+    boolean AlrightMoccasinElenore {
+    }
+    number DutchTomatoEsme {
+    }
+    serviceid FreshSalmonElnore {
+    }
+    json SmoothBlushAndra {
+    }
+  }
+  FunctionalJadeFelicity = false
+  ComprehensiveCrimsonAudra = "Why do birds fly south for the winter? Because it's too far to walk."
+  BrokenVioletLaura = true
+  DeadPinkKathryn = "Slept like a log last night  woke up in the fireplace."
+  AmbitiousRoseFawn = "Why did the tomato blush? Because it saw the salad dressing."
+  EssentialHarlequinRoze = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AcutePeachClara = "Did you know that protons have mass? I didn't even know they were catholic."
+  ConservationTurquoiseLura = true
+  AlrightMoccasinElenore = true
+  DutchTomatoEsme = 250
+  FreshSalmonElnore = "What creature is smarter than a talking parrot? A spelling bee."
+  SmoothBlushAndra = "Im only familiar with 25 letters in the English language. I dont know why."
+}

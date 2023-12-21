@@ -1,0 +1,73 @@
+type dummy.DefensiveOliveCelestyna {
+  annotations {
+    json ToughCyanCarie {
+    }
+    hidden_boolean InsufficientIvoryEmily {
+    }
+    dummy.BizarreScarletKarrie CommunistGrayLaural {
+    }
+    serviceid Typicalgold2Talia {
+    }
+  }
+  json SureBlueIbby {
+    _hidden_value = true
+  }
+  boolean AggregateBeigeLinzy {
+    _hidden_value = true
+  }
+  number DevelopingTomatoKirbie {
+    _hidden_value = true
+  }
+  boolean QuickestBlueShana {
+    _hidden_value = true
+  }
+  hidden_boolean EntitledMaroonLeonora {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string MilitaryPeachZorina {
+    _hidden_value = true
+  }
+  serviceid InsufficientRoseTrina {
+    _hidden_value = true
+  }
+  hidden_boolean GlamorousCopperJaimie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalMoccasinEmma {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImaginativeEmeraldDevina {
+    _hidden_value = true
+  }
+  json BeautifulPurpleMaribeth {
+    _hidden_value = true
+  }
+  dummy.LightAmethystFrank ShrillAmberAyn {
+    HonCrimsonGwen = 869
+    ProposedBrownDominique = false
+    ScaryMagentaJoby = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ObligedAquamarineLise = 882
+    IraqiCoffeeKaree = 472
+    Burninggold2Sybille = true
+    SubsequentGrayKania = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    RespectableAmberCassy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    DiversePinkJoanne = "Why do birds fly south for the winter? Because it's too far to walk."
+    FrontPlumCamila = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DelightfulAmberFrieda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DeafCoffeeCookie = "How come the stadium got hot after the game? Because all of the fans left."
+    TastyFuchsiaCarol = 501
+    _hidden_value = true
+  }
+  ToughCyanCarie = "Im only familiar with 25 letters in the English language. I dont know why."
+  CommunistGrayLaural = 749
+  Typicalgold2Talia = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

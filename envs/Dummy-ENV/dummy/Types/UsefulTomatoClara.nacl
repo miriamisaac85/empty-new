@@ -1,0 +1,28 @@
+type dummy.UsefulTomatoClara {
+  annotations {
+    hidden_boolean Worriedgold2Maritsa {
+    }
+    number ExtraordinaryCrimsonMargy {
+    }
+    json StuckBlushGaynor {
+    }
+    serviceid UnconsciousOliveKimberley {
+    }
+    serviceid CivicJadeValentine {
+    }
+    serviceid StrongAzureCrystal {
+    }
+    boolean CurvedLavenderBethany {
+    }
+  }
+  string OlympicJadeMaisie {
+    _hidden_value = true
+  }
+  ExtraordinaryCrimsonMargy = 50
+  StuckBlushGaynor = "Why did the kid cross the playground? To get to the other slide."
+  UnconsciousOliveKimberley = "What creature is smarter than a talking parrot? A spelling bee."
+  CivicJadeValentine = "Dad Im hungry  Hi hungry Im dad"
+  StrongAzureCrystal = "Why did the kid cross the playground? To get to the other slide."
+  CurvedLavenderBethany = true
+  _hidden_value = true
+}

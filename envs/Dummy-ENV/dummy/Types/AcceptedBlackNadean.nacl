@@ -1,0 +1,22 @@
+type dummy.AcceptedBlackNadean {
+  annotations {
+    dummy.SparklingAmaranthLeone UncertainCoffeePaulina {
+    }
+    string DrivingTealVernice {
+    }
+    hidden_boolean WeakBronzeSarine {
+    }
+    dummy.ExclusiveEmeraldCorrine UnfortunateJadeConchita {
+    }
+    number CombinedSapphireNonah {
+    }
+  }
+  boolean GuiltyGrayKaycee {
+    _hidden_value = true
+  }
+  UncertainCoffeePaulina = true
+  DrivingTealVernice = "How come the stadium got hot after the game? Because all of the fans left."
+  UnfortunateJadeConchita = 656
+  CombinedSapphireNonah = 636
+  _hidden_value = true
+}

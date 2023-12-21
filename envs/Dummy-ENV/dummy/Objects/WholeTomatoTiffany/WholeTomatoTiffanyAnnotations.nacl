@@ -1,0 +1,59 @@
+type dummy.WholeTomatoTiffany {
+  annotations {
+    json UltimateBlueCosetta {
+    }
+    number ExistingIvoryCherilynn {
+    }
+    hidden_boolean SurprisedFuchsiaMoina {
+    }
+    hidden_boolean PositiveLimeCarlota {
+    }
+    string CausalPlumOdille {
+    }
+    string RemainingBeigeEugenia {
+    }
+    dummy.RunningAquaRoshelle JollyTanAngelica {
+    }
+    number LatePurpleFaustine {
+    }
+    string OutstandingTanCherida {
+    }
+    dummy.StrikingMoccasinLonnie LoosePlumAlfie {
+    }
+    dummy.WorthyPlumShalne SensibleMaroonTiena {
+    }
+    json AloneBeigeElisa {
+    }
+    hidden_boolean MiserableBeigePierrette {
+    }
+    hidden_boolean WildApricotGloria {
+    }
+    number PrivateTurquoiseCordula {
+    }
+    string InternationalMagentaClaire {
+    }
+    dummy.InquisitiveAquaSapphire RoyalLimeLatisha {
+    }
+    string ScottishEmeraldBessy {
+    }
+    hidden_boolean OnlyMaroonSada {
+    }
+    hidden_boolean MidWhiteBettina {
+    }
+    string VoicelessAmaranthAndy {
+    }
+  }
+  UltimateBlueCosetta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExistingIvoryCherilynn = 717
+  CausalPlumOdille = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RemainingBeigeEugenia = "Im only familiar with 25 letters in the English language. I dont know why."
+  JollyTanAngelica = 635
+  LatePurpleFaustine = 958
+  OutstandingTanCherida = "A steak pun is a rare medium well done."
+  LoosePlumAlfie = file("PlainAmberSarah.txt")
+  AloneBeigeElisa = "Why was it called the dark ages? Because of all the knights. "
+  PrivateTurquoiseCordula = 600
+  InternationalMagentaClaire = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ScottishEmeraldBessy = "What did one nut say as he chased another nut?  I'm a cashew!"
+  VoicelessAmaranthAndy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

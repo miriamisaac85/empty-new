@@ -1,0 +1,20 @@
+type dummy.NervousAquamarineDeidre {
+  annotations {
+    dummy.DEFAULT SuperbBeigeVictoria {
+    }
+    hidden_boolean SplendidPeachAlecia {
+    }
+    hidden_boolean UnlikelyBlueCharmion {
+    }
+    boolean DisciplinarySilverPeria {
+    }
+  }
+  boolean UnwillingOrangeBambie {
+    _hidden_value = true
+  }
+  SuperbBeigeVictoria = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  DisciplinarySilverPeria = true
+  _hidden_value = true
+}

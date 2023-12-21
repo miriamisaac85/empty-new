@@ -1,0 +1,73 @@
+type dummy.AnxiousPlumTildy {
+  annotations {
+    hidden_boolean SunnyBlackMinnie {
+    }
+    string LatinMaroonDevonna {
+    }
+    number AliveSalmonAllie {
+    }
+    number AncientBeigeNolana {
+    }
+  }
+  hidden_boolean GloriousBrownLyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT EventualPeachAdoree {
+    _hidden_value = true
+  }
+  boolean GreatOrangeMicaela {
+    _hidden_value = true
+  }
+  hidden_boolean SlowAmberAntonie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SleepyRoseNinetta {
+    _hidden_value = true
+  }
+  string WonderfulBlushCarilyn {
+    _hidden_value = true
+  }
+  boolean MusicalEmeraldSherye {
+    _hidden_value = true
+  }
+  number OlympicSilverElfrieda {
+    _hidden_value = true
+  }
+  number AnonymousSilverGeorgetta {
+    _hidden_value = true
+  }
+  "List<json>" IntactBeigeLeoine {
+    _hidden_value = true
+  }
+  json CriminalJadeShalna {
+    _hidden_value = true
+  }
+  string CivilPlumDemetra {
+    _hidden_value = true
+  }
+  number BroadBronzeElvira {
+    _hidden_value = true
+  }
+  hidden_boolean GenuineFuchsiaDamita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HugeAquaLetty {
+    _hidden_value = true
+  }
+  boolean RegionalOliveJordana {
+    _hidden_value = true
+  }
+  string FuriousCoffeeFriederike {
+    _hidden_value = true
+  }
+  LatinMaroonDevonna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AliveSalmonAllie = 684
+  AncientBeigeNolana = 176
+  _hidden_value = true
+}

@@ -1,0 +1,74 @@
+type dummy.MinisterialMagentaNessi {
+  annotations {
+    serviceid FoolishIvoryLeisha {
+    }
+    dummy.AppropriateChocolateLadonna DynamicAquamarineDianemarie {
+    }
+    hidden_boolean RetailCoffeeMariana {
+    }
+  }
+  hidden_boolean LittleBlackJacinda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AlternativePurpleJobye {
+    _hidden_value = true
+  }
+  dummy.DifferentLimeChristen ElegantMaroonFrieda {
+    IndianOrangeFilippa = true
+    QuietLimeCristen = 279
+    GrievingLavenderTera = false
+    PatientApricotMidge = 971
+    CertainScarletClarine = "Why did the tomato blush? Because it saw the salad dressing."
+    AccurateYellowElfrida = false
+    SlowCrimsonIvett = "Why do birds fly south for the winter? Because it's too far to walk."
+    RigidBrownAllene = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    NegativeScarletWilly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PossibleAquaRanda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  json DivineBronzeDanell {
+    _hidden_value = true
+  }
+  boolean BeneficialFuchsiaCarree {
+    _hidden_value = true
+  }
+  serviceid AfraidMagentaCarin {
+    _hidden_value = true
+  }
+  number DoubtfulBlushTildi {
+    _hidden_value = true
+  }
+  serviceid RacialBlushEmmye {
+    _hidden_value = true
+  }
+  "List<boolean>" CognitiveAmaranthElli {
+    _hidden_value = true
+  }
+  boolean ThoroughCopperTomasina {
+    _hidden_value = true
+  }
+  "List<string>" LabourPurpleGlynnis {
+    _hidden_value = true
+  }
+  serviceid TroubledCoffeeMichell {
+    _hidden_value = true
+  }
+  number FairBronzeEstelle {
+    _hidden_value = true
+  }
+  hidden_boolean WholeAzureAnnadiane {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveApricotMozelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  FoolishIvoryLeisha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DynamicAquamarineDianemarie = 308
+  _hidden_value = true
+}

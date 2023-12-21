@@ -1,0 +1,68 @@
+type dummy.UnableAmaranthKinna {
+  annotations {
+    dummy.CooingBeigeAntonietta UncertainCrimsonAngelita {
+    }
+    json CoastalApricotMirabelle {
+    }
+    serviceid UncertainAmaranthCarlen {
+    }
+    serviceid NursingAmethystKaralee {
+    }
+    json Drygold2Guillema {
+    }
+    hidden_boolean StripedGreenSharlene {
+    }
+    string ManagerialRoseNona {
+    }
+    string EnthusiasticBlueLise {
+    }
+    hidden_boolean InterestedChocolateJacquie {
+    }
+    boolean AbovePurpleMelisa {
+    }
+    boolean SocialPeachTeri {
+    }
+    string ChristianIndigoAilene {
+    }
+    dummy.StructuralChocolateMeggie DisciplinaryTealCornelia {
+    }
+    boolean HungryBeigeBenedetta {
+    }
+    string ShortEmeraldFreda {
+    }
+    boolean UpperCoralZorah {
+    }
+    boolean PastIndigoFredia {
+    }
+    serviceid FatSapphireMerry {
+    }
+    json ElderlyIvoryReba {
+    }
+    boolean BloodySalmonSharyl {
+    }
+    number CloudyBronzeLola {
+    }
+    hidden_boolean GuiltyIvoryDonelle {
+    }
+    dummy.ProbableIndigoRori AloneBlueEmelda {
+    }
+  }
+  CoastalApricotMirabelle = "Whoever invented the knock-knock joke should get a no bell prize."
+  UncertainAmaranthCarlen = "What do you call two barracuda fish?  A Pairacuda!"
+  NursingAmethystKaralee = "Why didnt the skeleton cross the road? Because he had no guts."
+  Drygold2Guillema = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ManagerialRoseNona = "Why did the kid cross the playground? To get to the other slide."
+  EnthusiasticBlueLise = "A steak pun is a rare medium well done."
+  AbovePurpleMelisa = false
+  SocialPeachTeri = true
+  ChristianIndigoAilene = "What do you call two barracuda fish?  A Pairacuda!"
+  DisciplinaryTealCornelia = 150
+  HungryBeigeBenedetta = true
+  ShortEmeraldFreda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UpperCoralZorah = false
+  PastIndigoFredia = true
+  FatSapphireMerry = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ElderlyIvoryReba = "Why do birds fly south for the winter? Because it's too far to walk."
+  BloodySalmonSharyl = false
+  CloudyBronzeLola = 768
+}

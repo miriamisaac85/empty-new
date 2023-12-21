@@ -1,0 +1,22 @@
+type dummy.ChillyTealChristy {
+  annotations {
+    string DelightfulIvoryGelya {
+    }
+    string StickyCyanLeslie {
+    }
+    string SoftSilverAmalia {
+    }
+    hidden_boolean HotBrownLotta {
+    }
+    number LoudIvoryKarly {
+    }
+  }
+  string EvolutionaryRedCarlina {
+    _hidden_value = true
+  }
+  DelightfulIvoryGelya = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  StickyCyanLeslie = "Why was it called the dark ages? Because of all the knights. "
+  SoftSilverAmalia = "Dad Im hungry  Hi hungry Im dad"
+  LoudIvoryKarly = 88
+  _hidden_value = true
+}

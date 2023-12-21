@@ -1,0 +1,83 @@
+type dummy.JewishCoffeeRoobbie {
+  annotations {
+    boolean BadSilverCasandra {
+    }
+    json EmptySapphireNolie {
+    }
+    number ElectricPinkMarketa {
+    }
+    json ProductiveTurquoiseVonni {
+    }
+    json LengthyAzureJoni {
+    }
+    boolean InterestedCoralMarguerite {
+    }
+  }
+  number UgliestApricotSheryl {
+    _hidden_value = true
+  }
+  number PlainSalmongold2ie {
+    _hidden_value = true
+  }
+  number StupidAquamarineOdele {
+    _hidden_value = true
+  }
+  json ThunderingIndigoPamella {
+    _hidden_value = true
+  }
+  string EncouragingLimeGerianna {
+    _hidden_value = true
+  }
+  number AwfulMoccasinConsuela {
+    _hidden_value = true
+  }
+  json DevelopedTealMelonie {
+    _hidden_value = true
+  }
+  hidden_boolean BoredJadeFlorence {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number IndirectMaroonDelcina {
+    _hidden_value = true
+  }
+  string RipePlumDorelle {
+    _hidden_value = true
+  }
+  json WetLimeInes {
+    _hidden_value = true
+  }
+  hidden_boolean DeterminedHarlequinTierney {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string TroubledBlackBenni {
+    _hidden_value = true
+  }
+  serviceid JitteryBeigeAnnabelle {
+    _hidden_value = true
+  }
+  number ProfoundCopperPattie {
+    _hidden_value = true
+  }
+  number ScaryBlackCarmel {
+    _hidden_value = true
+  }
+  hidden_boolean Usefulgold2Valeria {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ShortPinkBrunhilde {
+    _hidden_value = true
+  }
+  BadSilverCasandra = false
+  EmptySapphireNolie = "Did you know that protons have mass? I didn't even know they were catholic."
+  ElectricPinkMarketa = 323
+  ProductiveTurquoiseVonni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LengthyAzureJoni = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  InterestedCoralMarguerite = false
+  _hidden_value = true
+}

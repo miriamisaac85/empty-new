@@ -1,0 +1,28 @@
+type dummy.ActiveScarletDoll {
+  annotations {
+    hidden_boolean MadBlushRoda {
+    }
+    number FemaleAquaTanitansy {
+    }
+    number StandardYellowGelya {
+    }
+    boolean RevolutionaryFuchsiaBrana {
+    }
+    serviceid HardTomatoJoly {
+    }
+  }
+  number RelievedTanVioletta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealPeachClemmie {
+    _hidden_value = true
+  }
+  json FavouriteMaroonMoria {
+    _hidden_value = true
+  }
+  FemaleAquaTanitansy = 968
+  StandardYellowGelya = 470
+  RevolutionaryFuchsiaBrana = false
+  HardTomatoJoly = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

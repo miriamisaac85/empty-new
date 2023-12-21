@@ -1,0 +1,66 @@
+type dummy.OldLimeNan {
+  annotations {
+    boolean LargeCopperDorella {
+    }
+    json VisibleEmeraldJennica {
+    }
+    string CheapGrayDoretta {
+    }
+    hidden_boolean AutomaticTurquoiseKlarrisa {
+    }
+    string DisastrousEmeraldBrittani {
+    }
+    json RidiculousGreenCharlene {
+    }
+    dummy.SubjectiveMaroonHolli AbstractBronzeDagmar {
+    }
+    string SafeAquamarineRozina {
+    }
+    boolean SorryFuchsiaGinevra {
+    }
+    boolean SacredOrangeElicia {
+    }
+    hidden_boolean BreezyEmeraldDianemarie {
+    }
+    hidden_boolean EerieChocolateGwendolin {
+    }
+    number ProspectiveVioletArielle {
+    }
+    serviceid AvailablePeachDanna {
+    }
+    json Philosophicalgold2Neely {
+    }
+    dummy.LightAmethystFrank MultipleGreenShelagh {
+    }
+    dummy.StructuralChocolateMeggie GreekSapphireShena {
+    }
+    json PrettyIvoryCesya {
+    }
+    string AmbitiousCoralMeris {
+    }
+    string SelfishJadeAurore {
+    }
+    string ObedientGrayFredericka {
+    }
+    serviceid NarrowLimeTommie {
+    }
+  }
+  LargeCopperDorella = true
+  VisibleEmeraldJennica = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CheapGrayDoretta = "Why didnt the skeleton cross the road? Because he had no guts."
+  DisastrousEmeraldBrittani = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RidiculousGreenCharlene = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SafeAquamarineRozina = "What creature is smarter than a talking parrot? A spelling bee."
+  SorryFuchsiaGinevra = false
+  SacredOrangeElicia = true
+  ProspectiveVioletArielle = 472
+  AvailablePeachDanna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  Philosophicalgold2Neely = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MultipleGreenShelagh = false
+  GreekSapphireShena = 952
+  PrettyIvoryCesya = "What do you call two barracuda fish?  A Pairacuda!"
+  AmbitiousCoralMeris = "Why was it called the dark ages? Because of all the knights. "
+  SelfishJadeAurore = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ObedientGrayFredericka = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NarrowLimeTommie = "Im only familiar with 25 letters in the English language. I dont know why."
+}

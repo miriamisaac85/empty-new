@@ -1,0 +1,17 @@
+type dummy.SurvivingPurpleColly {
+  string WittyGrayLisabeth {
+  }
+  number RelievedPurpleFarra {
+  }
+  hidden_boolean RivalCoralCherlyn {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string PaleTealWinona {
+  }
+  number FaithfulLimeJessamyn {
+  }
+  serviceid AttractiveSapphireFred {
+  }
+}

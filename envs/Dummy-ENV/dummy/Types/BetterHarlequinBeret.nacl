@@ -1,0 +1,31 @@
+type dummy.BetterHarlequinBeret {
+  annotations {
+    hidden_boolean ManyFuchsiaCaitlin {
+    }
+    string DampCoralEmlynne {
+    }
+    boolean FaithfulRoseGusti {
+    }
+    boolean IntactLavenderAbbi {
+    }
+  }
+  json NervousCyanElva {
+    _hidden_value = true
+  }
+  serviceid MinimumPlumTani {
+    _hidden_value = true
+  }
+  number PrintedBeigeMarieann {
+    _hidden_value = true
+  }
+  boolean FatScarletTorie {
+    _hidden_value = true
+  }
+  json WonderfulBeigeDaphna {
+    _hidden_value = true
+  }
+  DampCoralEmlynne = "Slept like a log last night  woke up in the fireplace."
+  FaithfulRoseGusti = false
+  IntactLavenderAbbi = false
+  _hidden_value = true
+}

@@ -1,0 +1,69 @@
+type dummy.SkilledPlumKelcie {
+  annotations {
+    hidden_boolean OrdinaryPurpleAntonetta {
+    }
+    serviceid WateryGreenMarieann {
+    }
+    json ChemicalCopperMella {
+    }
+    hidden_boolean JuniorAmethystPru {
+    }
+    hidden_boolean PreciousTomatoRobinetta {
+    }
+    hidden_boolean EstablishedPeachBernardine {
+    }
+  }
+  boolean FinalMagentaAurelie {
+    _hidden_value = true
+  }
+  string NastyMaroonFifi {
+    _hidden_value = true
+  }
+  serviceid TenderBlushRoana {
+    _hidden_value = true
+  }
+  hidden_boolean GrumpyLimeJania {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<dummy.ExclusiveEmeraldCorrine>" RobustBrownKevyn {
+    ContentAzureLindsay = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FellowVioletSapphire = "I'll tell you what often gets over looked... garden fences."
+    LittleCrimsonRosina = "Why was it called the dark ages? Because of all the knights. "
+    DeafeningCyanCassandry = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  string TropicalOrangeMelamie {
+    _hidden_value = true
+  }
+  json GiantCoralSena {
+    _hidden_value = true
+  }
+  number ChineseIvoryMelany {
+    _hidden_value = true
+  }
+  hidden_boolean CrowdedGreenJolie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FixedSilverAdi {
+    _hidden_value = true
+  }
+  json PurringGreenFarrand {
+    _hidden_value = true
+  }
+  boolean UnderlyingAmberLexis {
+    _hidden_value = true
+  }
+  json LocalPinkAprilette {
+    _hidden_value = true
+  }
+  number QuietAquaMignonne {
+    _hidden_value = true
+  }
+  WateryGreenMarieann = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ChemicalCopperMella = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

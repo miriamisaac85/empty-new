@@ -1,0 +1,64 @@
+type dummy.QuickestAquamarineRita {
+  annotations {
+    dummy.DEFAULT FatHarlequinMaddi {
+    }
+    json RoundPeachBertha {
+    }
+    hidden_boolean AlonePlumRhoda {
+    }
+    json WoodenCyanMyrtia {
+    }
+    serviceid AwfulAmberMadella {
+    }
+    boolean SmartTanMelisandra {
+    }
+    serviceid BreakableOrangeSamara {
+    }
+  }
+  serviceid RelievedLavenderSisile {
+    _hidden_value = true
+  }
+  hidden_boolean SignificantAzureRay {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean EagerChocolateJeannie {
+    _hidden_value = true
+  }
+  number RepulsiveIvoryPeria {
+    _hidden_value = true
+  }
+  serviceid SoundLavenderCornela {
+    _hidden_value = true
+  }
+  boolean HeadLavenderMelodee {
+    _hidden_value = true
+  }
+  string PanickyLimeNanni {
+    _hidden_value = true
+  }
+  serviceid BoldTomatoLurette {
+    _hidden_value = true
+  }
+  serviceid StandardBlackKiele {
+    _hidden_value = true
+  }
+  hidden_boolean CuddlyLavenderArdine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string WittySilverSissy {
+    _hidden_value = true
+  }
+  FatHarlequinMaddi = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  RoundPeachBertha = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WoodenCyanMyrtia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AwfulAmberMadella = "Did you know that protons have mass? I didn't even know they were catholic."
+  SmartTanMelisandra = false
+  BreakableOrangeSamara = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

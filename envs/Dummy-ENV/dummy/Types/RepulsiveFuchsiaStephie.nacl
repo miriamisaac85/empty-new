@@ -1,0 +1,65 @@
+type dummy.RepulsiveFuchsiaStephie {
+  annotations {
+    dummy.DEFAULT CuriousMaroonArlette {
+    }
+    serviceid NervousPurpleJacquelyn {
+    }
+    json StickyBlushSiouxie {
+    }
+    hidden_boolean FamousCrimsonMartina {
+    }
+    boolean EqualCoffeeEmmalynn {
+    }
+  }
+  "List<string>" WonderfulBlueCorabelle {
+    _hidden_value = true
+  }
+  boolean DependentIndigoCyndi {
+    _hidden_value = true
+  }
+  number PlainMaroonMarrissa {
+    _hidden_value = true
+  }
+  number FaithfulScarletNorene {
+    _hidden_value = true
+  }
+  serviceid HelplessAmethystVina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcitingAmaranthBenedicta {
+    _hidden_value = true
+  }
+  number AveragePinkMadlin {
+    _hidden_value = true
+  }
+  serviceid AnnualVioletCindelyn {
+    _hidden_value = true
+  }
+  hidden_boolean PreparedJadeChristel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid VisibleScarletBillie {
+    _hidden_value = true
+  }
+  string RareRedAna {
+    _hidden_value = true
+  }
+  serviceid AwarePinkCathrin {
+    _hidden_value = true
+  }
+  number UniversalApricotAntonietta {
+    _hidden_value = true
+  }
+  "List<number>" HeadSalmonArlina {
+    _hidden_value = true
+  }
+  CuriousMaroonArlette = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  NervousPurpleJacquelyn = "Why did the kid cross the playground? To get to the other slide."
+  StickyBlushSiouxie = "To be Frank, I'd have to change my name."
+  EqualCoffeeEmmalynn = false
+  _hidden_value = true
+}

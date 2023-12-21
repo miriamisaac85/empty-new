@@ -1,0 +1,21 @@
+type dummy.CuddlySapphireCynthy {
+  boolean Attractivegold2Roseanna {
+  }
+  boolean DrunkMagentaAmalita {
+  }
+  json WorthwhileGreenNanete {
+  }
+  serviceid ImmediateAmethystKellyann {
+  }
+  serviceid RedundantBlueJoana {
+  }
+  json IntellectualAzureJohnath {
+  }
+  number EmptySilverFaunie {
+  }
+  hidden_boolean CautiousPurpleCherish {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

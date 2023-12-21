@@ -1,0 +1,75 @@
+type dummy.SupposedBeigeMyrilla {
+  annotations {
+    string VisitingOliveBrigit {
+    }
+    number ArrogantAmethystKass {
+    }
+    hidden_boolean GayBronzeMadelin {
+    }
+    string LiveTomatoEster {
+    }
+  }
+  hidden_boolean IslamicFuchsiaPhillida {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<number>" ElectoralSilverJanith {
+    _hidden_value = true
+  }
+  string WorkingVioletAlysa {
+    _hidden_value = true
+  }
+  string AgriculturalPinkSilvia {
+    _hidden_value = true
+  }
+  json UnitedEmeraldMerna {
+    _hidden_value = true
+  }
+  json LuckyBronzeRhodia {
+    _hidden_value = true
+  }
+  boolean ProspectiveRoseMonique {
+    _hidden_value = true
+  }
+  boolean AvailableHarlequinGiulietta {
+    _hidden_value = true
+  }
+  hidden_boolean EmotionalCoralCandice {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CorrectAmethystLindsy {
+    _hidden_value = true
+  }
+  hidden_boolean ArtisticPeachChrystal {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RisingMagentaCelestia {
+    _hidden_value = true
+  }
+  boolean PleasantAmberMarcelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT KnownPlumTami {
+    _hidden_value = true
+  }
+  string ComingBronzeEddi {
+    _hidden_value = true
+  }
+  hidden_boolean StrictCoffeeLucita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SecondaryAquamarineVeronika {
+    _hidden_value = true
+  }
+  VisitingOliveBrigit = "Did you know that protons have mass? I didn't even know they were catholic."
+  ArrogantAmethystKass = 167
+  LiveTomatoEster = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

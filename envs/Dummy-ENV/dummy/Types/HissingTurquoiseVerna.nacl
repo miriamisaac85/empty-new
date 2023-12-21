@@ -1,0 +1,109 @@
+type dummy.HissingTurquoiseVerna {
+  annotations {
+    hidden_boolean CautiousMagentaBarrie {
+    }
+    dummy.AfraidAquaFawn WrongAmberAnastasie {
+    }
+    dummy.DEFAULT BigBrownAllis {
+    }
+    serviceid TurkishLimeTerry {
+    }
+    json WonderfulTurquoiseLorinda {
+    }
+    string ConventionalScarletJasmina {
+    }
+    string RedundantChocolateZenia {
+    }
+  }
+  string ShinyBlushHilde {
+    _hidden_value = true
+  }
+  string CivilianCrimsonQueenie {
+    _hidden_value = true
+  }
+  boolean FriendlyOrangeCrystal {
+    _hidden_value = true
+  }
+  number DrunkSilverFarrah {
+    _hidden_value = true
+  }
+  boolean RandomAmethystLinette {
+    _hidden_value = true
+  }
+  serviceid PowerfulPinkAlanna {
+    _hidden_value = true
+  }
+  number DrunkBlueMargaret {
+    _hidden_value = true
+  }
+  hidden_boolean CompactApricotHenriette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string NorthernPinkJanene {
+    _hidden_value = true
+  }
+  hidden_boolean SkilledCoralBilly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json PleasantBronzeJodi {
+    _hidden_value = true
+  }
+  boolean SeriousIvoryCelisse {
+    _hidden_value = true
+  }
+  json FollowingMoccasinDonni {
+    _hidden_value = true
+  }
+  hidden_boolean DisastrousMaroonGwynne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DetailedVioletCorliss {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string JuniorIndigoTracey {
+    _hidden_value = true
+  }
+  string ShyIvoryDorine {
+    _hidden_value = true
+  }
+  json AwakeHarlequinFelicle {
+    _hidden_value = true
+  }
+  string ExtremeYellowTalia {
+    _hidden_value = true
+  }
+  string LonelyCyanBiddy {
+    _hidden_value = true
+  }
+  number ColonialJadeCahra {
+    _hidden_value = true
+  }
+  json MajorHarlequinKristi {
+    _hidden_value = true
+  }
+  hidden_boolean Intermediategold2Stacie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AnnualCopperAilyn {
+    _hidden_value = true
+  }
+  WrongAmberAnastasie = "I'll tell you what often gets over looked... garden fences."
+  BigBrownAllis = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  TurkishLimeTerry = "Why did the kid cross the playground? To get to the other slide."
+  WonderfulTurquoiseLorinda = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConventionalScarletJasmina = "I'll tell you what often gets over looked... garden fences."
+  RedundantChocolateZenia = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

@@ -1,0 +1,4 @@
+salesforce.SharingRules OmniUiCard {
+  fullName = "OmniUiCard"
+  _alias = "OmniUiCard"
+}

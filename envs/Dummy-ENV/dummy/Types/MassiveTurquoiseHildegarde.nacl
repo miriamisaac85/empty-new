@@ -1,0 +1,60 @@
+type dummy.MassiveTurquoiseHildegarde {
+  annotations {
+    json ZealousTurquoiseAlaine {
+    }
+    serviceid SplendidAmaranthMeara {
+    }
+    string GratefulEmeraldBerna {
+    }
+    string ShortMagentaOpal {
+    }
+    number OuterApricotLorelei {
+    }
+  }
+  hidden_boolean LinearLavenderKeriann {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ScornfulBlackBetteann {
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine ModestBlushDarelle {
+    ContentAzureLindsay = "What do you call two barracuda fish?  A Pairacuda!"
+    FellowVioletSapphire = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LittleCrimsonRosina = "Why did the tomato blush? Because it saw the salad dressing."
+    DeafeningCyanCassandry = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  string DisastrousCyanCollete {
+    _hidden_value = true
+  }
+  serviceid EffectiveCoralLynelle {
+    _hidden_value = true
+  }
+  hidden_boolean LegitimateFuchsiaMarci {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulPinkAvie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string FormidableEmeraldManon {
+    _hidden_value = true
+  }
+  json CuteCyanElizabeth {
+    _hidden_value = true
+  }
+  serviceid CrookedAmethystSib {
+    _hidden_value = true
+  }
+  ZealousTurquoiseAlaine = "What do you call two barracuda fish?  A Pairacuda!"
+  SplendidAmaranthMeara = "Did you know that protons have mass? I didn't even know they were catholic."
+  GratefulEmeraldBerna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ShortMagentaOpal = "To be Frank, I'd have to change my name."
+  OuterApricotLorelei = 968
+  _hidden_value = true
+}

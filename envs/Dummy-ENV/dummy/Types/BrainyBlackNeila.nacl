@@ -1,0 +1,56 @@
+type dummy.BrainyBlackNeila {
+  annotations {
+    hidden_boolean RedBlueArly {
+    }
+    hidden_boolean AwakeBlueKial {
+    }
+    dummy.SorryPlumLottie CrazyGrayDamita {
+    }
+    json PastChocolateAnnelise {
+    }
+    string DualBlushSusannah {
+    }
+    serviceid GratefulApricotGenna {
+    }
+    boolean BindingTomatoCorissa {
+    }
+    json ModernMagentaKai {
+    }
+  }
+  string StiffVioletElisha {
+    _hidden_value = true
+  }
+  string IrrelevantMaroonDionne {
+    _hidden_value = true
+  }
+  serviceid ThenAmaranthCinda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DampJadeDamita {
+    _hidden_value = true
+  }
+  serviceid InterestingOrangeDaria {
+    _hidden_value = true
+  }
+  number UptightTurquoiseMaxie {
+    _hidden_value = true
+  }
+  number OddOrangeLianne {
+    _hidden_value = true
+  }
+  number DarkSapphireJuliann {
+    _hidden_value = true
+  }
+  hidden_boolean InjuredTomatoLari {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CrazyGrayDamita = false
+  PastChocolateAnnelise = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DualBlushSusannah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GratefulApricotGenna = "What do you call two barracuda fish?  A Pairacuda!"
+  BindingTomatoCorissa = false
+  ModernMagentaKai = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

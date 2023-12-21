@@ -1,0 +1,59 @@
+type dummy.VictorianMagentaGeorgie {
+  annotations {
+    number ImpossibleChocolateCharlotta {
+    }
+    string NoisyPlumViolette {
+    }
+    string LongYellowGwyneth {
+    }
+    dummy.DEFAULT DangerousRoseEthel {
+    }
+    json DesperateCopperMartguerita {
+    }
+  }
+  serviceid SparklingLavenderIngaborg {
+    _hidden_value = true
+  }
+  boolean UglyBeigeSherri {
+    _hidden_value = true
+  }
+  json NeatBrownWinnie {
+    _hidden_value = true
+  }
+  serviceid LiveEmeraldValentine {
+    _hidden_value = true
+  }
+  hidden_boolean WildYellowTuesday {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UniversalFuchsiaBilly {
+    _hidden_value = true
+  }
+  string DarkAmberShoshana {
+    _hidden_value = true
+  }
+  hidden_boolean PricklyAquamarineShelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ConvenientMagentaRebekkah {
+    _hidden_value = true
+  }
+  serviceid ShockedApricotNettie {
+    _hidden_value = true
+  }
+  serviceid PeculiarEmeraldShauna {
+    _hidden_value = true
+  }
+  ImpossibleChocolateCharlotta = 308
+  NoisyPlumViolette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LongYellowGwyneth = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DangerousRoseEthel = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  DesperateCopperMartguerita = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

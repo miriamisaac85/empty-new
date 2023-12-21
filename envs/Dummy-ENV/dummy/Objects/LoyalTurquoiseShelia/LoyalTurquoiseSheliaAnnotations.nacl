@@ -1,0 +1,54 @@
+type dummy.LoyalTurquoiseShelia {
+  annotations {
+    string SilkyPurpleCristin {
+    }
+    number BasicWhiteDarelle {
+    }
+    hidden_boolean OccasionalJadeMindy {
+    }
+    string MelodicOliveDomeniga {
+    }
+    number ShockedBlackArlene {
+    }
+    json ArabTurquoiseMeghann {
+    }
+    string FederalOrangeLian {
+    }
+    json SteadyJadeAndriette {
+    }
+    boolean RisingBlackBren {
+    }
+    json LiberalAmethystFanya {
+    }
+    number SubjectiveWhiteAnge {
+    }
+    json SteadyCyanMadge {
+    }
+    json EvilLimeMyrtice {
+    }
+    dummy.EquivalentJadeCaria SharpBronzeGayleen {
+    }
+    json StingySalmonCassandre {
+    }
+    boolean AdditionalBeigeAime {
+    }
+    serviceid BadCoffeeGinni {
+    }
+  }
+  SilkyPurpleCristin = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BasicWhiteDarelle = 333
+  MelodicOliveDomeniga = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ShockedBlackArlene = 790
+  ArabTurquoiseMeghann = "Why do birds fly south for the winter? Because it's too far to walk."
+  FederalOrangeLian = "Why did the tomato blush? Because it saw the salad dressing."
+  SteadyJadeAndriette = "How come the stadium got hot after the game? Because all of the fans left."
+  RisingBlackBren = false
+  LiberalAmethystFanya = "What creature is smarter than a talking parrot? A spelling bee."
+  SubjectiveWhiteAnge = 532
+  SteadyCyanMadge = "Why do birds fly south for the winter? Because it's too far to walk."
+  EvilLimeMyrtice = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SharpBronzeGayleen = file("NewBeigeAstra.txt")
+  StingySalmonCassandre = "What do you call two barracuda fish?  A Pairacuda!"
+  AdditionalBeigeAime = false
+  BadCoffeeGinni = "Why is Peter Pan always flying? Because he Neverlands."
+}

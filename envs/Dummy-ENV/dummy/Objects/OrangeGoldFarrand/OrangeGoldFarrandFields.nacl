@@ -1,0 +1,7 @@
+type dummy.Orangegold2Farrand {
+  hidden_boolean ArmedPlumEmmalee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+}

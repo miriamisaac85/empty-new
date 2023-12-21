@@ -1,0 +1,26 @@
+type dummy.ProspectiveAmberDevin is number {
+  annotations {
+    serviceid MagentaAzureDelia {
+    }
+    hidden_boolean OverallApricotEmalee {
+    }
+    json LightVioletSelma {
+    }
+    number Innovativegold2Drusilla {
+    }
+    hidden_boolean FollowingLimeHenka {
+    }
+    serviceid DoubtfulBlushAlisun {
+    }
+    string VerticalTomatoCosetta {
+    }
+    boolean MysteriousBeigeDaisey {
+    }
+  }
+  MagentaAzureDelia = "Dad Im hungry  Hi hungry Im dad"
+  LightVioletSelma = "Dad Im hungry  Hi hungry Im dad"
+  Innovativegold2Drusilla = 399
+  DoubtfulBlushAlisun = "Im only familiar with 25 letters in the English language. I dont know why."
+  VerticalTomatoCosetta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MysteriousBeigeDaisey = true
+}

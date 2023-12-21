@@ -1,0 +1,38 @@
+type dummy.FamousOliveGilbertina {
+  annotations {
+    dummy.SoundAmaranthImelda CurvedSalmonMil {
+    }
+    serviceid LateBronzeMerci {
+    }
+    string InlandLimeElita {
+    }
+    string LegalSilverSayre {
+    }
+  }
+  number LargeFuchsiaKarmen {
+    _hidden_value = true
+  }
+  string ContinentalAmethystJeanette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcessRoseAlyda {
+    _hidden_value = true
+  }
+  number Roastedgold2Farand {
+    _hidden_value = true
+  }
+  number TiredTealSharia {
+    _hidden_value = true
+  }
+  number ProfoundBlueJustina {
+    _hidden_value = true
+  }
+  string ImportantTealLora {
+    _hidden_value = true
+  }
+  CurvedSalmonMil = 169
+  LateBronzeMerci = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InlandLimeElita = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LegalSilverSayre = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

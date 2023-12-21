@@ -1,0 +1,31 @@
+type dummy.SelectLimeAngelia {
+  annotations {
+    number SureJadeSybila {
+    }
+    serviceid DistinctiveSapphireMaia {
+    }
+    serviceid MarriedPinkMariel {
+    }
+    serviceid HungryTealRennie {
+    }
+    json PermanentPlumCornela {
+    }
+  }
+  hidden_boolean GloriousEmeraldAdelaide {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ElaborateAmaranthDottie {
+    _hidden_value = true
+  }
+  number AmazingWhiteKary {
+    _hidden_value = true
+  }
+  SureJadeSybila = 883
+  DistinctiveSapphireMaia = "Why did the tomato blush? Because it saw the salad dressing."
+  MarriedPinkMariel = "Did you know that protons have mass? I didn't even know they were catholic."
+  HungryTealRennie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PermanentPlumCornela = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

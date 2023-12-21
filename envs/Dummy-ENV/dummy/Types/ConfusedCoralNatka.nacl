@@ -1,0 +1,72 @@
+type dummy.ConfusedCoralNatka {
+  annotations {
+    hidden_boolean AverageWhiteChelsae {
+    }
+    json RipeLavenderFrankie {
+    }
+    serviceid RawAmberAngie {
+    }
+    json ComparableIndigoVale {
+    }
+    hidden_boolean DutchOliveRhodia {
+    }
+    json SympatheticChocolateTabby {
+    }
+  }
+  hidden_boolean TinyPeachMargalit {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" StiffSalmonLurette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FragileTurquoiseMaria {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ResidentChocolateValera {
+    _hidden_value = true
+  }
+  serviceid SoundMagentaBobbe {
+    _hidden_value = true
+  }
+  boolean SquareEmeraldKalindi {
+    _hidden_value = true
+  }
+  number SadTurquoiseMireille {
+    _hidden_value = true
+  }
+  serviceid BeneficialEmeraldLilah {
+    _hidden_value = true
+  }
+  string ObligedCrimsonBarbette {
+    _hidden_value = true
+  }
+  "List<serviceid>" GradualCoffeeDonelle {
+    _hidden_value = true
+  }
+  serviceid LovelyCyanSibbie {
+    _hidden_value = true
+  }
+  number ImplicitLavenderTallie {
+    _hidden_value = true
+  }
+  json AcceptableLavenderLillian {
+    _hidden_value = true
+  }
+  boolean NearYellowKellen {
+    _hidden_value = true
+  }
+  serviceid WideIndigoSeka {
+    _hidden_value = true
+  }
+  RipeLavenderFrankie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RawAmberAngie = "Slept like a log last night  woke up in the fireplace."
+  ComparableIndigoVale = "Why do birds fly south for the winter? Because it's too far to walk."
+  SympatheticChocolateTabby = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

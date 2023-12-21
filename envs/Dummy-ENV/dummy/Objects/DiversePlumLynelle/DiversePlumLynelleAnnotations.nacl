@@ -1,0 +1,72 @@
+type dummy.DiversePlumLynelle {
+  annotations {
+    string ColouredVioletMargy {
+    }
+    boolean FrequentFuchsiaMarigold2 {
+    }
+    hidden_boolean BrilliantLavenderMelantha {
+    }
+    serviceid WearyVioletGlenn {
+    }
+    serviceid AmateurAmaranthDedie {
+    }
+    json PinkIvoryFelecia {
+    }
+    boolean UndergroundBlueMarilee {
+    }
+    string MilitaryMagentaTalyah {
+    }
+    boolean Scarygold2Norine {
+    }
+    hidden_boolean WoodenAmaranthPapagena {
+    }
+    dummy.EquivalentJadeCaria GrotesqueAzureMarnia {
+    }
+    number CommercialBeigeJoice {
+    }
+    json ColorfulLimeNanete {
+    }
+    serviceid AvailableFuchsiaPerrine {
+    }
+    boolean RelevantTealEvelina {
+    }
+    number SupposedSapphireDonna {
+    }
+    string BrokenMoccasinCookie {
+    }
+    serviceid YellowTanDorelle {
+    }
+    string EvolutionaryAmberElladine {
+    }
+    string GiganticBlackGlenda {
+    }
+    serviceid KindPinkElysia {
+    }
+    hidden_boolean SecretIvoryHermia {
+    }
+    serviceid ProvincialEmeraldAubrey {
+    }
+    hidden_boolean PassivePinkAnjela {
+    }
+  }
+  ColouredVioletMargy = "Whoever invented the knock-knock joke should get a no bell prize."
+  FrequentFuchsiaMarigold2 = false
+  WearyVioletGlenn = "Why did the tomato blush? Because it saw the salad dressing."
+  AmateurAmaranthDedie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PinkIvoryFelecia = "Did you know that protons have mass? I didn't even know they were catholic."
+  UndergroundBlueMarilee = true
+  MilitaryMagentaTalyah = "A steak pun is a rare medium well done."
+  Scarygold2Norine = true
+  GrotesqueAzureMarnia = file("BigPurpleChrissy.txt")
+  CommercialBeigeJoice = 774
+  ColorfulLimeNanete = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AvailableFuchsiaPerrine = "Why did the tomato blush? Because it saw the salad dressing."
+  RelevantTealEvelina = false
+  SupposedSapphireDonna = 72
+  BrokenMoccasinCookie = "A steak pun is a rare medium well done."
+  YellowTanDorelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EvolutionaryAmberElladine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GiganticBlackGlenda = "Why did the kid cross the playground? To get to the other slide."
+  KindPinkElysia = "Whoever invented the knock-knock joke should get a no bell prize."
+  ProvincialEmeraldAubrey = "A steak pun is a rare medium well done."
+}

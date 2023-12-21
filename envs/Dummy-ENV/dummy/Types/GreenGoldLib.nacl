@@ -1,0 +1,22 @@
+type dummy.Greengold2Lib {
+  annotations {
+    number IntenseHarlequinLynette {
+    }
+    number DominantMagentaDaria {
+    }
+    boolean ProductiveBeigeAlexa {
+    }
+    serviceid Happygold2Annalise {
+    }
+    hidden_boolean ForthcomingSilverBritni {
+    }
+  }
+  boolean ConstantAzureAngelle {
+    _hidden_value = true
+  }
+  IntenseHarlequinLynette = 670
+  DominantMagentaDaria = 72
+  ProductiveBeigeAlexa = true
+  Happygold2Annalise = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

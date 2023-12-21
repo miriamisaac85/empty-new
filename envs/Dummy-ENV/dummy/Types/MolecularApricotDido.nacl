@@ -1,0 +1,85 @@
+type dummy.MolecularApricotDido {
+  annotations {
+    dummy.OrthodoxEmeraldFelicity SovietAzureVivyanne {
+    }
+    dummy.ExclusiveEmeraldCorrine DisciplinaryCoralEthel {
+    }
+    number DrabOrangeJobyna {
+    }
+    string RealisticTurquoiseKaroly {
+    }
+    serviceid Eldestgold2Bobbe {
+    }
+  }
+  boolean WoodenSalmonFarrah {
+    _hidden_value = true
+  }
+  serviceid Cooinggold2Mareah {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RationalCoffeeMalanie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean InadequateCyanGracia {
+    _hidden_value = true
+  }
+  boolean DeadAmberCharline {
+    _hidden_value = true
+  }
+  boolean ItalianAquaKelcie {
+    _hidden_value = true
+  }
+  number HarshLavenderRos {
+    _hidden_value = true
+  }
+  dummy.EntireBrownJacki ElegantFuchsiaPepita {
+    gold2enWhiteKarin = "I'll tell you what often gets over looked... garden fences."
+    UgliestPeachMerla = 894
+    CoolCoralAtlante = "Slept like a log last night  woke up in the fireplace."
+    LiteraryPeachMilzie = 224
+    PregnantPinkRobbie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AcuteBrownMaryellen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MisleadingCoffeeHarriette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ModernBronzeGilli = 743
+    ElaborateMoccasinArdis = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ComprehensiveSilverDanette = false
+    JustMagentaDevina = true
+    UnexpectedMoccasinRene = 710
+    CulturalRoseElora = "What creature is smarter than a talking parrot? A spelling bee."
+    CanadianAmberDoe = 872
+    IntelligentTomatoConstancy = "A steak pun is a rare medium well done."
+    InappropriateGrayCourtney = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RivalAquamarineGerda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PatientFuchsiaMatelda = false
+    _hidden_value = true
+  }
+  hidden_boolean WonderfulVioletCammie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PriorBronzeLucille {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<serviceid>" ItchyAmberAlbertine {
+    _hidden_value = true
+  }
+  hidden_boolean AnxiousIndigoMeghan {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SolidMagentaDreddy {
+    _hidden_value = true
+  }
+  SovietAzureVivyanne = "Why didnt the skeleton cross the road? Because he had no guts."
+  DisciplinaryCoralEthel = 617
+  DrabOrangeJobyna = 684
+  RealisticTurquoiseKaroly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  Eldestgold2Bobbe = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

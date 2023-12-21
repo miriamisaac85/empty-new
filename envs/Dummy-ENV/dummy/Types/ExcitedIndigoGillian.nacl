@@ -1,0 +1,28 @@
+type dummy.ExcitedIndigoGillian {
+  annotations {
+    json HurtTanAlex {
+    }
+    dummy.EntireBrownJacki CostlyTomatoCorrey {
+    }
+    serviceid CuteCyanKristi {
+    }
+    number InadequateBronzeStephine {
+    }
+    dummy.DEFAULT IncreasingAmaranthLeodora {
+    }
+    boolean UnusualPinkLexi {
+    }
+  }
+  string ParallelSilverRozella {
+    _hidden_value = true
+  }
+  HurtTanAlex = "Dad Im hungry  Hi hungry Im dad"
+  CostlyTomatoCorrey = 334
+  CuteCyanKristi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  InadequateBronzeStephine = 464
+  IncreasingAmaranthLeodora = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  UnusualPinkLexi = true
+  _hidden_value = true
+}

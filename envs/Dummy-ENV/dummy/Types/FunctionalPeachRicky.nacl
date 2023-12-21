@@ -1,0 +1,75 @@
+type dummy.FunctionalPeachRicky {
+  annotations {
+    json Boilinggold2Frederique {
+    }
+    json ShortTomatoBrianna {
+    }
+    dummy.DEFAULT EducationalPeachBridie {
+    }
+    serviceid RelievedCrimsonGuinevere {
+    }
+    json FashionableVioletMelinda {
+    }
+    dummy.DEFAULT FatalCyanGlynda {
+    }
+    dummy.DEFAULT CostlyAmberRois {
+    }
+    serviceid ComfortableBlueMelva {
+    }
+  }
+  json WildRedDonny {
+    _hidden_value = true
+  }
+  hidden_boolean PresidentialLimePeggi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid JoyousPurpleVictoria {
+    _hidden_value = true
+  }
+  boolean WellHarlequinBeverlee {
+    _hidden_value = true
+  }
+  number CharacteristicTurquoiseDarell {
+    _hidden_value = true
+  }
+  hidden_boolean GentleTealJemie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HealthyCoralMerci {
+    _hidden_value = true
+  }
+  string NarrowBeigeMeagan {
+    _hidden_value = true
+  }
+  string RubberSalmonAriela {
+    _hidden_value = true
+  }
+  string FinancialJadeBetteann {
+    _hidden_value = true
+  }
+  serviceid DreadfulGrayCharmane {
+    _hidden_value = true
+  }
+  number SadBeigeRosalia {
+    _hidden_value = true
+  }
+  Boilinggold2Frederique = "How come the stadium got hot after the game? Because all of the fans left."
+  ShortTomatoBrianna = "To be Frank, I'd have to change my name."
+  EducationalPeachBridie = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  RelievedCrimsonGuinevere = "Did you know that protons have mass? I didn't even know they were catholic."
+  FashionableVioletMelinda = "Why do birds fly south for the winter? Because it's too far to walk."
+  FatalCyanGlynda = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  CostlyAmberRois = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  ComfortableBlueMelva = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

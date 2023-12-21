@@ -1,0 +1,67 @@
+type dummy.ThickRedJaney {
+  annotations {
+    serviceid DistantTurquoiseRey {
+    }
+    hidden_boolean EconomicRoseWylma {
+    }
+    json QuietVioletMargalit {
+    }
+    hidden_boolean PurpleIvoryClair {
+    }
+    json WesternPinkNerti {
+    }
+    dummy.BizarreScarletKarrie GreenGreenNerti {
+    }
+  }
+  dummy.DEFAULT SlowJadeAlicea {
+    _hidden_value = true
+  }
+  "List<serviceid>" DeafeningGrayZahara {
+    _hidden_value = true
+  }
+  hidden_boolean AlternativeTurquoiseHarri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CommonLavenderMathilde {
+    _hidden_value = true
+  }
+  serviceid DryBrownBlondelle {
+    _hidden_value = true
+  }
+  number AgreeableAquaNancey {
+    _hidden_value = true
+  }
+  number MonetaryBlackLeta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RemoteMoccasinPavla {
+    _hidden_value = true
+  }
+  number FullIvoryDacy {
+    _hidden_value = true
+  }
+  string ChemicalBrownFelecia {
+    _hidden_value = true
+  }
+  boolean ObviousSalmonIda {
+    _hidden_value = true
+  }
+  hidden_boolean RareGreenEudora {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number MadBronzeOliy {
+    _hidden_value = true
+  }
+  boolean HomelyTealVivienne {
+    _hidden_value = true
+  }
+  DistantTurquoiseRey = "Why is Peter Pan always flying? Because he Neverlands."
+  QuietVioletMargalit = "What creature is smarter than a talking parrot? A spelling bee."
+  WesternPinkNerti = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GreenGreenNerti = 650
+  _hidden_value = true
+}

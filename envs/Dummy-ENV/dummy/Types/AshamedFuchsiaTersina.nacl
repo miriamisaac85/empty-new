@@ -1,0 +1,49 @@
+type dummy.AshamedFuchsiaTersina {
+  annotations {
+    string InsufficientAquaGisela {
+    }
+    boolean PreparedLavenderMuire {
+    }
+    dummy.EquivalentJadeCaria QuickestCyanAnne {
+    }
+    boolean UnevenBlueAlicea {
+    }
+    boolean SurvivingIndigoJoyce {
+    }
+  }
+  dummy.DEFAULT TestyAmethystFrancine {
+    _hidden_value = true
+  }
+  string MarvellousSalmonAnnamarie {
+    _hidden_value = true
+  }
+  serviceid ToughSapphireAdria {
+    _hidden_value = true
+  }
+  hidden_boolean EndlessIndigoSybyl {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string OptimisticCrimsonKylynn {
+    _hidden_value = true
+  }
+  json CombativeSapphireIsobel {
+    _hidden_value = true
+  }
+  string Friendlygold2Tawsha {
+    _hidden_value = true
+  }
+  serviceid IncBronzeMaribel {
+    _hidden_value = true
+  }
+  string KeyPinkChelsey {
+    _hidden_value = true
+  }
+  InsufficientAquaGisela = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PreparedLavenderMuire = true
+  QuickestCyanAnne = "A steak pun is a rare medium well done."
+  UnevenBlueAlicea = true
+  SurvivingIndigoJoyce = true
+  _hidden_value = true
+}

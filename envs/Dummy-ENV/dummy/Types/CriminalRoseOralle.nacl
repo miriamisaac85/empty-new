@@ -1,0 +1,52 @@
+type dummy.CriminalRoseOralle {
+  annotations {
+    json SeriousPurpleJaquenette {
+    }
+    string StrongRedJillian {
+    }
+    serviceid ForthcomingBlackDorita {
+    }
+    hidden_boolean PleasantCyanRori {
+    }
+    string MinisterialRedAmelia {
+    }
+    serviceid SplendidFuchsiaLelah {
+    }
+  }
+  number LimitedCopperCaralie {
+    _hidden_value = true
+  }
+  "List<serviceid>" AfraidSapphireAbbye {
+    _hidden_value = true
+  }
+  json WoodenBlushNorri {
+    _hidden_value = true
+  }
+  json DrabBeigeDanella {
+    _hidden_value = true
+  }
+  number DullLavenderSandie {
+    _hidden_value = true
+  }
+  serviceid FreeRoseVania {
+    _hidden_value = true
+  }
+  string SoundCrimsonDarryl {
+    _hidden_value = true
+  }
+  boolean AnxiousSapphireAlmire {
+    _hidden_value = true
+  }
+  number ImperialAquaTonia {
+    _hidden_value = true
+  }
+  string RedBrownEllissa {
+    _hidden_value = true
+  }
+  SeriousPurpleJaquenette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  StrongRedJillian = "Why did the tomato blush? Because it saw the salad dressing."
+  ForthcomingBlackDorita = "A steak pun is a rare medium well done."
+  MinisterialRedAmelia = "Why was it called the dark ages? Because of all the knights. "
+  SplendidFuchsiaLelah = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

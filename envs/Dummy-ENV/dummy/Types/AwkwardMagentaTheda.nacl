@@ -1,0 +1,53 @@
+type dummy.AwkwardMagentaTheda {
+  annotations {
+    hidden_boolean FellowAzureEugine {
+    }
+    hidden_boolean MinisterialEmeraldScarlet {
+    }
+    serviceid DomesticWhiteMeriel {
+    }
+    boolean TartAquamarineMignonne {
+    }
+  }
+  json SystematicApricotVin {
+    _hidden_value = true
+  }
+  boolean CheapRoseGwyn {
+    _hidden_value = true
+  }
+  hidden_boolean SacredGrayCassondra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT CostlyAmberMarijo {
+    _hidden_value = true
+  }
+  boolean SimpleWhiteBamby {
+    _hidden_value = true
+  }
+  boolean LightMaroonAlecia {
+    _hidden_value = true
+  }
+  boolean ProperAquaElly {
+    _hidden_value = true
+  }
+  string ChiefMaroonKimmi {
+    _hidden_value = true
+  }
+  boolean CheerfulAquamarineJeannine {
+    _hidden_value = true
+  }
+  number AdvancedGrayDredi {
+    _hidden_value = true
+  }
+  json AnnualAquaMireielle {
+    _hidden_value = true
+  }
+  json UnlikelyAmethystZarah {
+    _hidden_value = true
+  }
+  DomesticWhiteMeriel = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TartAquamarineMignonne = true
+  _hidden_value = true
+}

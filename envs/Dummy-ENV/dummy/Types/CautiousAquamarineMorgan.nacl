@@ -1,0 +1,25 @@
+type dummy.CautiousAquamarineMorgan {
+  annotations {
+    boolean PrivateJadeAileen {
+    }
+    number AdministrativeMoccasinTammy {
+    }
+    string DoubtfulTanAnastasie {
+    }
+    hidden_boolean SteepMoccasinElle {
+    }
+    boolean ComfortablePlumHortense {
+    }
+    string NegativeAquamarineGiacinta {
+    }
+  }
+  number ManagerialEmeraldLynn {
+    _hidden_value = true
+  }
+  PrivateJadeAileen = false
+  AdministrativeMoccasinTammy = 300
+  DoubtfulTanAnastasie = "Dad Im hungry  Hi hungry Im dad"
+  ComfortablePlumHortense = false
+  NegativeAquamarineGiacinta = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

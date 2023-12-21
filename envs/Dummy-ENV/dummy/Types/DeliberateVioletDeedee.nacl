@@ -1,0 +1,55 @@
+type dummy.DeliberateVioletDeedee {
+  annotations {
+    dummy.PinkBlushAinslie LiveAquaRalina {
+    }
+    string BasicSalmonDarbie {
+    }
+    serviceid FamousScarletNessy {
+    }
+    hidden_boolean CleanMaroonGeorgia {
+    }
+    json AnonymousBronzeClotilda {
+    }
+  }
+  "List<json>" UniformAquaSarajane {
+    _hidden_value = true
+  }
+  json EntitledMoccasinGlen {
+    _hidden_value = true
+  }
+  hidden_boolean OutdoorOliveKarrie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AvailableJadeAmity {
+    _hidden_value = true
+  }
+  number ConcernedCoralJacinthe {
+    _hidden_value = true
+  }
+  json WellTanMellie {
+    _hidden_value = true
+  }
+  boolean FlakyAmberHarmony {
+    _hidden_value = true
+  }
+  boolean UpperPurpleJoane {
+    _hidden_value = true
+  }
+  hidden_boolean TopCyanRiane {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean VerticalMagentaDora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  LiveAquaRalina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BasicSalmonDarbie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FamousScarletNessy = "Why didnt the skeleton cross the road? Because he had no guts."
+  AnonymousBronzeClotilda = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

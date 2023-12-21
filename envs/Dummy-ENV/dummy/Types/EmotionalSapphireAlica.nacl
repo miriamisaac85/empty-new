@@ -1,0 +1,44 @@
+type dummy.EmotionalSapphireAlica {
+  annotations {
+    hidden_boolean FriendlyOrangeAlyss {
+    }
+    dummy.DifferentLimeChristen AlertBlueJanis {
+    }
+    dummy.JewishCoralJannel MutualTomatoGlenine {
+    }
+    serviceid ShallowYellowMaribel {
+    }
+  }
+  "List<hidden_boolean>" SpecialBeigeSimona {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ForeignTanJobey {
+    _hidden_value = true
+  }
+  hidden_boolean PhysicalRoseAnthe {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AbsoluteIvoryFernandina {
+    _hidden_value = true
+  }
+  number PeacefulCrimsonPia {
+    _hidden_value = true
+  }
+  json QuickBlushAmii {
+    _hidden_value = true
+  }
+  json FondOrangeAnderea {
+    _hidden_value = true
+  }
+  json SelfishCoffeeVivie {
+    _hidden_value = true
+  }
+  AlertBlueJanis = true
+  MutualTomatoGlenine = "Why didnt the skeleton cross the road? Because he had no guts."
+  ShallowYellowMaribel = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

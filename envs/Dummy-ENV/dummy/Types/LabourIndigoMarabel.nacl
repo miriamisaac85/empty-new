@@ -1,0 +1,21 @@
+type dummy.LabourIndigoMarabel {
+  annotations {
+    serviceid InterestingChocolateAnallese {
+    }
+    boolean FemaleApricotLiv {
+    }
+    hidden_boolean FluffyGreenAbbi {
+    }
+    hidden_boolean RunningBronzeCelle {
+    }
+    boolean UninterestedAquaErtha {
+    }
+  }
+  dummy.NutritiousCoralDania LivelyBrownChelsae {
+    _hidden_value = true
+  }
+  InterestingChocolateAnallese = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FemaleApricotLiv = false
+  UninterestedAquaErtha = false
+  _hidden_value = true
+}

@@ -1,0 +1,55 @@
+type dummy.BusyHarlequinDeborah {
+  annotations {
+    hidden_boolean LoudBeigeMeris {
+    }
+    number SuitableAmethystBinnie {
+    }
+    string RollingOrangeFionnula {
+    }
+    boolean SinglePinkLorri {
+    }
+    boolean LeadingGreenSusi {
+    }
+    serviceid VisitingBronzeKirstin {
+    }
+    dummy.ConfidentialScarletAntonie HappyRedNicholle {
+    }
+    number MightyCoralSondra {
+    }
+    number GleamingAquaDeanne {
+    }
+    json FlakyCoffeeTaffy {
+    }
+    json SwiftBlackJustine {
+    }
+    dummy.HumanAzureReeba IndirectCrimsonFay {
+    }
+    json WetRedAshien {
+    }
+    dummy.SmallPlumLiana ProfessionalAmethystKass {
+    }
+    boolean SpanishTomatoAila {
+    }
+    dummy.UsefulTomatoClara JollyPinkEloisa {
+    }
+    hidden_boolean NaturalWhiteBernice {
+    }
+    json EnthusiasticPlumJacklyn {
+    }
+  }
+  SuitableAmethystBinnie = 60
+  RollingOrangeFionnula = "Im only familiar with 25 letters in the English language. I dont know why."
+  SinglePinkLorri = true
+  LeadingGreenSusi = false
+  VisitingBronzeKirstin = "Whoever invented the knock-knock joke should get a no bell prize."
+  HappyRedNicholle = 276
+  MightyCoralSondra = 550
+  GleamingAquaDeanne = 513
+  FlakyCoffeeTaffy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SwiftBlackJustine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  IndirectCrimsonFay = false
+  WetRedAshien = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProfessionalAmethystKass = false
+  SpanishTomatoAila = true
+  EnthusiasticPlumJacklyn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

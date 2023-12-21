@@ -1,0 +1,84 @@
+type dummy.QuickSalmonCorri {
+  annotations {
+    number DeliberateAquaAgnella {
+    }
+    string AgriculturalAmberLara {
+    }
+    serviceid ImportantOrangeMaighdiln {
+    }
+    serviceid WittyBeigeClaudie {
+    }
+    number UsefulOrangeHertha {
+    }
+  }
+  dummy.FilthyLimeFaye AvailableCoffeeCathee {
+    DomesticIvoryVanny = 650
+    SupremeEmeraldTraci = "How come the stadium got hot after the game? Because all of the fans left."
+    RomanticAmberYalonda = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  number ComprehensiveFuchsiaDrusy {
+    _hidden_value = true
+  }
+  json ChristianEmeraldBelita {
+    _hidden_value = true
+  }
+  boolean GeneralVioletAmargo {
+    _hidden_value = true
+  }
+  json IndependentEmeraldDorry {
+    _hidden_value = true
+  }
+  json NumerousOliveKrissie {
+    _hidden_value = true
+  }
+  hidden_boolean CommonSalmonMalina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SufficientMaroonAtalanta {
+    _hidden_value = true
+  }
+  json YoungEmeraldEdita {
+    _hidden_value = true
+  }
+  serviceid RomanTealTheo {
+    _hidden_value = true
+  }
+  serviceid EvilSalmonPapagena {
+    _hidden_value = true
+  }
+  boolean SurvivingSapphireVerina {
+    _hidden_value = true
+  }
+  json EasternBlackCaroline {
+    _hidden_value = true
+  }
+  "List<string>" WiseRedSephira {
+    _hidden_value = true
+  }
+  boolean VariableLavenderKelsi {
+    _hidden_value = true
+  }
+  dummy.BizarreScarletKarrie ShaggyCopperMarika {
+    BrightFuchsiaVivianne = 991
+    HonWhiteCorrina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    IntegratedFuchsiaNell = 207
+    DramaticCoralVelma = "Did you know that protons have mass? I didn't even know they were catholic."
+    VariousBlackOdilia = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    ManyApricotPierette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CloudySilverLara = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ItchyJadeMelina = "Whoever invented the knock-knock joke should get a no bell prize."
+    HumanAquamarineAnnabella = 43
+    _hidden_value = true
+  }
+  DeliberateAquaAgnella = 335
+  AgriculturalAmberLara = "Why did the kid cross the playground? To get to the other slide."
+  ImportantOrangeMaighdiln = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WittyBeigeClaudie = "What do you call two barracuda fish?  A Pairacuda!"
+  UsefulOrangeHertha = 620
+  _hidden_value = true
+}

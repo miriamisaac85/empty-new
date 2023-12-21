@@ -1,0 +1,21 @@
+type dummy.ConvincedRoseVerla {
+  annotations {
+    boolean ClassicalScarletSofia {
+    }
+    hidden_boolean PrettyOliveKylila {
+    }
+    serviceid ShortHarlequinFelice {
+    }
+    dummy.FirmAquaNicolea AgriculturalPinkNovelia {
+    }
+    hidden_boolean SlightEmeraldNell {
+    }
+  }
+  serviceid PregnantBlueDyane {
+    _hidden_value = true
+  }
+  ClassicalScarletSofia = true
+  ShortHarlequinFelice = "Dad Im hungry  Hi hungry Im dad"
+  AgriculturalPinkNovelia = true
+  _hidden_value = true
+}

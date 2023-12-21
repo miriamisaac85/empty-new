@@ -1,0 +1,91 @@
+type dummy.DualMagentaAudra {
+  annotations {
+    hidden_boolean ShakyMaroonLenore {
+    }
+    serviceid FavouriteTealCara {
+    }
+    hidden_boolean CoherentHarlequinMichelle {
+    }
+    string QualifiedBlueLeonelle {
+    }
+  }
+  dummy.DEFAULT ExtraCyanFlorrie {
+    _hidden_value = true
+  }
+  json SelectLimeEma {
+    _hidden_value = true
+  }
+  number ThickSapphireJoby {
+    _hidden_value = true
+  }
+  serviceid DepressedAmaranthRhianna {
+    _hidden_value = true
+  }
+  boolean HollowSilverWendy {
+    _hidden_value = true
+  }
+  boolean UselessLimeMaxine {
+    _hidden_value = true
+  }
+  hidden_boolean OverallCyanCarita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number HeadLavenderIsis {
+    _hidden_value = true
+  }
+  json LongIndigoMarketa {
+    _hidden_value = true
+  }
+  "Map<boolean>" MarginalAquaLanni {
+    _hidden_value = true
+  }
+  string DeafWhitePierette {
+    _hidden_value = true
+  }
+  serviceid IslamicWhiteKass {
+    _hidden_value = true
+  }
+  serviceid LegitimateYellowMillisent {
+    _hidden_value = true
+  }
+  hidden_boolean OutdoorScarletNeila {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MinimumCopperFlorry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" JointMoccasinNancey {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SafeTurquoiseDarcie {
+    _hidden_value = true
+  }
+  hidden_boolean FrightenedAmaranthCorissa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CurlyOrangePaule {
+    _hidden_value = true
+  }
+  json ScaredPlumDonny {
+    _hidden_value = true
+  }
+  string ScatteredGrayLory {
+    _hidden_value = true
+  }
+  serviceid LiberalTealMatilda {
+    _hidden_value = true
+  }
+  FavouriteTealCara = "Im only familiar with 25 letters in the English language. I dont know why."
+  QualifiedBlueLeonelle = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

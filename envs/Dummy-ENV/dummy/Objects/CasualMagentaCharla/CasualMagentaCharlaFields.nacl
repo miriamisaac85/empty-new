@@ -1,0 +1,48 @@
+type dummy.CasualMagentaCharla {
+  json UnlikelyScarletJennee {
+  }
+  number HandsomeWhiteFlorentia {
+  }
+  dummy.ConservationOliveGrayce LateYellowLinette {
+    FatOrangeOlympie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ProtectiveYellowAlly = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WholeTanArdis = 234
+  }
+  serviceid SadJadeMeta {
+  }
+  json TroubledTanCharmaine {
+  }
+  json ImportantBrownSteffi {
+  }
+  boolean ContinuousSilverSelene {
+  }
+  hidden_boolean LongSalmonKyle {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  number ThoroughAquamarineLoleta {
+  }
+  string FragileFuchsiaScarlett {
+  }
+  string UrbanBeigeAllissa {
+  }
+  number RoughAzureCarina {
+  }
+  string TallTanSheree {
+  }
+  serviceid StupidGrayGwynne {
+  }
+  number WetPinkAdara {
+  }
+  boolean SpanishLavenderIngeberg {
+  }
+  string LogicalTealViv {
+  }
+  number ViolentBeigeMathilde {
+  }
+  serviceid WrongTurquoiseMarrilee {
+  }
+  boolean PleasantEmeraldAlessandra {
+  }
+}

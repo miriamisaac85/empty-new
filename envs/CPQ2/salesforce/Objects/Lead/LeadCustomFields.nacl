@@ -1,0 +1,61 @@
+type salesforce.Lead {
+  salesforce.Url Alt_Domain__c {
+    apiName = "Lead.Alt_Domain__c"
+    externalId = false
+    label = "Alternative Domain"
+    
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Disqualified_Reason__c {
+    apiName = "Lead.Disqualified_Reason__c"
+    description = "Disqualification reason of the lead - must not be empty when lead is disqualified"
+    externalId = false
+    label = "Disqualified Reason"
+    
+    valueSet = [
+      {
+        fullName = "Not Interested"
+        default = false
+        label = "Not Interested"
+      },
+      {
+        fullName = "No Budget"
+        default = false
+        label = "No Budget"
+      },
+      {
+        fullName = "Wrong Usecase"
+        default = false
+        label = "Wrong Usecase"
+      },
+    ]
+    sorted = false
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Url Domain__c {
+    apiName = "Lead.Domain__c"
+    externalId = false
+    label = "Domain"
+    
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text aaNewField__c {
+    apiName = "Lead.aaNewField__c"
+    externalId = false
+    label = "aaNewField"
+    length = 20
+    
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

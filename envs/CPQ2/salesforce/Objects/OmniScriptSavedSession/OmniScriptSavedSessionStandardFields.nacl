@@ -1,0 +1,456 @@
+type salesforce.OmniScriptSavedSession {
+  salesforce.Picklist OmniScriptLanguage {
+    apiName = "OmniScriptSavedSession.OmniScriptLanguage"
+    valueSet = [
+      {
+        fullName = "Multi-Language"
+        isActive = true
+        label = "Multi-Language"
+        default = false
+      },
+      {
+        fullName = "Thai"
+        isActive = true
+        label = "Thai"
+        default = false
+      },
+      {
+        fullName = "Swedish"
+        isActive = true
+        label = "Swedish"
+        default = false
+      },
+      {
+        fullName = "Spanish (Mexico)"
+        isActive = true
+        label = "Spanish (Mexico)"
+        default = false
+      },
+      {
+        fullName = "Spanish"
+        isActive = true
+        label = "Spanish"
+        default = false
+      },
+      {
+        fullName = "Russian"
+        isActive = true
+        label = "Russian"
+        default = false
+      },
+      {
+        fullName = "Portuguese (Brazil)"
+        isActive = true
+        label = "Portuguese (Brazil)"
+        default = false
+      },
+      {
+        fullName = "Norwegian"
+        isActive = true
+        label = "Norwegian"
+        default = false
+      },
+      {
+        fullName = "Korean"
+        isActive = true
+        label = "Korean"
+        default = false
+      },
+      {
+        fullName = "Japanese"
+        isActive = true
+        label = "Japanese"
+        default = false
+      },
+      {
+        fullName = "Italian"
+        isActive = true
+        label = "Italian"
+        default = false
+      },
+      {
+        fullName = "German"
+        isActive = true
+        label = "German"
+        default = false
+      },
+      {
+        fullName = "French"
+        isActive = true
+        label = "French"
+        default = false
+      },
+      {
+        fullName = "Finnish"
+        isActive = true
+        label = "Finnish"
+        default = false
+      },
+      {
+        fullName = "English"
+        isActive = true
+        label = "English"
+        default = false
+      },
+      {
+        fullName = "Dutch"
+        isActive = true
+        label = "Dutch"
+        default = false
+      },
+      {
+        fullName = "Danish"
+        isActive = true
+        label = "Danish"
+        default = false
+      },
+      {
+        fullName = "Chinese (Traditional)"
+        isActive = true
+        label = "Chinese (Traditional)"
+        default = false
+      },
+      {
+        fullName = "Chinese (Simplified)"
+        isActive = true
+        label = "Chinese (Simplified)"
+        default = false
+      },
+    ]
+    restricted = false
+    label = "OmniScript Language"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist OmniScriptSubType {
+    apiName = "OmniScriptSavedSession.OmniScriptSubType"
+    valueSet = [
+      {
+        fullName = "Amend"
+        isActive = true
+        label = "Amend"
+        default = false
+      },
+      {
+        fullName = "Terminate"
+        isActive = true
+        label = "Terminate"
+        default = false
+      },
+      {
+        fullName = "Renew"
+        isActive = true
+        label = "Renew"
+        default = false
+      },
+      {
+        fullName = "Mental Health"
+        isActive = true
+        label = "Mental Health"
+        default = false
+      },
+      {
+        fullName = "Gun Permit"
+        isActive = true
+        label = "Gun Permit"
+        default = false
+      },
+      {
+        fullName = "Building Permit"
+        isActive = true
+        label = "Building Permit"
+        default = false
+      },
+      {
+        fullName = "Birth Certificate"
+        isActive = true
+        label = "Birth Certificate"
+        default = false
+      },
+      {
+        fullName = "Marriage License"
+        isActive = true
+        label = "Marriage License"
+        default = false
+      },
+    ]
+    restricted = false
+    label = "OmniScript Sub Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist OmniScriptType {
+    apiName = "OmniScriptSavedSession.OmniScriptType"
+    valueSet = [
+      {
+        fullName = "Contract"
+        isActive = true
+        label = "Contract"
+        default = false
+      },
+      {
+        fullName = "Licensing & Permitting"
+        isActive = true
+        label = "Licensing & Permitting"
+        default = false
+      },
+    ]
+    restricted = false
+    label = "OmniScript Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist Status {
+    apiName = "OmniScriptSavedSession.Status"
+    label = "Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "OmniScriptSavedSession.Id"
+    label = "OmniScript Saved Session ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "OmniScriptSavedSession.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "OmniScriptSavedSession.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "OmniScriptSavedSession.Name"
+    length = 80
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "OmniScriptSavedSession.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "OmniScriptSavedSession.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "OmniScriptSavedSession.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "OmniScriptSavedSession.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "OmniScriptSavedSession.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsContentEncoded {
+    apiName = "OmniScriptSavedSession.IsContentEncoded"
+    label = "Content Encoded"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime LastSavedDateTime {
+    apiName = "OmniScriptSavedSession.LastSavedDateTime"
+    label = "Last Saved Date Time"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text RelatedRecordIdentifier {
+    apiName = "OmniScriptSavedSession.RelatedRecordIdentifier"
+    length = 40
+    label = "Related Record"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text RelatedLabel {
+    apiName = "OmniScriptSavedSession.RelatedLabel"
+    length = 255
+    label = "Related Object Label"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text RelatedName {
+    apiName = "OmniScriptSavedSession.RelatedName"
+    length = 255
+    label = "Related Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text RelatedType {
+    apiName = "OmniScriptSavedSession.RelatedType"
+    length = 80
+    label = "Related Type"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text OmniScriptLocaleCode {
+    apiName = "OmniScriptSavedSession.OmniScriptLocaleCode"
+    length = 80
+    label = "OmniScript Locale Code"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup OmniScriptId {
+    apiName = "OmniScriptSavedSession.OmniScriptId"
+    relationshipName = "OmniScript"
+    referenceTo = [
+      salesforce.OmniProcess,
+    ]
+    label = "Omni Process ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox IsWebCompEnabled {
+    apiName = "OmniScriptSavedSession.IsWebCompEnabled"
+    defaultValue = false
+    label = "Web Component Enabled"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number OmniScriptVersionNumber {
+    apiName = "OmniScriptSavedSession.OmniScriptVersionNumber"
+    label = "OmniScript Version Number"
+    precision = 18
+    scale = 0
+    createable = false
+    updateable = false
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text SavedSessionKey {
+    apiName = "OmniScriptSavedSession.SavedSessionKey"
+    length = 80
+    label = "Saved Session Key"
+    createable = true
+    updateable = true
+    unique = true
+    caseSensitive = true
+    queryable = true
+  }
+  salesforce.LongTextArea ResumeUrl {
+    apiName = "OmniScriptSavedSession.ResumeUrl"
+    length = 2000
+    label = "Resume URL"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.LongTextArea RelativeResumeUrl {
+    apiName = "OmniScriptSavedSession.RelativeResumeUrl"
+    length = 1900
+    label = "Relative Resume URL"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist StatusCategory {
+    apiName = "OmniScriptSavedSession.StatusCategory"
+    valueSet = [
+      {
+        fullName = "In Progress"
+        isActive = true
+        label = "In Progress"
+        default = false
+      },
+      {
+        fullName = "Completed"
+        isActive = true
+        label = "Completed"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Status Category"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text FileBasedOmniScriptName {
+    apiName = "OmniScriptSavedSession.FileBasedOmniScriptName"
+    length = 200
+    label = "File Based OmniScript Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+}

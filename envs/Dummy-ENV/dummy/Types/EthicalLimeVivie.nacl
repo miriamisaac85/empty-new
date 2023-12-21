@@ -1,0 +1,80 @@
+type dummy.EthicalLimeVivie {
+  annotations {
+    serviceid PermanentPurpleBessie {
+    }
+    number Establishedgold2Nonna {
+    }
+    json AfraidBlueGeorgie {
+    }
+    number ResponsibleGreenKordula {
+    }
+    string FantasticIndigoAngy {
+    }
+  }
+  json RequiredHarlequinKatrinka {
+    _hidden_value = true
+  }
+  json RevolutionaryLimeLaurice {
+    _hidden_value = true
+  }
+  number ArtificialCoralDoro {
+    _hidden_value = true
+  }
+  dummy.StrikingMoccasinLonnie EmptyMaroonDevan {
+    TastelessYellowTheodora = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    UnableCrimsonSydel = true
+    AfraidLavenderAbagail = 344
+    CarefulRoseMichell = "Why do birds fly south for the winter? Because it's too far to walk."
+    SpanishIvoryCordey = "Why was it called the dark ages? Because of all the knights. "
+    SmoothAmberKatharyn = false
+    WoodenGrayKaitlin = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  hidden_boolean SpottyMoccasinAloise {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LightSalmonErica {
+    _hidden_value = true
+  }
+  "List<number>" FullAmethystSuzi {
+    _hidden_value = true
+  }
+  hidden_boolean PolishAmethystNicolle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SafeCopperBecky {
+    _hidden_value = true
+  }
+  boolean HumanApricotOrsa {
+    _hidden_value = true
+  }
+  boolean PassingJadeAlmeta {
+    _hidden_value = true
+  }
+  json WorldwideJadeArabela {
+    _hidden_value = true
+  }
+  hidden_boolean DangerousIvoryLeeann {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PoisedIndigoGenovera {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SovietYellowMersey {
+    _hidden_value = true
+  }
+  PermanentPurpleBessie = "Whoever invented the knock-knock joke should get a no bell prize."
+  Establishedgold2Nonna = 291
+  AfraidBlueGeorgie = "Why did the kid cross the playground? To get to the other slide."
+  ResponsibleGreenKordula = 821
+  FantasticIndigoAngy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

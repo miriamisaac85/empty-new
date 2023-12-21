@@ -1,0 +1,43 @@
+type dummy.InlandLimeRubi is number {
+  annotations {
+    string FaithfulWhitePaulita {
+    }
+    boolean EnviousPinkLyn {
+    }
+    number OkJadeCarmela {
+    }
+    serviceid LooseAmberLynett {
+    }
+    boolean IndependentPlumJelene {
+    }
+    serviceid ValidAmaranthVivie {
+    }
+    serviceid GrossAmberBrear {
+    }
+    string AverageChocolateCacilia {
+    }
+    hidden_boolean PreferredCyanTamra {
+    }
+    number GoodTomatoTeri {
+    }
+    hidden_boolean SafeCopperAbbe {
+    }
+    number MusicalPurpleNana {
+    }
+    hidden_boolean UpperBronzeMyrilla {
+    }
+    json ReliableGrayRosette {
+    }
+  }
+  FaithfulWhitePaulita = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EnviousPinkLyn = false
+  OkJadeCarmela = 99
+  LooseAmberLynett = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  IndependentPlumJelene = true
+  ValidAmaranthVivie = "What do you call two barracuda fish?  A Pairacuda!"
+  GrossAmberBrear = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AverageChocolateCacilia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GoodTomatoTeri = 239
+  MusicalPurpleNana = 332
+  ReliableGrayRosette = "Why was it called the dark ages? Because of all the knights. "
+}

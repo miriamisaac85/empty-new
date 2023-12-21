@@ -1,0 +1,58 @@
+type dummy.VerbalIvoryMercedes {
+  annotations {
+    boolean ShaggyYellowBlondy {
+    }
+    hidden_boolean MarvellousIndigoKeelia {
+    }
+    boolean GrumpyOrangeBarbabra {
+    }
+    boolean RoughChocolateBabbette {
+    }
+    json ToughPeachLynne {
+    }
+    string CuriousIvoryJanet {
+    }
+    hidden_boolean GrowingBlushLauryn {
+    }
+    hidden_boolean AbundantOliveCaterina {
+    }
+    boolean LtdSilverRubie {
+    }
+    boolean GloriousAmaranthAgretha {
+    }
+    string SaltyAmberSeka {
+    }
+    number WoodenChocolateWallie {
+    }
+    number ScatteredOliveElbertina {
+    }
+    dummy.SparklingAmaranthLeone FuriousAmaranthWilly {
+    }
+    serviceid CivilAmethystPaulita {
+    }
+    string LargeRedKaja {
+    }
+    serviceid ExtraOliveIngaborg {
+    }
+    json RichCrimsonHermia {
+    }
+    boolean CapableLimeLucille {
+    }
+  }
+  ShaggyYellowBlondy = false
+  GrumpyOrangeBarbabra = false
+  RoughChocolateBabbette = true
+  ToughPeachLynne = "Why was it called the dark ages? Because of all the knights. "
+  CuriousIvoryJanet = "I'll tell you what often gets over looked... garden fences."
+  LtdSilverRubie = false
+  GloriousAmaranthAgretha = true
+  SaltyAmberSeka = "Im only familiar with 25 letters in the English language. I dont know why."
+  WoodenChocolateWallie = 71
+  ScatteredOliveElbertina = 873
+  FuriousAmaranthWilly = true
+  CivilAmethystPaulita = "A steak pun is a rare medium well done."
+  LargeRedKaja = "Slept like a log last night  woke up in the fireplace."
+  ExtraOliveIngaborg = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RichCrimsonHermia = "Why did the tomato blush? Because it saw the salad dressing."
+  CapableLimeLucille = false
+}

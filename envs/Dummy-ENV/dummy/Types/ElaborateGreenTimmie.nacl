@@ -1,0 +1,106 @@
+type dummy.ElaborateGreenTimmie {
+  annotations {
+    dummy.DEFAULT CloseWhiteWinni {
+    }
+    hidden_boolean CompetentGreenTiffie {
+    }
+    json NursingCyanJanela {
+    }
+    dummy.KeyMaroonBunny VividTanJessica {
+    }
+    number CuteBlushAnnamaria {
+    }
+  }
+  boolean DeliberateLavenderTabina {
+    _hidden_value = true
+  }
+  string ApparentApricotMelisse {
+    _hidden_value = true
+  }
+  hidden_boolean Isolatedgold2Salome {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ArrogantTanEm {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MeaningfulPurpleDosi {
+    _hidden_value = true
+  }
+  "List<boolean>" MagnificentTomatoVikki {
+    _hidden_value = true
+  }
+  boolean ScrawnyCrimsonDevinne {
+    _hidden_value = true
+  }
+  boolean BadBeigeSharon {
+    _hidden_value = true
+  }
+  number PresentEmeraldToma {
+    _hidden_value = true
+  }
+  dummy.DifferentLimeChristen PoliticalTealMaggie {
+    IndianOrangeFilippa = false
+    QuietLimeCristen = 364
+    GrievingLavenderTera = false
+    PatientApricotMidge = 176
+    CertainScarletClarine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AccurateYellowElfrida = false
+    SlowCrimsonIvett = "I'll tell you what often gets over looked... garden fences."
+    RigidBrownAllene = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    NegativeScarletWilly = "Why did the kid cross the playground? To get to the other slide."
+    PossibleAquaRanda = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  hidden_boolean PregnantRedEmogene {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SteadyLimeJanetta {
+    _hidden_value = true
+  }
+  boolean ShyTealAlmeda {
+    _hidden_value = true
+  }
+  string UsualBlushAngele {
+    _hidden_value = true
+  }
+  hidden_boolean CautiousGrayBirgitta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingIvoryCarlee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number UnacceptableSilverCindee {
+    _hidden_value = true
+  }
+  number SmoothBrownLaraine {
+    _hidden_value = true
+  }
+  serviceid ModernBlueTerri {
+    _hidden_value = true
+  }
+  string EnormousTomatoKaylyn {
+    _hidden_value = true
+  }
+  hidden_boolean CloudyEmeraldPaulina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CloseWhiteWinni = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  NursingCyanJanela = "Whoever invented the knock-knock joke should get a no bell prize."
+  VividTanJessica = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CuteBlushAnnamaria = 530
+  _hidden_value = true
+}

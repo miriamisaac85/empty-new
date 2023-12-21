@@ -1,0 +1,83 @@
+type dummy.ObnoxiousPeachTheda {
+  annotations {
+    serviceid HeavyLavenderLorri {
+    }
+    json OppositeMoccasinKatina {
+    }
+    hidden_boolean OpenYellowJobina {
+    }
+    serviceid DrunkPeachBlondie {
+    }
+  }
+  boolean RipeBronzeLynsey {
+    _hidden_value = true
+  }
+  number PrimitiveLavenderVivyan {
+    _hidden_value = true
+  }
+  dummy.SmallPlumLiana AutonomousRedKatharyn {
+    DecentAquamarineTabina = "Im only familiar with 25 letters in the English language. I dont know why."
+    EssentialLavenderFlor = "Why didnt the skeleton cross the road? Because he had no guts."
+    GenerousBlueKiele = false
+    SensitiveTurquoiseClaresta = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  hidden_boolean ClassicRedNoni {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CuteAmethystAlina {
+    _hidden_value = true
+  }
+  serviceid BrainySilverAnnabal {
+    _hidden_value = true
+  }
+  hidden_boolean DualLimeRandie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OutrageousCrimsonKevyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DisciplinaryCoralClaribel {
+    _hidden_value = true
+  }
+  string HistoricalCopperElisa {
+    _hidden_value = true
+  }
+  boolean TestyEmeraldPaulie {
+    _hidden_value = true
+  }
+  serviceid EvilPlumJoelynn {
+    _hidden_value = true
+  }
+  number HomelyCoralLeigh {
+    _hidden_value = true
+  }
+  number TerribleYellowCassey {
+    _hidden_value = true
+  }
+  number FundamentalRedJudi {
+    _hidden_value = true
+  }
+  serviceid VerbalCoralKissie {
+    _hidden_value = true
+  }
+  json VariableCoffeeMarnia {
+    _hidden_value = true
+  }
+  boolean SquareGrayJoey {
+    _hidden_value = true
+  }
+  serviceid DisciplinaryTanReine {
+    _hidden_value = true
+  }
+  HeavyLavenderLorri = "Why didnt the skeleton cross the road? Because he had no guts."
+  OppositeMoccasinKatina = "Dad Im hungry  Hi hungry Im dad"
+  DrunkPeachBlondie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

@@ -1,0 +1,88 @@
+type dummy.HighVioletJohnath {
+  annotations {
+    number PeacefulAmaranthWhitney {
+    }
+    json ResidentHarlequinDyana {
+    }
+    dummy.DEFAULT ProgressivePinkLiza {
+    }
+    hidden_boolean RedundantTurquoiseSarita {
+    }
+    json TremendousApricotAbigail {
+    }
+    boolean GrandAmberCandace {
+    }
+  }
+  json PreviousAquamarineLizbeth {
+    _hidden_value = true
+  }
+  serviceid KoreanCoffeePauletta {
+    _hidden_value = true
+  }
+  string LiveBlackJoeann {
+    _hidden_value = true
+  }
+  serviceid AnnualRoseRaf {
+    _hidden_value = true
+  }
+  json WorthyBlackMyrtia {
+    _hidden_value = true
+  }
+  string VividIndigoKalila {
+    _hidden_value = true
+  }
+  string CharmingTealMargy {
+    _hidden_value = true
+  }
+  json DelightfulOrangeAnabal {
+    _hidden_value = true
+  }
+  hidden_boolean PoorSilverJunie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SelectiveGreenReggi {
+    _hidden_value = true
+  }
+  string EmpiricalGrayLetta {
+    _hidden_value = true
+  }
+  hidden_boolean DueCoralDorris {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean WastefulHarlequinEadith {
+    _hidden_value = true
+  }
+  boolean DizzyCoralAnnemarie {
+    _hidden_value = true
+  }
+  string PotentialYellowVelma {
+    _hidden_value = true
+  }
+  boolean StaleCoralAllison {
+    _hidden_value = true
+  }
+  number WidespreadJadeGwendolin {
+    _hidden_value = true
+  }
+  number DeafeningIndigoSacha {
+    _hidden_value = true
+  }
+  serviceid DepressedRoseCheslie {
+    _hidden_value = true
+  }
+  json FastHarlequinAdella {
+    _hidden_value = true
+  }
+  PeacefulAmaranthWhitney = 48
+  ResidentHarlequinDyana = "Why is Peter Pan always flying? Because he Neverlands."
+  ProgressivePinkLiza = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  TremendousApricotAbigail = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GrandAmberCandace = false
+  _hidden_value = true
+}

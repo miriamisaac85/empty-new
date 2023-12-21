@@ -1,0 +1,19 @@
+type dummy.FlyingBlushXena {
+  annotations {
+    serviceid BeautifulCoffeeBee {
+    }
+    number AmusedTurquoiseZara {
+    }
+    hidden_boolean WonderfulJadeCarolyn {
+    }
+    number SurprisingAmaranthAmy {
+    }
+  }
+  "List<boolean>" NastyIndigoDenise {
+    _hidden_value = true
+  }
+  BeautifulCoffeeBee = "I'll tell you what often gets over looked... garden fences."
+  AmusedTurquoiseZara = 562
+  SurprisingAmaranthAmy = 320
+  _hidden_value = true
+}

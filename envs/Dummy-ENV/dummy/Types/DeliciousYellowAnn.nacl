@@ -1,0 +1,65 @@
+type dummy.DeliciousYellowAnn {
+  annotations {
+    serviceid Broadgold2Caroline {
+    }
+    boolean VoluntaryBlueYoko {
+    }
+    number SemanticScarletBelita {
+    }
+    serviceid CalmIndigoBrittaney {
+    }
+    serviceid Sacredgold2Ashien {
+    }
+    serviceid AnnoyedMoccasinAgna {
+    }
+  }
+  number DullRoseSalli {
+    _hidden_value = true
+  }
+  boolean ProspectiveWhiteMaxy {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" MuddyGrayTabbitha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<boolean>" SignificantWhiteDee {
+    _hidden_value = true
+  }
+  number ImmenseTanFrancesca {
+    _hidden_value = true
+  }
+  hidden_boolean VagueMagentaAmity {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FixedFuchsiaGayle {
+    _hidden_value = true
+  }
+  hidden_boolean FrequentRoseMarijo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MagentaOrangeCarree {
+    _hidden_value = true
+  }
+  number ScottishIvoryArielle {
+    _hidden_value = true
+  }
+  serviceid PopularAquaBria {
+    _hidden_value = true
+  }
+  json DueBrownEmelyne {
+    _hidden_value = true
+  }
+  Broadgold2Caroline = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  VoluntaryBlueYoko = false
+  SemanticScarletBelita = 323
+  CalmIndigoBrittaney = "Dad Im hungry  Hi hungry Im dad"
+  Sacredgold2Ashien = "A steak pun is a rare medium well done."
+  AnnoyedMoccasinAgna = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

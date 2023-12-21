@@ -1,0 +1,7 @@
+salesforce.DocumentFolder ConnectedApp_Resources {
+  accessType = "Hidden"
+  name = "ConnectedApp Resources"
+  publicFolderAccess = "ReadWrite"
+  fullName = "ConnectedApp_Resources"
+  _alias = "ConnectedApp_Resources"
+}

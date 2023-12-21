@@ -1,0 +1,32 @@
+type dummy.FavourableMoccasinUlrikaumeko {
+  annotations {
+    dummy.AppropriateChocolateLadonna HiddenMoccasinElaine {
+    }
+    hidden_boolean CommercialGreenAnnice {
+    }
+    dummy.DEFAULT DeadAmaranthNovelia {
+    }
+  }
+  serviceid DarkBronzeBatsheva {
+    _hidden_value = true
+  }
+  json PermanentIndigoEve {
+    _hidden_value = true
+  }
+  hidden_boolean EducationalHarlequinMilicent {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PurringJadeNorri {
+    _hidden_value = true
+  }
+  string SelectScarletDyane {
+    _hidden_value = true
+  }
+  HiddenMoccasinElaine = 485
+  DeadAmaranthNovelia = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  _hidden_value = true
+}

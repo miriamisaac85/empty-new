@@ -1,0 +1,27 @@
+type dummy.SoreCoralShirleen {
+  annotations {
+    json LargeAzureSonya {
+    }
+    dummy.DEFAULT ValuableWhiteMarji {
+    }
+    hidden_boolean InitialSalmonLoraine {
+    }
+    serviceid StaleBronzeVita {
+    }
+  }
+  number RecentAmberAnnissa {
+    _hidden_value = true
+  }
+  number HappyTealBabs {
+    _hidden_value = true
+  }
+  json NearbyPlumMelinde {
+    _hidden_value = true
+  }
+  LargeAzureSonya = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ValuableWhiteMarji = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  StaleBronzeVita = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,39 @@
+type dummy.NotableMoccasinAndrea {
+  annotations {
+    number NastyBlueLuelle {
+    }
+    boolean SoftFuchsiaRahal {
+    }
+    json SharedTomatoJulie {
+    }
+    hidden_boolean RenewedCopperVanda {
+    }
+    number MaximumBeigeJoanne {
+    }
+  }
+  hidden_boolean LonelyRedZitella {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean PeacefulTanShannah {
+    _hidden_value = true
+  }
+  json SouthernBrownMinerva {
+    _hidden_value = true
+  }
+  number InsufficientAmberElsey {
+    _hidden_value = true
+  }
+  "List<json>" HissingWhiteDevonne {
+    _hidden_value = true
+  }
+  json OutrageousTealCandis {
+    _hidden_value = true
+  }
+  NastyBlueLuelle = 837
+  SoftFuchsiaRahal = true
+  SharedTomatoJulie = "How come the stadium got hot after the game? Because all of the fans left."
+  MaximumBeigeJoanne = 313
+  _hidden_value = true
+}

@@ -1,0 +1,64 @@
+type dummy.EconomicIndigoSonni {
+  annotations {
+    dummy.SlightApricotKylila DisappointedCoffeeAlfreda {
+    }
+    string OutdoorBlueAbigale {
+    }
+    serviceid WonderfulCoffeeBunnie {
+    }
+    string FascinatingBeigeCarie {
+    }
+    serviceid ConfusedMagentaPhylis {
+    }
+    hidden_boolean PerfectRoseMelinda {
+    }
+    hidden_boolean PeculiarApricotLynda {
+    }
+    dummy.OrthodoxEmeraldFelicity LuckyIndigoDiana {
+    }
+    string WickedBlueMarty {
+    }
+    serviceid NastyCrimsonLacy {
+    }
+    serviceid CriticalTomatoDulcia {
+    }
+    boolean OlympicApricotJuli {
+    }
+    dummy.SpecialCopperDyana ScientificYellowSibelle {
+    }
+    boolean MetropolitanFuchsiaDonica {
+    }
+    serviceid FaithfulBlushDacey {
+    }
+    hidden_boolean WorriedApricotLivia {
+    }
+    dummy.DominantTanMaribeth StormySalmonRosalinda {
+    }
+    serviceid BreakableAquamarineRici {
+    }
+    number VariedBrownMechelle {
+    }
+    json FluffyPeachJoellyn {
+    }
+    boolean ModestPurpleGail {
+    }
+    number RuralGreenIvonne {
+    }
+  }
+  OutdoorBlueAbigale = "To be Frank, I'd have to change my name."
+  WonderfulCoffeeBunnie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FascinatingBeigeCarie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ConfusedMagentaPhylis = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LuckyIndigoDiana = file("SuccessfulCopperJaney.txt")
+  WickedBlueMarty = "Why didnt the skeleton cross the road? Because he had no guts."
+  NastyCrimsonLacy = "Why is Peter Pan always flying? Because he Neverlands."
+  CriticalTomatoDulcia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OlympicApricotJuli = true
+  MetropolitanFuchsiaDonica = true
+  FaithfulBlushDacey = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BreakableAquamarineRici = "Why do birds fly south for the winter? Because it's too far to walk."
+  VariedBrownMechelle = 588
+  FluffyPeachJoellyn = "Dad Im hungry  Hi hungry Im dad"
+  ModestPurpleGail = false
+  RuralGreenIvonne = 862
+}

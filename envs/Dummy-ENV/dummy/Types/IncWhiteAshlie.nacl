@@ -1,0 +1,101 @@
+type dummy.IncWhiteAshlie {
+  annotations {
+    serviceid ContinuousLimeVivia {
+    }
+    hidden_boolean UnevenCyanKarla {
+    }
+    string MysteriousApricotIssie {
+    }
+    number PowerfulTomatoCarleen {
+    }
+    serviceid DiverseTurquoiseBrigit {
+    }
+    boolean ElectronicScarletLorelei {
+    }
+  }
+  dummy.AppropriateChocolateLadonna UndergroundAquamarineLane {
+    SilentLavenderMidge = "What do you call two barracuda fish?  A Pairacuda!"
+    PotentialBronzeManya = "Did you know that protons have mass? I didn't even know they were catholic."
+    FirmTurquoiseMagdalena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    DirectIndigoNannie = "What creature is smarter than a talking parrot? A spelling bee."
+    EthicalHarlequinCarmon = "What did one nut say as he chased another nut?  I'm a cashew!"
+    KindIndigoHelen = true
+    PlannedOrangeWynn = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  hidden_boolean StraightJadeGwenette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CheerfulOliveWilly {
+    _hidden_value = true
+  }
+  dummy.EquivalentJadeCaria DutchCrimsonValry {
+    ImpressiveCoralRoanne = true
+    AwareScarletRhianon = "Why didnt the skeleton cross the road? Because he had no guts."
+    SimilarTealTova = 901
+    LazyJadeAlvina = false
+    InsufficientBlushGertrude = "What did one nut say as he chased another nut?  I'm a cashew!"
+    PlasticPinkSidonia = "I'll tell you what often gets over looked... garden fences."
+    HappyAmaranthRhianna = false
+    RoughOliveKailey = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    SatisfiedAmaranthCarilyn = 211
+    NarrowPinkMadeleine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  serviceid SilentRedAmabelle {
+    _hidden_value = true
+  }
+  number VitalHarlequinDorrie {
+    _hidden_value = true
+  }
+  json PublicBlueSiusan {
+    _hidden_value = true
+  }
+  hidden_boolean MedicalFuchsiaGabriell {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CompulsoryMoccasinNicolette {
+    _hidden_value = true
+  }
+  string AutomaticAmethystEbonee {
+    _hidden_value = true
+  }
+  serviceid FundamentalEmeraldAnjela {
+    _hidden_value = true
+  }
+  number SickScarletRonica {
+    _hidden_value = true
+  }
+  boolean CheerfulTanJori {
+    _hidden_value = true
+  }
+  boolean SmallMagentaMarchelle {
+    _hidden_value = true
+  }
+  boolean BalancedRoseBrittany {
+    _hidden_value = true
+  }
+  string FriendlyLimeTheo {
+    _hidden_value = true
+  }
+  string TechnologicalAmberBethany {
+    _hidden_value = true
+  }
+  hidden_boolean FormalRoseBeverlee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ContinuousLimeVivia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MysteriousApricotIssie = "Whoever invented the knock-knock joke should get a no bell prize."
+  PowerfulTomatoCarleen = 270
+  DiverseTurquoiseBrigit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ElectronicScarletLorelei = true
+  _hidden_value = true
+}

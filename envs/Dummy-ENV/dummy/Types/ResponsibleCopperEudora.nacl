@@ -1,0 +1,51 @@
+type dummy.ResponsibleCopperEudora {
+  annotations {
+    dummy.ShallowSalmonAdelaide ShallowOliveLinn {
+    }
+    string BraveAmethystGermana {
+    }
+    boolean LowAzureLilyan {
+    }
+    json FondRedLuisa {
+    }
+    number ResonantOrangeBiddie {
+    }
+    hidden_boolean GrowingMaroonIlene {
+    }
+    number PreferredYellowLaverna {
+    }
+    hidden_boolean ScaryTealTasia {
+    }
+  }
+  serviceid PracticalPeachMisti {
+    _hidden_value = true
+  }
+  json TeenageApricotVivianna {
+    _hidden_value = true
+  }
+  json RacialCopperAshil {
+    _hidden_value = true
+  }
+  serviceid RequiredMagentaMerci {
+    _hidden_value = true
+  }
+  number CalmMagentaGlen {
+    _hidden_value = true
+  }
+  string JewishJadeKonstanze {
+    _hidden_value = true
+  }
+  serviceid NotableJadeHannah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SaltyGreenThomasa {
+    _hidden_value = true
+  }
+  ShallowOliveLinn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BraveAmethystGermana = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LowAzureLilyan = true
+  FondRedLuisa = "Dad Im hungry  Hi hungry Im dad"
+  ResonantOrangeBiddie = 578
+  PreferredYellowLaverna = 13
+  _hidden_value = true
+}

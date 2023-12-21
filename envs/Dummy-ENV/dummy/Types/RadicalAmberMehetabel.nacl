@@ -1,0 +1,116 @@
+type dummy.RadicalAmberMehetabel {
+  annotations {
+    boolean ReluctantSalmonGermain {
+    }
+    boolean EthnicCopperBrandais {
+    }
+    json EthnicSapphireTarah {
+    }
+    string ControversialCopperMichaella {
+    }
+    boolean UnnecessaryScarletNerti {
+    }
+  }
+  string SquealingHarlequinDarice {
+    _hidden_value = true
+  }
+  string HandsomeHarlequinFerdinande {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntensePurpleDre {
+    _hidden_value = true
+  }
+  boolean WhiteAquaElka {
+    _hidden_value = true
+  }
+  number FashionableBlushDion {
+    _hidden_value = true
+  }
+  boolean SmoothLavenderGinni {
+    _hidden_value = true
+  }
+  string MiniatureSilverNovelia {
+    _hidden_value = true
+  }
+  dummy.NuclearBlueCorinna AppallingMoccasinRobenia {
+    GermanCrimsonRobbie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MiddleAmaranthCherlyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ColonialCoralKat = false
+    MushyBlushEirena = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    HotCopperBertina = "Why didnt the skeleton cross the road? Because he had no guts."
+    TenderAzureDoreen = "A steak pun is a rare medium well done."
+    PerfectOliveGabie = "Why was it called the dark ages? Because of all the knights. "
+    SorryCrimsonAudi = false
+    AssociatedBronzeArlen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    GivenWhiteJan = "What do you call two barracuda fish?  A Pairacuda!"
+    CondemnedLimeIanthe = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VerbalOrangeUlrika = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HomelyBrownRochette = "How come the stadium got hot after the game? Because all of the fans left."
+    ExpectedWhiteJeanie = "A steak pun is a rare medium well done."
+    PracticalSalmonCarmela = "I'll tell you what often gets over looked... garden fences."
+    NativeCoffeeKlara = 515
+    _hidden_value = true
+  }
+  serviceid UnableTanNellie {
+    _hidden_value = true
+  }
+  json CompetentCoffeeNonnah {
+    _hidden_value = true
+  }
+  "List<boolean>" QuietTomatoAnnissa {
+    _hidden_value = true
+  }
+  json BigCopperMinni {
+    _hidden_value = true
+  }
+  serviceid StaticScarletCarolynn {
+    _hidden_value = true
+  }
+  "List<serviceid>" HardFuchsiaNita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColonialVioletDorian {
+    _hidden_value = true
+  }
+  boolean LostSilverClaribel {
+    _hidden_value = true
+  }
+  string BlushingSalmonAlly {
+    _hidden_value = true
+  }
+  boolean ExoticCopperMeade {
+    _hidden_value = true
+  }
+  hidden_boolean AverageOrangeMarisa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BloodyChocolateSalome {
+    _hidden_value = true
+  }
+  boolean TragicCoralRobbyn {
+    _hidden_value = true
+  }
+  serviceid ColdIndigoVirgie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PowerfulTomatoCheri {
+    _hidden_value = true
+  }
+  json RichBlackMarget {
+    _hidden_value = true
+  }
+  json FrequentFuchsiaAdrienne {
+    _hidden_value = true
+  }
+  json LiberalMaroonDarcie {
+    _hidden_value = true
+  }
+  ReluctantSalmonGermain = true
+  EthnicCopperBrandais = false
+  EthnicSapphireTarah = "A steak pun is a rare medium well done."
+  ControversialCopperMichaella = "Dad Im hungry  Hi hungry Im dad"
+  UnnecessaryScarletNerti = false
+  _hidden_value = true
+}

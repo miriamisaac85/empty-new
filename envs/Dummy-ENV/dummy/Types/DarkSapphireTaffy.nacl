@@ -1,0 +1,63 @@
+type dummy.DarkSapphireTaffy {
+  annotations {
+    boolean SlimyApricotTimothea {
+    }
+    hidden_boolean AcceptableTanSamaria {
+    }
+    hidden_boolean MechanicalMagentaLeta {
+    }
+    string DifferentEmeraldEffie {
+    }
+    string GastricTanBlinnie {
+    }
+    serviceid AppallingBrownMarcela {
+    }
+    dummy.SubjectiveAmethystBel SuspiciousOliveAngelika {
+    }
+  }
+  number ScrawnyBlushTimmie {
+    _hidden_value = true
+  }
+  number PatientRedLinzy {
+    _hidden_value = true
+  }
+  boolean ImportantAmberNoell {
+    _hidden_value = true
+  }
+  boolean UnusualRedBritte {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" TallTealMerrili {
+    _hidden_value = true
+  }
+  hidden_boolean PoorCopperIvory {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AutonomousMaroonDaisey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialAmaranthAubrette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json PhilosophicalAquaBenoite {
+    _hidden_value = true
+  }
+  number ValuableAquaLotty {
+    _hidden_value = true
+  }
+  number EntitledSalmonMaybelle {
+    _hidden_value = true
+  }
+  SlimyApricotTimothea = false
+  DifferentEmeraldEffie = "Im only familiar with 25 letters in the English language. I dont know why."
+  GastricTanBlinnie = "Why do birds fly south for the winter? Because it's too far to walk."
+  AppallingBrownMarcela = "What creature is smarter than a talking parrot? A spelling bee."
+  SuspiciousOliveAngelika = 82
+  _hidden_value = true
+}

@@ -1,0 +1,44 @@
+type dummy.ContemporaryPurpleZabrina is string {
+  annotations {
+    string SecureGrayMerralee {
+    }
+    json RobustAquaAlly {
+    }
+    string SwiftAmaranthGlyn {
+    }
+    hidden_boolean StickyEmeraldLenette {
+    }
+    json DullPurpleKora {
+    }
+    serviceid ShrillYellowConni {
+    }
+    string PartialAmberKellsie {
+    }
+    json OddScarletCaralie {
+    }
+    dummy.DEFAULT ExtremeTanArielle {
+    }
+    serviceid YellowBronzeNessi {
+    }
+    boolean FlakyTanJeniffer {
+    }
+    boolean UnnecessarySapphireKathrine {
+    }
+    string FullTurquoiseCorabella {
+    }
+  }
+  SecureGrayMerralee = "Why is Peter Pan always flying? Because he Neverlands."
+  RobustAquaAlly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SwiftAmaranthGlyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DullPurpleKora = "Why didnt the skeleton cross the road? Because he had no guts."
+  ShrillYellowConni = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PartialAmberKellsie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OddScarletCaralie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ExtremeTanArielle = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  YellowBronzeNessi = "Slept like a log last night  woke up in the fireplace."
+  FlakyTanJeniffer = true
+  UnnecessarySapphireKathrine = true
+  FullTurquoiseCorabella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

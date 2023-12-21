@@ -1,0 +1,72 @@
+type dummy.SufficientAquaHelyn {
+  annotations {
+    hidden_boolean BoringBronzeClarita {
+    }
+    boolean HugeScarletAlida {
+    }
+    hidden_boolean GlobalPinkWynne {
+    }
+    boolean NastySilverCollette {
+    }
+    boolean IsraeliPeachGeraldine {
+    }
+    boolean NastyBlackCamille {
+    }
+    serviceid GiantRoseAyn {
+    }
+    serviceid UglyFuchsiaBev {
+    }
+    number SweetOrangeLia {
+    }
+    json TallOliveDee {
+    }
+    json UltimateCyanGeorgetta {
+    }
+    number FreshBlackLorene {
+    }
+    hidden_boolean AliveLavenderIngeborg {
+    }
+    serviceid EffectiveGrayCarmen {
+    }
+    string LegislativeSilverSusana {
+    }
+    number PureSalmonCeline {
+    }
+    boolean BadMoccasinHortensia {
+    }
+    boolean EventualRedNikolia {
+    }
+    boolean LexicalBeigePapagena {
+    }
+    json ChemicalYellowKaril {
+    }
+    dummy.StructuralChocolateMeggie AgriculturalPlumAngelica {
+    }
+    dummy.RearCoralGennie ShortApricotBrianna {
+    }
+    dummy.WoodenMaroonUlrika LesserFuchsiaJordanna {
+    }
+  }
+  HugeScarletAlida = true
+  NastySilverCollette = false
+  IsraeliPeachGeraldine = false
+  NastyBlackCamille = true
+  GiantRoseAyn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UglyFuchsiaBev = '''
+Why was it called the dark ages? Because of all the knights. 
+What do you call two barracuda fish?  A Pairacuda!
+Why did the kid cross the playground? To get to the other slide.
+'''
+  SweetOrangeLia = 294
+  TallOliveDee = "Why did the kid cross the playground? To get to the other slide."
+  UltimateCyanGeorgetta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FreshBlackLorene = 755
+  EffectiveGrayCarmen = "What creature is smarter than a talking parrot? A spelling bee."
+  LegislativeSilverSusana = "Why was it called the dark ages? Because of all the knights. "
+  PureSalmonCeline = 839
+  BadMoccasinHortensia = false
+  EventualRedNikolia = false
+  LexicalBeigePapagena = false
+  ChemicalYellowKaril = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AgriculturalPlumAngelica = 577
+}

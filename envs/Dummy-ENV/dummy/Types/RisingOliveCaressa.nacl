@@ -1,0 +1,25 @@
+type dummy.RisingOliveCaressa {
+  annotations {
+    dummy.DEFAULT WhiteCopperDoralynne {
+    }
+    boolean AppropriateBeigeMelinda {
+    }
+    number GrubbyVioletKorie {
+    }
+    serviceid CurvedCrimsonAlex {
+    }
+    boolean OldCoffeeManon {
+    }
+  }
+  boolean WelcomeTanRivi {
+    _hidden_value = true
+  }
+  WhiteCopperDoralynne = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  AppropriateBeigeMelinda = false
+  GrubbyVioletKorie = 834
+  CurvedCrimsonAlex = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OldCoffeeManon = true
+  _hidden_value = true
+}

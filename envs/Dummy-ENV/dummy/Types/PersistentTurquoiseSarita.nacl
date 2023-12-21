@@ -1,0 +1,50 @@
+type dummy.PersistentTurquoiseSarita {
+  annotations {
+    dummy.DEFAULT QuickestSilverAdelina {
+    }
+    boolean ZealousPlumClea {
+    }
+    number GracefulTomatoKorry {
+    }
+    json Terriblegold2Renata {
+    }
+    json DirtyCyanJena {
+    }
+  }
+  number HugeIndigoMartita {
+    _hidden_value = true
+  }
+  boolean NutritiousYellowGeorgeta {
+    _hidden_value = true
+  }
+  serviceid PermanentAmethystPetronia {
+    _hidden_value = true
+  }
+  json HelplessBrownPolly {
+    _hidden_value = true
+  }
+  dummy.BewilderedGreenRosemarie ItalianJadeClotilda {
+    HighBlushMoyna = "A steak pun is a rare medium well done."
+    ClearPeachUla = "Why did the tomato blush? Because it saw the salad dressing."
+    ControlledPeachKathye = 370
+    LeadingIvoryGlory = 362
+    _hidden_value = true
+  }
+  json SteadyGreenZora {
+    _hidden_value = true
+  }
+  serviceid FairTanHarriett {
+    _hidden_value = true
+  }
+  boolean PreliminaryBlushDevon {
+    _hidden_value = true
+  }
+  QuickestSilverAdelina = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  ZealousPlumClea = false
+  GracefulTomatoKorry = 524
+  Terriblegold2Renata = "Dad Im hungry  Hi hungry Im dad"
+  DirtyCyanJena = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

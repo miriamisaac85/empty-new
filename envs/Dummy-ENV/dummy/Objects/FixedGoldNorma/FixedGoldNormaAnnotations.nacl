@@ -1,0 +1,51 @@
+type dummy.Fixedgold2Norma {
+  annotations {
+    hidden_boolean PetiteHarlequinAilee {
+    }
+    hidden_boolean HelpfulRedYoshi {
+    }
+    boolean DesperateLimeMissie {
+    }
+    number DullSapphirePerry {
+    }
+    boolean DisgustedPlumAlleen {
+    }
+    serviceid CoherentBrownGeorgina {
+    }
+    boolean ModernLavenderRania {
+    }
+    json ColouredBronzeEngracia {
+    }
+    json TremendousRoseSheila {
+    }
+    hidden_boolean RidiculousRedStefania {
+    }
+    dummy.FavourableMoccasinUlrikaumeko MixedCyanMarty {
+    }
+    dummy.AcademicLimeMarlie TenderIndigoJosey {
+    }
+    hidden_boolean IdeologicalBronzeJeri {
+    }
+    json CompactGreenRasia {
+    }
+    boolean BeneficialYellowJannelle {
+    }
+    json TragicVioletDyana {
+    }
+    hidden_boolean LongBeigeAntonietta {
+    }
+    serviceid RegionalVioletBryana {
+    }
+  }
+  DesperateLimeMissie = false
+  DullSapphirePerry = 417
+  DisgustedPlumAlleen = true
+  CoherentBrownGeorgina = "Did you know that protons have mass? I didn't even know they were catholic."
+  ModernLavenderRania = true
+  ColouredBronzeEngracia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TremendousRoseSheila = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CompactGreenRasia = "How come the stadium got hot after the game? Because all of the fans left."
+  BeneficialYellowJannelle = false
+  TragicVioletDyana = "To be Frank, I'd have to change my name."
+  RegionalVioletBryana = "Why do birds fly south for the winter? Because it's too far to walk."
+}

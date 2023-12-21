@@ -1,0 +1,143 @@
+type dummy.MarginalGreenDory {
+  annotations {
+    serviceid FemaleSalmonBerty {
+    }
+    number SquareYellowEllie {
+    }
+    boolean ActiveJadeLucinda {
+    }
+    string ShockedEmeraldJemmy {
+    }
+    json RareFuchsiaElle {
+    }
+  }
+  hidden_boolean InlandFuchsiaMarissa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT AwkwardTurquoiseCamella {
+    _hidden_value = true
+  }
+  dummy.HurtJadeVevay PunyCopperDorette {
+    DeliberateBlueDeirdre = true
+    MinimumApricotEdee = false
+    BewilderedCopperDorotea = "Why did the tomato blush? Because it saw the salad dressing."
+    VulnerableMagentaInga = "My first time using an elevator was an uplifting experience. The second time let me down."
+    HighLavenderLucretia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ScrawnyBeigeNoni = false
+    LevelBlueAdelind = "Why did the kid cross the playground? To get to the other slide."
+    ChristianFuchsiaRobenia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    OutrageousAquaDina = "Im only familiar with 25 letters in the English language. I dont know why."
+    EvolutionaryTurquoiseKristen = 984
+    DryOliveDoralia = "I'll tell you what often gets over looked... garden fences."
+    HappyOrangeEdin = "How come the stadium got hot after the game? Because all of the fans left."
+    BrownSalmonGrier = 723
+    CarefulHarlequinPhaidra = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    CombativeTanDarline = true
+    ChillyAzureElaina = 680
+    _hidden_value = true
+  }
+  dummy.DEFAULT GrossAmberRochelle {
+    _hidden_value = true
+  }
+  string ShockedRoseJobye {
+    _hidden_value = true
+  }
+  number FaintSilverAlicea {
+    _hidden_value = true
+  }
+  number ConventionalApricotLyn {
+    _hidden_value = true
+  }
+  serviceid ChronicLimeAlix {
+    _hidden_value = true
+  }
+  serviceid EfficientChocolateFarica {
+    _hidden_value = true
+  }
+  string SpatialAquaMadge {
+    _hidden_value = true
+  }
+  hidden_boolean SpottyAzurePrisca {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SecureSalmonRow {
+    _hidden_value = true
+  }
+  hidden_boolean CoherentAquaMarrilee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string HelpfulBlushFredi {
+    _hidden_value = true
+  }
+  serviceid EasternCopperJacquenette {
+    _hidden_value = true
+  }
+  serviceid FantasticAmaranthEddie {
+    _hidden_value = true
+  }
+  boolean MatureBronzeMarylou {
+    _hidden_value = true
+  }
+  hidden_boolean CivicChocolateMarilin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DifficultBlackDeanne InstitutionalGreenIssi {
+    CruelCrimsonGinelle = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    ConceptualApricotCathie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FemaleWhiteRobina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PreliminaryTanBelicia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CalmScarletMead = false
+    CheapCoralNissy = "Did you know that protons have mass? I didn't even know they were catholic."
+    TightTealGiulietta = 171
+    DefiniteOlivePierette = false
+    CooperativeSapphireBobinette = "A steak pun is a rare medium well done."
+    OkayPurplePietra = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HumanChocolateTricia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  serviceid Negativegold2Cyndie {
+    _hidden_value = true
+  }
+  json ExpensiveGreenEmelita {
+    _hidden_value = true
+  }
+  hidden_boolean WoodenTanDedie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean EmotionalPinkLaureen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CombinedEmeraldJaimie {
+    _hidden_value = true
+  }
+  hidden_boolean LimitedBlackRuby {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ScottishMaroonReta {
+    _hidden_value = true
+  }
+  FemaleSalmonBerty = "Why did the tomato blush? Because it saw the salad dressing."
+  SquareYellowEllie = 305
+  ActiveJadeLucinda = false
+  ShockedEmeraldJemmy = "Why is Peter Pan always flying? Because he Neverlands."
+  RareFuchsiaElle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

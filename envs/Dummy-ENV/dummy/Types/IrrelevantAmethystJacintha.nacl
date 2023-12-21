@@ -1,0 +1,22 @@
+type dummy.IrrelevantAmethystJacintha {
+  annotations {
+    string QualifiedVioletLynette {
+    }
+    string ExtremeSapphireRachelle {
+    }
+    hidden_boolean TroubledMaroonMeggie {
+    }
+    number HelpfulSilverMarne {
+    }
+    json BigSapphireDoti {
+    }
+  }
+  number SurroundingAquamarineAeriela {
+    _hidden_value = true
+  }
+  QualifiedVioletLynette = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExtremeSapphireRachelle = "Why did the kid cross the playground? To get to the other slide."
+  HelpfulSilverMarne = 182
+  BigSapphireDoti = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

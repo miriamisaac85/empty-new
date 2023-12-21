@@ -1,0 +1,45 @@
+type dummy.HotCoralMaurene {
+  annotations {
+    boolean BoldJadeNada {
+    }
+    number GratefulChocolateLorine {
+    }
+    serviceid DryWhiteJanis {
+    }
+    dummy.DEFAULT HelpfulOliveChad {
+    }
+  }
+  number MildPlumNani {
+    _hidden_value = true
+  }
+  number CivilAquamarineEmiline {
+    _hidden_value = true
+  }
+  json SmoggyJadeAlidia {
+    _hidden_value = true
+  }
+  hidden_boolean CooperativeLavenderMallory {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT AutomaticTurquoiseMargaretha {
+    _hidden_value = true
+  }
+  json EstimatedChocolateJaney {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GermanWhiteDion {
+    _hidden_value = true
+  }
+  json NotableTealFerdinanda {
+    _hidden_value = true
+  }
+  BoldJadeNada = false
+  GratefulChocolateLorine = 641
+  DryWhiteJanis = "Why didnt the skeleton cross the road? Because he had no guts."
+  HelpfulOliveChad = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  _hidden_value = true
+}

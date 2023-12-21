@@ -1,0 +1,49 @@
+type salesforce.OmniProcessElement {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.OmniProcessElement childElements {
+  }
+  string description {
+  }
+  string designerCustomizationType {
+  }
+  string discoveryFrameworkUsageType {
+  }
+  string embeddedOmniScriptKey {
+  }
+  boolean isActive {
+  }
+  boolean isOmniScriptEmbeddable {
+  }
+  number level {
+  }
+  string name {
+  }
+  number omniProcessVersionNumber {
+  }
+  string parentElementName {
+  }
+  string parentElementType {
+  }
+  string propertySetConfig {
+  }
+  number sequenceNumber {
+  }
+  string type {
+  }
+  string uniqueIndex {
+  }
+  metadataType = "OmniProcessElement"
+}

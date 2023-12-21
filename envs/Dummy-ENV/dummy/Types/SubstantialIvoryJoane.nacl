@@ -1,0 +1,97 @@
+type dummy.SubstantialIvoryJoane {
+  annotations {
+    serviceid ScornfulTomatoYolane {
+    }
+    string BeautifulIndigoAmalle {
+    }
+    dummy.DEFAULT DullWhiteJoanna {
+    }
+    string BusyYellowShannah {
+    }
+  }
+  string ScaredTanSandi {
+    _hidden_value = true
+  }
+  number FatFuchsiaJacquelin {
+    _hidden_value = true
+  }
+  serviceid BeautifulGreenRonnie {
+    _hidden_value = true
+  }
+  dummy.SlimyOrangeVickie NotableCrimsonJenica {
+    _hidden_value = true
+  }
+  number SolarPlumJosephine {
+    _hidden_value = true
+  }
+  hidden_boolean DeafeningRoseKay {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ThoroughAquaJonie {
+    _hidden_value = true
+  }
+  string ImpossibleMagentaNinetta {
+    _hidden_value = true
+  }
+  serviceid JustApricotSilvie {
+    _hidden_value = true
+  }
+  hidden_boolean SmilingSilverNissa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json LevelTurquoiseFannie {
+    _hidden_value = true
+  }
+  serviceid ComprehensiveVioletTamara {
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveBronzeKalinda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean InappropriateCyanAmber {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ToughRoseCarlita {
+    _hidden_value = true
+  }
+  json LegitimateYellowJacklyn {
+    _hidden_value = true
+  }
+  serviceid EarlyAquamarineDynah {
+    _hidden_value = true
+  }
+  string ExuberantCyanMarget {
+    _hidden_value = true
+  }
+  json BlindScarletSharyl {
+    _hidden_value = true
+  }
+  number SweetHarlequinBlakelee {
+    _hidden_value = true
+  }
+  boolean RegularAquamarinePrudence {
+    _hidden_value = true
+  }
+  number KeenLimeJanette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreekCrimsonTildy {
+    _hidden_value = true
+  }
+  json LowTurquoiseYelena {
+    _hidden_value = true
+  }
+  ScornfulTomatoYolane = "Im only familiar with 25 letters in the English language. I dont know why."
+  BeautifulIndigoAmalle = "A steak pun is a rare medium well done."
+  DullWhiteJoanna = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  BusyYellowShannah = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

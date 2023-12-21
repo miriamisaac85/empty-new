@@ -1,0 +1,91 @@
+type dummy.QuickestWhiteAviva {
+  string GentleCrimsonRegina {
+  }
+  serviceid PoliticalCoralJunia {
+  }
+  boolean SouthernMoccasinClaudelle {
+  }
+  number ItalianLimeJosepha {
+  }
+  "Map<serviceid>" SouthernOrangeVin {
+  }
+  string DynamicRedShanda {
+  }
+  hidden_boolean LargeEmeraldStephani {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  "List<number>" MetropolitanSapphireJada {
+  }
+  dummy.AcademicLimeMarlie EquivalentLavenderFayette {
+    UnawareLavenderCahra = true
+    NetAmethystPetronia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    HealthyPlumAlayne = "Why didnt the skeleton cross the road? Because he had no guts."
+    CrowdedAmberBenita = true
+  }
+  boolean PregnantPeachKelsy {
+  }
+  boolean DullAmethystAlexia {
+  }
+  dummy.InlandLimeRubi ClearTealAlanna {
+    FaithfulWhitePaulita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    EnviousPinkLyn = false
+    OkJadeCarmela = 13
+    LooseAmberLynett = "Why is Peter Pan always flying? Because he Neverlands."
+    IndependentPlumJelene = false
+    ValidAmaranthVivie = "What creature is smarter than a talking parrot? A spelling bee."
+    GrossAmberBrear = "Did you know that protons have mass? I didn't even know they were catholic."
+    AverageChocolateCacilia = "Why did the tomato blush? Because it saw the salad dressing."
+    GoodTomatoTeri = 730
+    MusicalPurpleNana = 280
+    ReliableGrayRosette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  hidden_boolean MightyBlushMead {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SurprisingBlueNikaniki {
+  }
+  number TotalAmethystIdaline {
+  }
+  json CruelChocolateSam {
+  }
+  dummy.PuzzledTanTildi OrganicBrownCyndi {
+    Oldgold2Kaylil = true
+  }
+  number SocialWhiteCordelia {
+  }
+  "List<hidden_boolean>" IcyCoralKristin {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string RichLimeJoscelin {
+  }
+  boolean MentalVioletMaggee {
+  }
+  hidden_boolean SlipperyPlumKellyann {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CruelSalmonJolynn {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  dummy.DifferentLimeChristen ConfidentialBeigeMarcile {
+    IndianOrangeFilippa = false
+    QuietLimeCristen = 442
+    GrievingLavenderTera = false
+    PatientApricotMidge = 313
+    CertainScarletClarine = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AccurateYellowElfrida = false
+    SlowCrimsonIvett = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RigidBrownAllene = "What do you call two barracuda fish?  A Pairacuda!"
+    NegativeScarletWilly = "Why was it called the dark ages? Because of all the knights. "
+    PossibleAquaRanda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+}

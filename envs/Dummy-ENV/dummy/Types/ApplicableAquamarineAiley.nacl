@@ -1,0 +1,104 @@
+type dummy.ApplicableAquamarineAiley {
+  annotations {
+    hidden_boolean HorizontalAmaranthMarilee {
+    }
+    boolean Soundgold2Heida {
+    }
+    hidden_boolean EnthusiasticCoralOralie {
+    }
+    json FineYellowStace {
+    }
+    json HorizontalCoralAntonella {
+    }
+  }
+  serviceid CoherentVioletSal {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PreviousChocolateNona {
+    _hidden_value = true
+  }
+  boolean DeliciousAmaranthKori {
+    _hidden_value = true
+  }
+  json AmusedChocolateImojean {
+    _hidden_value = true
+  }
+  hidden_boolean EasySalmonAndriette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json FlakyCyanJojo {
+    _hidden_value = true
+  }
+  hidden_boolean CommunistVioletNadya {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PracticalRoseCallida {
+    _hidden_value = true
+  }
+  number CostlyBlueMarcela {
+    _hidden_value = true
+  }
+  string MathematicalYellowMarys {
+    _hidden_value = true
+  }
+  string LiveSapphireCiel {
+    _hidden_value = true
+  }
+  string StraightAzureDarsie {
+    _hidden_value = true
+  }
+  json NaughtyAquamarineAmalie {
+    _hidden_value = true
+  }
+  boolean OutdoorTanMarylou {
+    _hidden_value = true
+  }
+  number KindRedErika {
+    _hidden_value = true
+  }
+  hidden_boolean StrikingAquaMarcellina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number NeighbouringBeigeEulalie {
+    _hidden_value = true
+  }
+  boolean DisturbedAquaJoela {
+    _hidden_value = true
+  }
+  boolean FortunateSalmonKari {
+    _hidden_value = true
+  }
+  number MonetaryAmaranthAlthea {
+    _hidden_value = true
+  }
+  string BrokenHarlequinLanette {
+    _hidden_value = true
+  }
+  number WidePeachAntonietta {
+    _hidden_value = true
+  }
+  string IsraeliTanOlly {
+    _hidden_value = true
+  }
+  hidden_boolean MinimalCoralAlyce {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OkCoralCinda {
+    _hidden_value = true
+  }
+  string SweetJadeYetta {
+    _hidden_value = true
+  }
+  Soundgold2Heida = false
+  FineYellowStace = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HorizontalCoralAntonella = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

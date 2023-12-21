@@ -1,0 +1,55 @@
+type dummy.DigitalMaroonJany {
+  annotations {
+    serviceid SlowSilverLouisette {
+    }
+    hidden_boolean AppropriateOrangeJulie {
+    }
+    serviceid BigMagentaAigneis {
+    }
+    string SheerCoffeeBell {
+    }
+  }
+  hidden_boolean CorporateMaroonCaresa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PsychologicalPlumIsabelita {
+    _hidden_value = true
+  }
+  serviceid ShallowAquamarineJoli {
+    _hidden_value = true
+  }
+  serviceid GrowingBlackFredra {
+    _hidden_value = true
+  }
+  hidden_boolean Juniorgold2Annabelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number IntellectualApricotNomi {
+    _hidden_value = true
+  }
+  boolean LongChocolateLynnett {
+    _hidden_value = true
+  }
+  json KindBlueGray {
+    _hidden_value = true
+  }
+  boolean FineRoseRoselle {
+    _hidden_value = true
+  }
+  json CloseLavenderGlynda {
+    _hidden_value = true
+  }
+  hidden_boolean EncouragingWhiteCoralie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SlowSilverLouisette = "I'll tell you what often gets over looked... garden fences."
+  BigMagentaAigneis = "Whoever invented the knock-knock joke should get a no bell prize."
+  SheerCoffeeBell = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

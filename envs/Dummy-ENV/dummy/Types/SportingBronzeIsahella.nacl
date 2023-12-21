@@ -1,0 +1,19 @@
+type dummy.SportingBronzeIsahella {
+  annotations {
+    hidden_boolean GoodLavenderAmalita {
+    }
+    serviceid RetiredIndigoLotte {
+    }
+    number GrievingAquaTresa {
+    }
+    serviceid StickyIndigoFlorenza {
+    }
+  }
+  json FantasticPurpleGeorgina {
+    _hidden_value = true
+  }
+  RetiredIndigoLotte = "Slept like a log last night  woke up in the fireplace."
+  GrievingAquaTresa = 126
+  StickyIndigoFlorenza = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

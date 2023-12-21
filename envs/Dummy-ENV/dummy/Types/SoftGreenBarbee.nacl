@@ -1,0 +1,79 @@
+type dummy.SoftGreenBarbee {
+  annotations {
+    string SouthernMagentaPeria {
+    }
+    boolean ProtestantYellowHeidi {
+    }
+    json FemaleMoccasinAmeline {
+    }
+    hidden_boolean IntegratedOrangeArabela {
+    }
+    boolean DamagedWhiteChiquita {
+    }
+    dummy.ShallowSalmonAdelaide FunJadeRosina {
+    }
+  }
+  json ProudWhiteJuditha {
+    _hidden_value = true
+  }
+  json Spotlessgold2Darcie {
+    _hidden_value = true
+  }
+  string WhisperingCrimsonAlmeda {
+    _hidden_value = true
+  }
+  boolean SunnyWhiteViv {
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine DelicatePeachRici {
+    ContentAzureLindsay = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FellowVioletSapphire = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    LittleCrimsonRosina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DeafeningCyanCassandry = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  boolean HandicappedRoseKelila {
+    _hidden_value = true
+  }
+  number InterestingMagentaLinn {
+    _hidden_value = true
+  }
+  json FrontCopperJilly {
+    _hidden_value = true
+  }
+  hidden_boolean InstantCoralLacie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UndergroundSapphireVan {
+    _hidden_value = true
+  }
+  "List<dummy.SparklingAmaranthLeone>" StrongHarlequinTabby {
+    PricklyPlumKatrine = 715
+    LivelyBlackIngeberg = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    FiscalMaroonCassaundra = "How come the stadium got hot after the game? Because all of the fans left."
+    IllegalLimeAshely = "Did you know that protons have mass? I didn't even know they were catholic."
+    FirmIvoryBrigid = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ZanyCoralBerri = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    FunCoffeeOrelia = false
+    KindCrimsonDeina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    InclinedBronzeJobey = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  dummy.DEFAULT ProposedHarlequinImelda {
+    _hidden_value = true
+  }
+  string DominantTealFrieda {
+    _hidden_value = true
+  }
+  serviceid FluffySalmonZora {
+    _hidden_value = true
+  }
+  SouthernMagentaPeria = "Why do birds fly south for the winter? Because it's too far to walk."
+  ProtestantYellowHeidi = false
+  FemaleMoccasinAmeline = "Why is Peter Pan always flying? Because he Neverlands."
+  DamagedWhiteChiquita = true
+  FunJadeRosina = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

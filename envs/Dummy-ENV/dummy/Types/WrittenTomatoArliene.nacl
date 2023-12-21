@@ -1,0 +1,20 @@
+type dummy.WrittenTomatoArliene {
+  annotations {
+    serviceid RudeHarlequinBethanne {
+    }
+    dummy.BizarreScarletKarrie SuccessfulTurquoiseKali {
+    }
+    json LevelBronzeAlissa {
+    }
+    json GleamingPinkBenedicta {
+    }
+  }
+  json WeakCoffeeIdalina {
+    _hidden_value = true
+  }
+  RudeHarlequinBethanne = "Why is Peter Pan always flying? Because he Neverlands."
+  SuccessfulTurquoiseKali = 537
+  LevelBronzeAlissa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GleamingPinkBenedicta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,55 @@
+type dummy.WanderingJadeGuillema {
+  annotations {
+    string ParentalSalmonKit {
+    }
+    boolean HilariousOliveJanka {
+    }
+    string VerbalSilverCoriss {
+    }
+    json MissingCyanJennee {
+    }
+    boolean JuicyAzureTherine {
+    }
+    number AbsoluteEmeraldWallie {
+    }
+    string CognitiveBrownGinelle {
+    }
+  }
+  string HurtCopperAngelita {
+    _hidden_value = true
+  }
+  json WeakVioletKeelia {
+    _hidden_value = true
+  }
+  boolean ColouredBlushJacquenetta {
+    _hidden_value = true
+  }
+  number CheerfulTanAeriela {
+    _hidden_value = true
+  }
+  hidden_boolean SoundBlackDix {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SignificantApricotChristian {
+    _hidden_value = true
+  }
+  boolean RattySilverAleen {
+    _hidden_value = true
+  }
+  serviceid CurlyBeigeMarti {
+    _hidden_value = true
+  }
+  number WeeTurquoiseDrusy {
+    _hidden_value = true
+  }
+  ParentalSalmonKit = "What do you call two barracuda fish?  A Pairacuda!"
+  HilariousOliveJanka = false
+  VerbalSilverCoriss = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MissingCyanJennee = "What do you do on a remote island? Try and find the TV island it belongs to."
+  JuicyAzureTherine = false
+  AbsoluteEmeraldWallie = 612
+  CognitiveBrownGinelle = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

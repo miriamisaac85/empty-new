@@ -1,0 +1,31 @@
+type dummy.FriendlyPeachMagdaia {
+  annotations {
+    number SecretTomatoRosy {
+    }
+    boolean SubsequentYellowLoreen {
+    }
+    serviceid FederalBronzeSteffane {
+    }
+    string ToughAmaranthNita {
+    }
+    serviceid AwfulGreenSiana {
+    }
+  }
+  json HonestBlushLynde {
+    _hidden_value = true
+  }
+  string StrangePeachOdelinda {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" EmptyMoccasinGabi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SecretTomatoRosy = 446
+  SubsequentYellowLoreen = true
+  FederalBronzeSteffane = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ToughAmaranthNita = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AwfulGreenSiana = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

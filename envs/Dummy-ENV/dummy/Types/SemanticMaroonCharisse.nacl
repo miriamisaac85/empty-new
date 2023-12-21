@@ -1,0 +1,99 @@
+type dummy.SemanticMaroonCharisse {
+  annotations {
+    string SpecificAquamarineToby {
+    }
+    serviceid AmazingCrimsonMaribel {
+    }
+    json WetGreenSam {
+    }
+    serviceid GeneralIndigoGert {
+    }
+    dummy.SoundAmaranthImelda RadicalBeigeCarolina {
+    }
+    hidden_boolean UnconsciousPurplePeg {
+    }
+  }
+  string SympatheticScarletAustina {
+    _hidden_value = true
+  }
+  json NetBrownJasmine {
+    _hidden_value = true
+  }
+  json FamiliarGrayJunette {
+    _hidden_value = true
+  }
+  hidden_boolean DeafCrimsonCristi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.RunningAquaRoshelle RipeCopperMinetta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColourfulPinkEmmeline {
+    _hidden_value = true
+  }
+  json DarkCoffeeCathi {
+    _hidden_value = true
+  }
+  serviceid SmallAmaranthSheilah {
+    _hidden_value = true
+  }
+  number MarineChocolateKarlen {
+    _hidden_value = true
+  }
+  number EncouragingTealShena {
+    _hidden_value = true
+  }
+  serviceid SolidAmberIbby {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OkBeigeNan {
+    _hidden_value = true
+  }
+  string EmotionalIvoryAddie {
+    _hidden_value = true
+  }
+  hidden_boolean PlasticSilverMoria {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UpsetVioletDeny {
+    _hidden_value = true
+  }
+  number GiganticOrangeChelsy {
+    _hidden_value = true
+  }
+  string SystematicLavenderGerry {
+    _hidden_value = true
+  }
+  boolean UnitedMoccasinChristean {
+    _hidden_value = true
+  }
+  hidden_boolean EnglishYellowRozanna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean LoudMaroonKaitlin {
+    _hidden_value = true
+  }
+  serviceid Deliciousgold2Gertrudis {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SadChocolateBren {
+    _hidden_value = true
+  }
+  hidden_boolean SignificantTanRaine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SpecificAquamarineToby = "Why did the tomato blush? Because it saw the salad dressing."
+  AmazingCrimsonMaribel = "What do you call two barracuda fish?  A Pairacuda!"
+  WetGreenSam = "Why did the kid cross the playground? To get to the other slide."
+  GeneralIndigoGert = "Why do birds fly south for the winter? Because it's too far to walk."
+  RadicalBeigeCarolina = 509
+  _hidden_value = true
+}

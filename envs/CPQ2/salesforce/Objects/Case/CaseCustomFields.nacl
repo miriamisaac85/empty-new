@@ -1,0 +1,37 @@
+type salesforce.Case {
+  salesforce.Picklist gwrPriority__c {
+    apiName = "Case.gwrPriority__c"
+    externalId = false
+    label = "gwrPriority"
+    
+    
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "P0"
+        default = false
+        label = "P0"
+      },
+      {
+        fullName = "P1"
+        default = false
+        label = "P1"
+      },
+      {
+        fullName = "P2"
+        default = false
+        label = "P2"
+      },
+      {
+        fullName = "P3"
+        default = false
+        label = "P3"
+      },
+    ]
+    sorted = false
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

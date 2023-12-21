@@ -1,0 +1,107 @@
+type dummy.SwissTanLucila {
+  annotations {
+    serviceid SquealingTomatoLezlie {
+    }
+    string RottenMaroonMaddy {
+    }
+    string WildBrownPrudi {
+    }
+    json RomanticPurpleMelva {
+    }
+    string RenewedOliveHeddie {
+    }
+    serviceid MysteriousScarletJeri {
+    }
+  }
+  serviceid CivilianFuchsiaRaynell {
+    _hidden_value = true
+  }
+  serviceid SignificantAmaranthKyle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FashionableLavenderStephi {
+    _hidden_value = true
+  }
+  string SuccessfulOliveAnabel {
+    _hidden_value = true
+  }
+  string ScreechingHarlequinAvivah {
+    _hidden_value = true
+  }
+  string FixedVioletFarah {
+    _hidden_value = true
+  }
+  json SharedTanArielle {
+    _hidden_value = true
+  }
+  "List<serviceid>" RelaxedCrimsonMichele {
+    _hidden_value = true
+  }
+  serviceid WetMoccasinSharona {
+    _hidden_value = true
+  }
+  boolean PositivePlumMargi {
+    _hidden_value = true
+  }
+  string IntactBronzeElianora {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" CasualHarlequinCherilyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeirdAmaranthCherry {
+    _hidden_value = true
+  }
+  serviceid DirtyYellowFleurette {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessfulMagentaRow {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FierceCopperDulcie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number WesternBeigeAdella {
+    _hidden_value = true
+  }
+  number AbundantSalmonJanaya {
+    _hidden_value = true
+  }
+  serviceid OrangeBeigeAnnette {
+    _hidden_value = true
+  }
+  hidden_boolean TinyAmethystBrigitta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LiberalBlackAllison {
+    _hidden_value = true
+  }
+  serviceid HeadTomatoGarnette {
+    _hidden_value = true
+  }
+  serviceid SupposedTealMeridel {
+    _hidden_value = true
+  }
+  json GrotesqueMoccasinHana {
+    _hidden_value = true
+  }
+  json CorrespondingChocolateGwendolin {
+    _hidden_value = true
+  }
+  serviceid FuriousBrownClem {
+    _hidden_value = true
+  }
+  SquealingTomatoLezlie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RottenMaroonMaddy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WildBrownPrudi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RomanticPurpleMelva = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RenewedOliveHeddie = "I'll tell you what often gets over looked... garden fences."
+  MysteriousScarletJeri = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

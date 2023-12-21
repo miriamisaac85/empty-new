@@ -1,0 +1,115 @@
+type dummy.HomelessPeachHelyn {
+  annotations {
+    number ShiveringPurpleNessa {
+    }
+    number DisturbingAmethystRaquela {
+    }
+    boolean LowAmethystTabbi {
+    }
+    serviceid SplendidTomatoIdell {
+    }
+  }
+  boolean AfraidPurpleAngelique {
+    _hidden_value = true
+  }
+  number RaspyAquamarineLeola {
+    _hidden_value = true
+  }
+  serviceid SubsequentPurpleBettina {
+    _hidden_value = true
+  }
+  json WildPeachPaula {
+    _hidden_value = true
+  }
+  number PreliminaryAquaBrigitte {
+    _hidden_value = true
+  }
+  string ElegantRoseKora {
+    _hidden_value = true
+  }
+  hidden_boolean RandomCyanAgace {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json OccupationalRedJaclyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TerritorialChocolateDawna {
+    _hidden_value = true
+  }
+  hidden_boolean SquealingScarletMalorie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SurprisingWhiteRose {
+    _hidden_value = true
+  }
+  hidden_boolean UsedGrayAlameda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ImportantAquaFaun {
+    _hidden_value = true
+  }
+  boolean DullTomatoEdy {
+    _hidden_value = true
+  }
+  boolean JoyousGrayMarybelle {
+    _hidden_value = true
+  }
+  dummy.SmoggyApricotShayna AmusedAmberLura {
+    CondemnedTealMorna = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ExcitingRedEdith = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    InnovativeAquaMurial = "Why was it called the dark ages? Because of all the knights. "
+    AnnoyedYellowAlaine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ScrawnyLavenderEveline = "Why didnt the skeleton cross the road? Because he had no guts."
+    EuropeanOliveKalie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    BeautifulCoffeeArleta = "Why didnt the skeleton cross the road? Because he had no guts."
+    SuperCrimsonYalonda = "I'll tell you what often gets over looked... garden fences."
+    UncertainOliveMaridel = 686
+    _hidden_value = true
+  }
+  dummy.ConfidentialScarletAntonie CreepyBrownElora {
+    SophisticatedScarletMolli = 954
+    AnxiousBeigeSydney = 490
+    ProudChocolateOfella = "A steak pun is a rare medium well done."
+    DramaticPinkWilly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ImprovedRoseMorgana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PerfectChocolateDevondra = false
+    HungryRoseCarolina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PeacefulAmaranthRicca = "Why did the kid cross the playground? To get to the other slide."
+    EstablishedTurquoiseImogen = "Did you know that protons have mass? I didn't even know they were catholic."
+    PunyTanTommie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    InnovativeVioletEma = "Im only familiar with 25 letters in the English language. I dont know why."
+    EnvironmentalHarlequinJanaye = "Why did the kid cross the playground? To get to the other slide."
+    VagueAmaranthJenine = 798
+    _hidden_value = true
+  }
+  number NaughtyRedMyrta {
+    _hidden_value = true
+  }
+  boolean UnhappyCrimsonLoree {
+    _hidden_value = true
+  }
+  boolean BrownLimePhyllys {
+    _hidden_value = true
+  }
+  boolean MinimalBlueCatrina {
+    _hidden_value = true
+  }
+  boolean LovelyBlushCasie {
+    _hidden_value = true
+  }
+  ShiveringPurpleNessa = 816
+  DisturbingAmethystRaquela = 94
+  LowAmethystTabbi = true
+  SplendidTomatoIdell = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

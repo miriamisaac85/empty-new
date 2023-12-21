@@ -1,0 +1,43 @@
+type dummy.ExtraTealDelphine {
+  annotations {
+    json HarshChocolateLinzy {
+    }
+    number WanderingCopperEvangelin {
+    }
+    boolean BriefEmeraldJacqui {
+    }
+    string GreatTurquoiseWinnah {
+    }
+    number SecondaryTanValida {
+    }
+  }
+  boolean MonetarySilverEster {
+    _hidden_value = true
+  }
+  serviceid SadLimeLucienne {
+    _hidden_value = true
+  }
+  string HungryBlueDarya {
+    _hidden_value = true
+  }
+  string CapableAmaranthAmye {
+    _hidden_value = true
+  }
+  hidden_boolean FancyCrimsonBobbie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<number>" SwissYellowPearla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MarriedApricotRakel {
+    _hidden_value = true
+  }
+  HarshChocolateLinzy = "Did you know that protons have mass? I didn't even know they were catholic."
+  WanderingCopperEvangelin = 849
+  BriefEmeraldJacqui = false
+  GreatTurquoiseWinnah = "Did you know that protons have mass? I didn't even know they were catholic."
+  SecondaryTanValida = 259
+  _hidden_value = true
+}

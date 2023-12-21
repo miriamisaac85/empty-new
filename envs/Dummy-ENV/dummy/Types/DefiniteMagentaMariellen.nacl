@@ -1,0 +1,43 @@
+type dummy.DefiniteMagentaMariellen {
+  annotations {
+    string SpontaneousBlueCarmella {
+    }
+    boolean EqualAmethystKarena {
+    }
+    hidden_boolean ChangingYellowPhilly {
+    }
+    serviceid ResidentSalmonMadlin {
+    }
+  }
+  number LatinCrimsonGusty {
+    _hidden_value = true
+  }
+  hidden_boolean MaximumAmberRycca {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SillyPinkHayley {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json PrimitiveAmberSuzy {
+    _hidden_value = true
+  }
+  serviceid ExcessApricotKrystalle {
+    _hidden_value = true
+  }
+  hidden_boolean SeparatePurpleEveline {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number EfficientChocolateHildy {
+    _hidden_value = true
+  }
+  SpontaneousBlueCarmella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EqualAmethystKarena = false
+  ResidentSalmonMadlin = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

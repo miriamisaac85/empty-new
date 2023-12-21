@@ -1,0 +1,13 @@
+type dummy.SufficientAquaHelyn {
+  boolean HandicappedCoffeeMallissa {
+  }
+  boolean MagnificentLimeClarette {
+  }
+  json InquisitiveCopperIvy {
+  }
+  hidden_boolean ForthcomingCopperLoutitia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+}

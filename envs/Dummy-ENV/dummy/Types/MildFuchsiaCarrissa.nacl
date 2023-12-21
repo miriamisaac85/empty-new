@@ -1,0 +1,65 @@
+type dummy.MildFuchsiaCarrissa {
+  annotations {
+    json DefensiveAmberTonie {
+    }
+    number PassiveCoffeeHynda {
+    }
+    boolean FrightenedIvoryRobinia {
+    }
+    hidden_boolean MarxistRoseStephana {
+    }
+    json VivaciousSalmonAngeline {
+    }
+    number EssentialGreenSiusan {
+    }
+    string YellowApricotAnnice {
+    }
+  }
+  string AngryAmethystMarielle {
+    _hidden_value = true
+  }
+  number EmptyBlushLethia {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea FrailHarlequinAlethea {
+    MinorPinkAriadne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ChubbyRoseConstancia = "Why didnt the skeleton cross the road? Because he had no guts."
+    ImmenseTurquoiseNita = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FluffyYellowMarybelle = false
+    PainfulPlumRomy = 274
+    CompleteSapphireTeressa = true
+    HungryTomatoCarmelita = "Why is Peter Pan always flying? Because he Neverlands."
+    FluffyPurpleRoselin = "Why do birds fly south for the winter? Because it's too far to walk."
+    IdealVioletKania = "Why is Peter Pan always flying? Because he Neverlands."
+    HomelessPurpleJane = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SkilledAquaTammara = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PeculiarAmethystBethanne = 831
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "Why did the kid cross the playground? To get to the other slide."
+    LinearBlueGilli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AssociatedCrimsonDreddy = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  dummy.DEFAULT StingyBlushNellie {
+    _hidden_value = true
+  }
+  serviceid UsefulBlushKerianne {
+    _hidden_value = true
+  }
+  boolean BoredLimeBeryl {
+    _hidden_value = true
+  }
+  string CriminalOrangeJasmine {
+    _hidden_value = true
+  }
+  string UniqueBlushMargit {
+    _hidden_value = true
+  }
+  DefensiveAmberTonie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PassiveCoffeeHynda = 319
+  FrightenedIvoryRobinia = false
+  VivaciousSalmonAngeline = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  EssentialGreenSiusan = 650
+  YellowApricotAnnice = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}
