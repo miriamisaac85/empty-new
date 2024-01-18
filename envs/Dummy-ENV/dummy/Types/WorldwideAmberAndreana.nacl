@@ -1,0 +1,66 @@
+type dummy.WorldwideAmberAndreana {
+  annotations {
+    hidden_boolean SolidCyanAllyson {
+    }
+    hidden_boolean DifferentWhiteHermione {
+    }
+    boolean OutdoorIndigoLexie {
+    }
+    json SuccessfulLavenderPhebe {
+    }
+  }
+  hidden_boolean DustyLavenderSela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GastricAzureRea {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.SparklingAmaranthLeone FiscalScarletRhodie {
+    PricklyPlumKatrine = 803
+    LivelyBlackIngeberg = "Dad Im hungry  Hi hungry Im dad"
+    FiscalMaroonCassaundra = "Whoever invented the knock-knock joke should get a no bell prize."
+    IllegalLimeAshely = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FirmIvoryBrigid = "Whoever invented the knock-knock joke should get a no bell prize."
+    ZanyCoralBerri = "Why did the kid cross the playground? To get to the other slide."
+    FunCoffeeOrelia = false
+    KindCrimsonDeina = "Slept like a log last night  woke up in the fireplace."
+    InclinedBronzeJobey = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  json OddOrangeFay {
+    _hidden_value = true
+  }
+  json PeacefulBeigeWillyt {
+    _hidden_value = true
+  }
+  hidden_boolean ShallowCoralAuberta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid NorthernGreenMaisie {
+    _hidden_value = true
+  }
+  json WateryPinkIbbie {
+    _hidden_value = true
+  }
+  serviceid PatientOliveEdin {
+    _hidden_value = true
+  }
+  serviceid RetailAquaCarey {
+    _hidden_value = true
+  }
+  string OddMoccasinNicoli {
+    _hidden_value = true
+  }
+  boolean CautiousLavenderPetronille {
+    _hidden_value = true
+  }
+  OutdoorIndigoLexie = true
+  SuccessfulLavenderPhebe = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

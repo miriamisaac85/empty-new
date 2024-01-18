@@ -1,0 +1,96 @@
+type dummy.SingleGreenFay {
+  annotations {
+    dummy.ConfidentialScarletAntonie EagerAmethystGlynis {
+    }
+    serviceid WeirdLavenderMiran {
+    }
+    json ThunderingSalmonLudovika {
+    }
+    serviceid Disastrousgold2Kaela {
+    }
+  }
+  number LiableIndigoTova {
+    _hidden_value = true
+  }
+  hidden_boolean AestheticBrownBinnie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string HotFuchsiaLatrena {
+    _hidden_value = true
+  }
+  string HolyAquaGinevra {
+    _hidden_value = true
+  }
+  string VictoriousTanGabi {
+    _hidden_value = true
+  }
+  serviceid AestheticIndigoJuieta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CivilMoccasinDenny {
+    _hidden_value = true
+  }
+  hidden_boolean UrgentIvoryFrannie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SickApricotSonnie {
+    _hidden_value = true
+  }
+  "List<json>" CurvedEmeraldXena {
+    _hidden_value = true
+  }
+  string VocationalOrangeBetty {
+    _hidden_value = true
+  }
+  boolean BasicAquamarineCamilla {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedSilverMargit {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number IrishScarletBendite {
+    _hidden_value = true
+  }
+  serviceid DevotedSapphireNeille {
+    _hidden_value = true
+  }
+  hidden_boolean SupposedChocolateAnnaliese {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string IndependentAzureTammie {
+    _hidden_value = true
+  }
+  serviceid Agreeablegold2Fionna {
+    _hidden_value = true
+  }
+  boolean MeanScarletShell {
+    _hidden_value = true
+  }
+  number ResponsibleMoccasinKaye {
+    _hidden_value = true
+  }
+  number RightGreenCarlynn {
+    _hidden_value = true
+  }
+  number StrikingBronzeShanie {
+    _hidden_value = true
+  }
+  hidden_boolean DueGrayCelestyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  EagerAmethystGlynis = 808
+  WeirdLavenderMiran = "Why is Peter Pan always flying? Because he Neverlands."
+  ThunderingSalmonLudovika = "A steak pun is a rare medium well done."
+  Disastrousgold2Kaela = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

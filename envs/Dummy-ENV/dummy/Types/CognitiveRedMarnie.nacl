@@ -1,0 +1,16 @@
+type dummy.CognitiveRedMarnie {
+  annotations {
+    boolean LoyalMagentaAlyssa {
+    }
+    hidden_boolean DullWhiteKirstyn {
+    }
+    serviceid CentralOrangeCookie {
+    }
+  }
+  string Desperategold2Lydie {
+    _hidden_value = true
+  }
+  LoyalMagentaAlyssa = true
+  CentralOrangeCookie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

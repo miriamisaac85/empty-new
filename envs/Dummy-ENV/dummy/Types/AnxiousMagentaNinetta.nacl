@@ -1,0 +1,66 @@
+type dummy.AnxiousMagentaNinetta {
+  annotations {
+    json GreatPurpleLoralie {
+    }
+    json LoyalPeachKakalina {
+    }
+    boolean SteepMaroonReina {
+    }
+    json TurkishOrangeBliss {
+    }
+    serviceid SickBlackJacintha {
+    }
+    hidden_boolean DeterminedBronzegold2arina {
+    }
+  }
+  number ArrogantMaroonRuby {
+    _hidden_value = true
+  }
+  json WorthyWhiteDiann {
+    _hidden_value = true
+  }
+  number HandicappedCoralYolanthe {
+    _hidden_value = true
+  }
+  boolean FullGreenLeann {
+    _hidden_value = true
+  }
+  json PregnantBlackRuthie {
+    _hidden_value = true
+  }
+  hidden_boolean ProfessionalAmaranthMaris {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AggregateLimeJourdan {
+    _hidden_value = true
+  }
+  json CivilTomatoJaquith {
+    _hidden_value = true
+  }
+  boolean DomesticBlackTessie {
+    _hidden_value = true
+  }
+  string EnviousBrownMuriel {
+    _hidden_value = true
+  }
+  serviceid ContinentalIvoryPamella {
+    _hidden_value = true
+  }
+  json UnfortunateCopperDebi {
+    _hidden_value = true
+  }
+  "List<serviceid>" UnderlyingApricotGeneva {
+    _hidden_value = true
+  }
+  number RareCrimsonAnabella {
+    _hidden_value = true
+  }
+  GreatPurpleLoralie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LoyalPeachKakalina = "A steak pun is a rare medium well done."
+  SteepMaroonReina = false
+  TurkishOrangeBliss = "Why did the kid cross the playground? To get to the other slide."
+  SickBlackJacintha = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

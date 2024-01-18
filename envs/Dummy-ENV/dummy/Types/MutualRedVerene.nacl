@@ -1,0 +1,99 @@
+type dummy.MutualRedVerene {
+  annotations {
+    dummy.DEFAULT QuickAmethystTabbi {
+    }
+    number FundamentalAmaranthJohnna {
+    }
+    boolean ScatteredTealSibylla {
+    }
+    hidden_boolean KindBeigeCilka {
+    }
+    number Curiousgold2Junette {
+    }
+    hidden_boolean Shiveringgold2Mellie {
+    }
+    dummy.BizarreScarletKarrie AbsentBlueLynn {
+    }
+  }
+  hidden_boolean MotionlessEmeraldLindsay {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PrettyYellowMarissa {
+    _hidden_value = true
+  }
+  boolean MoralVioletCissiee {
+    _hidden_value = true
+  }
+  string ConvincedPeachHeddie {
+    _hidden_value = true
+  }
+  string PolishBrownAva {
+    _hidden_value = true
+  }
+  number EntitledVioletAvie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SteepJadeDyanne {
+    _hidden_value = true
+  }
+  dummy.LightAmethystFrank PresidentialAmethystKristen {
+    HonCrimsonGwen = 886
+    ProposedBrownDominique = true
+    ScaryMagentaJoby = "Why was it called the dark ages? Because of all the knights. "
+    ObligedAquamarineLise = 782
+    IraqiCoffeeKaree = 191
+    Burninggold2Sybille = false
+    SubsequentGrayKania = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    RespectableAmberCassy = "Im only familiar with 25 letters in the English language. I dont know why."
+    DiversePinkJoanne = "To be Frank, I'd have to change my name."
+    FrontPlumCamila = "Why didnt the skeleton cross the road? Because he had no guts."
+    DelightfulAmberFrieda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DeafCoffeeCookie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    TastyFuchsiaCarol = 347
+    _hidden_value = true
+  }
+  hidden_boolean SolidPurpleTommi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SunnyScarletErnaline {
+    _hidden_value = true
+  }
+  number TemporarySilverAmmamaria {
+    _hidden_value = true
+  }
+  serviceid ChiefSilverKym {
+    _hidden_value = true
+  }
+  json BottomAmberBethina {
+    _hidden_value = true
+  }
+  boolean Theoreticalgold2Danica {
+    _hidden_value = true
+  }
+  json IsolatedJadeNanete {
+    _hidden_value = true
+  }
+  serviceid PreciousGreenBrittaney {
+    _hidden_value = true
+  }
+  "List<json>" DesirableBronzeMallory {
+    _hidden_value = true
+  }
+  boolean DueCrimsonShela {
+    _hidden_value = true
+  }
+  QuickAmethystTabbi = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  FundamentalAmaranthJohnna = 399
+  ScatteredTealSibylla = false
+  Curiousgold2Junette = 570
+  AbsentBlueLynn = 3
+  _hidden_value = true
+}

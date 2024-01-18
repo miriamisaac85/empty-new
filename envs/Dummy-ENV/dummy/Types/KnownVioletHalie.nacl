@@ -1,0 +1,111 @@
+type dummy.KnownVioletHalie {
+  annotations {
+    json ElderlyWhiteModesty {
+    }
+    string ModernGreenEsther {
+    }
+    string FastGreenAnnabell {
+    }
+    number DisturbedCoralDemetra {
+    }
+    number FeministSapphireCathie {
+    }
+    number SurprisingTurquoiseBenny {
+    }
+    json SelectiveSilverEvvie {
+    }
+  }
+  json Allegedgold2Doloritas {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DoubtfulBronzeLurlene {
+    _hidden_value = true
+  }
+  dummy.ProspectiveAmberDevin FineScarletBria {
+    MagentaAzureDelia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    LightVioletSelma = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    Innovativegold2Drusilla = 90
+    DoubtfulBlushAlisun = "Slept like a log last night  woke up in the fireplace."
+    VerticalTomatoCosetta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    MysteriousBeigeDaisey = false
+    _hidden_value = true
+  }
+  hidden_boolean HealthyTanQuintina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string FinalIvoryMichel {
+    _hidden_value = true
+  }
+  boolean CarefulMagentaSelle {
+    _hidden_value = true
+  }
+  number OutrageousPinkHelsa {
+    _hidden_value = true
+  }
+  boolean NegativeChocolateLisetta {
+    _hidden_value = true
+  }
+  string IndustrialAquaRobbie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AlternativeBeigeCoriss {
+    _hidden_value = true
+  }
+  json ChillyWhiteJoline {
+    _hidden_value = true
+  }
+  boolean FuriousCyanKynthia {
+    _hidden_value = true
+  }
+  serviceid FastTurquoiseKizzee {
+    _hidden_value = true
+  }
+  dummy.MinimumIvoryFrankie AcuteCopperTeena {
+    ExperiencedApricotFelicity = 937
+    AdverseVioletHali = 775
+    HurtTanStormi = "Whoever invented the knock-knock joke should get a no bell prize."
+    DefiniteMagentaVanda = "What creature is smarter than a talking parrot? A spelling bee."
+    OuterPlumGabrila = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    StrangeSilverGuenna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    LivelyIvoryMabelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    IndividualFuchsiaJobyna = "I'll tell you what often gets over looked... garden fences."
+    ProtectiveAzureElva = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AnxiousAquamarineKarylin = "What do you call two barracuda fish?  A Pairacuda!"
+    ExplicitSapphireSophia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AllegedMaroonCharmine = "Why did the tomato blush? Because it saw the salad dressing."
+    LoyalRedCordi = false
+    IdealApricotNerti = 528
+    _hidden_value = true
+  }
+  json GradualWhiteAmalee {
+    _hidden_value = true
+  }
+  boolean EducationalRoseCathie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MeaningfulRedJilli {
+    _hidden_value = true
+  }
+  serviceid CrazyAzureLeonanie {
+    _hidden_value = true
+  }
+  boolean ExternalPeachJorie {
+    _hidden_value = true
+  }
+  string OrdinaryPeachIvonne {
+    _hidden_value = true
+  }
+  string OtherLimeCorabelle {
+    _hidden_value = true
+  }
+  ElderlyWhiteModesty = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ModernGreenEsther = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FastGreenAnnabell = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DisturbedCoralDemetra = 446
+  FeministSapphireCathie = 409
+  SurprisingTurquoiseBenny = 801
+  SelectiveSilverEvvie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

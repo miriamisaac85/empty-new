@@ -1,0 +1,68 @@
+type dummy.RudeSilverHinda {
+  annotations {
+    hidden_boolean RealisticAmaranthHedwig {
+    }
+    serviceid RemoteApricotMelitta {
+    }
+    serviceid LoosePlumAbagael {
+    }
+    serviceid ComplexTealDeeanne {
+    }
+    number ElderlyAmberAlyse {
+    }
+    string LongBlueAdeline {
+    }
+  }
+  json PoliteSalmonCharil {
+    _hidden_value = true
+  }
+  boolean ExcitedBrownKaela {
+    _hidden_value = true
+  }
+  json RoughCoffeeRosabella {
+    _hidden_value = true
+  }
+  serviceid MutualCrimsonBeatrisa {
+    _hidden_value = true
+  }
+  boolean StickyJadeRobina {
+    _hidden_value = true
+  }
+  serviceid EnormousGrayTomi {
+    _hidden_value = true
+  }
+  boolean SpottyCoralTina {
+    _hidden_value = true
+  }
+  hidden_boolean SmoothTanCilka {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AnonymousMagentaGarnet {
+    _hidden_value = true
+  }
+  "List<json>" ZanyPeachTandie {
+    _hidden_value = true
+  }
+  serviceid MechanicalVioletAnalise {
+    _hidden_value = true
+  }
+  hidden_boolean RetiredTealPhilly {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GayFuchsiaNicolina {
+    _hidden_value = true
+  }
+  number ComfortableBlackFelisha {
+    _hidden_value = true
+  }
+  RemoteApricotMelitta = "To be Frank, I'd have to change my name."
+  LoosePlumAbagael = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ComplexTealDeeanne = "How come the stadium got hot after the game? Because all of the fans left."
+  ElderlyAmberAlyse = 314
+  LongBlueAdeline = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

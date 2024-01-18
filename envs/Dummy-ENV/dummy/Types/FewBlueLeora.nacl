@@ -1,0 +1,39 @@
+type dummy.FewBlueLeora {
+  annotations {
+    number HumanMoccasinRobbyn {
+    }
+    number MinimumOrangeEudora {
+    }
+    dummy.DEFAULT CondemnedAmaranthClaresta {
+    }
+    boolean ExpensivePlumEmiline {
+    }
+    hidden_boolean TameBrownAlmeta {
+    }
+    string TallCrimsonNicolle {
+    }
+  }
+  dummy.DEFAULT RespectiveCrimsonEmiline {
+    _hidden_value = true
+  }
+  number AliveCopperOdella {
+    _hidden_value = true
+  }
+  string ConfusedFuchsiaEleen {
+    _hidden_value = true
+  }
+  string CheerfulOrangeTobe {
+    _hidden_value = true
+  }
+  json CheapOliveReena {
+    _hidden_value = true
+  }
+  HumanMoccasinRobbyn = 36
+  MinimumOrangeEudora = 393
+  CondemnedAmaranthClaresta = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  ExpensivePlumEmiline = false
+  TallCrimsonNicolle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,57 @@
+type dummy.DifficultBlackSabina {
+  annotations {
+    number NotableCopperElsinore {
+    }
+    serviceid RetiredHarlequinErma {
+    }
+    boolean DearOliveJaclin {
+    }
+    json WelshFuchsiaArlene {
+    }
+  }
+  json ChronicHarlequinMarthena {
+    _hidden_value = true
+  }
+  dummy.FilthyLimeFaye TechnologicalTealMaire {
+    DomesticIvoryVanny = 429
+    SupremeEmeraldTraci = "Why did the tomato blush? Because it saw the salad dressing."
+    RomanticAmberYalonda = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  serviceid DamagedCoralCorabel {
+    _hidden_value = true
+  }
+  serviceid Prettygold2Lurlene {
+    _hidden_value = true
+  }
+  hidden_boolean ArchitecturalWhiteWallie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AdjacentChocolateShaylyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbundantRedNeda {
+    _hidden_value = true
+  }
+  boolean SheerAmaranthAnnemarie {
+    _hidden_value = true
+  }
+  hidden_boolean ClosedSilverAngeline {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<string>" ExcitedCopperLotty {
+    _hidden_value = true
+  }
+  boolean TropicalMaroonKerianne {
+    _hidden_value = true
+  }
+  NotableCopperElsinore = 400
+  RetiredHarlequinErma = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DearOliveJaclin = false
+  WelshFuchsiaArlene = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

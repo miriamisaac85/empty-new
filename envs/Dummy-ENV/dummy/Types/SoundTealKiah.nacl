@@ -1,0 +1,56 @@
+type dummy.SoundTealKiah {
+  annotations {
+    number ConsciousPinkCelinda {
+    }
+    json ScaryMagentaShina {
+    }
+    string ExternalAmethystDarrelle {
+    }
+    dummy.JewishCoralJannel UnsightlyAmethystPhelia {
+    }
+    json WoodenWhiteHollie {
+    }
+    dummy.DEFAULT NaturalAmberMartguerita {
+    }
+  }
+  boolean TremendousSapphireJobi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpecificFuchsiaRoselin {
+    _hidden_value = true
+  }
+  json ExperimentalCopperJeane {
+    _hidden_value = true
+  }
+  boolean TallCrimsonLoree {
+    _hidden_value = true
+  }
+  dummy.SlimyOrangeVickie CivicMagentaCorey {
+    _hidden_value = true
+  }
+  json CuddlyIvoryKate {
+    _hidden_value = true
+  }
+  hidden_boolean AppropriateSalmonStephine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FinalAmethystAnnadiana {
+    _hidden_value = true
+  }
+  hidden_boolean AggressiveWhiteDorri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ConsciousPinkCelinda = 603
+  ScaryMagentaShina = "Dad Im hungry  Hi hungry Im dad"
+  ExternalAmethystDarrelle = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnsightlyAmethystPhelia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WoodenWhiteHollie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NaturalAmberMartguerita = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+}

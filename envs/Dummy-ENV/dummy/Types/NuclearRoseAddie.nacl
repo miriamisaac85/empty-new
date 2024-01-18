@@ -1,0 +1,68 @@
+type dummy.NuclearRoseAddie {
+  annotations {
+    number GenerousTomatoBellanca {
+    }
+    number LesserYellowTheodora {
+    }
+    serviceid BritishGreenHaley {
+    }
+    string FilthyMagentaTerra {
+    }
+    string GothicWhiteCallie {
+    }
+  }
+  json FlutteringPinkKass {
+    _hidden_value = true
+  }
+  number SympatheticBlushBernete {
+    _hidden_value = true
+  }
+  number CertainCrimsonCindelyn {
+    _hidden_value = true
+  }
+  boolean AccessibleScarletAlexi {
+    _hidden_value = true
+  }
+  string BraveTanKissee {
+    _hidden_value = true
+  }
+  number AnnualBeigeUta {
+    _hidden_value = true
+  }
+  serviceid SurvivingEmeraldGertie {
+    _hidden_value = true
+  }
+  number SwissPlumLavina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LightMagentaMillisent {
+    _hidden_value = true
+  }
+  number ConsistentSapphireJulianna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BreezyBlushOrtensia {
+    _hidden_value = true
+  }
+  number RandomApricotAmity {
+    _hidden_value = true
+  }
+  json FunBeigeGwenette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DustyOrangeNeilla {
+    _hidden_value = true
+  }
+  json DullOliveRivy {
+    _hidden_value = true
+  }
+  json AfraidSalmonGarnette {
+    _hidden_value = true
+  }
+  GenerousTomatoBellanca = 494
+  LesserYellowTheodora = 160
+  BritishGreenHaley = "Why did the kid cross the playground? To get to the other slide."
+  FilthyMagentaTerra = "What creature is smarter than a talking parrot? A spelling bee."
+  GothicWhiteCallie = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

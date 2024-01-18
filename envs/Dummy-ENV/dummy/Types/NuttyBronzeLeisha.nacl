@@ -1,0 +1,35 @@
+type dummy.NuttyBronzeLeisha {
+  annotations {
+    number Earlygold2Kimmie {
+    }
+    boolean AnnualAquaCharissa {
+    }
+    hidden_boolean ObedientRedBabette {
+    }
+    json NativeBlackRozalin {
+    }
+    serviceid DivineAzureSheelagh {
+    }
+  }
+  hidden_boolean AdvancedSilverCarole {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ClumsyGrayMagdalena {
+    _hidden_value = true
+  }
+  hidden_boolean PersistentLimeMiranda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT VerticalCrimsonAlta {
+    _hidden_value = true
+  }
+  Earlygold2Kimmie = 905
+  AnnualAquaCharissa = true
+  NativeBlackRozalin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DivineAzureSheelagh = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

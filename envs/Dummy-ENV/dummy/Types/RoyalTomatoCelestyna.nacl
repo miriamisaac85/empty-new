@@ -1,0 +1,21 @@
+type dummy.RoyalTomatoCelestyna {
+  annotations {
+    boolean ItalianOliveBethanne {
+    }
+    hidden_boolean SocialAmethystZandra {
+    }
+    number SignificantMagentaQuintilla {
+    }
+    dummy.FirmAquaNicolea RattyRoseAnnadiana {
+    }
+    hidden_boolean InsufficientCopperChickie {
+    }
+  }
+  json ParticularRedCorabel {
+    _hidden_value = true
+  }
+  ItalianOliveBethanne = true
+  SignificantMagentaQuintilla = 74
+  RattyRoseAnnadiana = false
+  _hidden_value = true
+}

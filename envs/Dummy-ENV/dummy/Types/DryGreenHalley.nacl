@@ -1,0 +1,60 @@
+type dummy.DryGreenHalley {
+  annotations {
+    serviceid ContinuedBlushElie {
+    }
+    serviceid SurprisingGrayAmanda {
+    }
+    hidden_boolean AcceptableApricotFania {
+    }
+    hidden_boolean AwkwardOliveArdelis {
+    }
+    string CrowdedSalmonCelisse {
+    }
+    serviceid SickBeigeHoney {
+    }
+    number LuckyCopperBrigit {
+    }
+  }
+  hidden_boolean CleanHarlequinAddie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FatalCopperJaimie {
+    _hidden_value = true
+  }
+  json HotAmberIvy {
+    _hidden_value = true
+  }
+  hidden_boolean RelatedAmberJoli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string InterestingYellowCele {
+    _hidden_value = true
+  }
+  string ValuableAzureSuzie {
+    _hidden_value = true
+  }
+  hidden_boolean FlatMagentaKay {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT NuttyMoccasinMame {
+    _hidden_value = true
+  }
+  number EvilVioletNickie {
+    _hidden_value = true
+  }
+  serviceid AlliedApricotEileen {
+    _hidden_value = true
+  }
+  ContinuedBlushElie = "To be Frank, I'd have to change my name."
+  SurprisingGrayAmanda = "How come the stadium got hot after the game? Because all of the fans left."
+  CrowdedSalmonCelisse = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SickBeigeHoney = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  LuckyCopperBrigit = 60
+  _hidden_value = true
+}

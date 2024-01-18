@@ -1,0 +1,56 @@
+type dummy.GayChocolateStephie {
+  annotations {
+    string PlainCoffeeBecka {
+    }
+    serviceid EvilIndigoIngeborg {
+    }
+    json CognitiveCyanDorey {
+    }
+    json DullRoseAbbie {
+    }
+    boolean OutstandingGrayMalissa {
+    }
+    serviceid SquareVioletKessiah {
+    }
+    serviceid NastySilverAnnetta {
+    }
+    serviceid BlindRedAllix {
+    }
+    number PreliminaryPlumLynnelle {
+    }
+    dummy.CapableBlushHalli HistoricalLimeDorry {
+    }
+    number DangerousCopperShelli {
+    }
+    string JudicialCrimsonShanon {
+    }
+    dummy.VisualSilverAlysa ParliamentaryRedJacinthe {
+    }
+    hidden_boolean FriendlyMaroonAntonietta {
+    }
+    serviceid UnknownApricotAlmire {
+    }
+    boolean DeafApricotJodie {
+    }
+    string ElectricBeigeTrix {
+    }
+    dummy.AlrightLavenderHedwiga CapableOrangeCarma {
+    }
+    hidden_boolean CrazyYellowChanda {
+    }
+  }
+  PlainCoffeeBecka = "What do you call two barracuda fish?  A Pairacuda!"
+  EvilIndigoIngeborg = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CognitiveCyanDorey = "Why did the tomato blush? Because it saw the salad dressing."
+  DullRoseAbbie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OutstandingGrayMalissa = true
+  SquareVioletKessiah = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  NastySilverAnnetta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BlindRedAllix = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PreliminaryPlumLynnelle = 139
+  DangerousCopperShelli = 319
+  JudicialCrimsonShanon = "Why did the tomato blush? Because it saw the salad dressing."
+  UnknownApricotAlmire = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DeafApricotJodie = true
+  ElectricBeigeTrix = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

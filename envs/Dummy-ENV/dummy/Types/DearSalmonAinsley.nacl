@@ -1,0 +1,94 @@
+type dummy.DearSalmonAinsley {
+  annotations {
+    number YoungRoseAnnmarie {
+    }
+    number DisgustedBrownChryste {
+    }
+    number HandicappedFuchsiaBelvia {
+    }
+    number DullRoseGiulia {
+    }
+    json WesternGreenHesther {
+    }
+  }
+  number LovelyAquaKarlee {
+    _hidden_value = true
+  }
+  boolean BroadCopperFayth {
+    _hidden_value = true
+  }
+  hidden_boolean JealousSilverHallie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.JewishCoralJannel FundamentalTanValma {
+    AlivePeachImogen = false
+    HollowCopperKaitlynn = 257
+    BottomBlushWinonah = "Why did the kid cross the playground? To get to the other slide."
+    RelativeTealLeontine = "Slept like a log last night  woke up in the fireplace."
+    RepresentativeScarletLorenza = "What do you call two barracuda fish?  A Pairacuda!"
+    DesperateAquamarineLisabeth = true
+    UndergroundBlackBenni = "Why was it called the dark ages? Because of all the knights. "
+    FunnyRedTimi = false
+    GlobalCopperFanechka = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  hidden_boolean Moderngold2Elna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RemarkableGrayKinna {
+    _hidden_value = true
+  }
+  string GiganticVioletArdyth {
+    _hidden_value = true
+  }
+  number ContinentalFuchsiaKarin {
+    _hidden_value = true
+  }
+  serviceid FunnySapphireJaimie {
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine HorribleLavenderClarissa {
+    ContentAzureLindsay = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FellowVioletSapphire = "Why was it called the dark ages? Because of all the knights. "
+    LittleCrimsonRosina = "My first time using an elevator was an uplifting experience. The second time let me down."
+    DeafeningCyanCassandry = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  json JewishBlackSisile {
+    _hidden_value = true
+  }
+  number SharpMoccasinSandye {
+    _hidden_value = true
+  }
+  json WorryingAzureThekla {
+    _hidden_value = true
+  }
+  string HissingMagentaSean {
+    _hidden_value = true
+  }
+  serviceid LeadingOrangeHetty {
+    _hidden_value = true
+  }
+  json SquealingSapphireKylie {
+    _hidden_value = true
+  }
+  boolean ExperimentalAmberPansy {
+    _hidden_value = true
+  }
+  number MassiveOrangeKelsi {
+    _hidden_value = true
+  }
+  string VictorianMoccasinArleta {
+    _hidden_value = true
+  }
+  YoungRoseAnnmarie = 185
+  DisgustedBrownChryste = 566
+  HandicappedFuchsiaBelvia = 616
+  DullRoseGiulia = 631
+  WesternGreenHesther = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

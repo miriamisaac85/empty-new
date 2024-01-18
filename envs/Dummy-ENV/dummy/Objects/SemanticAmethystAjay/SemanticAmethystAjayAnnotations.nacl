@@ -1,0 +1,61 @@
+type dummy.SemanticAmethystAjay {
+  annotations {
+    hidden_boolean MassAmethystRosalind {
+    }
+    string FortunateRoseTabbatha {
+    }
+    dummy.EntireBrownJacki CruelWhiteDarell {
+    }
+    hidden_boolean BriefMagentaGene {
+    }
+    dummy.AnxiousMagentaNinetta SuperAmberPamelina {
+    }
+    boolean SlowScarletRosalinda {
+    }
+    number DualCopperOrsola {
+    }
+    dummy.RunningAquaRoshelle UniversalOliveTarah {
+    }
+    number EvidentGreenSteffi {
+    }
+    hidden_boolean FunnyIvoryPhilly {
+    }
+    json DullTurquoiseMax {
+    }
+    boolean ArmedCrimsonMuire {
+    }
+    boolean ShiveringSilverClio {
+    }
+    dummy.WrittenTomatoArliene ProtectiveBlueMarys {
+    }
+    boolean UninterestedSilverKalli {
+    }
+    serviceid UpsetBlackNiki {
+    }
+    hidden_boolean MedicalAmethystFlorri {
+    }
+    json AccessibleBronzeAlbertina {
+    }
+    boolean FundamentalFuchsiaRonnica {
+    }
+    boolean DifficultAmberKellia {
+    }
+    number ExcitedCopperDottie {
+    }
+  }
+  FortunateRoseTabbatha = "To be Frank, I'd have to change my name."
+  CruelWhiteDarell = 938
+  SlowScarletRosalinda = true
+  DualCopperOrsola = 30
+  UniversalOliveTarah = 167
+  EvidentGreenSteffi = 750
+  DullTurquoiseMax = "How come the stadium got hot after the game? Because all of the fans left."
+  ArmedCrimsonMuire = false
+  ShiveringSilverClio = false
+  UninterestedSilverKalli = false
+  UpsetBlackNiki = "Why did the kid cross the playground? To get to the other slide."
+  AccessibleBronzeAlbertina = "A steak pun is a rare medium well done."
+  FundamentalFuchsiaRonnica = true
+  DifficultAmberKellia = true
+  ExcitedCopperDottie = 414
+}

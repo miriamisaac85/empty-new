@@ -1,0 +1,20 @@
+type dummy.AcademicLimeMarlie {
+  annotations {
+    boolean UnawareLavenderCahra {
+    }
+    serviceid NetAmethystPetronia {
+    }
+    serviceid HealthyPlumAlayne {
+    }
+    boolean CrowdedAmberBenita {
+    }
+  }
+  boolean GrievingSapphireMelitta {
+    _hidden_value = true
+  }
+  UnawareLavenderCahra = true
+  NetAmethystPetronia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HealthyPlumAlayne = "To be Frank, I'd have to change my name."
+  CrowdedAmberBenita = true
+  _hidden_value = true
+}

@@ -1,0 +1,56 @@
+type dummy.NastyPlumFedora {
+  annotations {
+    string OpenEmeraldCollete {
+    }
+    number DistinguishedMoccasinLeeann {
+    }
+    boolean PrettyAzureTate {
+    }
+    string EnviousAquaBella {
+    }
+    json JustRoseMildred {
+    }
+    json ProbableCopperYovonnda {
+    }
+  }
+  number SuccessfulSilverKarine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BizarreTanMellisent {
+    _hidden_value = true
+  }
+  boolean ProudEmeraldDarcy {
+    _hidden_value = true
+  }
+  serviceid VariablePlumSherill {
+    _hidden_value = true
+  }
+  string ProudAmberJuline {
+    _hidden_value = true
+  }
+  boolean CircularSalmonDevon {
+    _hidden_value = true
+  }
+  "List<boolean>" AmusedAquaBinny {
+    _hidden_value = true
+  }
+  number ElatedAzureCamellia {
+    _hidden_value = true
+  }
+  string SadYellowShelbi {
+    _hidden_value = true
+  }
+  string TemporaryAmethystKristen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UptightRedDeva {
+    _hidden_value = true
+  }
+  OpenEmeraldCollete = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DistinguishedMoccasinLeeann = 467
+  PrettyAzureTate = false
+  EnviousAquaBella = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  JustRoseMildred = "Slept like a log last night  woke up in the fireplace."
+  ProbableCopperYovonnda = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

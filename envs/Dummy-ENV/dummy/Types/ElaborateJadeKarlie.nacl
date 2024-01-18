@@ -1,0 +1,45 @@
+type dummy.ElaborateJadeKarlie {
+  annotations {
+    hidden_boolean ChristianPeachJudy {
+    }
+    string CharmingAquamarineBritt {
+    }
+    serviceid VastSalmonCynde {
+    }
+    boolean EvidentAzureBernardine {
+    }
+    serviceid ScaredAmaranthKerrill {
+    }
+  }
+  boolean PersonalAmethystJehanna {
+    _hidden_value = true
+  }
+  boolean NovelWhiteAubry {
+    _hidden_value = true
+  }
+  number LovelyCopperValene {
+    _hidden_value = true
+  }
+  number GloriousSalmonMonica {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrowdedAmberHynda {
+    _hidden_value = true
+  }
+  boolean PerfectPurpleAmara {
+    _hidden_value = true
+  }
+  boolean StillFuchsiaGertrudis {
+    _hidden_value = true
+  }
+  hidden_boolean DirtyRoseAgnola {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CharmingAquamarineBritt = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VastSalmonCynde = "Why is Peter Pan always flying? Because he Neverlands."
+  EvidentAzureBernardine = false
+  ScaredAmaranthKerrill = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

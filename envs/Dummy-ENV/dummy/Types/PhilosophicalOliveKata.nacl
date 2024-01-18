@@ -1,0 +1,37 @@
+type dummy.PhilosophicalOliveKata {
+  annotations {
+    dummy.ConfidentialScarletAntonie SuccessfulBronzeJosie {
+    }
+    boolean MaleYellowAli {
+    }
+    json GreasySapphireJaclyn {
+    }
+    boolean BritishPurpleAmberly {
+    }
+    number LiquidRoseJean {
+    }
+    number ImpressiveAquamarineCarmelle {
+    }
+  }
+  boolean TraditionalAquaAdelice {
+    _hidden_value = true
+  }
+  serviceid NegativeMoccasinMelloney {
+    _hidden_value = true
+  }
+  number NeighbouringAzureGabbey {
+    _hidden_value = true
+  }
+  hidden_boolean FitBronzeKylynn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SuccessfulBronzeJosie = 675
+  MaleYellowAli = true
+  GreasySapphireJaclyn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BritishPurpleAmberly = true
+  LiquidRoseJean = 442
+  ImpressiveAquamarineCarmelle = 619
+  _hidden_value = true
+}

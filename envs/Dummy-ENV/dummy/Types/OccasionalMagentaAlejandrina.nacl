@@ -1,0 +1,33 @@
+type dummy.OccasionalMagentaAlejandrina {
+  annotations {
+    string ValuableSilverMerci {
+    }
+    serviceid SmartCyanGilli {
+    }
+    hidden_boolean MushyCoffeeTressa {
+    }
+    hidden_boolean UnfortunateTomatoRobinet {
+    }
+    number MuddyBronzeCristy {
+    }
+    boolean ChristianVioletAndriette {
+    }
+    string PublicSalmonMelita {
+    }
+  }
+  serviceid DesirableRedKali {
+    _hidden_value = true
+  }
+  string NaughtyIvoryJori {
+    _hidden_value = true
+  }
+  string ParticularVioletErna {
+    _hidden_value = true
+  }
+  ValuableSilverMerci = "What creature is smarter than a talking parrot? A spelling bee."
+  SmartCyanGilli = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MuddyBronzeCristy = 722
+  ChristianVioletAndriette = false
+  PublicSalmonMelita = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

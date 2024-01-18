@@ -1,0 +1,31 @@
+type dummy.SquarePurpleCyndi {
+  annotations {
+    hidden_boolean UnconsciousBrownMarilin {
+    }
+    hidden_boolean GeneticAquaZarla {
+    }
+    dummy.DEFAULT AbleChocolateVyky {
+    }
+    string BrightSalmonChristal {
+    }
+    number ConfusedSalmonKatti {
+    }
+    hidden_boolean QuickCyanGabi {
+    }
+    number AloneMaroonJacqueline {
+    }
+  }
+  number ClassicVioletDanette {
+    _hidden_value = true
+  }
+  string LimitedJadeOllie {
+    _hidden_value = true
+  }
+  AbleChocolateVyky = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  BrightSalmonChristal = "Slept like a log last night  woke up in the fireplace."
+  ConfusedSalmonKatti = 20
+  AloneMaroonJacqueline = 590
+  _hidden_value = true
+}

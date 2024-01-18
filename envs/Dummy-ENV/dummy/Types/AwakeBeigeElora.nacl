@@ -1,0 +1,25 @@
+type dummy.AwakeBeigeElora {
+  annotations {
+    json ThinBlueDenice {
+    }
+    number Gradualgold2Gwyneth {
+    }
+    dummy.DEFAULT AggregateMoccasinChiquita {
+    }
+    string MassiveGrayJoice {
+    }
+    number ScrawnyWhitePatti {
+    }
+  }
+  number DrabEmeraldgold2ina {
+    _hidden_value = true
+  }
+  ThinBlueDenice = "What did one nut say as he chased another nut?  I'm a cashew!"
+  Gradualgold2Gwyneth = 784
+  AggregateMoccasinChiquita = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  MassiveGrayJoice = "Im only familiar with 25 letters in the English language. I dont know why."
+  ScrawnyWhitePatti = 907
+  _hidden_value = true
+}

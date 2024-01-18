@@ -1,0 +1,56 @@
+type dummy.MistyBronzeHalley {
+  annotations {
+    number DelightfulPlumAngele {
+    }
+    dummy.NuclearBlueCorinna ComplicatedAmaranthNicolea {
+    }
+    dummy.PinkBlushAinslie EnviousJadeBabbie {
+    }
+    number NoisyPinkVanni {
+    }
+    json NeutralSalmonDollie {
+    }
+    number PartialChocolateLyndel {
+    }
+    hidden_boolean CruelMoccasinKris {
+    }
+    boolean PricklyTealCodee {
+    }
+    boolean SoftWhiteHazel {
+    }
+    hidden_boolean EnvironmentalAmaranthElianora {
+    }
+    serviceid AccurateCopperScarlet {
+    }
+    hidden_boolean TallCyanLiva {
+    }
+    hidden_boolean InadequateAquaGenovera {
+    }
+    boolean AncientAmberElie {
+    }
+    hidden_boolean SportingFuchsiaDrusi {
+    }
+    json InvolvedAzureGiacinta {
+    }
+    number MuteRedTheodosia {
+    }
+    json MinisterialAmaranthDasya {
+    }
+    number CrookedVioletGabrielle {
+    }
+  }
+  DelightfulPlumAngele = 605
+  ComplicatedAmaranthNicolea = 775
+  EnviousJadeBabbie = file("FierceIvoryMira.txt")
+  NoisyPinkVanni = 774
+  NeutralSalmonDollie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PartialChocolateLyndel = 461
+  PricklyTealCodee = false
+  SoftWhiteHazel = true
+  AccurateCopperScarlet = "Whoever invented the knock-knock joke should get a no bell prize."
+  AncientAmberElie = true
+  InvolvedAzureGiacinta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MuteRedTheodosia = 127
+  MinisterialAmaranthDasya = "I'll tell you what often gets over looked... garden fences."
+  CrookedVioletGabrielle = 321
+}

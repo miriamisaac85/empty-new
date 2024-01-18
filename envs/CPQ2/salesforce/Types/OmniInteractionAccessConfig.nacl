@@ -1,0 +1,56 @@
+type salesforce.OmniInteractionAccessConfig {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string configName {
+  }
+  boolean isAsyncCardCachingEnabled {
+  }
+  boolean isCardApexRemoteDisabled {
+  }
+  boolean isCardCacheDisabled {
+  }
+  boolean isCardDataTfrmDisabled {
+  }
+  boolean isCardIntegrationProcDisabled {
+  }
+  boolean isCardRestApiDisabled {
+  }
+  boolean isCardSoqlDisabled {
+  }
+  boolean isCardSoslDisabled {
+  }
+  boolean isCardStreamingApiDisabled {
+  }
+  boolean isDataTfrmEncrpFieldsDisabled {
+  }
+  string masterLabel {
+  }
+  string setupOwner {
+    foreignKeyDomain = [
+      "Organization",
+      "Profile",
+      salesforce.User,
+    ]
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "omniInteractionAccessConfig"
+  dirName = "OmniInteractionAccessConfig"
+  metadataType = "OmniInteractionAccessConfig"
+}

@@ -1,0 +1,31 @@
+type dummy.SleepyGrayOfelia {
+  annotations {
+    serviceid AbleCyanStefa {
+    }
+    boolean HelplessCyanBlondelle {
+    }
+    string HelplessHarlequinFelecia {
+    }
+    dummy.DEFAULT DreadfulPurpleBrigitte {
+    }
+    boolean StuckPlumRica {
+    }
+  }
+  serviceid EducationalBlushRuthy {
+    _hidden_value = true
+  }
+  string SurroundingApricotKarissa {
+    _hidden_value = true
+  }
+  json SquealingYellowJanene {
+    _hidden_value = true
+  }
+  AbleCyanStefa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HelplessCyanBlondelle = true
+  HelplessHarlequinFelecia = "How come the stadium got hot after the game? Because all of the fans left."
+  DreadfulPurpleBrigitte = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  StuckPlumRica = true
+  _hidden_value = true
+}

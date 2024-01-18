@@ -1,0 +1,65 @@
+type dummy.NaturalGrayAnya {
+  annotations {
+    serviceid DangerousTurquoiseWilmette {
+    }
+    serviceid UsualApricotTamma {
+    }
+    hidden_boolean EntireApricotYnez {
+    }
+    number DirtyAquaMeriel {
+    }
+    number CuriousApricotFay {
+    }
+    dummy.DEFAULT PoorSalmonIsahella {
+    }
+  }
+  boolean DeafSilverEmalee {
+    _hidden_value = true
+  }
+  string LogicalBeigeImogene {
+    _hidden_value = true
+  }
+  boolean PersonalBlueReba {
+    _hidden_value = true
+  }
+  boolean RandomBronzeMarion {
+    _hidden_value = true
+  }
+  json EmptyTurquoiseEachelle {
+    _hidden_value = true
+  }
+  boolean OrangeAquaLizabeth {
+    _hidden_value = true
+  }
+  json SlimyAzureMoria {
+    _hidden_value = true
+  }
+  boolean AllegedTurquoiseAgretha {
+    _hidden_value = true
+  }
+  hidden_boolean CombinedGreenIris {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number BrilliantWhiteMalina {
+    _hidden_value = true
+  }
+  serviceid KeenYellowEvvie {
+    _hidden_value = true
+  }
+  serviceid VerticalScarletLizabeth {
+    _hidden_value = true
+  }
+  json GleamingRedTasia {
+    _hidden_value = true
+  }
+  DangerousTurquoiseWilmette = "Why was it called the dark ages? Because of all the knights. "
+  UsualApricotTamma = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DirtyAquaMeriel = 426
+  CuriousApricotFay = 12
+  PoorSalmonIsahella = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,132 @@
+type dummy.ApparentAzureMartha {
+  annotations {
+    dummy.DEFAULT DryCyanTiphanie {
+    }
+    hidden_boolean MidOrangeTori {
+    }
+    number HonestRoseWilma {
+    }
+    hidden_boolean AutonomousTomatoLorri {
+    }
+    string DeafPeachJaneczka {
+    }
+    serviceid DelicateBrownKordula {
+    }
+  }
+  json RedundantBronzeHetty {
+    _hidden_value = true
+  }
+  hidden_boolean DeafBlueKatalin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LonelyAquamarineAmandi {
+    _hidden_value = true
+  }
+  serviceid ModernBrownNicky {
+    _hidden_value = true
+  }
+  hidden_boolean UltimateCrimsonBillye {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT JapaneseAzureCorrine {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyPeachGiulia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ExcellentTealSheilakathryn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RainyBeigeBrandice {
+    _hidden_value = true
+  }
+  number PrettyHarlequinDonna {
+    _hidden_value = true
+  }
+  number DiplomaticPurpleEvelina {
+    _hidden_value = true
+  }
+  json DangerousBlueDorri {
+    _hidden_value = true
+  }
+  number OverseasHarlequinAlys {
+    _hidden_value = true
+  }
+  hidden_boolean OrangeAzureJulie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SignificantCyanMariann {
+    _hidden_value = true
+  }
+  string AppropriateCrimsonMickie {
+    _hidden_value = true
+  }
+  string HandsomeGrayDonelle {
+    _hidden_value = true
+  }
+  string WidespreadPinkLeontyne {
+    _hidden_value = true
+  }
+  serviceid HardSalmonCynthy {
+    _hidden_value = true
+  }
+  serviceid LowEmeraldMargi {
+    _hidden_value = true
+  }
+  number HistoricAquamarineKathie {
+    _hidden_value = true
+  }
+  dummy.MinimumIvoryFrankie CloudyCopperMargy {
+    ExperiencedApricotFelicity = 748
+    AdverseVioletHali = 650
+    HurtTanStormi = "Im only familiar with 25 letters in the English language. I dont know why."
+    DefiniteMagentaVanda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OuterPlumGabrila = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    StrangeSilverGuenna = "Why didnt the skeleton cross the road? Because he had no guts."
+    LivelyIvoryMabelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IndividualFuchsiaJobyna = "Why was it called the dark ages? Because of all the knights. "
+    ProtectiveAzureElva = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AnxiousAquamarineKarylin = "What do you call two barracuda fish?  A Pairacuda!"
+    ExplicitSapphireSophia = "To be Frank, I'd have to change my name."
+    AllegedMaroonCharmine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    LoyalRedCordi = true
+    IdealApricotNerti = 322
+    _hidden_value = true
+  }
+  dummy.DEFAULT PreparedAzureBernete {
+    _hidden_value = true
+  }
+  hidden_boolean SlimyPurpleValera {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PermanentPlumLorry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT MinimalBlackTanitansy {
+    _hidden_value = true
+  }
+  number OutstandingPinkLari {
+    _hidden_value = true
+  }
+  DryCyanTiphanie = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  HonestRoseWilma = 537
+  DeafPeachJaneczka = "Why is Peter Pan always flying? Because he Neverlands."
+  DelicateBrownKordula = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

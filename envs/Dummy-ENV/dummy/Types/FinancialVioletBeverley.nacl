@@ -1,0 +1,49 @@
+type dummy.FinancialVioletBeverley {
+  annotations {
+    string ResonantOrangeMalorie {
+    }
+    boolean VastRedAddie {
+    }
+    json InfluentialTanCollette {
+    }
+    boolean ItchyTurquoiseRea {
+    }
+  }
+  number ModernBrownNoell {
+    _hidden_value = true
+  }
+  serviceid FundamentalEmeraldCymbre {
+    _hidden_value = true
+  }
+  hidden_boolean WelcomeCoffeeLanette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT PunyAzureRosette {
+    _hidden_value = true
+  }
+  string HonIndigoNadean {
+    _hidden_value = true
+  }
+  number DifferentChocolateMaitilde {
+    _hidden_value = true
+  }
+  number SlowPeachLisbeth {
+    _hidden_value = true
+  }
+  boolean ColourfulAzureBenedetta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CautiousPinkSorcha {
+    _hidden_value = true
+  }
+  serviceid ObnoxiousChocolatePavla {
+    _hidden_value = true
+  }
+  ResonantOrangeMalorie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  VastRedAddie = true
+  InfluentialTanCollette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ItchyTurquoiseRea = false
+  _hidden_value = true
+}

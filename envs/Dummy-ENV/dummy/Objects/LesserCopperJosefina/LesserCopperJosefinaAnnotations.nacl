@@ -1,0 +1,49 @@
+type dummy.LesserCopperJosefina {
+  annotations {
+    boolean FlatYellowCorliss {
+    }
+    json AutonomousGreenRennie {
+    }
+    boolean WideSalmonElyse {
+    }
+    dummy.NegativeBronzeAile BlackTanKaylyn {
+    }
+    hidden_boolean BrokenOrangeAbby {
+    }
+    json AnnoyedTomatoShalne {
+    }
+    hidden_boolean WhisperingEmeraldRebekkah {
+    }
+    hidden_boolean InclinedBlueFlora {
+    }
+    string AboveIvoryAngelle {
+    }
+    serviceid BlackBrownElianora {
+    }
+    number PermanentLavenderDorothy {
+    }
+    number FantasticCopperOnida {
+    }
+    hidden_boolean EncouragingMaroonAilee {
+    }
+    dummy.CurvedIvoryQueenie AveragePlumTammara {
+    }
+    number ModerateIvoryKary {
+    }
+    string FineAquaLurette {
+    }
+    dummy.MeltedBrownShanna LivingBlushVerina {
+    }
+  }
+  FlatYellowCorliss = false
+  AutonomousGreenRennie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WideSalmonElyse = false
+  AnnoyedTomatoShalne = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AboveIvoryAngelle = "Why did the tomato blush? Because it saw the salad dressing."
+  BlackBrownElianora = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PermanentLavenderDorothy = 468
+  FantasticCopperOnida = 436
+  AveragePlumTammara = true
+  ModerateIvoryKary = 347
+  FineAquaLurette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

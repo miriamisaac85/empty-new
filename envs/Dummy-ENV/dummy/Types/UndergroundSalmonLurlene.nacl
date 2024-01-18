@@ -1,0 +1,67 @@
+type dummy.UndergroundSalmonLurlene {
+  annotations {
+    number PartialAzureDarrelle {
+    }
+    json Prominentgold2Susann {
+    }
+    number ConstitutionalFuchsiaMattie {
+    }
+    hidden_boolean RealCopperMora {
+    }
+    hidden_boolean AdvancedWhiteEthelda {
+    }
+    string IndependentHarlequinBeret {
+    }
+  }
+  string CreativeBlueStar {
+    _hidden_value = true
+  }
+  serviceid AwakeCoralJami {
+    _hidden_value = true
+  }
+  string GiantAmberJany {
+    _hidden_value = true
+  }
+  json VocationalBlackShae {
+    _hidden_value = true
+  }
+  string HungryOliveDelphine {
+    _hidden_value = true
+  }
+  serviceid SmallJadeLucinda {
+    _hidden_value = true
+  }
+  json RainyChocolateCari {
+    _hidden_value = true
+  }
+  serviceid SmallVioletZorina {
+    _hidden_value = true
+  }
+  hidden_boolean MaleJadeMargi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean StickyPeachGilberta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid InvisibleCoffeeSam {
+    _hidden_value = true
+  }
+  serviceid OrthodoxAmaranthEryn {
+    _hidden_value = true
+  }
+  string FastVioletEugenie {
+    _hidden_value = true
+  }
+  json RuralSilverCarroll {
+    _hidden_value = true
+  }
+  PartialAzureDarrelle = 779
+  Prominentgold2Susann = "Why is Peter Pan always flying? Because he Neverlands."
+  ConstitutionalFuchsiaMattie = 193
+  IndependentHarlequinBeret = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

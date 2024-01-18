@@ -1,0 +1,96 @@
+type dummy.TerribleRosePepita {
+  annotations {
+    dummy.DEFAULT LiableIvoryElaina {
+    }
+    serviceid ElaborateCopperPier {
+    }
+    hidden_boolean Excessgold2Lynnelle {
+    }
+    boolean ReluctantChocolateSusy {
+    }
+    string SpatialPlumCarree {
+    }
+  }
+  string NewChocolateBritney {
+    _hidden_value = true
+  }
+  json OrganisationalPlumMariann {
+    _hidden_value = true
+  }
+  serviceid WorthyCoffeeErnaline {
+    _hidden_value = true
+  }
+  number StatisticalBeigeMaura {
+    _hidden_value = true
+  }
+  boolean TameBeigeElse {
+    _hidden_value = true
+  }
+  hidden_boolean OpenRoseTallie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CreepyCoralElna {
+    _hidden_value = true
+  }
+  json HighBlueClary {
+    _hidden_value = true
+  }
+  hidden_boolean AvailableCyanLaurene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean EnviousTanMindy {
+    _hidden_value = true
+  }
+  serviceid SilentGrayElysia {
+    _hidden_value = true
+  }
+  serviceid BlankAmethystFilide {
+    _hidden_value = true
+  }
+  string AngryBlueRanda {
+    _hidden_value = true
+  }
+  json ContinentalVioletRona {
+    _hidden_value = true
+  }
+  hidden_boolean SingleIndigoSalome {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ChronicHarlequinFaustina {
+    _hidden_value = true
+  }
+  boolean SupposedCrimsonRebecca {
+    _hidden_value = true
+  }
+  serviceid ColouredCoffeeLatia {
+    _hidden_value = true
+  }
+  "Map<boolean>" ColonialBlueDyana {
+    _hidden_value = true
+  }
+  number WealthyCyanSybyl {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SelfishBlackDesiri {
+    _hidden_value = true
+  }
+  serviceid SunnySilverNathalie {
+    _hidden_value = true
+  }
+  number SuperbIndigoTerese {
+    _hidden_value = true
+  }
+  LiableIvoryElaina = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  ElaborateCopperPier = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ReluctantChocolateSusy = false
+  SpatialPlumCarree = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

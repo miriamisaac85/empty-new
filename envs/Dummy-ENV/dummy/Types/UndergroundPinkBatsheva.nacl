@@ -1,0 +1,95 @@
+type dummy.UndergroundPinkBatsheva {
+  annotations {
+    string RivalOrangeAntonietta {
+    }
+    hidden_boolean SpareRoseMargy {
+    }
+    hidden_boolean DivineCopperKlara {
+    }
+    number CompetitiveGrayMarris {
+    }
+  }
+  hidden_boolean EndlessPurpleRozalin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json GrowingRedKarlee {
+    _hidden_value = true
+  }
+  serviceid UpsetRedRebecca {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FunnyJadeChrystel {
+    _hidden_value = true
+  }
+  number FascinatingIndigoSallie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CompactChocolateZenia {
+    _hidden_value = true
+  }
+  serviceid HonRoseHappy {
+    _hidden_value = true
+  }
+  number DisgustedTurquoiseMarillin {
+    _hidden_value = true
+  }
+  boolean ConfusedBronzeVivi {
+    _hidden_value = true
+  }
+  serviceid ToxicOrangeDonielle {
+    _hidden_value = true
+  }
+  json TerritorialAquaFrancesca {
+    _hidden_value = true
+  }
+  serviceid MutualAquaLanni {
+    _hidden_value = true
+  }
+  serviceid GiantBronzeZonda {
+    _hidden_value = true
+  }
+  json MagentaGrayWynn {
+    _hidden_value = true
+  }
+  json SquealingHarlequinHazel {
+    _hidden_value = true
+  }
+  json FilthyAmethystAdora {
+    _hidden_value = true
+  }
+  serviceid FatalTealShena {
+    _hidden_value = true
+  }
+  string ZealousSalmonValera {
+    _hidden_value = true
+  }
+  json ProfoundPurpleCordie {
+    _hidden_value = true
+  }
+  number BrainyChocolateGermaine {
+    _hidden_value = true
+  }
+  string SheerTurquoiseGerri {
+    _hidden_value = true
+  }
+  json HilariousWhiteVinnie {
+    _hidden_value = true
+  }
+  serviceid ConfidentialYellowDarci {
+    _hidden_value = true
+  }
+  boolean ProvincialIvoryTalia {
+    _hidden_value = true
+  }
+  string EuropeanBeigeMargaux {
+    _hidden_value = true
+  }
+  json SpicyBlueKaycee {
+    _hidden_value = true
+  }
+  RivalOrangeAntonietta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CompetitiveGrayMarris = 431
+  _hidden_value = true
+}

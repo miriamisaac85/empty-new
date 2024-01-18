@@ -1,0 +1,58 @@
+type dummy.RainyAmberOdilia {
+  annotations {
+    number AngryIvoryVin {
+    }
+    number PainfulPinkSaraann {
+    }
+    hidden_boolean BraveGreenChanna {
+    }
+    serviceid VoicelessMoccasinCorny {
+    }
+    boolean RemoteYellowBertha {
+    }
+    json KindGrayDorice {
+    }
+  }
+  dummy.DEFAULT HarshCrimsonMeridel {
+    _hidden_value = true
+  }
+  number ChristianSilverDaniela {
+    _hidden_value = true
+  }
+  string SophisticatedAmberPris {
+    _hidden_value = true
+  }
+  string TerribleVioletReggi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UselessScarletSammy {
+    _hidden_value = true
+  }
+  dummy.PinkBlushAinslie CorrespondingSapphireCynde {
+    NutritiousAquamarineElie = 115
+    AdvisoryMaroonSharron = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    GenuineGreenAbbie = 338
+    SupremeChocolateBria = "What creature is smarter than a talking parrot? A spelling bee."
+    ObedientHarlequinChelsy = "Dad Im hungry  Hi hungry Im dad"
+    MysteriousRoseJordana = "Why did the tomato blush? Because it saw the salad dressing."
+    ThirstyTurquoiseMarne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    FinancialIndigoMonah = "A steak pun is a rare medium well done."
+    EntitledScarletPammie = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  json SpanishCoralBriny {
+    _hidden_value = true
+  }
+  number BoilingSalmonAdeline {
+    _hidden_value = true
+  }
+  string CoolPlumKatusha {
+    _hidden_value = true
+  }
+  AngryIvoryVin = 958
+  PainfulPinkSaraann = 312
+  VoicelessMoccasinCorny = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RemoteYellowBertha = false
+  KindGrayDorice = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

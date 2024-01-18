@@ -1,0 +1,92 @@
+type dummy.WickedYellowBertine {
+  annotations {
+    serviceid CleanPlumMadelle {
+    }
+    boolean ObnoxiousMoccasinConstantia {
+    }
+    string WildSilverNelle {
+    }
+    serviceid EstimatedSapphireCharo {
+    }
+    string PatientBlueLanni {
+    }
+    string RedundantAzureOdelle {
+    }
+    hidden_boolean StickyAmberTiena {
+    }
+  }
+  boolean EmbarrassedMoccasinPearla {
+    _hidden_value = true
+  }
+  "List<boolean>" LittleGreenDaniela {
+    _hidden_value = true
+  }
+  boolean ExperimentalRedMarylynne {
+    _hidden_value = true
+  }
+  dummy.PinkBlushAinslie FemaleCoralCookie {
+    NutritiousAquamarineElie = 705
+    AdvisoryMaroonSharron = "I'll tell you what often gets over looked... garden fences."
+    GenuineGreenAbbie = 488
+    SupremeChocolateBria = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ObedientHarlequinChelsy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MysteriousRoseJordana = "Why did the kid cross the playground? To get to the other slide."
+    ThirstyTurquoiseMarne = "Why do birds fly south for the winter? Because it's too far to walk."
+    FinancialIndigoMonah = "Dad Im hungry  Hi hungry Im dad"
+    EntitledScarletPammie = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  json EldestAmethystDoreen {
+    _hidden_value = true
+  }
+  dummy.JewishCoralJannel BraveCopperLucia {
+    AlivePeachImogen = false
+    HollowCopperKaitlynn = 339
+    BottomBlushWinonah = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RelativeTealLeontine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RepresentativeScarletLorenza = "A steak pun is a rare medium well done."
+    DesperateAquamarineLisabeth = true
+    UndergroundBlackBenni = "Whoever invented the knock-knock joke should get a no bell prize."
+    FunnyRedTimi = true
+    GlobalCopperFanechka = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  json HandicappedBlueGavrielle {
+    _hidden_value = true
+  }
+  serviceid SocialistAmaranthNancee {
+    _hidden_value = true
+  }
+  boolean MarineLavenderRonica {
+    _hidden_value = true
+  }
+  hidden_boolean VisitingCyanPrissie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT DullJadeClair {
+    _hidden_value = true
+  }
+  hidden_boolean QuietWhiteAlberta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string TartTanTori {
+    _hidden_value = true
+  }
+  boolean OccasionalMaroonGenevieve {
+    _hidden_value = true
+  }
+  serviceid ImportantVioletCherilyn {
+    _hidden_value = true
+  }
+  CleanPlumMadelle = "What creature is smarter than a talking parrot? A spelling bee."
+  ObnoxiousMoccasinConstantia = false
+  WildSilverNelle = "Slept like a log last night  woke up in the fireplace."
+  EstimatedSapphireCharo = "Slept like a log last night  woke up in the fireplace."
+  PatientBlueLanni = "To be Frank, I'd have to change my name."
+  RedundantAzureOdelle = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

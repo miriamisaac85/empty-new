@@ -1,0 +1,29 @@
+type dummy.LoosePeachgold2ia {
+  annotations {
+    json AnxiousSilverYevette {
+    }
+    boolean GrotesqueOliveSibyl {
+    }
+    json UglyGreenCathy {
+    }
+    string MinimalJadeBrigit {
+    }
+    number SpottyAzureAllsun {
+    }
+    string AccurateMaroonAme {
+    }
+  }
+  serviceid CheapCopperMonah {
+    _hidden_value = true
+  }
+  string SoundCopperDeni {
+    _hidden_value = true
+  }
+  AnxiousSilverYevette = "A steak pun is a rare medium well done."
+  GrotesqueOliveSibyl = false
+  UglyGreenCathy = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MinimalJadeBrigit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SpottyAzureAllsun = 490
+  AccurateMaroonAme = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

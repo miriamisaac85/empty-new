@@ -1,0 +1,96 @@
+type dummy.IncredibleBeigeMarielle {
+  annotations {
+    json TurkishPlumBess {
+    }
+    boolean ParallelCoralBrandi {
+    }
+    dummy.NuclearBlueCorinna JapaneseGreenHolli {
+    }
+  }
+  number ProtestantTanCinderella {
+    _hidden_value = true
+  }
+  serviceid AdvancedPlumMelamie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HappyApricotAlina {
+    _hidden_value = true
+  }
+  hidden_boolean BrainyAquamarineLinette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid QuaintRoseSorcha {
+    _hidden_value = true
+  }
+  boolean Autonomousgold2Catlee {
+    _hidden_value = true
+  }
+  json BlankWhiteMarijo {
+    _hidden_value = true
+  }
+  number BritishSapphireFarra {
+    _hidden_value = true
+  }
+  boolean CuriousSilverMabel {
+    _hidden_value = true
+  }
+  "List<dummy.SlimyOrangeVickie>" CompetitiveGrayJerrilyn {
+    _hidden_value = true
+  }
+  boolean FranticAmethystKimberly {
+    _hidden_value = true
+  }
+  string ProudScarletHelenka {
+    _hidden_value = true
+  }
+  boolean InteriorHarlequinJudie {
+    _hidden_value = true
+  }
+  hidden_boolean YummyPurpleMaure {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HuskyPurpleAdelle {
+    _hidden_value = true
+  }
+  dummy.VoluntaryBlushSonja LongAmberNetti {
+    CoolAmberOfelia = "Im only familiar with 25 letters in the English language. I dont know why."
+    OrthodoxYellowVally = 263
+    AfricanPinkSteffane = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    HelpfulLavenderErna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DualMaroonRosmunda = 702
+    InternationalMaroonKaia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ObligedMoccasinAtlante = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    IntelligentAmaranthKarine = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  string CrazyPeachCarolee {
+    _hidden_value = true
+  }
+  "List<serviceid>" HealthyVioletAnnamaria {
+    _hidden_value = true
+  }
+  hidden_boolean HomelessYellowArdelis {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DominantOliveVerina {
+    _hidden_value = true
+  }
+  boolean PatientWhiteAliza {
+    _hidden_value = true
+  }
+  number PopularSapphireGarnet {
+    _hidden_value = true
+  }
+  TurkishPlumBess = "Im only familiar with 25 letters in the English language. I dont know why."
+  ParallelCoralBrandi = true
+  JapaneseGreenHolli = 134
+  _hidden_value = true
+}

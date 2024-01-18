@@ -1,0 +1,130 @@
+type dummy.SolidCopperMelita {
+  annotations {
+    string CleverMagentaDonna {
+    }
+    serviceid ScaryBlushJorry {
+    }
+    number RemoteMagentaErnesta {
+    }
+    dummy.StrikingMoccasinLonnie FantasticYellowDasya {
+    }
+    dummy.LightAmethystFrank ImplicitMoccasinOdelinda {
+    }
+    dummy.DEFAULT PrimaryAquaDonetta {
+    }
+  }
+  number FatMagentaSallyanne {
+    _hidden_value = true
+  }
+  number RequiredCoralBeverly {
+    _hidden_value = true
+  }
+  serviceid SupremeBlushDanielle {
+    _hidden_value = true
+  }
+  "List<serviceid>" MaximumAmaranthShirley {
+    _hidden_value = true
+  }
+  dummy.HurtJadeVevay NervousPlumAgathe {
+    DeliberateBlueDeirdre = true
+    MinimumApricotEdee = true
+    BewilderedCopperDorotea = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    VulnerableMagentaInga = "A steak pun is a rare medium well done."
+    HighLavenderLucretia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ScrawnyBeigeNoni = false
+    LevelBlueAdelind = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ChristianFuchsiaRobenia = "A steak pun is a rare medium well done."
+    OutrageousAquaDina = "Why didnt the skeleton cross the road? Because he had no guts."
+    EvolutionaryTurquoiseKristen = 470
+    DryOliveDoralia = "Whoever invented the knock-knock joke should get a no bell prize."
+    HappyOrangeEdin = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BrownSalmonGrier = 460
+    CarefulHarlequinPhaidra = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    CombativeTanDarline = false
+    ChillyAzureElaina = 465
+    _hidden_value = true
+  }
+  dummy.DEFAULT ThenEmeraldAntonie {
+    _hidden_value = true
+  }
+  serviceid LevelMaroonTana {
+    _hidden_value = true
+  }
+  json LatinBronzeKathlin {
+    _hidden_value = true
+  }
+  string AggressiveAquamarineAllianora {
+    _hidden_value = true
+  }
+  string CuriousMoccasinWilhelmina {
+    _hidden_value = true
+  }
+  boolean HelpfulBlushRubie {
+    _hidden_value = true
+  }
+  string PassiveGraySarine {
+    _hidden_value = true
+  }
+  dummy.DeliberateMaroonGabbey OralSapphireRenae {
+    LexicalLavenderAlthea = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    DampLavenderCindee = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MinimumChocolateSydelle = "Whoever invented the knock-knock joke should get a no bell prize."
+    AngryAquaIlise = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    ConfidentCopperMariam = "Slept like a log last night  woke up in the fireplace."
+    ScatteredSalmonAddi = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    AlrightChocolateAmalle = false
+    CautiousIndigoNichol = true
+    SweetLimeShayna = 828
+    MilitaryMaroonLee = "Why is Peter Pan always flying? Because he Neverlands."
+    GreasyAquamarineNanny = "Why was it called the dark ages? Because of all the knights. "
+    HilariousIvoryYettie = "Did you know that protons have mass? I didn't even know they were catholic."
+    AsianSapphireSerena = "Why is Peter Pan always flying? Because he Neverlands."
+    ShinyAquamarinePenny = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BroadSapphireTildy = "Why did the kid cross the playground? To get to the other slide."
+    JustVioletSosanna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    InstantTomatoBinny = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DullIndigoKaralynn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PreciseApricotTory = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  hidden_boolean ScaryAquamarineLanny {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HardChocolateMarlyn {
+    _hidden_value = true
+  }
+  string DemocraticSapphireThomasin {
+    _hidden_value = true
+  }
+  serviceid ConfusedVioletCamile {
+    _hidden_value = true
+  }
+  string IdenticalYellowHertha {
+    _hidden_value = true
+  }
+  serviceid FutureSalmonBrandice {
+    _hidden_value = true
+  }
+  json UncomfortableVioletMavra {
+    _hidden_value = true
+  }
+  CleverMagentaDonna = "Did you know that protons have mass? I didn't even know they were catholic."
+  ScaryBlushJorry = "Why was it called the dark ages? Because of all the knights. "
+  RemoteMagentaErnesta = 823
+  FantasticYellowDasya = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ImplicitMoccasinOdelinda = false
+  PrimaryAquaDonetta = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  _hidden_value = true
+}

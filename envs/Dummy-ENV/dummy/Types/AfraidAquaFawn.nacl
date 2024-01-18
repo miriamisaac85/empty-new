@@ -1,0 +1,42 @@
+type dummy.AfraidAquaFawn is string {
+  annotations {
+    number WideJadeWynny {
+    }
+    serviceid ColdOrangeCamel {
+    }
+    number DesperateAquamarineBrandea {
+    }
+    serviceid DecentCoralAnthia {
+    }
+    json HelplessAquaSharline {
+    }
+    number DyingTurquoisePage {
+    }
+    string AfraidBrownFawnia {
+    }
+    number PositivePinkFerdinande {
+    }
+    json IncredibleOliveLeila {
+    }
+    number FlutteringPlumLydia {
+    }
+    dummy.DEFAULT ArrogantBlueMilena {
+    }
+    json ElegantBeigeFran {
+    }
+  }
+  WideJadeWynny = 462
+  ColdOrangeCamel = "What do you call two barracuda fish?  A Pairacuda!"
+  DesperateAquamarineBrandea = 69
+  DecentCoralAnthia = "Why did the tomato blush? Because it saw the salad dressing."
+  HelplessAquaSharline = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DyingTurquoisePage = 810
+  AfraidBrownFawnia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PositivePinkFerdinande = 529
+  IncredibleOliveLeila = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FlutteringPlumLydia = 690
+  ArrogantBlueMilena = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  ElegantBeigeFran = "I'll tell you what often gets over looked... garden fences."
+}

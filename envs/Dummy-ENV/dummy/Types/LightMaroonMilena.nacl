@@ -1,0 +1,78 @@
+type dummy.LightMaroonMilena {
+  annotations {
+    boolean FunnyTealAngele {
+    }
+    serviceid QuietMoccasinLibbie {
+    }
+    boolean IrrelevantEmeraldAilis {
+    }
+    hidden_boolean AdvisoryEmeraldLucretia {
+    }
+    serviceid FunnyAquamarineBlinnie {
+    }
+    dummy.RunningAquaRoshelle VisualCyanJaimie {
+    }
+    hidden_boolean HotHarlequinMelantha {
+    }
+  }
+  number ShiveringIvoryLila {
+    _hidden_value = true
+  }
+  serviceid PleasantAmaranthAnnmarie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TightAquamarineArdis {
+    _hidden_value = true
+  }
+  number UrgentHarlequinMichal {
+    _hidden_value = true
+  }
+  hidden_boolean GoodCoralAntonina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SmallBeigeAmalie {
+    _hidden_value = true
+  }
+  number YoungAzureBlanca {
+    _hidden_value = true
+  }
+  boolean UndergroundIvoryFey {
+    _hidden_value = true
+  }
+  dummy.SmallPlumLiana TallEmeraldGigi {
+    DecentAquamarineTabina = "Why was it called the dark ages? Because of all the knights. "
+    EssentialLavenderFlor = "How come the stadium got hot after the game? Because all of the fans left."
+    GenerousBlueKiele = false
+    SensitiveTurquoiseClaresta = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  json DisturbingWhiteStacey {
+    _hidden_value = true
+  }
+  boolean TerribleBlackKeriann {
+    _hidden_value = true
+  }
+  json SunnyBrownMariam {
+    _hidden_value = true
+  }
+  number GlobalIvoryHenryetta {
+    _hidden_value = true
+  }
+  json ThoroughEmeraldCorrena {
+    _hidden_value = true
+  }
+  "Map<string>" SelfishBlushTracie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImportantSilverJulieta {
+    _hidden_value = true
+  }
+  FunnyTealAngele = true
+  QuietMoccasinLibbie = "Im only familiar with 25 letters in the English language. I dont know why."
+  IrrelevantEmeraldAilis = false
+  FunnyAquamarineBlinnie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  VisualCyanJaimie = 418
+  _hidden_value = true
+}

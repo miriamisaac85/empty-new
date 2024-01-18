@@ -1,0 +1,92 @@
+type dummy.MotionlessCrimsonEkaterina {
+  annotations {
+    serviceid OfficialPurpleAntonie {
+    }
+    hidden_boolean LesserAmethystClaire {
+    }
+    json ProgressiveAmaranthAshla {
+    }
+    dummy.BewilderedGreenRosemarie FlexibleMoccasinKaria {
+    }
+    number HumanLimeJordain {
+    }
+    json ShiveringPeachRaf {
+    }
+  }
+  boolean SparklingAquamarineJocelyn {
+    _hidden_value = true
+  }
+  serviceid SillyAquaNelli {
+    _hidden_value = true
+  }
+  json StraightPurpleCelesta {
+    _hidden_value = true
+  }
+  boolean LocalLimeErin {
+    _hidden_value = true
+  }
+  serviceid SheerTealLeona {
+    _hidden_value = true
+  }
+  number OralEmeraldKasey {
+    _hidden_value = true
+  }
+  serviceid HelpfulRoseAinslie {
+    _hidden_value = true
+  }
+  boolean SympatheticBlushKesley {
+    _hidden_value = true
+  }
+  boolean TastelessIndigoConsuelo {
+    _hidden_value = true
+  }
+  hidden_boolean TallCoralMariette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean GothicAmethystPriscilla {
+    _hidden_value = true
+  }
+  string ImmenseVioletCharissa {
+    _hidden_value = true
+  }
+  json WeeklyMoccasinDaron {
+    _hidden_value = true
+  }
+  boolean DrunkEmeraldLibbie {
+    _hidden_value = true
+  }
+  serviceid PrettyBeigePerle {
+    _hidden_value = true
+  }
+  dummy.CurvedIvoryQueenie KindMoccasinCarolann {
+    GreasyJadeHynda = "What creature is smarter than a talking parrot? A spelling bee."
+    AcceptableAmaranthFreddi = "Why did the tomato blush? Because it saw the salad dressing."
+    SquareMaroonFaun = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    UndergroundRedAudrey = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    Economicgold2Johnath = "How come the stadium got hot after the game? Because all of the fans left."
+    ExcitingVioletLelah = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  string DyingCoffeeMegen {
+    _hidden_value = true
+  }
+  dummy.BewilderedGreenRosemarie JustCopperAnnecorinne {
+    HighBlushMoyna = "Why was it called the dark ages? Because of all the knights. "
+    ClearPeachUla = "Why did the kid cross the playground? To get to the other slide."
+    ControlledPeachKathye = 95
+    LeadingIvoryGlory = 516
+    _hidden_value = true
+  }
+  OfficialPurpleAntonie = "I'll tell you what often gets over looked... garden fences."
+  ProgressiveAmaranthAshla = "Why was it called the dark ages? Because of all the knights. "
+  FlexibleMoccasinKaria = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HumanLimeJordain = 778
+  ShiveringPeachRaf = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

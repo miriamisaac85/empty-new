@@ -1,0 +1,119 @@
+type dummy.IntegratedSilverVale {
+  annotations {
+    dummy.PinkBlushAinslie AverageBrownOdelia {
+    }
+    number NumerousRedBlinny {
+    }
+    number IncApricotHannie {
+    }
+    hidden_boolean AcceptedCyanElysia {
+    }
+    string ShortSalmonElianore {
+    }
+    json WeakCrimsonEdie {
+    }
+  }
+  number InadequatePeachClarice {
+    _hidden_value = true
+  }
+  string SlipperyYellowRoch {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InvolvedCrimsonEbba {
+    _hidden_value = true
+  }
+  string WeeklyMaroonCybill {
+    _hidden_value = true
+  }
+  string SympatheticRedFrancine {
+    _hidden_value = true
+  }
+  hidden_boolean QuietAmethystNessi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<boolean>" ClosedAmethystShannon {
+    _hidden_value = true
+  }
+  serviceid ColorfulIndigoFran {
+    _hidden_value = true
+  }
+  json DarkAzureKara {
+    _hidden_value = true
+  }
+  json IncreasingEmeraldLatrina {
+    _hidden_value = true
+  }
+  string EagerFuchsiaBilly {
+    _hidden_value = true
+  }
+  serviceid MiserableGreenBunnie {
+    _hidden_value = true
+  }
+  boolean EconomicAmethystBernete {
+    _hidden_value = true
+  }
+  serviceid CautiousLavenderNicola {
+    _hidden_value = true
+  }
+  number RationalFuchsiaClary {
+    _hidden_value = true
+  }
+  serviceid AbundantPlumDeidre {
+    _hidden_value = true
+  }
+  hidden_boolean HotAquamarineMatilde {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json PleasantBronzeCleopatra {
+    _hidden_value = true
+  }
+  number HomelessOliveRea {
+    _hidden_value = true
+  }
+  boolean BalancedPinkFaith {
+    _hidden_value = true
+  }
+  json HandicappedCrimsonEmelita {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyPinkVelvet {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OuterOrangeDorolice {
+    _hidden_value = true
+  }
+  hidden_boolean PlainCopperBessy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json VastVioletMada {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbleAmberMireille {
+    _hidden_value = true
+  }
+  serviceid JealousGrayFleurette {
+    _hidden_value = true
+  }
+  number SuccessiveBlueCristionna {
+    _hidden_value = true
+  }
+  hidden_boolean UnawareCyanAnnissa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AverageBrownOdelia = "Why did the tomato blush? Because it saw the salad dressing."
+  NumerousRedBlinny = 917
+  IncApricotHannie = 461
+  ShortSalmonElianore = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WeakCrimsonEdie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

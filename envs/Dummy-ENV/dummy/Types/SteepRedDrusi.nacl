@@ -1,0 +1,23 @@
+type dummy.SteepRedDrusi {
+  annotations {
+    json DisgustedAmaranthSuzanna {
+    }
+    number DrySalmonRonalda {
+    }
+    serviceid DelightfulAmaranthJunette {
+    }
+    number NoisyBlueClarette {
+    }
+    serviceid GradualBlueMartita {
+    }
+  }
+  number gold2enBeigeZandra {
+    _hidden_value = true
+  }
+  DisgustedAmaranthSuzanna = "Why did the tomato blush? Because it saw the salad dressing."
+  DrySalmonRonalda = 609
+  DelightfulAmaranthJunette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NoisyBlueClarette = 71
+  GradualBlueMartita = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

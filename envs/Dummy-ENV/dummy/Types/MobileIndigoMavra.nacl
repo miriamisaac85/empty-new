@@ -1,0 +1,31 @@
+type dummy.MobileIndigoMavra {
+  annotations {
+    serviceid PoliticalChocolateMichel {
+    }
+    json UnnecessaryAquamarineWynne {
+    }
+    number ColorfulAzureMelesa {
+    }
+    hidden_boolean BigTomatoKora {
+    }
+    boolean SignificantOliveCecilia {
+    }
+    boolean RedundantOrangeAnnadiana {
+    }
+  }
+  number DrunkCoralPenni {
+    _hidden_value = true
+  }
+  boolean LeadingAmaranthPam {
+    _hidden_value = true
+  }
+  "List<string>" SuspiciousOliveLoria {
+    _hidden_value = true
+  }
+  PoliticalChocolateMichel = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnnecessaryAquamarineWynne = "I'll tell you what often gets over looked... garden fences."
+  ColorfulAzureMelesa = 165
+  SignificantOliveCecilia = true
+  RedundantOrangeAnnadiana = true
+  _hidden_value = true
+}

@@ -1,0 +1,142 @@
+type dummy.OuterTanGinni {
+  annotations {
+    number GlobalBronzeRivalee {
+    }
+    json SuperBronzeAthene {
+    }
+    json HomelessBlackPhylys {
+    }
+    boolean SkinnyMoccasinRosalie {
+    }
+    json SpanishWhiteNanon {
+    }
+    string RipeAzureAlbina {
+    }
+  }
+  string HumanEmeraldViolante {
+    _hidden_value = true
+  }
+  string DisappointedBronzeTiff {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" StupidJadeMarrilee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CentralTanPhebe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT AnonymousOrangeKarlie {
+    _hidden_value = true
+  }
+  serviceid PetiteIndigoBonny {
+    _hidden_value = true
+  }
+  hidden_boolean SpanishOliveAnnabel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" EquivalentAmaranthDaffy {
+    _hidden_value = true
+  }
+  number SouthernMaroonConcordia {
+    _hidden_value = true
+  }
+  json ScreechingBrownJenda {
+    _hidden_value = true
+  }
+  hidden_boolean InternationalAmethystLisa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LoudLimeBridgette {
+    _hidden_value = true
+  }
+  hidden_boolean SpottyCoralAngelique {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RussianTealMareah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ShortCoffeeTasia {
+    _hidden_value = true
+  }
+  number BrightChocolateNerty {
+    _hidden_value = true
+  }
+  boolean BigEmeraldNomi {
+    _hidden_value = true
+  }
+  hidden_boolean AsianOliveSerene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean InnerSapphireLana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT FrenchOrangeSib {
+    _hidden_value = true
+  }
+  hidden_boolean RetiredTanBillie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid MilitaryOlivePhaedra {
+    _hidden_value = true
+  }
+  number SecurePlumMatilda {
+    _hidden_value = true
+  }
+  boolean NationalTanHadria {
+    _hidden_value = true
+  }
+  boolean SlimyGrayShelby {
+    _hidden_value = true
+  }
+  json AutomaticSalmonDale {
+    _hidden_value = true
+  }
+  string LoyalAquaMarylin {
+    _hidden_value = true
+  }
+  boolean SteepMaroonTami {
+    _hidden_value = true
+  }
+  json NiceSilverMarilee {
+    _hidden_value = true
+  }
+  dummy.NutritiousCoralDania GastricAmberAlana {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulCoralFredrika {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string WarmGreenMaren {
+    _hidden_value = true
+  }
+  number InnocentGreenDyane {
+    _hidden_value = true
+  }
+  GlobalBronzeRivalee = 417
+  SuperBronzeAthene = "How come the stadium got hot after the game? Because all of the fans left."
+  HomelessBlackPhylys = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SkinnyMoccasinRosalie = true
+  SpanishWhiteNanon = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RipeAzureAlbina = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

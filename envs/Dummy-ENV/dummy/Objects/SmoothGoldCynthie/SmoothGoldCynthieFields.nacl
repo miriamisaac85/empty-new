@@ -1,0 +1,60 @@
+type dummy.Smoothgold2Cynthie {
+  json WorldwideAquamarineMargy {
+  }
+  serviceid MuddySilverGlynis {
+  }
+  number SubjectiveBlueFredia {
+  }
+  dummy.ConceptualRoseFleur LongFuchsiaDamaris {
+    CivilApricotFredelia = "Why didnt the skeleton cross the road? Because he had no guts."
+    StraightEmeraldCindy = true
+    SplendidCyanMoreen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UrgentAmethystAvis = 298
+  }
+  json MarginalBrownIngeberg {
+  }
+  dummy.ExpensiveVioletIvonne GivenPlumQuintana {
+    FilthyTanMarchelle = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    HandsomeMaroonRyann = false
+    ProtestantPinkEtty = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RollingAmaranthOthella = 899
+    PowerfulGrayAlex = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  string PrimitivePinkIdelle {
+  }
+  hidden_boolean TechnicalVioletLira {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT UsedOliveCatherine {
+  }
+  string JollyIndigoPandora {
+  }
+  serviceid LuckyCoffeeRoze {
+  }
+  json BlackAmberThalia {
+  }
+  dummy.InlandLimeRubi OutsideChocolateBennie {
+    FaithfulWhitePaulita = "Did you know that protons have mass? I didn't even know they were catholic."
+    EnviousPinkLyn = false
+    OkJadeCarmela = 279
+    LooseAmberLynett = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IndependentPlumJelene = true
+    ValidAmaranthVivie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    GrossAmberBrear = "What creature is smarter than a talking parrot? A spelling bee."
+    AverageChocolateCacilia = "Why was it called the dark ages? Because of all the knights. "
+    GoodTomatoTeri = 956
+    MusicalPurpleNana = 391
+    ReliableGrayRosette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  string CompetitiveTanLuciana {
+  }
+  serviceid CombativeAmethystLorelle {
+  }
+  hidden_boolean LexicalIndigoSylvia {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

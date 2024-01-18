@@ -1,0 +1,42 @@
+type dummy.CoastalCoralLinzy {
+  annotations {
+    json TraditionalHarlequinLoralyn {
+    }
+    number FrightenedSalmonGeorgie {
+    }
+    serviceid ThoughtlessFuchsiaAnica {
+    }
+    string ElatedAmberJess {
+    }
+    serviceid FatIndigoNanine {
+    }
+    dummy.InlandLimeRubi AppropriateRoseBeryl {
+    }
+  }
+  serviceid OrthodoxAmethystLenee {
+    _hidden_value = true
+  }
+  hidden_boolean GrimCopperSonni {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT HugeTealEuphemia {
+    _hidden_value = true
+  }
+  hidden_boolean FilthyOrangeDaffi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SteepAzureHyacinth {
+    _hidden_value = true
+  }
+  TraditionalHarlequinLoralyn = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FrightenedSalmonGeorgie = 309
+  ThoughtlessFuchsiaAnica = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ElatedAmberJess = "How come the stadium got hot after the game? Because all of the fans left."
+  FatIndigoNanine = "Why do birds fly south for the winter? Because it's too far to walk."
+  AppropriateRoseBeryl = 598
+  _hidden_value = true
+}

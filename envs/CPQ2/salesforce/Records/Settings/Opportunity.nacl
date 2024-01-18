@@ -1,0 +1,22 @@
+salesforce.OpportunitySettings {
+  fullName = "Opportunity"
+  autoActivateNewReminders = true
+  customizableProductSchedulesEnabled = false
+  doesEnforceStandardOpportunitySaveLogic = true
+  enableFindSimilarOpportunities = false
+  enableOpportunityFieldHistoryTracking = false
+  enableOpportunityTeam = false
+  enableUpdateReminders = true
+  oppAmountDealMotionEnabled = "true"
+  oppCloseDateDealMotionEnabled = "true"
+  promptToAddProducts = false
+  simpleOppCreateFromContact = "false"
+  simpleOppCreateFromEvent = "false"
+  enableExpandedPipelineInspectionSetup = "false"
+  enablePipelineInspection = "false"
+  enablePipelineInspectionSingleCategoryRollup = "false"
+  enableServiceCaseInsights = "false"
+  pushCountEnabled = "true"
+  _alias = "Opportunity"
+  enableOpportunityInsightsInMobile = false
+}

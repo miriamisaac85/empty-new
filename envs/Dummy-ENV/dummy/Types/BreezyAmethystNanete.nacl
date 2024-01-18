@@ -1,0 +1,30 @@
+type dummy.BreezyAmethystNanete {
+  annotations {
+    string YoungMagentaLaraine {
+    }
+    hidden_boolean ValidTealRobbie {
+    }
+    string WickedGrayDaphne {
+    }
+    hidden_boolean SemanticBrownMilly {
+    }
+  }
+  json RegionalSapphireWinna {
+    _hidden_value = true
+  }
+  boolean Scatteredgold2Tarah {
+    _hidden_value = true
+  }
+  json ThickAzureDenna {
+    _hidden_value = true
+  }
+  string InnovativeScarletAgace {
+    _hidden_value = true
+  }
+  boolean StructuralLimeCelestyna {
+    _hidden_value = true
+  }
+  YoungMagentaLaraine = "What creature is smarter than a talking parrot? A spelling bee."
+  WickedGrayDaphne = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

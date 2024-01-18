@@ -1,0 +1,78 @@
+type dummy.RareIvoryStacie {
+  annotations {
+    number SoundCrimsonGerry {
+    }
+    dummy.DEFAULT NumerousBlackAda {
+    }
+    number VariedTealGui {
+    }
+    hidden_boolean JoyousChocolateAlica {
+    }
+    json InsufficientChocolateJoann {
+    }
+    number MysteriousGrayBritta {
+    }
+  }
+  boolean NeutralAmberGerry {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RegisteredSilverEmma {
+    _hidden_value = true
+  }
+  json HungryTomatoTanya {
+    _hidden_value = true
+  }
+  hidden_boolean StatisticalSilverViki {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ColorfulPeachDaune {
+    _hidden_value = true
+  }
+  boolean WorthwhileAmberVivienne {
+    _hidden_value = true
+  }
+  dummy.DeliberateMaroonGabbey FierceCrimsonMartelle {
+    LexicalLavenderAlthea = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    DampLavenderCindee = "What do you do on a remote island? Try and find the TV island it belongs to."
+    MinimumChocolateSydelle = "I'll tell you what often gets over looked... garden fences."
+    AngryAquaIlise = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    ConfidentCopperMariam = "Why didnt the skeleton cross the road? Because he had no guts."
+    ScatteredSalmonAddi = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    AlrightChocolateAmalle = false
+    CautiousIndigoNichol = true
+    SweetLimeShayna = 467
+    MilitaryMaroonLee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    GreasyAquamarineNanny = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    HilariousIvoryYettie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AsianSapphireSerena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ShinyAquamarinePenny = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    BroadSapphireTildy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    JustVioletSosanna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    InstantTomatoBinny = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DullIndigoKaralynn = "To be Frank, I'd have to change my name."
+    PreciseApricotTory = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  string AboveLimeRoch {
+    _hidden_value = true
+  }
+  boolean DampAmberKatherina {
+    _hidden_value = true
+  }
+  SoundCrimsonGerry = 135
+  NumerousBlackAda = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  VariedTealGui = 211
+  InsufficientChocolateJoann = "I'll tell you what often gets over looked... garden fences."
+  MysteriousGrayBritta = 743
+  _hidden_value = true
+}

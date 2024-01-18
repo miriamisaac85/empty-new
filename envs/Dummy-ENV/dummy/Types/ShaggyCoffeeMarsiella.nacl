@@ -1,0 +1,107 @@
+type dummy.ShaggyCoffeeMarsiella {
+  annotations {
+    string FormalBlueGwyneth {
+    }
+    hidden_boolean RadicalBlushMallissa {
+    }
+    dummy.HurtJadeVevay TallCyanCristabel {
+    }
+    serviceid SuccessfulPlumSarita {
+    }
+    boolean RearLimeNalani {
+    }
+  }
+  serviceid QuickMagentaRicki {
+    _hidden_value = true
+  }
+  hidden_boolean InnocentLavenderAngil {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RareJadeFleur {
+    _hidden_value = true
+  }
+  serviceid AdorableEmeraldSisile {
+    _hidden_value = true
+  }
+  boolean OutrageousBrownJacintha {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea AbsentPurpleBrigida {
+    MinorPinkAriadne = "Dad Im hungry  Hi hungry Im dad"
+    ChubbyRoseConstancia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ImmenseTurquoiseNita = "Why do birds fly south for the winter? Because it's too far to walk."
+    FluffyYellowMarybelle = false
+    PainfulPlumRomy = 99
+    CompleteSapphireTeressa = true
+    HungryTomatoCarmelita = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FluffyPurpleRoselin = "What did one nut say as he chased another nut?  I'm a cashew!"
+    IdealVioletKania = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HomelessPurpleJane = "Why did the tomato blush? Because it saw the salad dressing."
+    SkilledAquaTammara = "Slept like a log last night  woke up in the fireplace."
+    PeculiarAmethystBethanne = 561
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LinearBlueGilli = "Why is Peter Pan always flying? Because he Neverlands."
+    AssociatedCrimsonDreddy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  boolean InvisibleTurquoiseJosi {
+    _hidden_value = true
+  }
+  serviceid TameCyanLinea {
+    _hidden_value = true
+  }
+  number EasyPeachBuffy {
+    _hidden_value = true
+  }
+  hidden_boolean WellApricotTorey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ImportantScarletAlicia {
+    _hidden_value = true
+  }
+  json DeterminedBlackPeria {
+    _hidden_value = true
+  }
+  boolean VitalFuchsiaErnestine {
+    _hidden_value = true
+  }
+  number WoodenAmaranthMelissa {
+    _hidden_value = true
+  }
+  hidden_boolean NastyEmeraldClerissa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.PuzzledTanTildi MetropolitanRedKarna {
+    Oldgold2Kaylil = false
+    _hidden_value = true
+  }
+  boolean MaximumTomatoAllissa {
+    _hidden_value = true
+  }
+  json PoorGreenMarika {
+    _hidden_value = true
+  }
+  hidden_boolean GreatBrownMatilda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PeculiarYellowRochelle {
+    _hidden_value = true
+  }
+  serviceid VisualOliveVelma {
+    _hidden_value = true
+  }
+  FormalBlueGwyneth = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TallCyanCristabel = false
+  SuccessfulPlumSarita = "Why do birds fly south for the winter? Because it's too far to walk."
+  RearLimeNalani = false
+  _hidden_value = true
+}

@@ -1,0 +1,112 @@
+type salesforce.OmniScript {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string customHtmlTemplates {
+  }
+  string customJavaScript {
+  }
+  string description {
+  }
+  string designerCustomizationType {
+  }
+  string discoveryFrameworkUsageType {
+  }
+  string elementTypeComponentMapping {
+  }
+  boolean isActive {
+  }
+  boolean isIntegrationProcedure {
+  }
+  boolean isMetadataCacheDisabled {
+  }
+  boolean isOmniScriptEmbeddable {
+  }
+  boolean isTestProcedure {
+  }
+  boolean isWebCompEnabled {
+  }
+  string language {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "da",
+        "de",
+        "en_US",
+        "es",
+        "es_MX",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "nl_NL",
+        "no",
+        "pt_BR",
+        "ru",
+        "sv",
+        "th",
+        "zh_CN",
+        "zh_TW",
+      ]
+    }
+  }
+  string lastPreviewPage {
+  }
+  string name {
+  }
+  string nameSpace {
+  }
+  salesforce.OmniProcessElement omniProcessElements {
+  }
+  string omniProcessKey {
+  }
+  string omniProcessType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Integration Procedure",
+        "OmniScript",
+        "Test Procedure",
+      ]
+    }
+  }
+  string overrideKey {
+  }
+  string propertySetConfig {
+  }
+  string requiredPermission {
+  }
+  string responseCacheType {
+  }
+  string subType {
+  }
+  string type {
+  }
+  string uniqueName {
+  }
+  number versionNumber {
+  }
+  string webComponentKey {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "os"
+  dirName = "omniScripts"
+  metadataType = "OmniScript"
+}

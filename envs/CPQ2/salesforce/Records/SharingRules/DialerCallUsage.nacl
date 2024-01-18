@@ -1,0 +1,4 @@
+salesforce.SharingRules DialerCallUsage {
+  fullName = "DialerCallUsage"
+  _alias = "DialerCallUsage"
+}

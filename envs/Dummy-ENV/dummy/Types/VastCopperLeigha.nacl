@@ -1,0 +1,106 @@
+type dummy.VastCopperLeigha {
+  annotations {
+    boolean DecentSalmonSiusan {
+    }
+    boolean EnglishLavenderGenny {
+    }
+    dummy.DEFAULT DependentPinkBetteann {
+    }
+    json StickyTomatoNora {
+    }
+    hidden_boolean Splendidgold2Bevvy {
+    }
+    hidden_boolean SpiritualPurpleGerry {
+    }
+  }
+  number CognitiveFuchsiaFelisha {
+    _hidden_value = true
+  }
+  string NearGreenLeoine {
+    _hidden_value = true
+  }
+  string GladJadeAnaliese {
+    _hidden_value = true
+  }
+  string WeakBlueAntonia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PunyChocolateBarbie {
+    _hidden_value = true
+  }
+  json ItalianCrimsonConstantina {
+    _hidden_value = true
+  }
+  serviceid NationalPeachMari {
+    _hidden_value = true
+  }
+  dummy.LightAmethystFrank WonderfulGreenNoemi {
+    HonCrimsonGwen = 823
+    ProposedBrownDominique = false
+    ScaryMagentaJoby = "Did you know that protons have mass? I didn't even know they were catholic."
+    ObligedAquamarineLise = 126
+    IraqiCoffeeKaree = 986
+    Burninggold2Sybille = true
+    SubsequentGrayKania = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    RespectableAmberCassy = "Why did the kid cross the playground? To get to the other slide."
+    DiversePinkJoanne = "Slept like a log last night  woke up in the fireplace."
+    FrontPlumCamila = "Did you know that protons have mass? I didn't even know they were catholic."
+    DelightfulAmberFrieda = "What do you call two barracuda fish?  A Pairacuda!"
+    DeafCoffeeCookie = "Why did the tomato blush? Because it saw the salad dressing."
+    TastyFuchsiaCarol = 394
+    _hidden_value = true
+  }
+  json VisitingLimeHeddi {
+    _hidden_value = true
+  }
+  boolean WealthyEmeraldAshien {
+    _hidden_value = true
+  }
+  hidden_boolean WholeMaroonMarla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EarlyPlumShannah {
+    _hidden_value = true
+  }
+  boolean EffectiveIvoryRandee {
+    _hidden_value = true
+  }
+  boolean GuiltyRoseLoretta {
+    _hidden_value = true
+  }
+  string MammothEmeraldCarmelle {
+    _hidden_value = true
+  }
+  json LowYellowLucie {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" ThenBlackRoselin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SacredCopperPhilippine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentSalmonDarsey {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PrettyAmethystMadelin {
+    _hidden_value = true
+  }
+  DecentSalmonSiusan = false
+  EnglishLavenderGenny = false
+  DependentPinkBetteann = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  StickyTomatoNora = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

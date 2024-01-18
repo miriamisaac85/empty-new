@@ -1,0 +1,42 @@
+type dummy.VulnerableFuchsiaMichal {
+  annotations {
+    string WrittenCoffeegold2arina {
+    }
+    hidden_boolean GloriousCoffeeVenus {
+    }
+    boolean FrailAzureJoann {
+    }
+  }
+  string Confidentialgold2Celina {
+    _hidden_value = true
+  }
+  number FlyingEmeraldPetronella {
+    _hidden_value = true
+  }
+  number ResonantCopperShawn {
+    _hidden_value = true
+  }
+  number SoleHarlequinKarie {
+    _hidden_value = true
+  }
+  json FaithfulIvoryHarri {
+    _hidden_value = true
+  }
+  number DistinctiveSapphireDalia {
+    _hidden_value = true
+  }
+  serviceid LuckyApricotRubie {
+    _hidden_value = true
+  }
+  hidden_boolean AggressiveLavenderDevondra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT PanickyEmeraldPhillis {
+    _hidden_value = true
+  }
+  WrittenCoffeegold2arina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FrailAzureJoann = true
+  _hidden_value = true
+}

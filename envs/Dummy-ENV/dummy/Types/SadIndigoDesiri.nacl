@@ -1,0 +1,80 @@
+type dummy.SadIndigoDesiri {
+  annotations {
+    hidden_boolean RenewedCyanRemy {
+    }
+    hidden_boolean EthnicRoseKissie {
+    }
+    boolean GayOrangeRoana {
+    }
+    json HandsomeBlackCynthea {
+    }
+    string ProminentPinkTamara {
+    }
+  }
+  "List<string>" SpanishFuchsiaJanifer {
+    _hidden_value = true
+  }
+  boolean WonderfulAmberCheri {
+    _hidden_value = true
+  }
+  json AtomicWhiteJodie {
+    _hidden_value = true
+  }
+  serviceid SolidLimePhil {
+    _hidden_value = true
+  }
+  boolean ProfoundHarlequinSharlene {
+    _hidden_value = true
+  }
+  number CrazyCrimsonLola {
+    _hidden_value = true
+  }
+  serviceid BreakableAquaToinette {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" TroubledGrayEmelita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LiableAzureRasia {
+    _hidden_value = true
+  }
+  boolean TameTomatoShaylynn {
+    _hidden_value = true
+  }
+  serviceid ExcitingMoccasinDori {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetTomatoPetrina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AbundantCoralBelva MuteScarletBunny {
+    NarrowLavenderWren = true
+    JustAquaTobi = "To be Frank, I'd have to change my name."
+    NutritiousApricotKarly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ScreechingJadeRennie = true
+    SharedHarlequinMarnie = true
+    ImmenseBlushJyoti = 596
+    SmoothGrayGilemette = 378
+    _hidden_value = true
+  }
+  "List<json>" FemaleSalmonElonore {
+    _hidden_value = true
+  }
+  json PromisingAquaCharmane {
+    _hidden_value = true
+  }
+  serviceid UrbanBlushMarketa {
+    _hidden_value = true
+  }
+  json MildScarletGenna {
+    _hidden_value = true
+  }
+  GayOrangeRoana = false
+  HandsomeBlackCynthea = "A steak pun is a rare medium well done."
+  ProminentPinkTamara = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

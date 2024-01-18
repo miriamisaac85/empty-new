@@ -1,0 +1,28 @@
+salesforce.ConnectedApp Salto_Staging {
+  fullName = "Salto_Staging"
+  contactEmail = "gilad.foyer@salto.io"
+  label = "Salto Staging"
+  logoUrl = "https://salto--c.documentforce.com/servlet/servlet.ImageServer?id=0154J000000b7h2&oid=00D4J000000Ewx9"
+  oauthConfig = {
+    callbackUrl = "https://app-staging.salto.io/salesforce-oauth2-redirect"
+    consumerKey = "3MVG9tzQRhEbH_K2NTEe0oO4YJLSmSIzVIypW0OT5r_JS2LYsJR51a4X4FfdEV_rcTFStdIz9uItC4q6_l3o2"
+    isAdminApproved = false
+    isConsumerSecretOptional = true
+    isIntrospectAllTokens = false
+    isSecretRequiredForRefreshToken = false
+    scopes = [
+      "Full",
+      "RefreshToken",
+    ]
+    isClientCredentialEnabled = false
+    isCodeCredentialEnabled = false
+    isCodeCredentialPostOnly = false
+    isNamedUserJwtEnabled = false
+    isPkceRequired = false
+  }
+  oauthPolicy = {
+    ipRelaxation = "ENFORCE_RELAXREFRESH"
+    refreshTokenPolicy = "infinite"
+  }
+  _alias = "Salto Staging"
+}

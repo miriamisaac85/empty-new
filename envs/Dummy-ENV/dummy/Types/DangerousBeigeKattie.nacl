@@ -1,0 +1,159 @@
+type dummy.DangerousBeigeKattie {
+  annotations {
+    string GradualApricotBree {
+    }
+    boolean InterestedIndigoBritney {
+    }
+    dummy.DEFAULT BlueMoccasinTerrie {
+    }
+    json HostileTomatoTova {
+    }
+    boolean MatureSapphireLarisa {
+    }
+    json PreciseApricotNata {
+    }
+  }
+  serviceid ConcernedVioletJunie {
+    _hidden_value = true
+  }
+  hidden_boolean AlonePurpleLotta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SoftTurquoiseDella {
+    _hidden_value = true
+  }
+  json DrabBronzeRozalin {
+    _hidden_value = true
+  }
+  json AbsentAquamarineKatey {
+    _hidden_value = true
+  }
+  json PlainTealBlondie {
+    _hidden_value = true
+  }
+  serviceid SelectHarlequinPrisca {
+    _hidden_value = true
+  }
+  hidden_boolean GreatBronzeAggie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean Closegold2Vivia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ExtremeTealMargette {
+    _hidden_value = true
+  }
+  boolean FewAquamarineAlvera {
+    _hidden_value = true
+  }
+  number SuperOliveSadella {
+    _hidden_value = true
+  }
+  json Decisivegold2Adriane {
+    _hidden_value = true
+  }
+  string LoyalAmaranthMahalia {
+    _hidden_value = true
+  }
+  boolean ComparativeMoccasinRubi {
+    _hidden_value = true
+  }
+  serviceid UselessTanTwila {
+    _hidden_value = true
+  }
+  dummy.HurtJadeVevay OutrageousSapphireHolli {
+    DeliberateBlueDeirdre = true
+    MinimumApricotEdee = false
+    BewilderedCopperDorotea = "Dad Im hungry  Hi hungry Im dad"
+    VulnerableMagentaInga = "What do you call two barracuda fish?  A Pairacuda!"
+    HighLavenderLucretia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ScrawnyBeigeNoni = true
+    LevelBlueAdelind = "Why do birds fly south for the winter? Because it's too far to walk."
+    ChristianFuchsiaRobenia = "Why did the kid cross the playground? To get to the other slide."
+    OutrageousAquaDina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EvolutionaryTurquoiseKristen = 628
+    DryOliveDoralia = "Why is Peter Pan always flying? Because he Neverlands."
+    HappyOrangeEdin = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    BrownSalmonGrier = 528
+    CarefulHarlequinPhaidra = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    CombativeTanDarline = false
+    ChillyAzureElaina = 825
+    _hidden_value = true
+  }
+  json ParticularSapphireRevkah {
+    _hidden_value = true
+  }
+  boolean FierceMoccasinAnnamaria {
+    _hidden_value = true
+  }
+  hidden_boolean ElegantPlumLorrin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PinkBlushAinslie BoredAmaranthLiz {
+    NutritiousAquamarineElie = 351
+    AdvisoryMaroonSharron = "Dad Im hungry  Hi hungry Im dad"
+    GenuineGreenAbbie = 426
+    SupremeChocolateBria = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ObedientHarlequinChelsy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MysteriousRoseJordana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ThirstyTurquoiseMarne = "Im only familiar with 25 letters in the English language. I dont know why."
+    FinancialIndigoMonah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    EntitledScarletPammie = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  number AnxiousAmberGilemette {
+    _hidden_value = true
+  }
+  number WorkingAmethystElset {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CuddlyBeigeRamona {
+    _hidden_value = true
+  }
+  dummy.BewilderedGreenRosemarie SuitableEmeraldDaniela {
+    HighBlushMoyna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ClearPeachUla = "How come the stadium got hot after the game? Because all of the fans left."
+    ControlledPeachKathye = 781
+    LeadingIvoryGlory = 792
+    _hidden_value = true
+  }
+  number InquisitiveCopperRisa {
+    _hidden_value = true
+  }
+  "List<serviceid>" SupremeCrimsonHildegarde {
+    _hidden_value = true
+  }
+  hidden_boolean OtherCoralMadonna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json RandomPinkTeddie {
+    _hidden_value = true
+  }
+  number DelightfulCopperDiann {
+    _hidden_value = true
+  }
+  number SexualYellowTami {
+    _hidden_value = true
+  }
+  GradualApricotBree = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InterestedIndigoBritney = false
+  BlueMoccasinTerrie = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  HostileTomatoTova = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MatureSapphireLarisa = true
+  PreciseApricotNata = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

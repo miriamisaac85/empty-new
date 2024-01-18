@@ -1,0 +1,29 @@
+type dummy.PassiveGrayPippa {
+  boolean PlannedTurquoiseJaquelyn {
+  }
+  number IllBlackHelenelizabeth {
+  }
+  serviceid NecessaryPurpleMorganne {
+  }
+  hidden_boolean EnglishAzureDebora {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  number MissingSapphireGerta {
+  }
+  serviceid UnpleasantPeachSheelagh {
+  }
+  string HurtCoralInes {
+  }
+  boolean SickCoralShaina {
+  }
+  boolean IntegratedAquamarineDeerdre {
+  }
+  string AdorableOliveEbonee {
+  }
+  boolean UncomfortablePinkLoni {
+  }
+  string GermanAzureCaitrin {
+  }
+}

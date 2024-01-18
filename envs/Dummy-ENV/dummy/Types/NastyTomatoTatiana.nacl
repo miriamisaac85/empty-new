@@ -1,0 +1,40 @@
+type dummy.NastyTomatoTatiana {
+  annotations {
+    json BareLimeRanique {
+    }
+    json EthnicAquamarineJoelie {
+    }
+    boolean DisciplinarySapphireSheelah {
+    }
+    json PerfectPeachJojo {
+    }
+    hidden_boolean HelplessVioletAlyss {
+    }
+  }
+  json DyingIvoryRoda {
+    _hidden_value = true
+  }
+  json MysteriousAmaranthRina {
+    _hidden_value = true
+  }
+  boolean HappyEmeraldMarita {
+    _hidden_value = true
+  }
+  json CompactSalmonJessie {
+    _hidden_value = true
+  }
+  json Saltygold2Nanny {
+    _hidden_value = true
+  }
+  number FlexibleMagentaPauly {
+    _hidden_value = true
+  }
+  serviceid CentralTealCourtney {
+    _hidden_value = true
+  }
+  BareLimeRanique = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EthnicAquamarineJoelie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DisciplinarySapphireSheelah = true
+  PerfectPeachJojo = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

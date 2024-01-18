@@ -1,0 +1,88 @@
+type dummy.CivicIvoryCarolyn {
+  annotations {
+    json RoughIndigoMaddi {
+    }
+    boolean AustralianBlueJorrie {
+    }
+    hidden_boolean BreezyIndigoLorie {
+    }
+    hidden_boolean HandicappedOrangeDarla {
+    }
+    serviceid SorryAquamarineDarline {
+    }
+  }
+  string CuriousCoralCaresa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WonderfulYellowSisely {
+    _hidden_value = true
+  }
+  json MassIndigoAggie {
+    _hidden_value = true
+  }
+  string MagicCopperRonny {
+    _hidden_value = true
+  }
+  boolean SignificantRosePerle {
+    _hidden_value = true
+  }
+  hidden_boolean AdditionalRedMelisenda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string EncouragingSapphireLauree {
+    _hidden_value = true
+  }
+  serviceid VariablePeachKaylyn {
+    _hidden_value = true
+  }
+  hidden_boolean ExcessiveMagentaAdore {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrudePlumFaustine {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualEmeraldUrsuline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ExperimentalOliveLory {
+    _hidden_value = true
+  }
+  serviceid BoilingCyanCassandra {
+    _hidden_value = true
+  }
+  "List<number>" KoreanMagentaRoseanna {
+    _hidden_value = true
+  }
+  string MiserableHarlequinTheressa {
+    _hidden_value = true
+  }
+  hidden_boolean MagentaWhiteMercedes {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa ApplicableLavenderGlynis {
+    _hidden_value = true
+  }
+  hidden_boolean CivilianGrayGusti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CapitalistAquamarineEudora {
+    _hidden_value = true
+  }
+  string AmericanTurquoiseSapphira {
+    _hidden_value = true
+  }
+  RoughIndigoMaddi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AustralianBlueJorrie = true
+  SorryAquamarineDarline = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

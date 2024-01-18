@@ -1,0 +1,79 @@
+type dummy.IllegalLimeHolli {
+  annotations {
+    string RunningTanKrystalle {
+    }
+    number SpecifiedCopperSeana {
+    }
+    boolean KindAmethystReine {
+    }
+    boolean FreshGrayBernette {
+    }
+    number StuckCyanMarillin {
+    }
+    dummy.NuclearBlueCorinna DefiantRoseElsey {
+    }
+  }
+  serviceid JustBlackBellanca {
+    _hidden_value = true
+  }
+  hidden_boolean StiffCrimsonDolorita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid InitialTomatoJoanne {
+    _hidden_value = true
+  }
+  json ComfortableOrangeMariejeanne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PanickyRedKatya {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StickyRedGena {
+    _hidden_value = true
+  }
+  boolean TechnicalCoralStevana {
+    _hidden_value = true
+  }
+  json WeakBeigeAdi {
+    _hidden_value = true
+  }
+  json UptightRedWillyt {
+    _hidden_value = true
+  }
+  string NeatAmethystElspeth {
+    _hidden_value = true
+  }
+  dummy.AppropriateChocolateLadonna ShakyTurquoiseRenie {
+    SilentLavenderMidge = "Why was it called the dark ages? Because of all the knights. "
+    PotentialBronzeManya = "To be Frank, I'd have to change my name."
+    FirmTurquoiseMagdalena = "A steak pun is a rare medium well done."
+    DirectIndigoNannie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EthicalHarlequinCarmon = "I'll tell you what often gets over looked... garden fences."
+    KindIndigoHelen = true
+    PlannedOrangeWynn = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  dummy.BizarreScarletKarrie IdenticalHarlequinDorothee {
+    BrightFuchsiaVivianne = 999
+    HonWhiteCorrina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    IntegratedFuchsiaNell = 240
+    DramaticCoralVelma = "My first time using an elevator was an uplifting experience. The second time let me down."
+    VariousBlackOdilia = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ManyApricotPierette = "Why did the tomato blush? Because it saw the salad dressing."
+    CloudySilverLara = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ItchyJadeMelina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    HumanAquamarineAnnabella = 823
+    _hidden_value = true
+  }
+  RunningTanKrystalle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SpecifiedCopperSeana = 128
+  KindAmethystReine = true
+  FreshGrayBernette = true
+  StuckCyanMarillin = 23
+  DefiantRoseElsey = 811
+  _hidden_value = true
+}

@@ -1,0 +1,82 @@
+type dummy.LatinBeigeRubetta {
+  annotations {
+    serviceid ConcernedJadeRandene {
+    }
+    number ConsistentRedAnestassia {
+    }
+    number GrossAquamarineDeina {
+    }
+    hidden_boolean DepressedSilverDonny {
+    }
+    boolean PurpleJadeRaine {
+    }
+    hidden_boolean UnwillingPinkZarah {
+    }
+    hidden_boolean ChosenCopperWrennie {
+    }
+  }
+  boolean Convincinggold2Nanci {
+    _hidden_value = true
+  }
+  boolean InitialAmaranthSaraann {
+    _hidden_value = true
+  }
+  string ProvincialSilverRay {
+    _hidden_value = true
+  }
+  serviceid JoyousBlueMelamie {
+    _hidden_value = true
+  }
+  json DrivingRedBlinny {
+    _hidden_value = true
+  }
+  boolean BizarrePeachDoralynn {
+    _hidden_value = true
+  }
+  string GuiltySalmonNoellyn {
+    _hidden_value = true
+  }
+  number DomesticOrangeDale {
+    _hidden_value = true
+  }
+  serviceid HandsomeRoseSharity {
+    _hidden_value = true
+  }
+  hidden_boolean NearbyChocolateIlene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PerfectCopperChryste {
+    _hidden_value = true
+  }
+  boolean FellowRedCandice {
+    _hidden_value = true
+  }
+  serviceid InsufficientBrownXena {
+    _hidden_value = true
+  }
+  boolean ApplicableTealOrelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChosenPlumGilemette {
+    _hidden_value = true
+  }
+  number DependentOrangeElsinore {
+    _hidden_value = true
+  }
+  string InternationalApricotStacy {
+    _hidden_value = true
+  }
+  boolean MathematicalRedLisabeth {
+    _hidden_value = true
+  }
+  string WanderingSapphireLuce {
+    _hidden_value = true
+  }
+  ConcernedJadeRandene = "A steak pun is a rare medium well done."
+  ConsistentRedAnestassia = 33
+  GrossAquamarineDeina = 661
+  PurpleJadeRaine = false
+  _hidden_value = true
+}

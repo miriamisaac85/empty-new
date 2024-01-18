@@ -1,0 +1,56 @@
+type dummy.RapidWhiteHedwiga {
+  annotations {
+    boolean AdjacentOrangeUmeko {
+    }
+    dummy.DifficultBlackSabina CooperativeMagentaBrook {
+    }
+    number LeftScarletBarbee {
+    }
+    boolean FatBlueElbertina {
+    }
+    serviceid RightBlushKalindi {
+    }
+    string CoolFuchsiaElli {
+    }
+    dummy.ThoughtfulAmberMuriel HostileGreenSheree {
+    }
+    json HotVioletHildegarde {
+    }
+    string HorribleMaroonEachelle {
+    }
+    number IntenseAzureHonor {
+    }
+    serviceid GreekTomatoGusti {
+    }
+    dummy.FriendlyPeachMagdaia FashionablePurpleErinn {
+    }
+    string SourPinkIanthe {
+    }
+    number MarginalScarletZara {
+    }
+    hidden_boolean OrdinaryAmberZitella {
+    }
+    string GuiltyBronzeNicol {
+    }
+    string PoisedScarletLeann {
+    }
+    serviceid TameTurquoiseLarissa {
+    }
+    hidden_boolean EnergeticAquamarineAila {
+    }
+  }
+  AdjacentOrangeUmeko = true
+  LeftScarletBarbee = 564
+  FatBlueElbertina = true
+  RightBlushKalindi = "Why is Peter Pan always flying? Because he Neverlands."
+  CoolFuchsiaElli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HotVioletHildegarde = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HorribleMaroonEachelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IntenseAzureHonor = 93
+  GreekTomatoGusti = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SourPinkIanthe = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MarginalScarletZara = 143
+  GuiltyBronzeNicol = "How come the stadium got hot after the game? Because all of the fans left."
+  PoisedScarletLeann = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TameTurquoiseLarissa = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

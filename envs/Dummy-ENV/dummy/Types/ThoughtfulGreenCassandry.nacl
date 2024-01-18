@@ -1,0 +1,25 @@
+type dummy.ThoughtfulGreenCassandry {
+  annotations {
+    hidden_boolean ConventionalIndigoCherice {
+    }
+    serviceid InevitableGreenKari {
+    }
+    boolean AsianAmaranthFlorie {
+    }
+    serviceid BeautifulMaroonLanni {
+    }
+    number WickedCopperTracee {
+    }
+    dummy.SoundAmaranthImelda RareApricotTrudy {
+    }
+  }
+  json SemanticGrayVivianna {
+    _hidden_value = true
+  }
+  InevitableGreenKari = "Dad Im hungry  Hi hungry Im dad"
+  AsianAmaranthFlorie = false
+  BeautifulMaroonLanni = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WickedCopperTracee = 803
+  RareApricotTrudy = 587
+  _hidden_value = true
+}

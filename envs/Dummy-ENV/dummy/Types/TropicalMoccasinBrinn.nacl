@@ -1,0 +1,26 @@
+type dummy.TropicalMoccasinBrinn {
+  annotations {
+    dummy.DEFAULT OrdinaryEmeraldDeva {
+    }
+    serviceid GloriousTurquoiseMuriel {
+    }
+    dummy.DEFAULT ComplicatedRedMoll {
+    }
+    serviceid LiquidSapphireOndrea {
+    }
+  }
+  hidden_boolean FatBlueMichaeline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  OrdinaryEmeraldDeva = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  GloriousTurquoiseMuriel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ComplicatedRedMoll = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  LiquidSapphireOndrea = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

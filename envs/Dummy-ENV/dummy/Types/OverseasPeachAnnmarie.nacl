@@ -1,0 +1,27 @@
+type dummy.OverseasPeachAnnmarie {
+  annotations {
+    dummy.BizarreScarletKarrie CrookedBrownLeila {
+    }
+    string UglyBeigeGussi {
+    }
+    dummy.DEFAULT Supportinggold2Fredrika {
+    }
+    json ExactCopperNessa {
+    }
+    hidden_boolean HolyJadeCam {
+    }
+    boolean CooingPurpleGennie {
+    }
+  }
+  boolean LiquidFuchsiaDevinne {
+    _hidden_value = true
+  }
+  CrookedBrownLeila = 31
+  UglyBeigeGussi = "Why did the kid cross the playground? To get to the other slide."
+  Supportinggold2Fredrika = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  ExactCopperNessa = "Im only familiar with 25 letters in the English language. I dont know why."
+  CooingPurpleGennie = false
+  _hidden_value = true
+}

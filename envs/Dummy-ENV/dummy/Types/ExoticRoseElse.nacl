@@ -1,0 +1,35 @@
+type dummy.ExoticRoseElse {
+  annotations {
+    dummy.StructuralChocolateMeggie OptimisticAquaMalanie {
+    }
+    string PlainPlumMelina {
+    }
+    hidden_boolean MistyVioletRahal {
+    }
+    dummy.DEFAULT ChineseTealGuenna {
+    }
+    json ConstitutionalPurpleDelcine {
+    }
+  }
+  hidden_boolean GiantPurpleEilis {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ArmedChocolateJacquenette {
+    _hidden_value = true
+  }
+  number RoughAmaranthCoreen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OkRoseDacia {
+    _hidden_value = true
+  }
+  OptimisticAquaMalanie = 274
+  PlainPlumMelina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ChineseTealGuenna = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  ConstitutionalPurpleDelcine = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

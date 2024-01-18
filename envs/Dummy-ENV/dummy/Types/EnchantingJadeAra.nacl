@@ -1,0 +1,22 @@
+type dummy.EnchantingJadeAra {
+  annotations {
+    boolean DeterminedJadeAlana {
+    }
+    string QuickestScarletDarsey {
+    }
+    string EthicalLimeWanda {
+    }
+    boolean ReadyWhiteLesley {
+    }
+    hidden_boolean HollowPinkMarilin {
+    }
+  }
+  string MixedTurquoiseBerrie {
+    _hidden_value = true
+  }
+  DeterminedJadeAlana = true
+  QuickestScarletDarsey = "Why did the kid cross the playground? To get to the other slide."
+  EthicalLimeWanda = "Why did the kid cross the playground? To get to the other slide."
+  ReadyWhiteLesley = false
+  _hidden_value = true
+}

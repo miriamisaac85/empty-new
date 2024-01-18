@@ -1,0 +1,116 @@
+type dummy.DualAmethystMarney {
+  annotations {
+    boolean RelatedCrimsonSharla {
+    }
+    dummy.DEFAULT ExperimentalGrayBerta {
+    }
+    serviceid MistySapphireRafaela {
+    }
+    string HappyOliveWren {
+    }
+    number ObligedGrayHyacinthia {
+    }
+    json CooperativeVioletBarby {
+    }
+    json RenewedGreenAuberta {
+    }
+  }
+  number ReliableSapphireVeriee {
+    _hidden_value = true
+  }
+  json UnacceptableAquamarineKaren {
+    _hidden_value = true
+  }
+  number ParallelTealRosene {
+    _hidden_value = true
+  }
+  string EncouragingPeachFreddy {
+    _hidden_value = true
+  }
+  serviceid SteepIndigoDorelle {
+    _hidden_value = true
+  }
+  boolean WorryingMagentaLuella {
+    _hidden_value = true
+  }
+  string ResidentPinkGwendolyn {
+    _hidden_value = true
+  }
+  serviceid NearbyCoffeeTiffani {
+    _hidden_value = true
+  }
+  number CoastalScarletSophia {
+    _hidden_value = true
+  }
+  number HeadTomatoWynny {
+    _hidden_value = true
+  }
+  hidden_boolean SlightAmaranthAvis {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BlondeTealMaribeth {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number InnovativeTealCleopatra {
+    _hidden_value = true
+  }
+  dummy.PuzzledTanTildi SystematicOrangeRenae {
+    Oldgold2Kaylil = true
+    _hidden_value = true
+  }
+  hidden_boolean UptightAmethystEartha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ImmenseMoccasinFanechka {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConsciousRedRoch {
+    _hidden_value = true
+  }
+  serviceid MinisterialTurquoiseRora {
+    _hidden_value = true
+  }
+  boolean ToughPinkTobe {
+    _hidden_value = true
+  }
+  number SpectacularIndigoKameko {
+    _hidden_value = true
+  }
+  json PassingPinkSherline {
+    _hidden_value = true
+  }
+  json SpiritualWhiteRubia {
+    _hidden_value = true
+  }
+  string ViolentBlueRosamond {
+    _hidden_value = true
+  }
+  json GentleAmethystAshil {
+    _hidden_value = true
+  }
+  serviceid DisciplinaryAmethystAleece {
+    _hidden_value = true
+  }
+  serviceid StingyVioletSallee {
+    _hidden_value = true
+  }
+  boolean AngryMoccasinWillamina {
+    _hidden_value = true
+  }
+  RelatedCrimsonSharla = true
+  ExperimentalGrayBerta = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  MistySapphireRafaela = "Whoever invented the knock-knock joke should get a no bell prize."
+  HappyOliveWren = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ObligedGrayHyacinthia = 615
+  CooperativeVioletBarby = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RenewedGreenAuberta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

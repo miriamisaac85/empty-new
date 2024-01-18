@@ -1,0 +1,41 @@
+type dummy.TechnologicalApricotPennie {
+  annotations {
+    dummy.DEFAULT CharacteristicScarletAdelaida {
+    }
+    dummy.DEFAULT AbsentCoralDynah {
+    }
+    json LoudRoseSalli {
+    }
+    json NearbyLimeAilee {
+    }
+    hidden_boolean ExtremeCopperIda {
+    }
+  }
+  json OverseasBrownArdis {
+    _hidden_value = true
+  }
+  boolean CognitiveRedMarlo {
+    _hidden_value = true
+  }
+  json CalmJadeMyrtie {
+    _hidden_value = true
+  }
+  serviceid VisibleCyanNady {
+    _hidden_value = true
+  }
+  boolean InterimMoccasinMathilda {
+    _hidden_value = true
+  }
+  string GothicPlumFidela {
+    _hidden_value = true
+  }
+  CharacteristicScarletAdelaida = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  AbsentCoralDynah = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  LoudRoseSalli = "Why did the kid cross the playground? To get to the other slide."
+  NearbyLimeAilee = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

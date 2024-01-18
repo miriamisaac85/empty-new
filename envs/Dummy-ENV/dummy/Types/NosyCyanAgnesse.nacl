@@ -1,0 +1,22 @@
+type dummy.NosyCyanAgnesse {
+  annotations {
+    dummy.DEFAULT StalePeachMarjie {
+    }
+    number RoughAmberDolley {
+    }
+    number HeavyTanTasia {
+    }
+    boolean ProspectiveJadeEnid {
+    }
+  }
+  string InstitutionalOrangeDrusi {
+    _hidden_value = true
+  }
+  StalePeachMarjie = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  RoughAmberDolley = 187
+  HeavyTanTasia = 291
+  ProspectiveJadeEnid = true
+  _hidden_value = true
+}

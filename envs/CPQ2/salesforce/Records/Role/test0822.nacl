@@ -1,0 +1,9 @@
+salesforce.Role test0822 {
+  fullName = "test0822"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  mayForecastManagerShare = false
+  name = "test0822"
+  opportunityAccessLevel = "Edit"
+  _alias = "test0822"
+}

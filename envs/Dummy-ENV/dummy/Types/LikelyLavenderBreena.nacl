@@ -1,0 +1,53 @@
+type dummy.LikelyLavenderBreena {
+  annotations {
+    boolean LonelyIvorySam {
+    }
+    hidden_boolean SubtleMoccasinGwenny {
+    }
+    hidden_boolean ShortFuchsiaCarlota {
+    }
+    string ScatteredScarletCatlaina {
+    }
+    serviceid SpicyAmberDulsea {
+    }
+    number NutritiousApricotMyranda {
+    }
+  }
+  string SquareBlushMonika {
+    _hidden_value = true
+  }
+  json GentlePinkMyrlene {
+    _hidden_value = true
+  }
+  serviceid FashionableBlackJanella {
+    _hidden_value = true
+  }
+  boolean WidespreadLimeMalia {
+    _hidden_value = true
+  }
+  boolean NewMaroonKiley {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeAquaKetti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" OtherWhiteAnnabelle {
+    _hidden_value = true
+  }
+  boolean SouthernCrimsonSuellen {
+    _hidden_value = true
+  }
+  boolean WoodenBeigeHeath {
+    _hidden_value = true
+  }
+  boolean RealisticPeachLeeann {
+    _hidden_value = true
+  }
+  LonelyIvorySam = true
+  ScatteredScarletCatlaina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SpicyAmberDulsea = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  NutritiousApricotMyranda = 771
+  _hidden_value = true
+}

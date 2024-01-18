@@ -1,0 +1,58 @@
+type dummy.RigidTurquoiseMoll {
+  annotations {
+    hidden_boolean TerritorialIndigoDevonna {
+    }
+    serviceid ComprehensiveHarlequinJennie {
+    }
+    json VariousCopperInes {
+    }
+    serviceid StandardLimeKarlotta {
+    }
+    string StormyPurpleFallon {
+    }
+    string SuperWhiteDona {
+    }
+    boolean CollectiveRedEma {
+    }
+    serviceid ObnoxiousMoccasinEvvy {
+    }
+    hidden_boolean ShinyTomatoMaxy {
+    }
+    json DualAmberZaria {
+    }
+    boolean RattyRoseEmera {
+    }
+    boolean QuietChocolateJana {
+    }
+    string StructuralAquamarineBrett {
+    }
+    dummy.EntireBrownJacki ControversialGrayMeris {
+    }
+    number SurvivingIvoryVitia {
+    }
+    string CalmTomatoBirdie {
+    }
+    serviceid SpatialTomatoChelsie {
+    }
+    dummy.VoluntaryBlushSonja PoorMaroonKarola {
+    }
+    hidden_boolean InstantWhiteYolanthe {
+    }
+  }
+  ComprehensiveHarlequinJennie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VariousCopperInes = "Why is Peter Pan always flying? Because he Neverlands."
+  StandardLimeKarlotta = "Why did the kid cross the playground? To get to the other slide."
+  StormyPurpleFallon = "Why didnt the skeleton cross the road? Because he had no guts."
+  SuperWhiteDona = "What do you call two barracuda fish?  A Pairacuda!"
+  CollectiveRedEma = false
+  ObnoxiousMoccasinEvvy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DualAmberZaria = "Why do birds fly south for the winter? Because it's too far to walk."
+  RattyRoseEmera = true
+  QuietChocolateJana = false
+  StructuralAquamarineBrett = "Dad Im hungry  Hi hungry Im dad"
+  ControversialGrayMeris = 249
+  SurvivingIvoryVitia = 390
+  CalmTomatoBirdie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SpatialTomatoChelsie = "Why did the kid cross the playground? To get to the other slide."
+  PoorMaroonKarola = true
+}

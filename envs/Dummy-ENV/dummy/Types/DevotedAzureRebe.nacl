@@ -1,0 +1,33 @@
+type dummy.DevotedAzureRebe {
+  annotations {
+    string TiredMoccasinJaquelin {
+    }
+    hidden_boolean ToryBlueSella {
+    }
+    json SquealingApricotBerenice {
+    }
+    boolean AlertVioletArabela {
+    }
+  }
+  json ElectoralAquaAmargo {
+    _hidden_value = true
+  }
+  boolean DangerousCoffeeCharlotta {
+    _hidden_value = true
+  }
+  json ThunderingCoralNessa {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" AngryHarlequinLarissa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MassRedBerny {
+    _hidden_value = true
+  }
+  TiredMoccasinJaquelin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SquealingApricotBerenice = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AlertVioletArabela = false
+  _hidden_value = true
+}

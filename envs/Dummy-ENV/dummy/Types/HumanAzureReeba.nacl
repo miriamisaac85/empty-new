@@ -1,0 +1,78 @@
+type dummy.HumanAzureReeba is boolean {
+  annotations {
+    dummy.DEFAULT FairMagentaEilis {
+    }
+    serviceid GeneticPinkKania {
+    }
+    boolean ExcitedSalmonBabbie {
+    }
+    boolean LiquidBlackSandy {
+    }
+    hidden_boolean QuickestApricotDanny {
+    }
+    json DefeatedPurpleDevan {
+    }
+    number SlimHarlequinAdria {
+    }
+    json ExcitingYellowKristel {
+    }
+    boolean LowSalmonKoressa {
+    }
+    string NastyCyanMarnia {
+    }
+    number EthnicLavenderBinni {
+    }
+    hidden_boolean DefeatedPurpleStorm {
+    }
+    boolean MassOrangeEadie {
+    }
+    serviceid IdenticalOrangeGiovanna {
+    }
+    string Englishgold2Ermina {
+    }
+    string ImaginativeJadeSapphire {
+    }
+    boolean DustySalmonEmma {
+    }
+    string LikeOlivePatience {
+    }
+    hidden_boolean RevolutionaryPurpleBobbie {
+    }
+    number HumanAmaranthGertruda {
+    }
+    json FriendlyTealIngaberg {
+    }
+    json InteriorAzureSofie {
+    }
+    json LiveCyanBabbie {
+    }
+    json FlatGreenBree {
+    }
+    serviceid LovelyOliveLoree {
+    }
+  }
+  FairMagentaEilis = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  GeneticPinkKania = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ExcitedSalmonBabbie = true
+  LiquidBlackSandy = false
+  DefeatedPurpleDevan = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SlimHarlequinAdria = 268
+  ExcitingYellowKristel = "Why do birds fly south for the winter? Because it's too far to walk."
+  LowSalmonKoressa = false
+  NastyCyanMarnia = "What do you call two barracuda fish?  A Pairacuda!"
+  EthnicLavenderBinni = 473
+  MassOrangeEadie = false
+  IdenticalOrangeGiovanna = "Dad Im hungry  Hi hungry Im dad"
+  Englishgold2Ermina = "Why didnt the skeleton cross the road? Because he had no guts."
+  ImaginativeJadeSapphire = "What do you call two barracuda fish?  A Pairacuda!"
+  DustySalmonEmma = true
+  LikeOlivePatience = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HumanAmaranthGertruda = 690
+  FriendlyTealIngaberg = "I'll tell you what often gets over looked... garden fences."
+  InteriorAzureSofie = "Did you know that protons have mass? I didn't even know they were catholic."
+  LiveCyanBabbie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FlatGreenBree = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LovelyOliveLoree = "I'll tell you what often gets over looked... garden fences."
+}

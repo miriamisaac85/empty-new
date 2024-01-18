@@ -1,0 +1,66 @@
+type dummy.ReasonableCoffeeRobena {
+  annotations {
+    boolean JitteryMoccasinMaurita {
+    }
+    dummy.KeyMaroonBunny ExcellentLavenderAudre {
+    }
+    serviceid LiveRoseShandie {
+    }
+    dummy.SlimyOrangeVickie StupidFuchsiaJorie {
+    }
+  }
+  number UnwillingOrangeLilias {
+    _hidden_value = true
+  }
+  json DifferentBlueElisabetta {
+    _hidden_value = true
+  }
+  serviceid TartAzureKathryne {
+    _hidden_value = true
+  }
+  hidden_boolean InnocentRedTerese {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean GenuineCyanCandice {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AccusedCoralWenda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LoyalJadeKassey {
+    _hidden_value = true
+  }
+  number MagnificentAquamarineDasie {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea CuteGrayTine {
+    MinorPinkAriadne = "To be Frank, I'd have to change my name."
+    ChubbyRoseConstancia = "A steak pun is a rare medium well done."
+    ImmenseTurquoiseNita = "Why did the kid cross the playground? To get to the other slide."
+    FluffyYellowMarybelle = false
+    PainfulPlumRomy = 454
+    CompleteSapphireTeressa = true
+    HungryTomatoCarmelita = "Did you know that protons have mass? I didn't even know they were catholic."
+    FluffyPurpleRoselin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    IdealVioletKania = "Dad Im hungry  Hi hungry Im dad"
+    HomelessPurpleJane = "Why is Peter Pan always flying? Because he Neverlands."
+    SkilledAquaTammara = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PeculiarAmethystBethanne = 4
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "My first time using an elevator was an uplifting experience. The second time let me down."
+    LinearBlueGilli = "Slept like a log last night  woke up in the fireplace."
+    AssociatedCrimsonDreddy = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  JitteryMoccasinMaurita = false
+  ExcellentLavenderAudre = "Why didnt the skeleton cross the road? Because he had no guts."
+  LiveRoseShandie = "What creature is smarter than a talking parrot? A spelling bee."
+  StupidFuchsiaJorie = 303
+  _hidden_value = true
+}

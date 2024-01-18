@@ -1,0 +1,293 @@
+type salesforce.OmniDataPack {
+  serviceid Id {
+    apiName = "OmniDataPack.Id"
+    label = "Omni DataPack ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "OmniDataPack.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "OmniDataPack.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "OmniDataPack.Name"
+    length = 80
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "OmniDataPack.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "OmniDataPack.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "OmniDataPack.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "OmniDataPack.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "OmniDataPack.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number Version {
+    apiName = "OmniDataPack.Version"
+    label = "Version"
+    precision = 18
+    scale = 0
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+  }
+  salesforce.Text Component {
+    apiName = "OmniDataPack.Component"
+    length = 255
+    label = "Component"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.DateTime MultiPackUpdatedDateTime {
+    apiName = "OmniDataPack.MultiPackUpdatedDateTime"
+    label = "MultiPack Updated Date Time"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup MultiPackUpdatedById {
+    apiName = "OmniDataPack.MultiPackUpdatedById"
+    relationshipName = "MultiPackUpdatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "User ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox IsAddedToMultiPack {
+    apiName = "OmniDataPack.IsAddedToMultiPack"
+    defaultValue = false
+    label = "Added to MultiPack"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.LongTextArea Description {
+    apiName = "OmniDataPack.Description"
+    length = 32000
+    label = "Description"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text AsyncApexJobIdentifier {
+    apiName = "OmniDataPack.AsyncApexJobIdentifier"
+    length = 255
+    label = "Async Apex Job ID"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Picklist ActivationStatus {
+    apiName = "OmniDataPack.ActivationStatus"
+    valueSet = [
+      {
+        fullName = "Error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Activation Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist AsyncJobStatus {
+    apiName = "OmniDataPack.AsyncJobStatus"
+    valueSet = [
+      {
+        fullName = "Import"
+        isActive = true
+        label = "Import"
+        default = false
+      },
+      {
+        fullName = "Error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+      {
+        fullName = "Export"
+        isActive = true
+        label = "Export"
+        default = false
+      },
+      {
+        fullName = "MultiPack"
+        isActive = true
+        label = "MultiPack"
+        default = false
+      },
+      {
+        fullName = "Activate"
+        isActive = true
+        label = "Activate"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Async Job Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text Source {
+    apiName = "OmniDataPack.Source"
+    length = 255
+    label = "Source"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Picklist ProcessStatus {
+    apiName = "OmniDataPack.ProcessStatus"
+    valueSet = [
+      {
+        fullName = "Complete"
+        isActive = true
+        label = "Complete"
+        default = false
+      },
+      {
+        fullName = "InProgress"
+        isActive = true
+        label = "InProgress"
+        default = false
+      },
+      {
+        fullName = "Error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+      {
+        fullName = "Saved"
+        isActive = true
+        label = "Saved"
+        default = false
+      },
+      {
+        fullName = "Ready"
+        isActive = true
+        label = "Ready"
+        default = false
+      },
+      {
+        fullName = "Published"
+        isActive = true
+        label = "Published"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Process Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ActionType {
+    apiName = "OmniDataPack.ActionType"
+    valueSet = [
+      {
+        fullName = "Import"
+        isActive = true
+        label = "Import"
+        default = false
+      },
+      {
+        fullName = "Export"
+        isActive = true
+        label = "Export"
+        default = false
+      },
+      {
+        fullName = "MultiPack"
+        isActive = true
+        label = "MultiPack"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Action Type"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

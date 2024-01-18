@@ -1,0 +1,29 @@
+type dummy.IntegralCoffeeOnida {
+  annotations {
+    serviceid ComprehensiveMoccasinShelley {
+    }
+    dummy.PuzzledTanTildi WeakPeachRomola {
+    }
+    dummy.DEFAULT ConvincingAmethystHallie {
+    }
+    hidden_boolean FastBlushJean {
+    }
+    string GenuinePinkMarys {
+    }
+    json UniversalAmaranthKellen {
+    }
+  }
+  hidden_boolean IndirectAquamarineCariotta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ComprehensiveMoccasinShelley = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WeakPeachRomola = 532
+  ConvincingAmethystHallie = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  GenuinePinkMarys = "To be Frank, I'd have to change my name."
+  UniversalAmaranthKellen = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

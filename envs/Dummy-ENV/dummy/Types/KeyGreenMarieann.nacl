@@ -1,0 +1,24 @@
+type dummy.KeyGreenMarieann {
+  annotations {
+    serviceid ExtremeFuchsiaKarilynn {
+    }
+    hidden_boolean SilentIndigoGilda {
+    }
+    number ValidMagentaMerridie {
+    }
+    boolean NeutralLimeReggi {
+    }
+    dummy.AfraidAquaFawn UsualEmeraldMargeaux {
+    }
+  }
+  hidden_boolean HorizontalBronzeShayne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ExtremeFuchsiaKarilynn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ValidMagentaMerridie = 803
+  NeutralLimeReggi = false
+  UsualEmeraldMargeaux = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

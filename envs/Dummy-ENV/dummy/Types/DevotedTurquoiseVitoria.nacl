@@ -1,0 +1,26 @@
+type dummy.DevotedTurquoiseVitoria {
+  annotations {
+    string ProfoundBeigeShelagh {
+    }
+    number SymbolicCrimsonLori {
+    }
+    json TallAmethystStephenie {
+    }
+    serviceid HonestTealDarlene {
+    }
+    string CompatibleChocolateWinne {
+    }
+    number OrdinaryMaroonArdyce {
+    }
+  }
+  json SoleCyanGui {
+    _hidden_value = true
+  }
+  ProfoundBeigeShelagh = "Did you know that protons have mass? I didn't even know they were catholic."
+  SymbolicCrimsonLori = 550
+  TallAmethystStephenie = "Why was it called the dark ages? Because of all the knights. "
+  HonestTealDarlene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CompatibleChocolateWinne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  OrdinaryMaroonArdyce = 428
+  _hidden_value = true
+}

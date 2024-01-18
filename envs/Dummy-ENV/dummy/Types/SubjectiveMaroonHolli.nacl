@@ -1,0 +1,97 @@
+type dummy.SubjectiveMaroonHolli {
+  annotations {
+    string DeadCopperGriselda {
+    }
+    boolean FederalCrimsonCarolyne {
+    }
+    boolean OpenRoseElfie {
+    }
+    string SpontaneousSilverVivyanne {
+    }
+    string ConsiderableTurquoiseDody {
+    }
+  }
+  dummy.CurvedIvoryQueenie FiercePurpleAnnecorinne {
+    GreasyJadeHynda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AcceptableAmaranthFreddi = "Did you know that protons have mass? I didn't even know they were catholic."
+    SquareMaroonFaun = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    UndergroundRedAudrey = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    Economicgold2Johnath = "Why do birds fly south for the winter? Because it's too far to walk."
+    ExcitingVioletLelah = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  serviceid ModestRedMarguerite {
+    _hidden_value = true
+  }
+  hidden_boolean RightTomatoJuliette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json JoyousMaroonFlorida {
+    _hidden_value = true
+  }
+  "List<serviceid>" DangerousGreenLydia {
+    _hidden_value = true
+  }
+  boolean SplendidAquaGiorgia {
+    _hidden_value = true
+  }
+  string ProtestantMagentaDela {
+    _hidden_value = true
+  }
+  string IrishFuchsiaAshlee {
+    _hidden_value = true
+  }
+  "List<string>" AmusedAmaranthSimonette {
+    _hidden_value = true
+  }
+  string SecretScarletVerine {
+    _hidden_value = true
+  }
+  json PresentLimeMellie {
+    _hidden_value = true
+  }
+  "List<string>" AutonomousSapphireQuintana {
+    _hidden_value = true
+  }
+  serviceid TroubledAmberInge {
+    _hidden_value = true
+  }
+  number IntelligentEmeraldHarli {
+    _hidden_value = true
+  }
+  string HistoricalPinkKimberlee {
+    _hidden_value = true
+  }
+  boolean CostlyOrangeSusanne {
+    _hidden_value = true
+  }
+  hidden_boolean CivilAquamarineRochella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ClassicalBlackJodi {
+    _hidden_value = true
+  }
+  number ToughApricotIrina {
+    _hidden_value = true
+  }
+  number ActualYellowSuzanna {
+    _hidden_value = true
+  }
+  string ExtendedPeachJosefa {
+    _hidden_value = true
+  }
+  DeadCopperGriselda = "Did you know that protons have mass? I didn't even know they were catholic."
+  FederalCrimsonCarolyne = true
+  OpenRoseElfie = false
+  SpontaneousSilverVivyanne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConsiderableTurquoiseDody = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

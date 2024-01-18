@@ -1,0 +1,68 @@
+type dummy.WhiteRoseHolli {
+  dummy.JewishCoralJannel RealisticSilverGwynne {
+    AlivePeachImogen = false
+    HollowCopperKaitlynn = 305
+    BottomBlushWinonah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RelativeTealLeontine = "What do you call two barracuda fish?  A Pairacuda!"
+    RepresentativeScarletLorenza = "Im only familiar with 25 letters in the English language. I dont know why."
+    DesperateAquamarineLisabeth = true
+    UndergroundBlackBenni = "How come the stadium got hot after the game? Because all of the fans left."
+    FunnyRedTimi = false
+    GlobalCopperFanechka = "To be Frank, I'd have to change my name."
+  }
+  number CombinedCyanHilary {
+  }
+  hidden_boolean DramaticAmethystBernita {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+ 
+  serviceid TraditionalApricotKatleen {
+  }
+  json AliveBrownLaurie {
+  }
+  number DiverseRoseConcordia {
+  }
+  boolean FrightenedPurpleShelby {
+  }
+  string HungryFuchsiaEmilie {
+  }
+  string GreatScarletKalli {
+  }
+  "Map<dummy.AppropriateChocolateLadonna>" ContemporaryTealRois {
+    SilentLavenderMidge = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PotentialBronzeManya = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FirmTurquoiseMagdalena = "To be Frank, I'd have to change my name."
+    DirectIndigoNannie = "To be Frank, I'd have to change my name."
+    EthicalHarlequinCarmon = "Why do birds fly south for the winter? Because it's too far to walk."
+    KindIndigoHelen = true
+    PlannedOrangeWynn = "I'll tell you what often gets over looked... garden fences."
+  }
+  number LimitedPeachMyrtia {
+  }
+  string HelpfulCoralAlysa {
+  }
+  boolean StickyScarletRodina {
+  }
+  string IntegralGreenEvanne {
+  }
+  boolean WittyBlueAnastasie {
+  }
+  hidden_boolean EarlyGreenGeorgena {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean WiseBeigeAstrix {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json WorriedCopperLotti {
+  }
+  serviceid AboveScarletTabbie {
+  }
+  serviceid FancyCoralNanny {
+  }
+}

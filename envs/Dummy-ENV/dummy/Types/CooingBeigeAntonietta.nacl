@@ -1,0 +1,76 @@
+type dummy.CooingBeigeAntonietta {
+  annotations {
+    dummy.ProspectiveAmberDevin SensibleBlueDaryl {
+    }
+    hidden_boolean VariableTurquoiseSherill {
+    }
+    boolean ChristianPurpleSean {
+    }
+    number FiercePlumEmma {
+    }
+    hidden_boolean RidiculousMaroonGigi {
+    }
+  }
+  number ConfusedGrayTrula {
+    _hidden_value = true
+  }
+  hidden_boolean HumanBlushVickie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AppropriateJadeLeelah {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" BlondeWhiteFarah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number OuterYellowIanthe {
+    _hidden_value = true
+  }
+  hidden_boolean ProposedYellowBeryl {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid NuclearBlueLanita {
+    _hidden_value = true
+  }
+  string SuperiorApricotEddy {
+    _hidden_value = true
+  }
+  string ElectoralAmaranthNettle {
+    _hidden_value = true
+  }
+  hidden_boolean IntegratedBrownKora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GloriousAmaranthGypsy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FantasticVioletDayle {
+    _hidden_value = true
+  }
+  json AdvisoryHarlequinShela {
+    _hidden_value = true
+  }
+  string IntactBrownEnrica {
+    _hidden_value = true
+  }
+  boolean AddedWhiteCindra {
+    _hidden_value = true
+  }
+  boolean CulturalCrimsonGenevieve {
+    _hidden_value = true
+  }
+  SensibleBlueDaryl = 630
+  ChristianPurpleSean = true
+  FiercePlumEmma = 809
+  _hidden_value = true
+}

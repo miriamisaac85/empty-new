@@ -1,0 +1,118 @@
+type dummy.FineCrimsonDeirdre {
+  annotations {
+    string LightBronzeHynda {
+    }
+    boolean KindBronzeNinnette {
+    }
+    hidden_boolean SportingAmethystRuthanne {
+    }
+    number SmallOliveCharin {
+    }
+    dummy.NuclearBlueCorinna InternalSalmonCristine {
+    }
+    number SatisfiedPeachArdis {
+    }
+  }
+  boolean ManyCyanLeona {
+    _hidden_value = true
+  }
+  number ChosenCoffeeVevay {
+    _hidden_value = true
+  }
+  dummy.JewishCoralJannel EuropeanIndigoKittie {
+    AlivePeachImogen = true
+    HollowCopperKaitlynn = 267
+    BottomBlushWinonah = "Why didnt the skeleton cross the road? Because he had no guts."
+    RelativeTealLeontine = "Whoever invented the knock-knock joke should get a no bell prize."
+    RepresentativeScarletLorenza = "Dad Im hungry  Hi hungry Im dad"
+    DesperateAquamarineLisabeth = false
+    UndergroundBlackBenni = "Why do birds fly south for the winter? Because it's too far to walk."
+    FunnyRedTimi = false
+    GlobalCopperFanechka = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  number VastIvoryCaron {
+    _hidden_value = true
+  }
+  json ExtraordinaryRoseDaveen {
+    _hidden_value = true
+  }
+  serviceid NaturalRedHestia {
+    _hidden_value = true
+  }
+  string DisgustedApricotAnnmarie {
+    _hidden_value = true
+  }
+  hidden_boolean HotMagentaDanyelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DarkYellowMarcille {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AnnoyedAmaranthBritney {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ModernBlushMarissa {
+    _hidden_value = true
+  }
+  hidden_boolean InterestedAmaranthJessie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number WonderfulCoralClementina {
+    _hidden_value = true
+  }
+  boolean ConstantFuchsiaHatti {
+    _hidden_value = true
+  }
+  number PartialLimeLoni {
+    _hidden_value = true
+  }
+  hidden_boolean FlatBrownKial {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RapidAmethystDinny {
+    _hidden_value = true
+  }
+  serviceid BlondeLavenderLois {
+    _hidden_value = true
+  }
+  serviceid SpecifiedApricotKailey {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ComplicatedCoffeeMargret {
+    _hidden_value = true
+  }
+  json ClearPinkRoselin {
+    _hidden_value = true
+  }
+  json RelativeRedKath {
+    _hidden_value = true
+  }
+  json SpiritualChocolateVelvet {
+    _hidden_value = true
+  }
+  number ColonialChocolateEvaleen {
+    _hidden_value = true
+  }
+  hidden_boolean PanickyAzureWendi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  LightBronzeHynda = "How come the stadium got hot after the game? Because all of the fans left."
+  KindBronzeNinnette = false
+  SmallOliveCharin = 330
+  InternalSalmonCristine = 508
+  SatisfiedPeachArdis = 739
+  _hidden_value = true
+}

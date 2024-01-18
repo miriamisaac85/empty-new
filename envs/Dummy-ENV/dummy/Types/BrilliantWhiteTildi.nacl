@@ -1,0 +1,25 @@
+type dummy.BrilliantWhiteTildi {
+  annotations {
+    dummy.DEFAULT FixedWhiteJunina {
+    }
+    json JollyLimeTheodosia {
+    }
+    boolean EqualGrayDaria {
+    }
+    serviceid DampIvoryBabita {
+    }
+    json DrivingTanDarice {
+    }
+  }
+  boolean NearbyAmberLurlene {
+    _hidden_value = true
+  }
+  FixedWhiteJunina = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  JollyLimeTheodosia = "What creature is smarter than a talking parrot? A spelling bee."
+  EqualGrayDaria = true
+  DampIvoryBabita = "Why didnt the skeleton cross the road? Because he had no guts."
+  DrivingTanDarice = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

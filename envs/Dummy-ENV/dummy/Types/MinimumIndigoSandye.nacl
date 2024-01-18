@@ -1,0 +1,50 @@
+type dummy.MinimumIndigoSandye {
+  annotations {
+    dummy.DEFAULT OldCrimsonDaloris {
+    }
+    hidden_boolean DisgustedTanKarlotta {
+    }
+    string SillyCyanLarina {
+    }
+    hidden_boolean NeatGreenEstelle {
+    }
+    hidden_boolean DefiniteAquaSeka {
+    }
+    number ExplicitPurpleCaro {
+    }
+  }
+  hidden_boolean GivenPinkJanet {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RareOliveRebeka {
+    _hidden_value = true
+  }
+  hidden_boolean BetterAquamarineGuendolen {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ExcitingAmberFania {
+    _hidden_value = true
+  }
+  json AssociatedRoseBonni {
+    _hidden_value = true
+  }
+  json NormalPurpleOralla {
+    _hidden_value = true
+  }
+  string VerticalPlumShannah {
+    _hidden_value = true
+  }
+  json ChosenSapphireElspeth {
+    _hidden_value = true
+  }
+  OldCrimsonDaloris = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  SillyCyanLarina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExplicitPurpleCaro = 789
+  _hidden_value = true
+}

@@ -1,0 +1,66 @@
+type dummy.SilkyHarlequinAudra {
+  annotations {
+    hidden_boolean NakedTomatoSusanetta {
+    }
+    number Distinctgold2Giovanna {
+    }
+    string JealousBlackAmalea {
+    }
+    hidden_boolean CloudyWhitePammie {
+    }
+    json WideMoccasinMisti {
+    }
+  }
+  number SorryAquamarineAddi {
+    _hidden_value = true
+  }
+  hidden_boolean ShockedBeigeRobinia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json GothicBlackFrankie {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeWhiteLilias {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number RetiredGreenPaolina {
+    _hidden_value = true
+  }
+  boolean RapidBlueRayna {
+    _hidden_value = true
+  }
+  number PrivateMoccasinDody {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmptyBlackRora {
+    _hidden_value = true
+  }
+  string CatholicPinkLetisha {
+    _hidden_value = true
+  }
+  json FreeGreenTine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AlertAzureOriana {
+    _hidden_value = true
+  }
+  json LinguisticCoralBobbye {
+    _hidden_value = true
+  }
+  number KeyCrimsonKathrine {
+    _hidden_value = true
+  }
+  hidden_boolean ParallelPinkMarni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  Distinctgold2Giovanna = 356
+  JealousBlackAmalea = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WideMoccasinMisti = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

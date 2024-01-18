@@ -1,0 +1,55 @@
+type dummy.ElectricalFuchsiaCaitrin {
+  annotations {
+    hidden_boolean AustralianBlushTansy {
+    }
+    boolean CharacteristicApricotTheresa {
+    }
+    serviceid VerbalHarlequinDarlene {
+    }
+    json UniqueAquamarineMil {
+    }
+    hidden_boolean RulingSalmonZena {
+    }
+  }
+  string EmbarrassedLavenderRori {
+    _hidden_value = true
+  }
+  hidden_boolean Inclinedgold2Marsha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UnhappyPeachAthena {
+    _hidden_value = true
+  }
+  dummy.SparklingAmaranthLeone ConfidentPinkMerilee {
+    PricklyPlumKatrine = 850
+    LivelyBlackIngeberg = "Why was it called the dark ages? Because of all the knights. "
+    FiscalMaroonCassaundra = "Im only familiar with 25 letters in the English language. I dont know why."
+    IllegalLimeAshely = "What do you call two barracuda fish?  A Pairacuda!"
+    FirmIvoryBrigid = "Dad Im hungry  Hi hungry Im dad"
+    ZanyCoralBerri = "Did you know that protons have mass? I didn't even know they were catholic."
+    FunCoffeeOrelia = false
+    KindCrimsonDeina = "Im only familiar with 25 letters in the English language. I dont know why."
+    InclinedBronzeJobey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  dummy.DEFAULT MagneticBrownGabriell {
+    _hidden_value = true
+  }
+  boolean ShakyCrimsonSabina {
+    _hidden_value = true
+  }
+  json WillingIndigoGillian {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitraryLimeCathie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  CharacteristicApricotTheresa = true
+  VerbalHarlequinDarlene = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UniqueAquamarineMil = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

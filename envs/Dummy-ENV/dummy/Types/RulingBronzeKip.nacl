@@ -1,0 +1,123 @@
+type dummy.RulingBronzeKip {
+  annotations {
+    number DelightedGrayDiandra {
+    }
+    serviceid TastyIndigoKali {
+    }
+    serviceid NearbyCrimsonDaveta {
+    }
+    serviceid MinorBlackDaisie {
+    }
+    string GeneticPurpleElyn {
+    }
+    number GreyAmberRoshelle {
+    }
+  }
+  json DecentRedIvy {
+    _hidden_value = true
+  }
+  boolean GleamingBronzeCheryl {
+    _hidden_value = true
+  }
+  string InappropriateMaroonEmlynne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HonestAmethystMurial {
+    _hidden_value = true
+  }
+  number PerfectBronzeRodie {
+    _hidden_value = true
+  }
+  string JollyMaroonJilly {
+    _hidden_value = true
+  }
+  json AsianTealBarbaraanne {
+    _hidden_value = true
+  }
+  serviceid RattyFuchsiaJoell {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrettyBronzeOlivia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AnnoyedGreenDede {
+    _hidden_value = true
+  }
+  hidden_boolean NegativeChocolateJerrie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CivilBeigeKyle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AngryAquamarineEmlyn {
+    _hidden_value = true
+  }
+  serviceid AgriculturalApricotColly {
+    _hidden_value = true
+  }
+  number Moderategold2Gavrielle {
+    _hidden_value = true
+  }
+  boolean GreasyAmaranthRani {
+    _hidden_value = true
+  }
+  serviceid LittleAquamarineLina {
+    _hidden_value = true
+  }
+  json ThoughtlessAzureKarry {
+    _hidden_value = true
+  }
+  string OverwhelmingTealRafaelita {
+    _hidden_value = true
+  }
+  serviceid HiddenPeachMarnia {
+    _hidden_value = true
+  }
+  string MajorBlackKesley {
+    _hidden_value = true
+  }
+  boolean RunningMoccasinChantalle {
+    _hidden_value = true
+  }
+  json ConsciousYellowTerrie {
+    _hidden_value = true
+  }
+  number NecessaryEmeraldThomasine {
+    _hidden_value = true
+  }
+  serviceid SignificantCyanGertrud {
+    _hidden_value = true
+  }
+  serviceid Controversialgold2Lila {
+    _hidden_value = true
+  }
+  serviceid ThirstyIvoryRasia {
+    _hidden_value = true
+  }
+  number BlueJadeJillian {
+    _hidden_value = true
+  }
+  "List<boolean>" UnusualMaroonKaterine {
+    _hidden_value = true
+  }
+  boolean SmoothVioletEmelyne {
+    _hidden_value = true
+  }
+  hidden_boolean SadEmeraldPooh {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT PricklyCopperCorrie {
+    _hidden_value = true
+  }
+  DelightedGrayDiandra = 182
+  TastyIndigoKali = "How come the stadium got hot after the game? Because all of the fans left."
+  NearbyCrimsonDaveta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MinorBlackDaisie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GeneticPurpleElyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GreyAmberRoshelle = 714
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.ArtisticEmeraldGrissel {
+  annotations {
+    number TastyEmeraldAngelica {
+    }
+    boolean ZanyMaroonAyn {
+    }
+    string DeepAzureBella {
+    }
+    string AngryRedHeddi {
+    }
+    dummy.DEFAULT NationalAmaranthCecelia {
+    }
+    string SillySapphireCristie {
+    }
+  }
+  string BiologicalIndigoNicoli {
+    _hidden_value = true
+  }
+  TastyEmeraldAngelica = 308
+  ZanyMaroonAyn = false
+  DeepAzureBella = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AngryRedHeddi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NationalAmaranthCecelia = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  SillySapphireCristie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

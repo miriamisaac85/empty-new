@@ -1,0 +1,51 @@
+type dummy.GentleAquaRanice {
+  annotations {
+    serviceid LesserPlumIvory {
+    }
+    json MetropolitanTanCarie {
+    }
+    number VulnerableCoffeeAra {
+    }
+    serviceid WittyBeigeGiselle {
+    }
+    json ValuableAmberNani {
+    }
+    dummy.InlandGreenSarene PracticalAzureMarcile {
+    }
+    string DefiniteRoseFenelia {
+    }
+    number ResultingAmaranthMissy {
+    }
+    number ShiveringAquamarinePauletta {
+    }
+    dummy.SoundAmaranthImelda WateryFuchsiaEdythe {
+    }
+    boolean WelshBlushShirlee {
+    }
+    hidden_boolean JointBrownJade {
+    }
+    number ElectricAmaranthDniren {
+    }
+    serviceid BitterGrayRalina {
+    }
+    string CourageousIndigoErika {
+    }
+    boolean ClosePeachBrittan {
+    }
+  }
+  LesserPlumIvory = "Did you know that protons have mass? I didn't even know they were catholic."
+  MetropolitanTanCarie = "Did you know that protons have mass? I didn't even know they were catholic."
+  VulnerableCoffeeAra = 482
+  WittyBeigeGiselle = "Slept like a log last night  woke up in the fireplace."
+  ValuableAmberNani = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PracticalAzureMarcile = true
+  DefiniteRoseFenelia = "Dad Im hungry  Hi hungry Im dad"
+  ResultingAmaranthMissy = 626
+  ShiveringAquamarinePauletta = 527
+  WateryFuchsiaEdythe = 751
+  WelshBlushShirlee = true
+  ElectricAmaranthDniren = 553
+  BitterGrayRalina = "Why did the kid cross the playground? To get to the other slide."
+  CourageousIndigoErika = "A steak pun is a rare medium well done."
+  ClosePeachBrittan = true
+}

@@ -1,0 +1,26 @@
+type dummy.CivicFuchsiaMonique {
+  annotations {
+    boolean ContinuedSalmonMariam {
+    }
+    boolean ClinicalYellowTamara {
+    }
+    boolean ImportantOrangeRuby {
+    }
+    number ComfortableRoseMarlena {
+    }
+    json IntellectualSapphireWanids {
+    }
+    number FineIndigoAnnadiane {
+    }
+  }
+  json Easterngold2Clareta {
+    _hidden_value = true
+  }
+  ContinuedSalmonMariam = false
+  ClinicalYellowTamara = false
+  ImportantOrangeRuby = true
+  ComfortableRoseMarlena = 87
+  IntellectualSapphireWanids = "How come the stadium got hot after the game? Because all of the fans left."
+  FineIndigoAnnadiane = 701
+  _hidden_value = true
+}

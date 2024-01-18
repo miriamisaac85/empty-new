@@ -1,0 +1,36 @@
+type dummy.SeparateCrimsonLeese {
+  annotations {
+    dummy.DEFAULT SmartScarletMyra {
+    }
+    string ElectricOliveSheelagh {
+    }
+    dummy.DEFAULT EducationalApricotShea {
+    }
+    hidden_boolean SupportingAmaranthValene {
+    }
+    hidden_boolean UnacceptableApricotLilla {
+    }
+  }
+  number MedievalJadeNorma {
+    _hidden_value = true
+  }
+  number RoughScarletShandy {
+    _hidden_value = true
+  }
+  hidden_boolean PricklyLavenderMichele {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EasyTealNessy {
+    _hidden_value = true
+  }
+  SmartScarletMyra = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  ElectricOliveSheelagh = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EducationalApricotShea = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  _hidden_value = true
+}

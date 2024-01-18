@@ -1,0 +1,42 @@
+type dummy.EnglishCopperKristy {
+  number SimilarYellowRaf {
+  }
+  string SuccessfulLavenderChicky {
+  }
+  boolean ContinuingAmberDesiree {
+  }
+  hidden_boolean ImportantAmaranthTruda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string EstimatedBrownEadith {
+  }
+  json MixedCoralElyssa {
+  }
+  hidden_boolean MassiveCrimsonLinnea {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UnusualTealAshla {
+  }
+  json JoyousIvoryAyn {
+  }
+  hidden_boolean Smoothgold2Clementina {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  number CrowdedTomatoBernice {
+  }
+  dummy.BetterHarlequinBeret DelightedTealMarty {
+    DampCoralEmlynne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    FaithfulRoseGusti = false
+    IntactLavenderAbbi = true
+  }
+  serviceid PassingBrownMelva {
+  }
+  string BewilderedOrangeGabriellia {
+  }
+}

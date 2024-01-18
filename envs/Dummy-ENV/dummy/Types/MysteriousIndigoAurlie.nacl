@@ -1,0 +1,47 @@
+type dummy.MysteriousIndigoAurlie {
+  annotations {
+    serviceid DirectCrimsonJobey {
+    }
+    hidden_boolean WetAmaranthKrystalle {
+    }
+    string MysteriousAmaranthJeni {
+    }
+    dummy.BewilderedGreenRosemarie SuccessfulCopperLilian {
+    }
+  }
+  serviceid WickedAzureFredi {
+    _hidden_value = true
+  }
+  json LargeBlueClemmie {
+    _hidden_value = true
+  }
+  hidden_boolean AwareSalmonSherri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean EnchantingBronzeStarr {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LexicalGreenAndrei {
+    _hidden_value = true
+  }
+  json BrightTomatoGalina {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" IdealAmaranthHailee {
+    _hidden_value = true
+  }
+  json ContinentalAquaAlika {
+    _hidden_value = true
+  }
+  serviceid QuaintBronzeDarsie {
+    _hidden_value = true
+  }
+  DirectCrimsonJobey = "A steak pun is a rare medium well done."
+  MysteriousAmaranthJeni = "A steak pun is a rare medium well done."
+  SuccessfulCopperLilian = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

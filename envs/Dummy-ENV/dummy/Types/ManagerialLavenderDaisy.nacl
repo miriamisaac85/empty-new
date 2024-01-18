@@ -1,0 +1,125 @@
+type dummy.ManagerialLavenderDaisy {
+  annotations {
+    string FatalSalmonBuffy {
+    }
+    serviceid NiceChocolateLuciana {
+    }
+    json UnsightlyCoffeeMartie {
+    }
+    string OrangeChocolateRivi {
+    }
+    hidden_boolean AngryAmberVivyanne {
+    }
+    dummy.DEFAULT FaintBronzeAurie {
+    }
+  }
+  dummy.SorryPlumLottie HungryCyanDiannne {
+    VaryingTealDyanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    HandicappedBrownMartita = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CoolTurquoiseCaryl = "To be Frank, I'd have to change my name."
+    WonderfulSilverOralle = false
+    RapidAmethystTerza = 750
+    TightCoralAbagael = 754
+    YummyAmethystLenore = false
+    ManyAquaEdi = "A steak pun is a rare medium well done."
+    HarshCrimsonValry = 19
+    CulturalPurpleWenonah = "Dad Im hungry  Hi hungry Im dad"
+    AfraidTanRozanna = 665
+    BeautifulYellowStacy = 490
+    ImmenseSalmonBatsheva = 364
+    ManagerialTurquoiseBelva = "A steak pun is a rare medium well done."
+    Leadinggold2Harriot = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  json FoolishAmaranthLaural {
+    _hidden_value = true
+  }
+  dummy.ContemporaryPurpleZabrina NeighbouringOrangeWilhelmina {
+    SecureGrayMerralee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RobustAquaAlly = "Slept like a log last night  woke up in the fireplace."
+    SwiftAmaranthGlyn = "Did you know that protons have mass? I didn't even know they were catholic."
+    DullPurpleKora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ShrillYellowConni = "Why did the tomato blush? Because it saw the salad dressing."
+    PartialAmberKellsie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    OddScarletCaralie = "Im only familiar with 25 letters in the English language. I dont know why."
+    ExtremeTanArielle = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    YellowBronzeNessi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FlakyTanJeniffer = true
+    UnnecessarySapphireKathrine = false
+    FullTurquoiseCorabella = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  dummy.InlandLimeRubi BumpyPinkBriana {
+    FaithfulWhitePaulita = "Why didnt the skeleton cross the road? Because he had no guts."
+    EnviousPinkLyn = true
+    OkJadeCarmela = 430
+    LooseAmberLynett = "To be Frank, I'd have to change my name."
+    IndependentPlumJelene = true
+    ValidAmaranthVivie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GrossAmberBrear = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AverageChocolateCacilia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GoodTomatoTeri = 0
+    MusicalPurpleNana = 169
+    ReliableGrayRosette = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  string AggressiveBeigeRebekkah {
+    _hidden_value = true
+  }
+  string LongCyanJuliana {
+    _hidden_value = true
+  }
+  serviceid RareMoccasinGrayce {
+    _hidden_value = true
+  }
+  boolean AdvancedAmberKim {
+    _hidden_value = true
+  }
+  json InvisibleCopperWendye {
+    _hidden_value = true
+  }
+  hidden_boolean IncreasingScarletEda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid TenderCoffeeClari {
+    _hidden_value = true
+  }
+  json UselessSilverEba {
+    _hidden_value = true
+  }
+  number RoundAmberDedra {
+    _hidden_value = true
+  }
+  json DevotedPlumDebee {
+    _hidden_value = true
+  }
+  string Doubtfulgold2Norri {
+    _hidden_value = true
+  }
+  json GleamingBronzeRobinia {
+    _hidden_value = true
+  }
+  hidden_boolean AgriculturalGreenConni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" LogicalCyanGerrie {
+    _hidden_value = true
+  }
+  number GrowingCyanRycca {
+    _hidden_value = true
+  }
+  FatalSalmonBuffy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  NiceChocolateLuciana = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  UnsightlyCoffeeMartie = "How come the stadium got hot after the game? Because all of the fans left."
+  OrangeChocolateRivi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FaintBronzeAurie = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  _hidden_value = true
+}

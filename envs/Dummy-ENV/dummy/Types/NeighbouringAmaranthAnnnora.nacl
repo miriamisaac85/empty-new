@@ -1,0 +1,108 @@
+type dummy.NeighbouringAmaranthAnnnora {
+  annotations {
+    json MelodicMagentaValeria {
+    }
+    boolean DizzyMaroonJenelle {
+    }
+    dummy.BewilderedGreenRosemarie BeautifulBlueJoey {
+    }
+    json Causalgold2Eadie {
+    }
+    serviceid SelfishYellowKassandra {
+    }
+    hidden_boolean RemainingTanAdan {
+    }
+  }
+  json RelievedMoccasinNeilla {
+    _hidden_value = true
+  }
+  string DepressedBlackAnette {
+    _hidden_value = true
+  }
+  hidden_boolean BlackBronzeRani {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number OptimisticPinkCorenda {
+    _hidden_value = true
+  }
+  string PuzzledYellowMalynda {
+    _hidden_value = true
+  }
+  json MarginalIvoryShannah {
+    _hidden_value = true
+  }
+  serviceid PriorCopperRhona {
+    _hidden_value = true
+  }
+  serviceid ProbableSilverMyrta {
+    _hidden_value = true
+  }
+  hidden_boolean InstitutionalChocolateRosaline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ImpossibleAquaKarlene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string WickedMaroonBlakelee {
+    _hidden_value = true
+  }
+  serviceid ImaginativePeachElla {
+    _hidden_value = true
+  }
+  hidden_boolean AdequateAmberMarianna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SquareOrangeJudie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean EnormousIndigoDusty {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json EventualBlueMarjorie {
+    _hidden_value = true
+  }
+  json MidLavenderEalasaid {
+    _hidden_value = true
+  }
+  boolean EvolutionaryIndigoCelinda {
+    _hidden_value = true
+  }
+  number FinalWhiteQuintina {
+    _hidden_value = true
+  }
+  hidden_boolean RespectivePlumGayle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string PerfectAquamarineKaryl {
+    _hidden_value = true
+  }
+  boolean MechanicalFuchsiaGreta {
+    _hidden_value = true
+  }
+  serviceid PartialAmaranthCyndi {
+    _hidden_value = true
+  }
+  serviceid MysteriousTomatoLelah {
+    _hidden_value = true
+  }
+  MelodicMagentaValeria = "Why did the kid cross the playground? To get to the other slide."
+  DizzyMaroonJenelle = true
+  BeautifulBlueJoey = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  Causalgold2Eadie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SelfishYellowKassandra = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

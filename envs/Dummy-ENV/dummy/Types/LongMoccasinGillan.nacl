@@ -1,0 +1,53 @@
+type dummy.LongMoccasinGillan {
+  annotations {
+    string WeeVioletJaquelyn {
+    }
+    number StraightPinkIolanthe {
+    }
+    dummy.SubjectiveAmethystBel SystematicTanAddia {
+    }
+    hidden_boolean GladSalmonOdetta {
+    }
+    boolean ToughPurpleDierdre {
+    }
+    serviceid FairPurpleMarta {
+    }
+    json MetropolitanChocolateLegra {
+    }
+  }
+  boolean ReadyChocolateMavis {
+    _hidden_value = true
+  }
+  hidden_boolean ShortTurquoiseKerri {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json WeeklyLimeLeanor {
+    _hidden_value = true
+  }
+  string ExpectedYellowLynnett {
+    _hidden_value = true
+  }
+  string EthicalFuchsiaDoralyn {
+    _hidden_value = true
+  }
+  json LooseLimeUta {
+    _hidden_value = true
+  }
+  boolean PrimeTealPeggy {
+    _hidden_value = true
+  }
+  hidden_boolean CooperativeCopperShandra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  WeeVioletJaquelyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  StraightPinkIolanthe = 8
+  SystematicTanAddia = 169
+  ToughPurpleDierdre = false
+  FairPurpleMarta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MetropolitanChocolateLegra = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

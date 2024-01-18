@@ -1,0 +1,27 @@
+type dummy.AfricanMagentaArabele {
+  annotations {
+    json YummyEmeraldMarlyn {
+    }
+    hidden_boolean FriendlySilverDinah {
+    }
+    boolean DrabVioletGunilla {
+    }
+    boolean PunyVioletMyrtice {
+    }
+    number RelativeBlushMehetabel {
+    }
+  }
+  hidden_boolean ConsistentAmaranthFlo {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DoubtfulBeigeJada {
+    _hidden_value = true
+  }
+  YummyEmeraldMarlyn = "A steak pun is a rare medium well done."
+  DrabVioletGunilla = true
+  PunyVioletMyrtice = false
+  RelativeBlushMehetabel = 505
+  _hidden_value = true
+}

@@ -1,0 +1,10 @@
+salesforce.ExternalDataSource ABC {
+  fullName = "ABC"
+  endpoint = "https://www.google.com"
+  isWritable = false
+  label = "ABC"
+  principalType = "Anonymous"
+  protocol = "NoAuthentication"
+  type = "SimpleURL"
+  _alias = "ABC"
+}

@@ -1,0 +1,21 @@
+type dummy.ArtificialMagentaKenna {
+  annotations {
+    string ExpectedIndigoKiersten {
+    }
+    hidden_boolean DelightfulCoffeeMinnaminnie {
+    }
+    hidden_boolean ClumsyEmeraldHaleigh {
+    }
+    number OrganisationalMoccasinHilda {
+    }
+    serviceid InnocentYellowTansy {
+    }
+  }
+  string HungryFuchsiaGenna {
+    _hidden_value = true
+  }
+  ExpectedIndigoKiersten = "Dad Im hungry  Hi hungry Im dad"
+  OrganisationalMoccasinHilda = 644
+  InnocentYellowTansy = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

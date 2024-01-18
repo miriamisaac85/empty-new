@@ -1,0 +1,22 @@
+type dummy.BitterEmeraldMarina {
+  annotations {
+    hidden_boolean CatholicSapphireMarje {
+    }
+    boolean SouthernBlueMerla {
+    }
+    number MilitaryPeachAnet {
+    }
+    serviceid IndianYellowDawn {
+    }
+    dummy.JewishCoralJannel PartialCrimsonJemimah {
+    }
+  }
+  number DarkSilverMarlyn {
+    _hidden_value = true
+  }
+  SouthernBlueMerla = false
+  MilitaryPeachAnet = 561
+  IndianYellowDawn = "Whoever invented the knock-knock joke should get a no bell prize."
+  PartialCrimsonJemimah = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

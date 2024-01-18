@@ -1,0 +1,23 @@
+type dummy.ConvincedgoldCori {
+  annotations {
+    number KindIvorySarine {
+    }
+    boolean CombativeGrayKori {
+    }
+    number ThirstyCopperInessa {
+    }
+    serviceid HissingAquaJacquette {
+    }
+    json PowerfulLimeCal {
+    }
+  }
+  json UnlikelyTanCarmencita {
+    _hidden_value = true
+  }
+  KindIvorySarine = 646
+  CombativeGrayKori = false
+  ThirstyCopperInessa = 406
+  HissingAquaJacquette = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PowerfulLimeCal = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

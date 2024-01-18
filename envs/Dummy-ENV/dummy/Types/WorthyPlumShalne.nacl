@@ -1,0 +1,37 @@
+type dummy.WorthyPlumShalne {
+  annotations {
+    dummy.DifferentLimeChristen SleepyApricotElset {
+    }
+    hidden_boolean InstantApricotGae {
+    }
+    string RedundantPinkSunny {
+    }
+    serviceid InquisitivePinkBelita {
+    }
+    dummy.DifficultBlackDeanne DomesticAquamarinePhilippine {
+    }
+    json RedSapphireGabie {
+    }
+  }
+  number ParticularMoccasinMarsiella {
+    _hidden_value = true
+  }
+  serviceid Puzzledgold2Jeri {
+    _hidden_value = true
+  }
+  json RenewedAquaIdette {
+    _hidden_value = true
+  }
+  string StrangeWhiteSandie {
+    _hidden_value = true
+  }
+  serviceid TenderLimeDelphinia {
+    _hidden_value = true
+  }
+  SleepyApricotElset = true
+  RedundantPinkSunny = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InquisitivePinkBelita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DomesticAquamarinePhilippine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RedSapphireGabie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

@@ -1,0 +1,114 @@
+type dummy.OutrageousAquaAggy {
+  annotations {
+    hidden_boolean SolidTealArdys {
+    }
+    string GastricVioletShelia {
+    }
+    string ModernBlueErna {
+    }
+    number SadLimeBirdie {
+    }
+    string MatureAzureCarlota {
+    }
+    serviceid RuralRedFilia {
+    }
+  }
+  number PetiteAzureTyne {
+    _hidden_value = true
+  }
+  json MassiveYellowEzmeralda {
+    _hidden_value = true
+  }
+  serviceid GreatPinkIdell {
+    _hidden_value = true
+  }
+  hidden_boolean HarshAmethystFredericka {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json TrickyYellowEmilia {
+    _hidden_value = true
+  }
+  boolean ThoughtlessTealKati {
+    _hidden_value = true
+  }
+  string SillyJadeLynde {
+    _hidden_value = true
+  }
+  number FairCrimsonNari {
+    _hidden_value = true
+  }
+  boolean ReducedAmaranthGeorgette {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyBlushOlva {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HonestCyanLuce {
+    _hidden_value = true
+  }
+  number PsychiatricApricotBibby {
+    _hidden_value = true
+  }
+  string ExtraordinaryLavenderAndrei {
+    _hidden_value = true
+  }
+  "List<json>" ProudCopperDasi {
+    _hidden_value = true
+  }
+  boolean TameFuchsiaCaprice {
+    _hidden_value = true
+  }
+  serviceid CurvedEmeraldKrysta {
+    _hidden_value = true
+  }
+  boolean TerribleGreenNanice {
+    _hidden_value = true
+  }
+  number HelpfulCoffeeStepha {
+    _hidden_value = true
+  }
+  number AdverseCopperJada {
+    _hidden_value = true
+  }
+  boolean FoolishYellowGabriella {
+    _hidden_value = true
+  }
+  boolean DearAquamarineCarma {
+    _hidden_value = true
+  }
+  serviceid OlympicSilverGilly {
+    _hidden_value = true
+  }
+  string Wetgold2Sonny {
+    _hidden_value = true
+  }
+  string ExtendedBlackStephenie {
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveJadeJewell {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DepressedCopperSile {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyCoffeeMaribelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string CurvedGrayRenate {
+    _hidden_value = true
+  }
+  GastricVioletShelia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ModernBlueErna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SadLimeBirdie = 576
+  MatureAzureCarlota = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RuralRedFilia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

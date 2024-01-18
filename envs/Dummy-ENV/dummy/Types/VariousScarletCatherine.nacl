@@ -1,0 +1,80 @@
+type dummy.VariousScarletCatherine {
+  annotations {
+    number ManualAquamarineAlmeria {
+    }
+    json SillyGrayConsuela {
+    }
+    hidden_boolean DarkPlumLishe {
+    }
+    boolean BoringScarletKarine {
+    }
+    dummy.AfraidAquaFawn MagentaTomatoEve {
+    }
+    string PetiteAmethystNelie {
+    }
+  }
+  dummy.RunningAquaRoshelle GivenCopperGracia {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyMagentaOthella {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json UnusualIvoryHanna {
+    _hidden_value = true
+  }
+  number SickWhiteRosette {
+    _hidden_value = true
+  }
+  string DrunkWhiteBarb {
+    _hidden_value = true
+  }
+  serviceid SeparateWhiteHarriet {
+    _hidden_value = true
+  }
+  boolean Moaninggold2Norry {
+    _hidden_value = true
+  }
+  hidden_boolean AncientBrownJacinta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AdministrativeSapphireSherri {
+    _hidden_value = true
+  }
+  serviceid OutdoorLimeAurelia {
+    _hidden_value = true
+  }
+  json FollowingFuchsiaAlmire {
+    _hidden_value = true
+  }
+  serviceid AwakeBlushBonita {
+    _hidden_value = true
+  }
+  serviceid HollowCrimsonMisha {
+    _hidden_value = true
+  }
+  number CharmingGreenJosephina {
+    _hidden_value = true
+  }
+  boolean DryPlumKaitlyn {
+    _hidden_value = true
+  }
+  json PreferredSilverMireille {
+    _hidden_value = true
+  }
+  string InlandBlackRebecca {
+    _hidden_value = true
+  }
+  serviceid InappropriateFuchsiaJaneta {
+    _hidden_value = true
+  }
+  ManualAquamarineAlmeria = 971
+  SillyGrayConsuela = "Why do birds fly south for the winter? Because it's too far to walk."
+  BoringScarletKarine = true
+  MagentaTomatoEve = "Im only familiar with 25 letters in the English language. I dont know why."
+  PetiteAmethystNelie = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

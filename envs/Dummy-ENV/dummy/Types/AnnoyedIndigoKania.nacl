@@ -1,0 +1,171 @@
+type dummy.AnnoyedIndigoKania {
+  annotations {
+    number KnownGreenDominique {
+    }
+    hidden_boolean SparklingSalmonChere {
+    }
+    json LongSapphireKathryn {
+    }
+    number DoubleSalmonMin {
+    }
+    dummy.DEFAULT ChillyTealTandy {
+    }
+    hidden_boolean FarAquaYolanthe {
+    }
+  }
+  hidden_boolean RespectableBlushLucilia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SlimyTanManda {
+    _hidden_value = true
+  }
+  json ScaredPlumEbonee {
+    _hidden_value = true
+  }
+  string LightRedRaynell {
+    _hidden_value = true
+  }
+  boolean Dramaticgold2Ileana {
+    _hidden_value = true
+  }
+  hidden_boolean EvilSalmonAurelie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DefiniteCopperNorrie {
+    _hidden_value = true
+  }
+  number GuiltySapphireJess {
+    _hidden_value = true
+  }
+  number TeenageAmaranthNanny {
+    _hidden_value = true
+  }
+  boolean ElaborateBlueElena {
+    _hidden_value = true
+  }
+  json ChillyChocolateJunina {
+    _hidden_value = true
+  }
+  json WateryVioletTish {
+    _hidden_value = true
+  }
+  dummy.EntireBrownJacki PrimaryFuchsiaJewel {
+    gold2enWhiteKarin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UgliestPeachMerla = 98
+    CoolCoralAtlante = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    LiteraryPeachMilzie = 810
+    PregnantPinkRobbie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AcuteBrownMaryellen = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MisleadingCoffeeHarriette = "Im only familiar with 25 letters in the English language. I dont know why."
+    ModernBronzeGilli = 576
+    ElaborateMoccasinArdis = "To be Frank, I'd have to change my name."
+    ComprehensiveSilverDanette = true
+    JustMagentaDevina = false
+    UnexpectedMoccasinRene = 80
+    CulturalRoseElora = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    CanadianAmberDoe = 901
+    IntelligentTomatoConstancy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    InappropriateGrayCourtney = "To be Frank, I'd have to change my name."
+    RivalAquamarineGerda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PatientFuchsiaMatelda = false
+    _hidden_value = true
+  }
+  serviceid FlatIndigoAarika {
+    _hidden_value = true
+  }
+  serviceid MilitaryGreenDaria {
+    _hidden_value = true
+  }
+  string QuickOliveChiarra {
+    _hidden_value = true
+  }
+  string CuddlyBlushMonique {
+    _hidden_value = true
+  }
+  string FilthyTomatoSharity {
+    _hidden_value = true
+  }
+  serviceid SexualIndigoRoxy {
+    _hidden_value = true
+  }
+  string DelightedSalmonNicoline {
+    _hidden_value = true
+  }
+  number ExpensiveBlushFlorrie {
+    _hidden_value = true
+  }
+  hidden_boolean PrincipalVioletLivvyy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean KindBeigePenelope {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean Magnificentgold2Tania {
+    _hidden_value = true
+  }
+  hidden_boolean ComfortableWhiteDorella {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid WonderfulYellowAryn {
+    _hidden_value = true
+  }
+  serviceid BasicAzureNesta {
+    _hidden_value = true
+  }
+  hidden_boolean DeepIndigoMaighdiln {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean WastefulMaroonTherine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json BlueSalmonLorenza {
+    _hidden_value = true
+  }
+  json IncredibleRoseMargareta {
+    _hidden_value = true
+  }
+  boolean PinkSalmonHeda {
+    _hidden_value = true
+  }
+  json EmotionalMaroonMadalyn {
+    _hidden_value = true
+  }
+  json AverageOliveMirabel {
+    _hidden_value = true
+  }
+  string OtherAquaLauralee {
+    _hidden_value = true
+  }
+  number UrgentSapphireSaraann {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" MistyBrownHarlene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubtleCoralBrandice {
+    _hidden_value = true
+  }
+  KnownGreenDominique = 970
+  LongSapphireKathryn = "Why did the tomato blush? Because it saw the salad dressing."
+  DoubleSalmonMin = 558
+  ChillyTealTandy = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  _hidden_value = true
+}

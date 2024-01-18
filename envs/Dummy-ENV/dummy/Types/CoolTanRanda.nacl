@@ -1,0 +1,74 @@
+type dummy.CoolTanRanda {
+  annotations {
+    json ShallowOrangePriscella {
+    }
+    boolean EnvironmentalAquamarineIrene {
+    }
+    string AmbitiousOrangeDevan {
+    }
+    number InherentPlumShoshanna {
+    }
+    serviceid YellowRedSonny {
+    }
+  }
+  serviceid YummyBlackMagdalene {
+    _hidden_value = true
+  }
+  string CrazyLavenderDorri {
+    _hidden_value = true
+  }
+  hidden_boolean PlainWhiteFlora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HighAmaranthJacquetta {
+    _hidden_value = true
+  }
+  number EnchantingPeachArlana {
+    _hidden_value = true
+  }
+  hidden_boolean BeautifulYellowDeni {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json BoringYellowHally {
+    _hidden_value = true
+  }
+  boolean PreliminaryTomatoNance {
+    _hidden_value = true
+  }
+  number ProfessionalPeachFrankie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LuckyBeigeShanta {
+    _hidden_value = true
+  }
+  json BrightPinkCory {
+    _hidden_value = true
+  }
+  string IsraeliMaroonDenna {
+    _hidden_value = true
+  }
+  number PrettyCrimsonKial {
+    _hidden_value = true
+  }
+  number MixedTealNari {
+    _hidden_value = true
+  }
+  serviceid RelievedGreenLuisa {
+    _hidden_value = true
+  }
+  hidden_boolean GrubbyMaroonHalie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ShallowOrangePriscella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EnvironmentalAquamarineIrene = true
+  AmbitiousOrangeDevan = "Slept like a log last night  woke up in the fireplace."
+  InherentPlumShoshanna = 250
+  YellowRedSonny = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

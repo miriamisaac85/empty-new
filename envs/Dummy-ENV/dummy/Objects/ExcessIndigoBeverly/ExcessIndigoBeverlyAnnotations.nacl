@@ -1,0 +1,66 @@
+type dummy.ExcessIndigoBeverly {
+  annotations {
+    json ControlledBlushAaren {
+    }
+    serviceid MajorRoseFlorella {
+    }
+    json OpenIndigoBibbye {
+    }
+    boolean RegionalAmaranthRoxanne {
+    }
+    boolean CuddlyYellowFredrika {
+    }
+    string HumanGrayArlyne {
+    }
+    number StraightPurpleCarolee {
+    }
+    serviceid AwfulPeachAdelheid {
+    }
+    number CheerfulCrimsonIrina {
+    }
+    dummy.CurvedIvoryQueenie NursingScarletSibley {
+    }
+    number IndustrialMoccasinValencia {
+    }
+    json GloriousFuchsiaRobinette {
+    }
+    string PleasedSalmonRamonda {
+    }
+    serviceid PleasantPurpleDoretta {
+    }
+    string DisgustedHarlequinMaiga {
+    }
+    dummy.HostileSilverCecilia AcceptedCopperRachel {
+    }
+    number UnableRedSybille {
+    }
+    dummy.KeyMaroonBunny SurroundingMoccasinRozalin {
+    }
+    string DelightfulCopperRaquel {
+    }
+    serviceid SuperLavenderRoselin {
+    }
+    serviceid MagicAmethystAlmeda {
+    }
+  }
+  ControlledBlushAaren = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MajorRoseFlorella = "A steak pun is a rare medium well done."
+  OpenIndigoBibbye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RegionalAmaranthRoxanne = false
+  CuddlyYellowFredrika = false
+  HumanGrayArlyne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  StraightPurpleCarolee = 895
+  AwfulPeachAdelheid = "Dad Im hungry  Hi hungry Im dad"
+  CheerfulCrimsonIrina = 906
+  NursingScarletSibley = false
+  IndustrialMoccasinValencia = 95
+  GloriousFuchsiaRobinette = "A steak pun is a rare medium well done."
+  PleasedSalmonRamonda = "Why was it called the dark ages? Because of all the knights. "
+  PleasantPurpleDoretta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DisgustedHarlequinMaiga = "To be Frank, I'd have to change my name."
+  UnableRedSybille = 679
+  SurroundingMoccasinRozalin = file("ComprehensivePinkPippa.txt")
+  DelightfulCopperRaquel = "Dad Im hungry  Hi hungry Im dad"
+  SuperLavenderRoselin = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MagicAmethystAlmeda = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

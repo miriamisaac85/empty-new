@@ -1,0 +1,52 @@
+type dummy.ExperiencedMagentaEulalie {
+  annotations {
+    number RedSilverViolante {
+    }
+    boolean EmptyBronzeRandy {
+    }
+    hidden_boolean SheerTurquoiseEmmi {
+    }
+    hidden_boolean ExcitedMoccasinAlaine {
+    }
+    dummy.PinkBlushAinslie ProtectiveChocolateRosalynd {
+    }
+    dummy.PoisedCoffeeDanna InformalMaroonJanka {
+    }
+    number DivineHarlequinDolorita {
+    }
+    boolean ImaginativeRoseAllegra {
+    }
+    dummy.EnchantingJadeAra ArrogantTealCarin {
+    }
+    hidden_boolean GladAmaranthOlympia {
+    }
+    string OverwhelmingChocolateLulita {
+    }
+    dummy.JewishCoralJannel FriendlyRoseHelaine {
+    }
+    hidden_boolean DifferentScarletAbigale {
+    }
+    number HeavyScarletFenelia {
+    }
+    serviceid ProfoundCyanNicole {
+    }
+    hidden_boolean EducationalOliveSiana {
+    }
+    boolean ArrogantCoralGertrude {
+    }
+    dummy.GoodGreenSharla PreciousSilverClaudine {
+    }
+    dummy.OddAquaRoxane PhilosophicalTomatoGiulia {
+    }
+  }
+  RedSilverViolante = 984
+  EmptyBronzeRandy = true
+  ProtectiveChocolateRosalynd = file("VulnerableBeigeChere.txt")
+  DivineHarlequinDolorita = 125
+  ImaginativeRoseAllegra = true
+  OverwhelmingChocolateLulita = "A steak pun is a rare medium well done."
+  FriendlyRoseHelaine = file("GreenBeigeAriela.txt")
+  HeavyScarletFenelia = 811
+  ProfoundCyanNicole = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ArrogantCoralGertrude = false
+}

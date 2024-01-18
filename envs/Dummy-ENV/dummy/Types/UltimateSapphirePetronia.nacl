@@ -1,0 +1,56 @@
+type dummy.UltimateSapphirePetronia {
+  annotations {
+    hidden_boolean EverydayTomatoNaomi {
+    }
+    string AggressiveBlackYvette {
+    }
+    hidden_boolean AbundantRedOralle {
+    }
+    string SuccessfulJadeLu {
+    }
+    serviceid ClearTurquoiseReeba {
+    }
+  }
+  boolean PricklyCoffeeJeniffer {
+    _hidden_value = true
+  }
+  number FinancialTanSibelle {
+    _hidden_value = true
+  }
+  string BrokenTomatoBelinda {
+    _hidden_value = true
+  }
+  json RareSilverJenine {
+    _hidden_value = true
+  }
+  string PleasedCoffeeUna {
+    _hidden_value = true
+  }
+  string IllAmaranthMarci {
+    _hidden_value = true
+  }
+  boolean OutstandingWhiteKym {
+    _hidden_value = true
+  }
+  json BlackCrimsonJori {
+    _hidden_value = true
+  }
+  dummy.SlimyOrangeVickie DistantBeigeAllyce {
+    _hidden_value = true
+  }
+  serviceid SatisfactoryHarlequinWalliw {
+    _hidden_value = true
+  }
+  boolean CruelSapphireMelisa {
+    _hidden_value = true
+  }
+  hidden_boolean IntactRoseArabele {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AggressiveBlackYvette = "What creature is smarter than a talking parrot? A spelling bee."
+  SuccessfulJadeLu = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ClearTurquoiseReeba = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

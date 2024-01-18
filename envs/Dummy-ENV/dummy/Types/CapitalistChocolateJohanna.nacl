@@ -1,0 +1,61 @@
+type dummy.CapitalistChocolateJohanna {
+  annotations {
+    string ConstitutionalAzureKayle {
+    }
+    string UsedFuchsiaMarge {
+    }
+    json OppositeHarlequinGabey {
+    }
+    string ElderlyAquaCorenda {
+    }
+    number MagnificentRoseLulu {
+    }
+    string ProgressiveIvoryNovelia {
+    }
+  }
+  number GoodRoseBenoite {
+    _hidden_value = true
+  }
+  boolean HungryTurquoiseAurie {
+    _hidden_value = true
+  }
+  string GayChocolateBrittne {
+    _hidden_value = true
+  }
+  string FrozenAmethystChery {
+    _hidden_value = true
+  }
+  serviceid FancyChocolateRhiamon {
+    _hidden_value = true
+  }
+  boolean HelplessLavenderTamiko {
+    _hidden_value = true
+  }
+  json FrightenedPurpleLynelle {
+    _hidden_value = true
+  }
+  serviceid UglyEmeraldLolita {
+    _hidden_value = true
+  }
+  serviceid ExceptionalHarlequinPhebe {
+    _hidden_value = true
+  }
+  number BlushingAmberJerry {
+    _hidden_value = true
+  }
+  boolean RegularJadeAudi {
+    _hidden_value = true
+  }
+  hidden_boolean SmilingOrangeKarmen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ConstitutionalAzureKayle = "Why do birds fly south for the winter? Because it's too far to walk."
+  UsedFuchsiaMarge = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OppositeHarlequinGabey = "Dad Im hungry  Hi hungry Im dad"
+  ElderlyAquaCorenda = "Why do birds fly south for the winter? Because it's too far to walk."
+  MagnificentRoseLulu = 921
+  ProgressiveIvoryNovelia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

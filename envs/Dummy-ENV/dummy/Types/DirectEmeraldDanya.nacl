@@ -1,0 +1,42 @@
+type dummy.DirectEmeraldDanya {
+  annotations {
+    dummy.DEFAULT RadicalAzureCaressa {
+    }
+    dummy.DEFAULT SupposedTurquoiseGertruda {
+    }
+    string EmpiricalAmethystEdna {
+    }
+    serviceid EstablishedGreenJacynth {
+    }
+    string ExcitedMoccasinMagda {
+    }
+  }
+  dummy.StructuralChocolateMeggie IntensiveGrayStacie {
+    ComparableCopperAubree = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SolidOrangeAnet = true
+    UsefulBeigeJordanna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    LegitimatePeachAnthiathia = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    RedundantCrimsonKass = true
+    BlueRedTamra = "Slept like a log last night  woke up in the fireplace."
+    PreciseTanMarylou = "Whoever invented the knock-knock joke should get a no bell prize."
+    DominantAquamarineSydel = 183
+    EnvironmentalTealSalaidh = true
+    TiredGreenBobette = 499
+    _hidden_value = true
+  }
+  string NavalBlackLorita {
+    _hidden_value = true
+  }
+  RadicalAzureCaressa = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  SupposedTurquoiseGertruda = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  EmpiricalAmethystEdna = "What creature is smarter than a talking parrot? A spelling bee."
+  EstablishedGreenJacynth = "Why is Peter Pan always flying? Because he Neverlands."
+  ExcitedMoccasinMagda = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

@@ -1,0 +1,57 @@
+type dummy.OldPurpleCorrianne {
+  annotations {
+    serviceid ScottishMoccasinLaverna {
+    }
+    json DrySalmonMariejeanne {
+    }
+    boolean ControversialCoffeeBarbette {
+    }
+    string StupidPinkCamala {
+    }
+    hidden_boolean ObligedLavenderAlthea {
+    }
+    dummy.DEFAULT IntelligentBlueLicha {
+    }
+  }
+  serviceid LiteraryTurquoiseKatti {
+    _hidden_value = true
+  }
+  number LovelyLimegold2y {
+    _hidden_value = true
+  }
+  hidden_boolean AwkwardIndigoFarica {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.StrikingMoccasinLonnie UgliestGrayMerola {
+    TastelessYellowTheodora = "Why did the tomato blush? Because it saw the salad dressing."
+    UnableCrimsonSydel = true
+    AfraidLavenderAbagail = 880
+    CarefulRoseMichell = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SpanishIvoryCordey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SmoothAmberKatharyn = false
+    WoodenGrayKaitlin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  serviceid TameAmaranthKarita {
+    _hidden_value = true
+  }
+  string DefiantTomatoJaneen {
+    _hidden_value = true
+  }
+  json LevelApricotGuendolen {
+    _hidden_value = true
+  }
+  boolean AshamedScarletLoreen {
+    _hidden_value = true
+  }
+  ScottishMoccasinLaverna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DrySalmonMariejeanne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ControversialCoffeeBarbette = false
+  StupidPinkCamala = "Why didnt the skeleton cross the road? Because he had no guts."
+  IntelligentBlueLicha = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  _hidden_value = true
+}

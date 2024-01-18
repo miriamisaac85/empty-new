@@ -1,0 +1,9 @@
+salesforce.Document ConnectedApp_Resources_TemporaryLogoName1_jpeg@udv {
+  description = "Used for Connected Apps Logo Image"
+  internalUseOnly = false
+  name = "LogoUrlName:06P4J000000LPlF"
+  public = true
+  fullName = "ConnectedApp_Resources/TemporaryLogoName1.jpeg"
+  content = file("salesforce/Records/Document/ConnectedApp_Resources/TemporaryLogoName1.jpeg")
+  _alias = "ConnectedApp_Resources/TemporaryLogoName1.jpeg"
+}

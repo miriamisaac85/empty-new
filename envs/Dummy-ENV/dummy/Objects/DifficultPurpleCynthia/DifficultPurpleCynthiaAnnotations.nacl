@@ -1,0 +1,49 @@
+type dummy.DifficultPurpleCynthia {
+  annotations {
+    hidden_boolean HilariousCopperJacenta {
+    }
+    dummy.TroubledMaroonAnne MoralSapphireHermina {
+    }
+    number DearBlueWynn {
+    }
+    string PresentFuchsiaLatrina {
+    }
+    dummy.ConsciousPeachAleta BadLavenderEmiline {
+    }
+    dummy.ComparativeYellowLura SmilingOrangeRetha {
+    }
+    dummy.IncredibleBrownKrista WastefulPeachKalli {
+    }
+    json ThoughtfulOliveJuliana {
+    }
+    string JointBrownAmelia {
+    }
+    json SemanticMaroonLauren {
+    }
+    serviceid SevereMaroonEmalia {
+    }
+    string ManyAmaranthEma {
+    }
+    boolean SuddenGrayWhitney {
+    }
+    dummy.ArtificialMagentaKenna GeneralRedMargit {
+    }
+    string VariousScarletMatilda {
+    }
+    serviceid UnwillingApricotGinny {
+    }
+    number UncomfortableAmberHedwig {
+    }
+  }
+  DearBlueWynn = 312
+  PresentFuchsiaLatrina = "What creature is smarter than a talking parrot? A spelling bee."
+  ThoughtfulOliveJuliana = "Why was it called the dark ages? Because of all the knights. "
+  JointBrownAmelia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SemanticMaroonLauren = "Im only familiar with 25 letters in the English language. I dont know why."
+  SevereMaroonEmalia = "Im only familiar with 25 letters in the English language. I dont know why."
+  ManyAmaranthEma = "Why was it called the dark ages? Because of all the knights. "
+  SuddenGrayWhitney = false
+  VariousScarletMatilda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnwillingApricotGinny = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  UncomfortableAmberHedwig = 415
+}

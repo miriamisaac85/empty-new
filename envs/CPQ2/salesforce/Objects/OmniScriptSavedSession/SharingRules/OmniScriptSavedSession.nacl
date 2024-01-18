@@ -1,0 +1,7 @@
+salesforce.SharingRules OmniScriptSavedSession {
+  fullName = "OmniScriptSavedSession"
+  _parent = [
+    salesforce.OmniScriptSavedSession,
+  ]
+  _alias = "OmniScriptSavedSession"
+}

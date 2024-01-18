@@ -1,0 +1,63 @@
+type dummy.ConsciousPeachAleta {
+  annotations {
+    hidden_boolean CriminalCoralCarita {
+    }
+    string StraightforwardMoccasinLonna {
+    }
+    string DomesticJadeMalissia {
+    }
+    number CapableWhiteSibbie {
+    }
+    serviceid MissingTealLilly {
+    }
+    json FunctionalBeigeDido {
+    }
+    json BreakablePinkEstelle {
+    }
+  }
+  serviceid ParliamentaryOrangeMiriam {
+    _hidden_value = true
+  }
+  serviceid IndependentMaroonWillie {
+    _hidden_value = true
+  }
+  json SteepTealBrett {
+    _hidden_value = true
+  }
+  hidden_boolean HonestOliveRozanne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InstantLimeBlondie {
+    _hidden_value = true
+  }
+  serviceid OldCyanBernetta {
+    _hidden_value = true
+  }
+  boolean AfraidMaroonSuzy {
+    _hidden_value = true
+  }
+  string ObviousCopperAdi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RelevantSilverSelie {
+    _hidden_value = true
+  }
+  string DustyMoccasinLyndsie {
+    _hidden_value = true
+  }
+  serviceid MiniatureBrownJanessa {
+    _hidden_value = true
+  }
+  json WorriedWhiteJeanna {
+    _hidden_value = true
+  }
+  StraightforwardMoccasinLonna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DomesticJadeMalissia = "What creature is smarter than a talking parrot? A spelling bee."
+  CapableWhiteSibbie = 585
+  MissingTealLilly = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FunctionalBeigeDido = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BreakablePinkEstelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

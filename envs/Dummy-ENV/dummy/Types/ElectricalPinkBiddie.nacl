@@ -1,0 +1,30 @@
+type dummy.ElectricalPinkBiddie {
+  annotations {
+    json AboveBlackPatricia {
+    }
+    string SplendidBlackCecilia {
+    }
+    dummy.DEFAULT AwfulIvoryKath {
+    }
+    json PreliminaryAquamarineKata {
+    }
+  }
+  boolean ExistingAmberAtlante {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UncertainPlumLynea {
+    _hidden_value = true
+  }
+  hidden_boolean SlipperyCopperLiliane {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  AboveBlackPatricia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SplendidBlackCecilia = "Whoever invented the knock-knock joke should get a no bell prize."
+  AwfulIvoryKath = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  PreliminaryAquamarineKata = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

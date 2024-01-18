@@ -1,0 +1,25 @@
+type dummy.BigAmaranthMarsiella {
+  annotations {
+    number ElectronicYellowJuieta {
+    }
+    hidden_boolean LargeAmberClaire {
+    }
+    serviceid PassingSilverHarrietta {
+    }
+    json WastefulWhiteTallie {
+    }
+    number StaleAquaAnthea {
+    }
+    json SmoothGrayRuthann {
+    }
+  }
+  string WoodenScarletVictoria {
+    _hidden_value = true
+  }
+  ElectronicYellowJuieta = 389
+  PassingSilverHarrietta = "Why do birds fly south for the winter? Because it's too far to walk."
+  WastefulWhiteTallie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  StaleAquaAnthea = 675
+  SmoothGrayRuthann = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

@@ -1,0 +1,49 @@
+type dummy.SuperbAquaSallee {
+  annotations {
+    number YellowTealDebera {
+    }
+    boolean ResonantCrimsonKarina {
+    }
+    json SadIndigoTrina {
+    }
+    json ClinicalHarlequinRita {
+    }
+  }
+  serviceid ClassicalOliveKaja {
+    _hidden_value = true
+  }
+  json InnocentApricotHermine {
+    _hidden_value = true
+  }
+  hidden_boolean FineTurquoiseFelicdad {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SatisfactoryTanMel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ExtremeBlackKirsteni {
+    _hidden_value = true
+  }
+  number FriendlyAmberLanae {
+    _hidden_value = true
+  }
+  dummy.AppropriateChocolateLadonna AvailableCoffeeLyndy {
+    SilentLavenderMidge = "Why was it called the dark ages? Because of all the knights. "
+    PotentialBronzeManya = "I'll tell you what often gets over looked... garden fences."
+    FirmTurquoiseMagdalena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DirectIndigoNannie = "Why did the kid cross the playground? To get to the other slide."
+    EthicalHarlequinCarmon = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    KindIndigoHelen = false
+    PlannedOrangeWynn = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  YellowTealDebera = 905
+  ResonantCrimsonKarina = false
+  SadIndigoTrina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ClinicalHarlequinRita = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

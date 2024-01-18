@@ -1,0 +1,92 @@
+type dummy.VariousMagentaNorri {
+  annotations {
+    number SlightLavenderGwenore {
+    }
+    hidden_boolean AdministrativeAmberWinifred {
+    }
+    string ConfidentialSalmonMaura {
+    }
+    hidden_boolean MedicalJadeKamillah {
+    }
+    boolean ResonantLimeCamala {
+    }
+    hidden_boolean ManualIvoryMarijo {
+    }
+    number OtherCoffeeShari {
+    }
+  }
+  "List<string>" AgreedApricotFranni {
+    _hidden_value = true
+  }
+  string ExoticMaroonRhianna {
+    _hidden_value = true
+  }
+  "Map<boolean>" LateBronzeCordi {
+    _hidden_value = true
+  }
+  hidden_boolean PreliminaryAmethystKari {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcceptedPeachCorrie {
+    _hidden_value = true
+  }
+  json ScottishBrownOralle {
+    _hidden_value = true
+  }
+  hidden_boolean InformalAmberShoshana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FunnyPeachReyna {
+    _hidden_value = true
+  }
+  serviceid YoungBlueDawna {
+    _hidden_value = true
+  }
+  serviceid MoaningYellowAlla {
+    _hidden_value = true
+  }
+  number FeministBlueJori {
+    _hidden_value = true
+  }
+  serviceid CapableBrownViolante {
+    _hidden_value = true
+  }
+  serviceid BitterPurpleRheba {
+    _hidden_value = true
+  }
+  number LevelBlushPriscilla {
+    _hidden_value = true
+  }
+  json DoubtfulHarlequinGrazia {
+    _hidden_value = true
+  }
+  number CreativeScarletSerene {
+    _hidden_value = true
+  }
+  boolean DifferentPinkPetunia {
+    _hidden_value = true
+  }
+  json BadAmethystHattie {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" IncGrayClemmy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DueJadeStephannie {
+    _hidden_value = true
+  }
+  serviceid QuickYellowCristen {
+    _hidden_value = true
+  }
+  SlightLavenderGwenore = 487
+  ConfidentialSalmonMaura = "Did you know that protons have mass? I didn't even know they were catholic."
+  ResonantLimeCamala = true
+  OtherCoffeeShari = 951
+  _hidden_value = true
+}

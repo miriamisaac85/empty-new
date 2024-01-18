@@ -1,0 +1,49 @@
+type dummy.ProgressivePinkMarne {
+  annotations {
+    hidden_boolean MetropolitanMagentaMichel {
+    }
+    hidden_boolean SmoothSalmonDaisy {
+    }
+    dummy.RunningAquaRoshelle RegionalGreenCorina {
+    }
+    json HighHarlequinRoana {
+    }
+    number HorribleAquaGusty {
+    }
+  }
+  number AfraidAmethystJackquelin {
+    _hidden_value = true
+  }
+  hidden_boolean AwkwardCrimsonManon {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT WanderingChocolateBarbabra {
+    _hidden_value = true
+  }
+  string SteadySalmonMelodie {
+    _hidden_value = true
+  }
+  string NegativeLimeSheelagh {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" StormySilverOrel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DefensiveBlushCaye {
+    _hidden_value = true
+  }
+  boolean MushyPurpleGiacinta {
+    _hidden_value = true
+  }
+  boolean NeutralFuchsiaOpalina {
+    _hidden_value = true
+  }
+  RegionalGreenCorina = 759
+  HighHarlequinRoana = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HorribleAquaGusty = 212
+  _hidden_value = true
+}

@@ -1,0 +1,58 @@
+type dummy.SmoggyAzureAnnadiane {
+  annotations {
+    serviceid BitterPurpleAnastassia {
+    }
+    hidden_boolean MightyMagentaJacenta {
+    }
+    string QuickCopperTomasine {
+    }
+    serviceid LightHarlequinCandie {
+    }
+  }
+  hidden_boolean EmpiricalJadeLurlene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" InfluentialBlueAme {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LikeMagentaAntoinette {
+    _hidden_value = true
+  }
+  dummy.EquivalentJadeCaria OppositeCopperDedie {
+    ImpressiveCoralRoanne = true
+    AwareScarletRhianon = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SimilarTealTova = 659
+    LazyJadeAlvina = false
+    InsufficientBlushGertrude = "To be Frank, I'd have to change my name."
+    PlasticPinkSidonia = "What do you do on a remote island? Try and find the TV island it belongs to."
+    HappyAmaranthRhianna = true
+    RoughOliveKailey = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    SatisfiedAmaranthCarilyn = 265
+    NarrowPinkMadeleine = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  boolean FutureTealFlorina {
+    _hidden_value = true
+  }
+  hidden_boolean MuddyCrimsonGretchen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SecureApricotFrancesca {
+    _hidden_value = true
+  }
+  hidden_boolean RepulsiveAmaranthZorana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BitterPurpleAnastassia = "Why was it called the dark ages? Because of all the knights. "
+  QuickCopperTomasine = "Why was it called the dark ages? Because of all the knights. "
+  LightHarlequinCandie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

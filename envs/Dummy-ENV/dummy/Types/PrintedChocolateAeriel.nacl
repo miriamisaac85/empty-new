@@ -1,0 +1,25 @@
+type dummy.PrintedChocolateAeriel {
+  annotations {
+    serviceid RearJadeDorise {
+    }
+    json UnknownWhiteMarisa {
+    }
+    dummy.SparklingAmaranthLeone CriticalAmberLeanor {
+    }
+    string ShyWhiteLibby {
+    }
+    boolean ForwardIndigoYetta {
+    }
+  }
+  hidden_boolean AmericanTomatoValry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  RearJadeDorise = "Slept like a log last night  woke up in the fireplace."
+  UnknownWhiteMarisa = "What creature is smarter than a talking parrot? A spelling bee."
+  CriticalAmberLeanor = false
+  ShyWhiteLibby = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ForwardIndigoYetta = false
+  _hidden_value = true
+}

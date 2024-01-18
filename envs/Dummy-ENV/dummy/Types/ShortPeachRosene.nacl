@@ -1,0 +1,58 @@
+type dummy.ShortPeachRosene {
+  annotations {
+    number CapitalistBrownAnnamaria {
+    }
+    string GiganticTurquoiseDanika {
+    }
+    number ApparentTurquoiseLenore {
+    }
+    number SwiftLavenderVania {
+    }
+    number FatTealDaria {
+    }
+    string RedCoralDruci {
+    }
+  }
+  hidden_boolean RoundAmberLexie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean StrictBronzeMei {
+    _hidden_value = true
+  }
+  json VariedYellowBabs {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingWhitePrue {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulRoseAila {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WorthyIndigoLeona {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json RequiredPlumBlancha {
+    _hidden_value = true
+  }
+  boolean ElderlyLimeJaquenette {
+    _hidden_value = true
+  }
+  string SquareIndigoTamar {
+    _hidden_value = true
+  }
+  CapitalistBrownAnnamaria = 782
+  GiganticTurquoiseDanika = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ApparentTurquoiseLenore = 542
+  SwiftLavenderVania = 200
+  FatTealDaria = 351
+  RedCoralDruci = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

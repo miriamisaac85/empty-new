@@ -1,0 +1,18 @@
+salesforce.CustomApplication standard__LightningInstrumentation {
+  fullName = "standard__LightningInstrumentation"
+  formFactors = [
+    "Large",
+  ]
+  isNavAutoTempTabsDisabled = false
+  isNavPersonalizationDisabled = false
+  isNavTabPersistenceDisabled = false
+  label = "LightningInstrumentation"
+  navType = "Standard"
+  tabs = [
+    "standard-LightningInstrumentation",
+    salesforce.CustomTab.instance.Yariv__c,
+    salesforce.CustomTab.instance.SBQQ__LookupData__c,
+  ]
+  uiType = "Lightning"
+  _alias = "LightningInstrumentation (standard)"
+}

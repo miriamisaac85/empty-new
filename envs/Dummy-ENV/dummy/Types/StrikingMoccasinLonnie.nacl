@@ -1,0 +1,31 @@
+type dummy.StrikingMoccasinLonnie is string {
+  annotations {
+    string TastelessYellowTheodora {
+    }
+    boolean UnableCrimsonSydel {
+    }
+    hidden_boolean DistinguishedBeigeBonni {
+    }
+    number AfraidLavenderAbagail {
+    }
+    json CarefulRoseMichell {
+    }
+    json SpanishIvoryCordey {
+    }
+    boolean SmoothAmberKatharyn {
+    }
+    hidden_boolean CentralTomatoBobina {
+    }
+    hidden_boolean AsianCoralRosamond {
+    }
+    json WoodenGrayKaitlin {
+    }
+  }
+  TastelessYellowTheodora = "Why was it called the dark ages? Because of all the knights. "
+  UnableCrimsonSydel = true
+  AfraidLavenderAbagail = 792
+  CarefulRoseMichell = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SpanishIvoryCordey = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SmoothAmberKatharyn = false
+  WoodenGrayKaitlin = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

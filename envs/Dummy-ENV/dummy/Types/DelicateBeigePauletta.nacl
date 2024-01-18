@@ -1,0 +1,84 @@
+type dummy.DelicateBeigePauletta {
+  annotations {
+    hidden_boolean JustAmethystMaiga {
+    }
+    json StaticScarletOrella {
+    }
+    json PolishBlueOralla {
+    }
+  }
+  string BrightPurpleThomasina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VariousSilverDix {
+    _hidden_value = true
+  }
+  number AwfulGrayBell {
+    _hidden_value = true
+  }
+  string TensePinkPhaedra {
+    _hidden_value = true
+  }
+  string SlimyCoffeeMelli {
+    _hidden_value = true
+  }
+  hidden_boolean RapidScarletCatina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BrightLimeTallia {
+    _hidden_value = true
+  }
+  json FascinatingCrimsonKandy {
+    _hidden_value = true
+  }
+  boolean BrokenAquamarineDorelia {
+    _hidden_value = true
+  }
+  json MightySapphireVickie {
+    _hidden_value = true
+  }
+  serviceid PowerfulApricotAbbye {
+    _hidden_value = true
+  }
+  serviceid GreenBeigeAilene {
+    _hidden_value = true
+  }
+  serviceid RigidCopperStefanie {
+    _hidden_value = true
+  }
+  hidden_boolean DivineAquaLanae {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PhysicalRedChryste {
+    _hidden_value = true
+  }
+  boolean UpsetSilverMoyna {
+    _hidden_value = true
+  }
+  dummy.BewilderedGreenRosemarie FrightenedBronzeKatleen {
+    HighBlushMoyna = "Why didnt the skeleton cross the road? Because he had no guts."
+    ClearPeachUla = "Dad Im hungry  Hi hungry Im dad"
+    ControlledPeachKathye = 495
+    LeadingIvoryGlory = 673
+    _hidden_value = true
+  }
+  boolean CanadianSapphireHaily {
+    _hidden_value = true
+  }
+  json RelaxedGreenMaegan {
+    _hidden_value = true
+  }
+  "List<string>" WonderfulPeachPatricia {
+    _hidden_value = true
+  }
+  boolean DiplomaticMoccasinJill {
+    _hidden_value = true
+  }
+  StaticScarletOrella = "Im only familiar with 25 letters in the English language. I dont know why."
+  PolishBlueOralla = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

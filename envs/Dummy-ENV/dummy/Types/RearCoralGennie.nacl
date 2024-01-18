@@ -1,0 +1,71 @@
+type dummy.RearCoralGennie {
+  annotations {
+    string InternalHarlequinHetti {
+    }
+    string WhiteFuchsiaTrish {
+    }
+    boolean CleverSilverGeneva {
+    }
+    dummy.SmallPlumLiana FormalAmberYovonnda {
+    }
+    string TenseBlackClarisse {
+    }
+    string SupposedHarlequinLucretia {
+    }
+    number MajorChocolateLatia {
+    }
+    serviceid DefensiveAmethystNikolia {
+    }
+  }
+  json OpenBlueLelia {
+    _hidden_value = true
+  }
+  dummy.SoundAmaranthImelda LoudMagentaKarin {
+    SaltyOrangeMaribeth = "How come the stadium got hot after the game? Because all of the fans left."
+    LazyPlumStafani = 506
+    MiserableChocolateFaina = 82
+    RespectableJadeAgatha = "Slept like a log last night  woke up in the fireplace."
+    IslamicFuchsiaAidan = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RainyGreenMalia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HomelessWhiteMathilde = "Why is Peter Pan always flying? Because he Neverlands."
+    TanRoseCamellia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FlutteringTealHester = false
+    EagerMagentaRoslyn = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    IntensivePurpleBarbabra = 640
+    WidespreadIvoryIdelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+    DepressedFuchsiaCordula = false
+    InteriorTurquoiseCharyl = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  dummy.DEFAULT SuperBronzeMarijo {
+    _hidden_value = true
+  }
+  number FrenchCoffeeLetitia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NutritiousAzureMarta {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CrazyRedVivyan {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number WonderfulAquamarineMandy {
+    _hidden_value = true
+  }
+  string RightFuchsiaHilda {
+    _hidden_value = true
+  }
+  InternalHarlequinHetti = "A steak pun is a rare medium well done."
+  WhiteFuchsiaTrish = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CleverSilverGeneva = true
+  FormalAmberYovonnda = true
+  TenseBlackClarisse = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SupposedHarlequinLucretia = "What creature is smarter than a talking parrot? A spelling bee."
+  MajorChocolateLatia = 236
+  DefensiveAmethystNikolia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

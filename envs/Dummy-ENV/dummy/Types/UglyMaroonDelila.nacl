@@ -1,0 +1,118 @@
+type dummy.UglyMaroonDelila {
+  annotations {
+    number BlackPurpleOthilie {
+    }
+    string TropicalTomatoTarrah {
+    }
+    number AmbitiousPlumDulcy {
+    }
+    hidden_boolean JuicyRoseLilah {
+    }
+    boolean ExtendedBlackKarna {
+    }
+    boolean IslamicPurpleJoby {
+    }
+  }
+  serviceid FitLimeBobbi {
+    _hidden_value = true
+  }
+  "List<dummy.MinimumIvoryFrankie>" ComprehensiveBlushElena {
+    ExperiencedApricotFelicity = 383
+    AdverseVioletHali = 801
+    HurtTanStormi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DefiniteMagentaVanda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    OuterPlumGabrila = "What creature is smarter than a talking parrot? A spelling bee."
+    StrangeSilverGuenna = "Why do birds fly south for the winter? Because it's too far to walk."
+    LivelyIvoryMabelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    IndividualFuchsiaJobyna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ProtectiveAzureElva = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AnxiousAquamarineKarylin = "A steak pun is a rare medium well done."
+    ExplicitSapphireSophia = "Why do birds fly south for the winter? Because it's too far to walk."
+    AllegedMaroonCharmine = "Why did the tomato blush? Because it saw the salad dressing."
+    LoyalRedCordi = true
+    IdealApricotNerti = 385
+    _hidden_value = true
+  }
+  number RapidPeachAinsley {
+    _hidden_value = true
+  }
+  string HeavyOrangeKorie {
+    _hidden_value = true
+  }
+  serviceid AcademicPurpleRosa {
+    _hidden_value = true
+  }
+  json SwissAmberElli {
+    _hidden_value = true
+  }
+  hidden_boolean EquivalentTanLayney {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GrandWhiteFaina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number Funnygold2Trudy {
+    _hidden_value = true
+  }
+  boolean FellowBrownMia {
+    _hidden_value = true
+  }
+  serviceid EligiblePeachMinny {
+    _hidden_value = true
+  }
+  string HugeIndigoAbagael {
+    _hidden_value = true
+  }
+  hidden_boolean Indirectgold2Jazmin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RecentIndigoCorine {
+    _hidden_value = true
+  }
+  number MinimalMoccasinMathilda {
+    _hidden_value = true
+  }
+  serviceid RunningLavenderPeggie {
+    _hidden_value = true
+  }
+  string SmartCrimsonPietra {
+    _hidden_value = true
+  }
+  string UnusualBlackLeesa {
+    _hidden_value = true
+  }
+  serviceid OrthodoxGraySibeal {
+    _hidden_value = true
+  }
+  hidden_boolean FamousSapphireMillicent {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number FavouriteCopperEmeline {
+    _hidden_value = true
+  }
+  number SecureAquamarineFederica {
+    _hidden_value = true
+  }
+  hidden_boolean CognitiveTanMarris {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number HorribleTomatoKarisa {
+    _hidden_value = true
+  }
+  BlackPurpleOthilie = 472
+  TropicalTomatoTarrah = "Did you know that protons have mass? I didn't even know they were catholic."
+  AmbitiousPlumDulcy = 301
+  ExtendedBlackKarna = false
+  IslamicPurpleJoby = false
+  _hidden_value = true
+}

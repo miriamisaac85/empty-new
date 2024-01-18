@@ -1,0 +1,25 @@
+type dummy.RussianPlumKaroly {
+  annotations {
+    hidden_boolean UncertainOrangeAshleigh {
+    }
+    json EventualPeachGusella {
+    }
+    serviceid ExtensiveAquamarineUlrika {
+    }
+    serviceid JollyAquamarineAlessandra {
+    }
+    number ColonialBrownMarthe {
+    }
+    json PoorRedElberta {
+    }
+  }
+  serviceid MoaningIvoryEmelina {
+    _hidden_value = true
+  }
+  EventualPeachGusella = "What creature is smarter than a talking parrot? A spelling bee."
+  ExtensiveAquamarineUlrika = "Whoever invented the knock-knock joke should get a no bell prize."
+  JollyAquamarineAlessandra = "Im only familiar with 25 letters in the English language. I dont know why."
+  ColonialBrownMarthe = 757
+  PoorRedElberta = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

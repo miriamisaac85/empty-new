@@ -1,0 +1,115 @@
+type dummy.NastyMagentaDoralin {
+  annotations {
+    json VastTanMarne {
+    }
+    json MaleAquaDidi {
+    }
+    string UptightVioletAngelique {
+    }
+    json EagerGreenMarian {
+    }
+  }
+  serviceid VoicelessAzureFayth {
+    _hidden_value = true
+  }
+  json SpectacularAquamarineMarsiella {
+    _hidden_value = true
+  }
+  hidden_boolean MeanBlackGabriella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CleanSilverDollie {
+    _hidden_value = true
+  }
+  "List<number>" NarrowAmaranthErda {
+    _hidden_value = true
+  }
+  hidden_boolean UnwillingBlueAindrea {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AccessibleMoccasinKevyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FranticChocolateGeri {
+    _hidden_value = true
+  }
+  string FlatBlueWilma {
+    _hidden_value = true
+  }
+  serviceid ContinuedCyanGates {
+    _hidden_value = true
+  }
+  json StandardYellowAdella {
+    _hidden_value = true
+  }
+  number StrategicAquaMoyna {
+    _hidden_value = true
+  }
+  serviceid NationalSilverDari {
+    _hidden_value = true
+  }
+  json UglySalmonJoly {
+    _hidden_value = true
+  }
+  serviceid NarrowAmberShelley {
+    _hidden_value = true
+  }
+  serviceid AdorableTanAnsley {
+    _hidden_value = true
+  }
+  number UniversalEmeraldCatrina {
+    _hidden_value = true
+  }
+  json CoherentEmeraldChrysa {
+    _hidden_value = true
+  }
+  hidden_boolean AlertHarlequinGusti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string LateAmethystFlorencia {
+    _hidden_value = true
+  }
+  serviceid GeneralBlushMerrielle {
+    _hidden_value = true
+  }
+  json UniversalCoffeeLexis {
+    _hidden_value = true
+  }
+  string VagueGrayChrista {
+    _hidden_value = true
+  }
+  boolean IrrelevantPurpleBerty {
+    _hidden_value = true
+  }
+  serviceid LightSapphireVan {
+    _hidden_value = true
+  }
+  json OrthodoxBeigePauly {
+    _hidden_value = true
+  }
+  string GrubbyMaroonAllix {
+    _hidden_value = true
+  }
+  number CommercialIvoryLorenza {
+    _hidden_value = true
+  }
+  json AnnoyedGrayAila {
+    _hidden_value = true
+  }
+  boolean ValuableAmaranthCatlee {
+    _hidden_value = true
+  }
+  VastTanMarne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MaleAquaDidi = "To be Frank, I'd have to change my name."
+  UptightVioletAngelique = "A steak pun is a rare medium well done."
+  EagerGreenMarian = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

@@ -1,0 +1,39 @@
+type dummy.SteepCoralChelsie {
+  annotations {
+    string DarkMagentaZsazsa {
+    }
+    string CorrectCopperMarina {
+    }
+    json QuietPlumJoann {
+    }
+    hidden_boolean BritishAmberLibbie {
+    }
+    serviceid IdealOliveRoberta {
+    }
+    hidden_boolean OfficialTomatoBlake {
+    }
+  }
+  json LivingAmaranthGabey {
+    _hidden_value = true
+  }
+  boolean PremierAzureMerna {
+    _hidden_value = true
+  }
+  number DivineOrangeArdyce {
+    _hidden_value = true
+  }
+  boolean ColossalFuchsiaBevvy {
+    _hidden_value = true
+  }
+  number PastApricotGene {
+    _hidden_value = true
+  }
+  json BeneficialRedMirelle {
+    _hidden_value = true
+  }
+  DarkMagentaZsazsa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CorrectCopperMarina = "Im only familiar with 25 letters in the English language. I dont know why."
+  QuietPlumJoann = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  IdealOliveRoberta = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

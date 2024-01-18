@@ -1,0 +1,50 @@
+type dummy.IncreasingBlackDeerdre {
+  annotations {
+    boolean TightBlackHetty {
+    }
+    hidden_boolean IntelligentAzureJanis {
+    }
+    boolean MadPlumTasia {
+    }
+    json ColossalGreenIdalia {
+    }
+    hidden_boolean ApparentJadeMarina {
+    }
+    number SuccessfulEmeraldFred {
+    }
+    json ArchitecturalVioletMireille {
+    }
+  }
+  string RichBronzeFaith {
+    _hidden_value = true
+  }
+  json CoastalBlueOpaline {
+    _hidden_value = true
+  }
+  hidden_boolean FaithfulPeachHannie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ExpectedBlueJackie {
+    _hidden_value = true
+  }
+  string AbstractScarletCristal {
+    _hidden_value = true
+  }
+  boolean ObnoxiousBeigeJosi {
+    _hidden_value = true
+  }
+  json RoundHarlequinDiane {
+    _hidden_value = true
+  }
+  serviceid GoodIvoryJan {
+    _hidden_value = true
+  }
+  TightBlackHetty = false
+  MadPlumTasia = false
+  ColossalGreenIdalia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SuccessfulEmeraldFred = 621
+  ArchitecturalVioletMireille = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

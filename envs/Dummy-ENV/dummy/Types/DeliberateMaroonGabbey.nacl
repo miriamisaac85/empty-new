@@ -1,0 +1,75 @@
+type dummy.DeliberateMaroonGabbey is number {
+  annotations {
+    hidden_boolean ConfusedPlumGusta {
+    }
+    hidden_boolean SpecialBeigeKaralynn {
+    }
+    dummy.DEFAULT LexicalLavenderAlthea {
+    }
+    serviceid DampLavenderCindee {
+    }
+    serviceid MinimumChocolateSydelle {
+    }
+    dummy.DEFAULT AngryAquaIlise {
+    }
+    serviceid ConfidentCopperMariam {
+    }
+    dummy.DEFAULT ScatteredSalmonAddi {
+    }
+    boolean AlrightChocolateAmalle {
+    }
+    boolean CautiousIndigoNichol {
+    }
+    hidden_boolean SeriousScarletBekki {
+    }
+    number SweetLimeShayna {
+    }
+    hidden_boolean RichTurquoiseHarriott {
+    }
+    json MilitaryMaroonLee {
+    }
+    string GreasyAquamarineNanny {
+    }
+    string HilariousIvoryYettie {
+    }
+    json AsianSapphireSerena {
+    }
+    string ShinyAquamarinePenny {
+    }
+    string BroadSapphireTildy {
+    }
+    json JustVioletSosanna {
+    }
+    serviceid InstantTomatoBinny {
+    }
+    string DullIndigoKaralynn {
+    }
+    serviceid PreciseApricotTory {
+    }
+  }
+  LexicalLavenderAlthea = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  DampLavenderCindee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MinimumChocolateSydelle = "Why was it called the dark ages? Because of all the knights. "
+  AngryAquaIlise = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  ConfidentCopperMariam = "What do you call two barracuda fish?  A Pairacuda!"
+  ScatteredSalmonAddi = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  AlrightChocolateAmalle = true
+  CautiousIndigoNichol = false
+  SweetLimeShayna = 138
+  MilitaryMaroonLee = "Why is Peter Pan always flying? Because he Neverlands."
+  GreasyAquamarineNanny = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HilariousIvoryYettie = "What creature is smarter than a talking parrot? A spelling bee."
+  AsianSapphireSerena = "What do you call two barracuda fish?  A Pairacuda!"
+  ShinyAquamarinePenny = "Why didnt the skeleton cross the road? Because he had no guts."
+  BroadSapphireTildy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  JustVioletSosanna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InstantTomatoBinny = "Dad Im hungry  Hi hungry Im dad"
+  DullIndigoKaralynn = "Why do birds fly south for the winter? Because it's too far to walk."
+  PreciseApricotTory = "How come the stadium got hot after the game? Because all of the fans left."
+}

@@ -1,0 +1,39 @@
+type dummy.FavouriteAzureJanetta {
+  annotations {
+    number LightTomatoCarlen {
+    }
+    boolean ConservativeAzureGracia {
+    }
+    hidden_boolean AcuteBeigeGray {
+    }
+    number HolyPlumVivia {
+    }
+    json HappySapphireKirstin {
+    }
+  }
+  dummy.DEFAULT CoastalAmberElysee {
+    _hidden_value = true
+  }
+  hidden_boolean MeltedTanKori {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SportingLimeClara {
+    _hidden_value = true
+  }
+  serviceid SkilledPurpleLulu {
+    _hidden_value = true
+  }
+  boolean WeakSilverCelestine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StuckLavenderBenetta {
+    _hidden_value = true
+  }
+  LightTomatoCarlen = 831
+  ConservativeAzureGracia = true
+  HolyPlumVivia = 62
+  HappySapphireKirstin = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

@@ -1,0 +1,60 @@
+type dummy.ScreechingCoffeeLayney {
+  annotations {
+    json TallRedNinette {
+    }
+    json TremendousPlumReba {
+    }
+    boolean WetBlueSadella {
+    }
+    json CrazyRedClaresta {
+    }
+  }
+  json ContinuedOrangeIvette {
+    _hidden_value = true
+  }
+  serviceid DisabledScarletKlara {
+    _hidden_value = true
+  }
+  number TinyMaroonRoanna {
+    _hidden_value = true
+  }
+  number MysteriousPlumSydel {
+    _hidden_value = true
+  }
+  string LostBeigeRoby {
+    _hidden_value = true
+  }
+  hidden_boolean ImprovedBlushJuline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EasyAmethystVeda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ColonialBlueLeora {
+    _hidden_value = true
+  }
+  serviceid HelplessTealLorenza {
+    _hidden_value = true
+  }
+  serviceid IncredibleIndigoCathleen {
+    _hidden_value = true
+  }
+  serviceid MightyIndigoMatti {
+    _hidden_value = true
+  }
+  string GastricSapphireShaylynn {
+    _hidden_value = true
+  }
+  number ZanyMoccasinBerni {
+    _hidden_value = true
+  }
+  TallRedNinette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TremendousPlumReba = "Why did the kid cross the playground? To get to the other slide."
+  WetBlueSadella = false
+  CrazyRedClaresta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

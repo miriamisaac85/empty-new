@@ -1,0 +1,165 @@
+type salesforce.OmniESignatureTemplate {
+  serviceid Id {
+    apiName = "OmniESignatureTemplate.Id"
+    label = "Omni Electronic Signature Template ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "OmniESignatureTemplate.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "OmniESignatureTemplate.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "OmniESignatureTemplate.Name"
+    length = 80
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "OmniESignatureTemplate.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "OmniESignatureTemplate.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "OmniESignatureTemplate.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "OmniESignatureTemplate.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "OmniESignatureTemplate.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.TextArea Description {
+    apiName = "OmniESignatureTemplate.Description"
+    label = "Description"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text VendorSystemAccountIdentifier {
+    apiName = "OmniESignatureTemplate.VendorSystemAccountIdentifier"
+    length = 80
+    label = "Vendor System Account ID"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.LongTextArea RecipientFieldMap {
+    apiName = "OmniESignatureTemplate.RecipientFieldMap"
+    length = 32768
+    label = "Recipient Field Map"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text RecipientList {
+    apiName = "OmniESignatureTemplate.RecipientList"
+    length = 255
+    label = "Recipient List"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.LongTextArea FieldsData {
+    apiName = "OmniESignatureTemplate.FieldsData"
+    length = 131072
+    label = "Fields Data"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text TemplateIdentifier {
+    apiName = "OmniESignatureTemplate.TemplateIdentifier"
+    length = 80
+    label = "Template ID"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Picklist Vendor {
+    apiName = "OmniESignatureTemplate.Vendor"
+    valueSet = [
+      {
+        fullName = "DocuSign"
+        isActive = true
+        label = "DocuSign"
+        default = true
+      },
+      {
+        fullName = "Adobe Sign"
+        isActive = true
+        label = "Adobe Sign"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Vendor"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

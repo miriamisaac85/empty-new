@@ -1,0 +1,34 @@
+type dummy.DigitalMoccasinTheo {
+  annotations {
+    number RepresentativeScarletMaud {
+    }
+    serviceid WildGreenSibyl {
+    }
+    serviceid SlimyBeigeSiouxie {
+    }
+    serviceid GrubbyCyanBettina {
+    }
+  }
+  dummy.DEFAULT LazyScarletBettina {
+    _hidden_value = true
+  }
+  "Map<serviceid>" ThunderingCopperTherine {
+    _hidden_value = true
+  }
+  hidden_boolean LikelyChocolateElke {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string UnacceptableMagentaLizette {
+    _hidden_value = true
+  }
+  boolean HandsomeAzureHarrie {
+    _hidden_value = true
+  }
+  RepresentativeScarletMaud = 428
+  WildGreenSibyl = "What do you call two barracuda fish?  A Pairacuda!"
+  SlimyBeigeSiouxie = "Did you know that protons have mass? I didn't even know they were catholic."
+  GrubbyCyanBettina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

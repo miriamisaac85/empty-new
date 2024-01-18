@@ -1,0 +1,56 @@
+type dummy.FirmAquaNicolea is boolean {
+  annotations {
+    serviceid MinorPinkAriadne {
+    }
+    string ChubbyRoseConstancia {
+    }
+    json ImmenseTurquoiseNita {
+    }
+    boolean FluffyYellowMarybelle {
+    }
+    number PainfulPlumRomy {
+    }
+    boolean CompleteSapphireTeressa {
+    }
+    json HungryTomatoCarmelita {
+    }
+    json FluffyPurpleRoselin {
+    }
+    serviceid IdealVioletKania {
+    }
+    hidden_boolean EasyChocolateHesther {
+    }
+    serviceid HomelessPurpleJane {
+    }
+    string SkilledAquaTammara {
+    }
+    number PeculiarAmethystBethanne {
+    }
+    boolean UndergroundTurquoiseLynn {
+    }
+    json HotPurpleCourtney {
+    }
+    serviceid LinearBlueGilli {
+    }
+    serviceid AssociatedCrimsonDreddy {
+    }
+    hidden_boolean ScornfulGreenSilvie {
+    }
+  }
+  MinorPinkAriadne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ChubbyRoseConstancia = "To be Frank, I'd have to change my name."
+  ImmenseTurquoiseNita = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FluffyYellowMarybelle = false
+  PainfulPlumRomy = 133
+  CompleteSapphireTeressa = true
+  HungryTomatoCarmelita = "Why was it called the dark ages? Because of all the knights. "
+  FluffyPurpleRoselin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  IdealVioletKania = "A steak pun is a rare medium well done."
+  HomelessPurpleJane = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SkilledAquaTammara = "Why was it called the dark ages? Because of all the knights. "
+  PeculiarAmethystBethanne = 789
+  UndergroundTurquoiseLynn = false
+  HotPurpleCourtney = "Why didnt the skeleton cross the road? Because he had no guts."
+  LinearBlueGilli = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AssociatedCrimsonDreddy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

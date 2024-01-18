@@ -1,0 +1,24 @@
+type dummy.Beautifulgold2Estele {
+  annotations {
+    string SharpPurpleGertie {
+    }
+    serviceid DistantBronzeLetitia {
+    }
+    boolean DyingAmaranthIvory {
+    }
+    hidden_boolean FatCoralDyanne {
+    }
+    boolean ConventionalPinkElora {
+    }
+  }
+  hidden_boolean RelativePurpleIanthe {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  SharpPurpleGertie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DistantBronzeLetitia = "Why was it called the dark ages? Because of all the knights. "
+  DyingAmaranthIvory = false
+  ConventionalPinkElora = true
+  _hidden_value = true
+}

@@ -1,0 +1,129 @@
+type dummy.AggressiveBlushAindrea {
+  annotations {
+    json EstimatedBeigeCelesta {
+    }
+    serviceid RightTurquoiseZita {
+    }
+    number HorizontalTurquoiseMadelene {
+    }
+    string AdjacentTurquoiseCassaundra {
+    }
+    boolean RoughBronzeAddy {
+    }
+  }
+  json AliveMoccasinAlessandra {
+    _hidden_value = true
+  }
+  number ShortGrayJuliane {
+    _hidden_value = true
+  }
+  serviceid DirtyChocolateFloris {
+    _hidden_value = true
+  }
+  string AssistantAmaranthDevora {
+    _hidden_value = true
+  }
+  number EvilFuchsiaEstele {
+    _hidden_value = true
+  }
+  string ExoticLimeHarri {
+    _hidden_value = true
+  }
+  hidden_boolean SpareFuchsiaJamima {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SparklingAmaranthLeone SmilingIvoryShannah {
+    PricklyPlumKatrine = 336
+    LivelyBlackIngeberg = "I'll tell you what often gets over looked... garden fences."
+    FiscalMaroonCassaundra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    IllegalLimeAshely = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FirmIvoryBrigid = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ZanyCoralBerri = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FunCoffeeOrelia = false
+    KindCrimsonDeina = "To be Frank, I'd have to change my name."
+    InclinedBronzeJobey = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  serviceid CommercialAzureDaveta {
+    _hidden_value = true
+  }
+  json TinyBeigeBrittney {
+    _hidden_value = true
+  }
+  serviceid GreyBlackKristin {
+    _hidden_value = true
+  }
+  json OrdinaryBlushPersis {
+    _hidden_value = true
+  }
+  hidden_boolean DynamicScarletCelka {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json GothicEmeraldMarj {
+    _hidden_value = true
+  }
+  json RespectableAzureJosefina {
+    _hidden_value = true
+  }
+  json ValidScarletBrandy {
+    _hidden_value = true
+  }
+  serviceid DiverseGrayKellie {
+    _hidden_value = true
+  }
+  string MagnificentTurquoiseFleur {
+    _hidden_value = true
+  }
+  serviceid CrazyTurquoiseEmily {
+    _hidden_value = true
+  }
+  number LooseGrayBill {
+    _hidden_value = true
+  }
+  boolean ResidentialPeachMonica {
+    _hidden_value = true
+  }
+  hidden_boolean DiplomaticPinkJacinta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid VariedPeachJuana {
+    _hidden_value = true
+  }
+  serviceid ConstitutionalVioletWaneta {
+    _hidden_value = true
+  }
+  hidden_boolean AvailableAquaRevkah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ImmensePlumSaraann {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ModestJadeZelma {
+    _hidden_value = true
+  }
+  string LargeBeigeCrystie {
+    _hidden_value = true
+  }
+  serviceid LonelyApricotValencia {
+    _hidden_value = true
+  }
+  number AfraidSilverCatlin {
+    _hidden_value = true
+  }
+  EstimatedBeigeCelesta = "Why is Peter Pan always flying? Because he Neverlands."
+  RightTurquoiseZita = "Why was it called the dark ages? Because of all the knights. "
+  HorizontalTurquoiseMadelene = 433
+  AdjacentTurquoiseCassaundra = "What creature is smarter than a talking parrot? A spelling bee."
+  RoughBronzeAddy = true
+  _hidden_value = true
+}

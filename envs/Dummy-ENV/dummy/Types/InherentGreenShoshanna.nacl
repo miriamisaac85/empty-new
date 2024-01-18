@@ -1,0 +1,48 @@
+type dummy.InherentGreenShoshanna {
+  annotations {
+    number SupremeBeigeGinevra {
+    }
+    json TechnicalWhiteKristy {
+    }
+    boolean AwfulHarlequinBethina {
+    }
+    json EnthusiasticRedEimile {
+    }
+    boolean BriefCoralDelly {
+    }
+  }
+  json QuietJadeCarmita {
+    _hidden_value = true
+  }
+  "Map<json>" StrictCoffeeCamel {
+    _hidden_value = true
+  }
+  hidden_boolean BlondeIvoryAdriane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CautiousOliveMarcelle {
+    _hidden_value = true
+  }
+  serviceid AgriculturalRoseFrances {
+    _hidden_value = true
+  }
+  hidden_boolean NecessaryChocolateShay {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CivilBrownRaine {
+    _hidden_value = true
+  }
+  boolean EvilPurpleMarleah {
+    _hidden_value = true
+  }
+  SupremeBeigeGinevra = 379
+  TechnicalWhiteKristy = "Whoever invented the knock-knock joke should get a no bell prize."
+  AwfulHarlequinBethina = true
+  EnthusiasticRedEimile = "Whoever invented the knock-knock joke should get a no bell prize."
+  BriefCoralDelly = true
+  _hidden_value = true
+}

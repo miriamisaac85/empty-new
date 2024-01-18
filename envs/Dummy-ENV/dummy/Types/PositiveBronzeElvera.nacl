@@ -1,0 +1,132 @@
+type dummy.PositiveBronzeElvera {
+  annotations {
+    serviceid AsianTanNanete {
+    }
+    dummy.BizarreScarletKarrie OrangeFuchsiaDena {
+    }
+    json GothicTealDebbi {
+    }
+    hidden_boolean FantasticLimeAndree {
+    }
+    number EmotionalBlushBinni {
+    }
+  }
+  string StickyTanDarcie {
+    _hidden_value = true
+  }
+  hidden_boolean UrgentFuchsiaGerda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string CompetentCyanLulu {
+    _hidden_value = true
+  }
+  boolean PreviousAquaRobby {
+    _hidden_value = true
+  }
+  dummy.FilthyLimeFaye ExceptionalWhiteMinerva {
+    DomesticIvoryVanny = 430
+    SupremeEmeraldTraci = "A steak pun is a rare medium well done."
+    RomanticAmberYalonda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  number CrazyAmaranthJoann {
+    _hidden_value = true
+  }
+  boolean ClassicTurquoiseJoice {
+    _hidden_value = true
+  }
+  boolean HelplessCoralEvangeline {
+    _hidden_value = true
+  }
+  json RemoteGreenFran {
+    _hidden_value = true
+  }
+  hidden_boolean HeadPurpleRosabel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ScatteredRoseClarine {
+    _hidden_value = true
+  }
+  dummy.NuclearBlueCorinna MagneticSalmonMira {
+    GermanCrimsonRobbie = "Why did the kid cross the playground? To get to the other slide."
+    MiddleAmaranthCherlyn = "Slept like a log last night  woke up in the fireplace."
+    ColonialCoralKat = true
+    MushyBlushEirena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    HotCopperBertina = "Why do birds fly south for the winter? Because it's too far to walk."
+    TenderAzureDoreen = "Whoever invented the knock-knock joke should get a no bell prize."
+    PerfectOliveGabie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SorryCrimsonAudi = true
+    AssociatedBronzeArlen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    GivenWhiteJan = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CondemnedLimeIanthe = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    VerbalOrangeUlrika = "Im only familiar with 25 letters in the English language. I dont know why."
+    HomelyBrownRochette = "Whoever invented the knock-knock joke should get a no bell prize."
+    ExpectedWhiteJeanie = "Dad Im hungry  Hi hungry Im dad"
+    PracticalSalmonCarmela = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NativeCoffeeKlara = 190
+    _hidden_value = true
+  }
+  hidden_boolean GlobalFuchsiaAndreana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<string>" PotentialJadeBernie {
+    _hidden_value = true
+  }
+  hidden_boolean DoubleApricotAliza {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SadBrownShandeigh {
+    _hidden_value = true
+  }
+  hidden_boolean SorryPinkDebora {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string PrettyPlumEmilie {
+    _hidden_value = true
+  }
+  hidden_boolean FitPinkNatala {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PoliteLimeCicely {
+    _hidden_value = true
+  }
+  boolean ComfortableBlueRosella {
+    _hidden_value = true
+  }
+  boolean CreepyApricotFran {
+    _hidden_value = true
+  }
+  json ChillyFuchsiaJenelle {
+    _hidden_value = true
+  }
+  number FirmPinkArlette {
+    _hidden_value = true
+  }
+  hidden_boolean IraqiBeigeDesirae {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GayBronzeTammy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AsianTanNanete = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OrangeFuchsiaDena = 363
+  GothicTealDebbi = "Dad Im hungry  Hi hungry Im dad"
+  EmotionalBlushBinni = 949
+  _hidden_value = true
+}

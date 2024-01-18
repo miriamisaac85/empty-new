@@ -1,0 +1,47 @@
+type salesforce.PipelineInspMetricConfig {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  boolean isCumulative {
+  }
+  boolean isProtected {
+  }
+  string masterLabel {
+  }
+  string metric {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "BestCase",
+        "ClosedLost",
+        "ClosedWon",
+        "Commit",
+        "MostLikely",
+        "MovedIn",
+        "MovedOut",
+        "OpenPipeline",
+        "TotalPipeline",
+      ]
+    }
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "pipelineInspMetricConfig"
+  dirName = "pipelineInspMetricConfigs"
+  metadataType = "PipelineInspMetricConfig"
+}

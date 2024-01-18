@@ -1,0 +1,63 @@
+type dummy.HotAmethystTeodora {
+  annotations {
+    boolean WesternChocolateEvaleen {
+    }
+    string BoilingVioletAmalea {
+    }
+    number EssentialAmberClio {
+    }
+    hidden_boolean ArabJadeCharmine {
+    }
+    dummy.ExcessivePinkFanchon IsraeliBrownJenelle {
+    }
+    string RequiredCrimsonFiona {
+    }
+    dummy.MisleadingTurquoiseSal LoudLavenderOdilia {
+    }
+    serviceid WildFuchsiaAnnabel {
+    }
+    hidden_boolean CrudeOrangeRuperta {
+    }
+    dummy.TerribleLimeAilyn ConfidentSapphireJania {
+    }
+    dummy.StructuralChocolateMeggie ImmenseRoseLanna {
+    }
+    number GrotesqueYellowRobbyn {
+    }
+    serviceid OccasionalBlackPaula {
+    }
+    serviceid TightOliveAinslee {
+    }
+    hidden_boolean MarkedCoffeeNolana {
+    }
+    hidden_boolean BoredEmeraldCynde {
+    }
+    json GeographicalSapphireOrelee {
+    }
+    hidden_boolean MinimalCoralFlorenza {
+    }
+    hidden_boolean AcceptableWhiteJuliann {
+    }
+    serviceid ForwardAmaranthKyle {
+    }
+    serviceid DirtyCopperFaina {
+    }
+    number SubstantialSapphireCharo {
+    }
+    hidden_boolean PleasantPlumFlorenza {
+    }
+  }
+  WesternChocolateEvaleen = false
+  BoilingVioletAmalea = "Why do birds fly south for the winter? Because it's too far to walk."
+  EssentialAmberClio = 156
+  RequiredCrimsonFiona = "What do you call two barracuda fish?  A Pairacuda!"
+  WildFuchsiaAnnabel = "Why was it called the dark ages? Because of all the knights. "
+  ImmenseRoseLanna = 206
+  GrotesqueYellowRobbyn = 914
+  OccasionalBlackPaula = "Slept like a log last night  woke up in the fireplace."
+  TightOliveAinslee = "I'll tell you what often gets over looked... garden fences."
+  GeographicalSapphireOrelee = "I'll tell you what often gets over looked... garden fences."
+  ForwardAmaranthKyle = "I'll tell you what often gets over looked... garden fences."
+  DirtyCopperFaina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SubstantialSapphireCharo = 709
+}

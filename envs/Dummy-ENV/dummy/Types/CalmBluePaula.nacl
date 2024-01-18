@@ -1,0 +1,80 @@
+type dummy.CalmBluePaula {
+  annotations {
+    string RoughMoccasinFloria {
+    }
+    hidden_boolean MassLimePierette {
+    }
+    json IndustrialChocolateFlorenza {
+    }
+    hidden_boolean PhysicalBlueArleta {
+    }
+    number CheapPlumGwenny {
+    }
+    serviceid HeavyEmeraldSile {
+    }
+  }
+  number KindRedJunia {
+    _hidden_value = true
+  }
+  hidden_boolean WonderfulBlackVinny {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string FarJadeQuinn {
+    _hidden_value = true
+  }
+  serviceid NarrowIvoryCorabel {
+    _hidden_value = true
+  }
+  hidden_boolean HappySalmonLetitia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ClassicRedZsazsa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AsianOrangeNertie {
+    _hidden_value = true
+  }
+  number UnnecessaryRoseNadiya {
+    _hidden_value = true
+  }
+  serviceid AliveWhiteArliene {
+    _hidden_value = true
+  }
+  string BroadSilverJaclyn {
+    _hidden_value = true
+  }
+  boolean ItalianOliveAshia {
+    _hidden_value = true
+  }
+  boolean AwfulAmaranthArabella {
+    _hidden_value = true
+  }
+  number FiscalYellowAileen {
+    _hidden_value = true
+  }
+  boolean LongAmethystJoycelin {
+    _hidden_value = true
+  }
+  serviceid SacredBronzeShelbi {
+    _hidden_value = true
+  }
+  json FreshGrayTerra {
+    _hidden_value = true
+  }
+  hidden_boolean SweetEmeraldCharlotta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  RoughMoccasinFloria = "To be Frank, I'd have to change my name."
+  IndustrialChocolateFlorenza = "I'll tell you what often gets over looked... garden fences."
+  CheapPlumGwenny = 848
+  HeavyEmeraldSile = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

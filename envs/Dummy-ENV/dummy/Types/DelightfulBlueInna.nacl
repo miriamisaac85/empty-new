@@ -1,0 +1,64 @@
+type dummy.DelightfulBlueInna {
+  annotations {
+    string FunctionalCoffeeSteffi {
+    }
+    json FoolishHarlequinAvis {
+    }
+    serviceid EmbarrassingBlackAmeline {
+    }
+    serviceid OkayLavenderOpal {
+    }
+    boolean HeavyMaroonKathryne {
+    }
+    hidden_boolean ArchitecturalGrayRuthann {
+    }
+  }
+  number SpicyGreenIngeberg {
+    _hidden_value = true
+  }
+  serviceid DistinctiveEmeraldMilzie {
+    _hidden_value = true
+  }
+  string ActualSilverShel {
+    _hidden_value = true
+  }
+  dummy.NuclearBlueCorinna OutdoorYellowEirena {
+    GermanCrimsonRobbie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MiddleAmaranthCherlyn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ColonialCoralKat = false
+    MushyBlushEirena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    HotCopperBertina = "How come the stadium got hot after the game? Because all of the fans left."
+    TenderAzureDoreen = "To be Frank, I'd have to change my name."
+    PerfectOliveGabie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SorryCrimsonAudi = false
+    AssociatedBronzeArlen = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GivenWhiteJan = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CondemnedLimeIanthe = "Did you know that protons have mass? I didn't even know they were catholic."
+    VerbalOrangeUlrika = "Why did the kid cross the playground? To get to the other slide."
+    HomelyBrownRochette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ExpectedWhiteJeanie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PracticalSalmonCarmela = "Why didnt the skeleton cross the road? Because he had no guts."
+    NativeCoffeeKlara = 473
+    _hidden_value = true
+  }
+  number OtherRedBabara {
+    _hidden_value = true
+  }
+  number VariableAmethystClaresta {
+    _hidden_value = true
+  }
+  hidden_boolean AssociatedBlushJane {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT WorryingPinkDeedee {
+    _hidden_value = true
+  }
+  FunctionalCoffeeSteffi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FoolishHarlequinAvis = "Whoever invented the knock-knock joke should get a no bell prize."
+  EmbarrassingBlackAmeline = "Why did the tomato blush? Because it saw the salad dressing."
+  OkayLavenderOpal = "To be Frank, I'd have to change my name."
+  HeavyMaroonKathryne = true
+  _hidden_value = true
+}

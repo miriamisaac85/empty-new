@@ -1,0 +1,47 @@
+type dummy.KeyPlumRosella {
+  annotations {
+    string GothicAzurePatti {
+    }
+    string ManagingBlushShanie {
+    }
+    dummy.WonderfulGreenVeronica AggregateScarletSada {
+    }
+    number DailyAmberCinderella {
+    }
+    number CatholicOrangeRebecka {
+    }
+    boolean MatureRedMaitilde {
+    }
+    dummy.ExoticIvoryValera BoldCyanHarlie {
+    }
+    json ResponsibleBlueCarlye {
+    }
+    dummy.AgriculturalBlushJillene FranticBeigeGinnie {
+    }
+    number IntegratedMaroonLise {
+    }
+    json FatTomatoBess {
+    }
+    boolean MushyBlueNannette {
+    }
+    hidden_boolean ProductiveJadeDaveta {
+    }
+    string HorribleIndigoGrier {
+    }
+    hidden_boolean TallPurpleFaunie {
+    }
+    number WideAquaCristine {
+    }
+  }
+  GothicAzurePatti = "Why did the tomato blush? Because it saw the salad dressing."
+  ManagingBlushShanie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DailyAmberCinderella = 981
+  CatholicOrangeRebecka = 36
+  MatureRedMaitilde = false
+  ResponsibleBlueCarlye = "Im only familiar with 25 letters in the English language. I dont know why."
+  IntegratedMaroonLise = 650
+  FatTomatoBess = "Why was it called the dark ages? Because of all the knights. "
+  MushyBlueNannette = false
+  HorribleIndigoGrier = "Why did the tomato blush? Because it saw the salad dressing."
+  WideAquaCristine = 178
+}

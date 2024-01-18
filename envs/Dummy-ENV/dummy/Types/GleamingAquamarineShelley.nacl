@@ -1,0 +1,34 @@
+type dummy.GleamingAquamarineShelley {
+  annotations {
+    number GermanBlueAbigale {
+    }
+    string LimitedBrownAindrea {
+    }
+    hidden_boolean DisgustedGreenGertrud {
+    }
+    boolean FunnyRedTasia {
+    }
+    json ArtificialVioletEmilie {
+    }
+    string UnevenChocolatePooh {
+    }
+  }
+  boolean CrudeBlushOliy {
+    _hidden_value = true
+  }
+  number BritishPeachGisele {
+    _hidden_value = true
+  }
+  number LateLavenderKarena {
+    _hidden_value = true
+  }
+  number BrokenLimeEmeline {
+    _hidden_value = true
+  }
+  GermanBlueAbigale = 319
+  LimitedBrownAindrea = "I'll tell you what often gets over looked... garden fences."
+  FunnyRedTasia = true
+  ArtificialVioletEmilie = "Why didnt the skeleton cross the road? Because he had no guts."
+  UnevenChocolatePooh = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

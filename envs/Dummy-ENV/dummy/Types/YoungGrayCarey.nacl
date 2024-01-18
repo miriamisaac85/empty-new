@@ -1,0 +1,34 @@
+type dummy.YoungGrayCarey {
+  annotations {
+    serviceid SubstantialSalmonDelila {
+    }
+    json UnablePeachLanita {
+    }
+    json EldestTurquoiseAllx {
+    }
+    json SilentFuchsiaBernadine {
+    }
+    serviceid ControlledJadeFrancoise {
+    }
+    string ProposedIndigoRozele {
+    }
+  }
+  hidden_boolean SorryBlushCassi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ElectricBlushNixie {
+    _hidden_value = true
+  }
+  boolean Relativegold2Dyanna {
+    _hidden_value = true
+  }
+  SubstantialSalmonDelila = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnablePeachLanita = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EldestTurquoiseAllx = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SilentFuchsiaBernadine = "Why is Peter Pan always flying? Because he Neverlands."
+  ControlledJadeFrancoise = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProposedIndigoRozele = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,84 @@
+type dummy.FollowingAmethystIlsa {
+  annotations {
+    hidden_boolean AnxiousRoseRori {
+    }
+    string RaspyGrayLeelah {
+    }
+    number NationalCyanGinger {
+    }
+  }
+  json RevolutionaryCrimsonGloriana {
+    _hidden_value = true
+  }
+  serviceid IdeologicalLavenderGerda {
+    _hidden_value = true
+  }
+  hidden_boolean MushyTomatoDorthea {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ArabIvoryGussi {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulOrangeMerrie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number EmpiricalIvoryCamel {
+    _hidden_value = true
+  }
+  hidden_boolean DistinguishedCopperAmalea {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SymbolicCrimsonCeline {
+    _hidden_value = true
+  }
+  number FancySapphireAdeline {
+    _hidden_value = true
+  }
+  string CalmAquamarineHalette {
+    _hidden_value = true
+  }
+  number SquareSilverZorana {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LongCrimsonHarmony {
+    _hidden_value = true
+  }
+  string MysteriousYellowMufinella {
+    _hidden_value = true
+  }
+  boolean ConfusedApricotJorrie {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" CharmingGreenEolande {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CommonBlueAnnadiana {
+    _hidden_value = true
+  }
+  json GeographicalMoccasinOralia {
+    _hidden_value = true
+  }
+  boolean ShyCoffeeAimee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VariableGreenCorene {
+    _hidden_value = true
+  }
+  string PoorCrimsonLilyan {
+    _hidden_value = true
+  }
+  serviceid GoodVioletPatrica {
+    _hidden_value = true
+  }
+  RaspyGrayLeelah = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NationalCyanGinger = 190
+  _hidden_value = true
+}

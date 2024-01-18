@@ -1,0 +1,73 @@
+type dummy.GladJadeVictoria {
+  annotations {
+    string EducationalCopperVerene {
+    }
+    serviceid ChineseHarlequinLeanna {
+    }
+    boolean SpecificSalmonTania {
+    }
+    string SplendidIvoryNady {
+    }
+    boolean ToxicTurquoiseNovelia {
+    }
+    boolean NoisyMaroonAimee {
+    }
+  }
+  json InformalMagentaSaudra {
+    _hidden_value = true
+  }
+  boolean EventualJadeTorie {
+    _hidden_value = true
+  }
+  boolean RelativeMaroonCristen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChemicalPlumShanda {
+    _hidden_value = true
+  }
+  serviceid AdvisoryYellowKynthia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT KnownCopperNessie {
+    _hidden_value = true
+  }
+  number LiableBrownJuliana {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" AccusedLimeEttie {
+    _hidden_value = true
+  }
+  json UrbanSalmonAndra {
+    _hidden_value = true
+  }
+  boolean SelectiveTealJackie {
+    _hidden_value = true
+  }
+  string CruelCyanDara {
+    _hidden_value = true
+  }
+  string SensibleMaroonJacynth {
+    _hidden_value = true
+  }
+  string NaughtyCopperLucine {
+    _hidden_value = true
+  }
+  number SolidAmethystBilli {
+    _hidden_value = true
+  }
+  number RedundantMagentaZuzana {
+    _hidden_value = true
+  }
+  hidden_boolean SleepyBrownMinta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  EducationalCopperVerene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ChineseHarlequinLeanna = "Why did the kid cross the playground? To get to the other slide."
+  SpecificSalmonTania = false
+  SplendidIvoryNady = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ToxicTurquoiseNovelia = false
+  NoisyMaroonAimee = false
+  _hidden_value = true
+}

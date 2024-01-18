@@ -1,0 +1,75 @@
+type dummy.MonetaryAquaRuthe {
+  annotations {
+    hidden_boolean RawScarletTessie {
+    }
+    string GenerousLavenderViviene {
+    }
+    number IntermediateCoralEstelle {
+    }
+    boolean DullSapphireNinetta {
+    }
+    json FutureBeigeVirgina {
+    }
+  }
+  number ExpectedBeigeDacy {
+    _hidden_value = true
+  }
+  json PalestinianSalmonCassandra {
+    _hidden_value = true
+  }
+  boolean HistoricCrimsonDorette {
+    _hidden_value = true
+  }
+  hidden_boolean AcceptableWhiteAntonetta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT NiceAquamarineMarybeth {
+    _hidden_value = true
+  }
+  number EnormousLimeMatti {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" YellowCoralEthelda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FantasticCopperSaundra {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" PopularJadeGinnifer {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean JewishBlueLuci {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DefeatedBlackJoanna {
+    _hidden_value = true
+  }
+  string StatisticalTurquoiseCarlynn {
+    _hidden_value = true
+  }
+  serviceid LevelYellowDeva {
+    _hidden_value = true
+  }
+  string CompetitiveBronzeAlexis {
+    _hidden_value = true
+  }
+  boolean BroadAmberAlina {
+    _hidden_value = true
+  }
+  serviceid Palegold2Loree {
+    _hidden_value = true
+  }
+  GenerousLavenderViviene = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  IntermediateCoralEstelle = 811
+  DullSapphireNinetta = false
+  FutureBeigeVirgina = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

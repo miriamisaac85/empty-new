@@ -1,0 +1,23 @@
+type dummy.RelaxedBeigeZulema {
+  annotations {
+    json FlyingLimeClio {
+    }
+    boolean GenuineAmberPhilippe {
+    }
+    boolean SplendidMaroonCleopatra {
+    }
+    string NotableSalmonMatelda {
+    }
+    number SlowHarlequinGilbertina {
+    }
+  }
+  json PoorYellowSherry {
+    _hidden_value = true
+  }
+  FlyingLimeClio = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GenuineAmberPhilippe = false
+  SplendidMaroonCleopatra = true
+  NotableSalmonMatelda = "Why is Peter Pan always flying? Because he Neverlands."
+  SlowHarlequinGilbertina = 857
+  _hidden_value = true
+}

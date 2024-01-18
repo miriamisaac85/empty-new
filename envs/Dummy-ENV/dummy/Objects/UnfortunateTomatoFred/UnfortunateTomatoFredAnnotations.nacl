@@ -1,0 +1,58 @@
+type dummy.UnfortunateTomatoFred {
+  annotations {
+    json WorthwhileSalmonCarolynn {
+    }
+    number EntireMoccasinErminie {
+    }
+    boolean RoastedCyanHalley {
+    }
+    string NaughtyHarlequinTessie {
+    }
+    dummy.PinkBlushAinslie ChangingTurquoiseLilias {
+    }
+    hidden_boolean LiteraryCoralJilleen {
+    }
+    dummy.SelectLimeAngelia RussianEmeraldStoddard {
+    }
+    dummy.FineCrimsonDeirdre SpecialBlueLola {
+    }
+    number LowTanDaloris {
+    }
+    hidden_boolean UrbanPinkCory {
+    }
+    number LargeSapphireKrystalle {
+    }
+    hidden_boolean AllegedCopperNananne {
+    }
+    number CuteGreenRozanna {
+    }
+    string TechnicalVioletCorabella {
+    }
+    number ShortIndigoFiorenze {
+    }
+    json WidespreadSalmonCarie {
+    }
+    boolean GuiltyMoccasinElizabeth {
+    }
+    boolean UniqueChocolateKaylil {
+    }
+    boolean VivaciousBlushAeriell {
+    }
+    hidden_boolean RegularPlumMercie {
+    }
+  }
+  WorthwhileSalmonCarolynn = "Why didnt the skeleton cross the road? Because he had no guts."
+  EntireMoccasinErminie = 10
+  RoastedCyanHalley = true
+  NaughtyHarlequinTessie = "Whoever invented the knock-knock joke should get a no bell prize."
+  ChangingTurquoiseLilias = file("CrowdedGoldSeana.txt")
+  LowTanDaloris = 395
+  LargeSapphireKrystalle = 974
+  CuteGreenRozanna = 844
+  TechnicalVioletCorabella = "What creature is smarter than a talking parrot? A spelling bee."
+  ShortIndigoFiorenze = 939
+  WidespreadSalmonCarie = "Did you know that protons have mass? I didn't even know they were catholic."
+  GuiltyMoccasinElizabeth = false
+  UniqueChocolateKaylil = true
+  VivaciousBlushAeriell = true
+}

@@ -1,0 +1,32 @@
+type dummy.LengthyLavenderAva {
+  annotations {
+    hidden_boolean KindIvoryHildegarde {
+    }
+    dummy.FilthyLimeFaye EndlessMaroonNeile {
+    }
+    hidden_boolean DelightfulIndigoSibella {
+    }
+    json GrossMagentaAigneis {
+    }
+    serviceid BrightBlueRicky {
+    }
+  }
+  dummy.DEFAULT MarriedTanGlynis {
+    _hidden_value = true
+  }
+  hidden_boolean YummyMaroonSindee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json RussianLimeCharita {
+    _hidden_value = true
+  }
+  number Warmgold2Aigneis {
+    _hidden_value = true
+  }
+  EndlessMaroonNeile = true
+  GrossMagentaAigneis = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BrightBlueRicky = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

@@ -1,0 +1,27 @@
+type dummy.EmbarrassedGrayMinna {
+  annotations {
+    string SelfishBlackConstancia {
+    }
+    hidden_boolean CrookedIvoryCharissa {
+    }
+    number LittleChocolateAgace {
+    }
+    dummy.DEFAULT ZanyEmeraldDeloria {
+    }
+    boolean SupportingAmethystGerianna {
+    }
+  }
+  number ElectoralEmeraldDonny {
+    _hidden_value = true
+  }
+  number SadBlueAnnadiana {
+    _hidden_value = true
+  }
+  SelfishBlackConstancia = "Why was it called the dark ages? Because of all the knights. "
+  LittleChocolateAgace = 686
+  ZanyEmeraldDeloria = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  SupportingAmethystGerianna = false
+  _hidden_value = true
+}

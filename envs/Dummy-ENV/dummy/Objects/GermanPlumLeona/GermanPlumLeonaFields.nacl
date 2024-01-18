@@ -1,0 +1,24 @@
+type dummy.GermanPlumLeona {
+  number RoundRoseKarla {
+  }
+  dummy.AshamedOliveSophie ProbableCyanCarla {
+    AlternativeRedLatrina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ThunderingCoffeeKylen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    VariousBlueKate = "I'll tell you what often gets over looked... garden fences."
+    JollyPinkReeva = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  string AccessibleBrownCarlynne {
+  }
+  number RuralFuchsiaBetteanne {
+  }
+  "List<hidden_boolean>" HighJadeMichelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LowPinkAlvina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+}

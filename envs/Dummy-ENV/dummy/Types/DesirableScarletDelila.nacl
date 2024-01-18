@@ -1,0 +1,39 @@
+type dummy.DesirableScarletDelila {
+  annotations {
+    dummy.StrikingMoccasinLonnie PuzzledAzureShirlee {
+    }
+    json InformalCyanLaryssa {
+    }
+    boolean TroubledTanFifi {
+    }
+    boolean AmusedRoseMargarette {
+    }
+  }
+  number DeafBronzeBenetta {
+    _hidden_value = true
+  }
+  hidden_boolean EasyBronzeAda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SeniorLavenderLebbie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SurvivingGrayMarcia {
+    _hidden_value = true
+  }
+  serviceid RaspyAmethystMinna {
+    _hidden_value = true
+  }
+  string ExtremeHarlequinMelisandra {
+    _hidden_value = true
+  }
+  PuzzledAzureShirlee = "Why did the tomato blush? Because it saw the salad dressing."
+  InformalCyanLaryssa = "Why is Peter Pan always flying? Because he Neverlands."
+  TroubledTanFifi = false
+  AmusedRoseMargarette = false
+  _hidden_value = true
+}

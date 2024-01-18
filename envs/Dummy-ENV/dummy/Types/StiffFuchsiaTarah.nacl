@@ -1,0 +1,25 @@
+type dummy.StiffFuchsiaTarah {
+  annotations {
+    boolean CrowdedPeachAnastasia {
+    }
+    serviceid OrthodoxIndigoLaure {
+    }
+    serviceid ElatedBeigeRoanna {
+    }
+    number ModestSapphireOrelle {
+    }
+    json BurningAquamarineJenny {
+    }
+    hidden_boolean InnerLimePhillida {
+    }
+  }
+  dummy.DEFAULT AcceptedCopperAddia {
+    _hidden_value = true
+  }
+  CrowdedPeachAnastasia = false
+  OrthodoxIndigoLaure = "Did you know that protons have mass? I didn't even know they were catholic."
+  ElatedBeigeRoanna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ModestSapphireOrelle = 484
+  BurningAquamarineJenny = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

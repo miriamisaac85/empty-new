@@ -1,0 +1,45 @@
+type dummy.AsleepPinkKeri {
+  annotations {
+    string AliveBronzeRonnica {
+    }
+    serviceid IndividualBlackKym {
+    }
+    serviceid BlackAmethystKalli {
+    }
+    hidden_boolean SupposedMaroonAnne {
+    }
+    string SlimyOrangeChrissy {
+    }
+    hidden_boolean BlondeTomatoTarra {
+    }
+  }
+  boolean StraightApricotAndriette {
+    _hidden_value = true
+  }
+  number DeadGreenShawn {
+    _hidden_value = true
+  }
+  json VoluntaryGreenValma {
+    _hidden_value = true
+  }
+  number FrightenedCyanCordie {
+    _hidden_value = true
+  }
+  number JointMagentaOphelie {
+    _hidden_value = true
+  }
+  serviceid FashionableCoralArabelle {
+    _hidden_value = true
+  }
+  string DelightfulMaroonNerta {
+    _hidden_value = true
+  }
+  boolean SquareSilverOona {
+    _hidden_value = true
+  }
+  AliveBronzeRonnica = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IndividualBlackKym = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BlackAmethystKalli = "Why did the kid cross the playground? To get to the other slide."
+  SlimyOrangeChrissy = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

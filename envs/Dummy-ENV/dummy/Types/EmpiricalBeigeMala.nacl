@@ -1,0 +1,74 @@
+type dummy.EmpiricalBeigeMala {
+  annotations {
+    dummy.DEFAULT RearEmeraldFlorette {
+    }
+    string AutonomousAquaAngy {
+    }
+    string FatBlueLisetta {
+    }
+    serviceid DomesticLimeDorolisa {
+    }
+    string MarineAquaTallou {
+    }
+    dummy.DEFAULT AggregateCoffeeCharlean {
+    }
+  }
+  number CorporateMoccasinGae {
+    _hidden_value = true
+  }
+  "List<serviceid>" CulturalCoralJessamyn {
+    _hidden_value = true
+  }
+  "List<json>" AdditionalAquaKalie {
+    _hidden_value = true
+  }
+  number DoubtfulYellowRosemaria {
+    _hidden_value = true
+  }
+  number AutomaticBlackFiorenze {
+    _hidden_value = true
+  }
+  serviceid ResponsibleCoralGabriellia {
+    _hidden_value = true
+  }
+  json BlondeAmberCarmelita {
+    _hidden_value = true
+  }
+  serviceid NegativeFuchsiaSaudra {
+    _hidden_value = true
+  }
+  hidden_boolean UnemployedVioletLindy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa Stalegold2Jamie {
+    _hidden_value = true
+  }
+  boolean AwareGreenViviyan {
+    _hidden_value = true
+  }
+  serviceid ImmediateLimeFlorance {
+    _hidden_value = true
+  }
+  string NationalAquaAshien {
+    _hidden_value = true
+  }
+  "List<string>" ParentalAmethystAnnetta {
+    _hidden_value = true
+  }
+  number AsleepAzureMaureen {
+    _hidden_value = true
+  }
+  RearEmeraldFlorette = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  AutonomousAquaAngy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FatBlueLisetta = "I'll tell you what often gets over looked... garden fences."
+  DomesticLimeDorolisa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MarineAquaTallou = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AggregateCoffeeCharlean = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  _hidden_value = true
+}

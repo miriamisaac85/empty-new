@@ -1,0 +1,52 @@
+type dummy.ElectronicLavenderAurea {
+  annotations {
+    string BalancedCyanFloria {
+    }
+    dummy.CooingBeigeAntonietta GivenBronzeAgace {
+    }
+    json NearbyCoffeeNorene {
+    }
+    dummy.BitterRedJulianne ElectoralSilverLeela {
+    }
+    hidden_boolean FluffyAmaranthGladys {
+    }
+    dummy.CoastalCoralLinzy ExtendedTurquoiseGermain {
+    }
+    dummy.TechnologicalApricotPennie ShallowBronzeKrystal {
+    }
+    hidden_boolean BreakableAmethystAurel {
+    }
+    hidden_boolean FixedSalmonGlenna {
+    }
+    dummy.EquivalentJadeCaria LazyCoralRicca {
+    }
+    json TastySilverZorine {
+    }
+    serviceid DecentJadeJordan {
+    }
+    dummy.QuickSalmonCorri AbstractCopperAmye {
+    }
+    json Fullgold2Kaleena {
+    }
+    hidden_boolean GuiltyBrownAdorne {
+    }
+    boolean EducationalCrimsonHeddi {
+    }
+    json ChubbyScarletAllyson {
+    }
+    serviceid NormalSapphireBeverlee {
+    }
+    string ProfessionalSilverAugustine {
+    }
+  }
+  BalancedCyanFloria = "Whoever invented the knock-knock joke should get a no bell prize."
+  NearbyCoffeeNorene = "How come the stadium got hot after the game? Because all of the fans left."
+  LazyCoralRicca = file("SunnyEmeraldSeline.txt")
+  TastySilverZorine = "I'll tell you what often gets over looked... garden fences."
+  DecentJadeJordan = "Why was it called the dark ages? Because of all the knights. "
+  Fullgold2Kaleena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EducationalCrimsonHeddi = true
+  ChubbyScarletAllyson = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NormalSapphireBeverlee = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProfessionalSilverAugustine = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

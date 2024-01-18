@@ -1,0 +1,38 @@
+type dummy.StructuralChocolateMeggie is number {
+  annotations {
+    string ComparableCopperAubree {
+    }
+    boolean SolidOrangeAnet {
+    }
+    string UsefulBeigeJordanna {
+    }
+    dummy.DEFAULT LegitimatePeachAnthiathia {
+    }
+    hidden_boolean EnviousCrimsonBritteny {
+    }
+    boolean RedundantCrimsonKass {
+    }
+    serviceid BlueRedTamra {
+    }
+    json PreciseTanMarylou {
+    }
+    number DominantAquamarineSydel {
+    }
+    boolean EnvironmentalTealSalaidh {
+    }
+    number TiredGreenBobette {
+    }
+  }
+  ComparableCopperAubree = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SolidOrangeAnet = false
+  UsefulBeigeJordanna = "What do you call two barracuda fish?  A Pairacuda!"
+  LegitimatePeachAnthiathia = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  RedundantCrimsonKass = true
+  BlueRedTamra = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PreciseTanMarylou = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DominantAquamarineSydel = 984
+  EnvironmentalTealSalaidh = false
+  TiredGreenBobette = 911
+}

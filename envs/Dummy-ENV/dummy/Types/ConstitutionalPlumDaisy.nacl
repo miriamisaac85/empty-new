@@ -1,0 +1,55 @@
+type dummy.ConstitutionalPlumDaisy {
+  annotations {
+    json QuickAmberLatia {
+    }
+    boolean UnfairAquamarineElsa {
+    }
+    string FilthyAmaranthPhilly {
+    }
+    string MixedBlushBrunhilde {
+    }
+    string IllegalVioletSue {
+    }
+  }
+  serviceid ProudBeigeQuintina {
+    _hidden_value = true
+  }
+  json WearyChocolateEstell {
+    _hidden_value = true
+  }
+  boolean DecisiveAmaranthDianemarie {
+    _hidden_value = true
+  }
+  hidden_boolean FrightenedLimeRosie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.StrikingMoccasinLonnie SkinnyChocolateMadelaine {
+    TastelessYellowTheodora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UnableCrimsonSydel = false
+    AfraidLavenderAbagail = 495
+    CarefulRoseMichell = "Why do birds fly south for the winter? Because it's too far to walk."
+    SpanishIvoryCordey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SmoothAmberKatharyn = false
+    WoodenGrayKaitlin = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  dummy.DEFAULT CulturalMagentaBert {
+    _hidden_value = true
+  }
+  hidden_boolean CleanTealCacilie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HorizontalBlushBibby {
+    _hidden_value = true
+  }
+  QuickAmberLatia = "What do you call two barracuda fish?  A Pairacuda!"
+  UnfairAquamarineElsa = false
+  FilthyAmaranthPhilly = "I'll tell you what often gets over looked... garden fences."
+  MixedBlushBrunhilde = "Why was it called the dark ages? Because of all the knights. "
+  IllegalVioletSue = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

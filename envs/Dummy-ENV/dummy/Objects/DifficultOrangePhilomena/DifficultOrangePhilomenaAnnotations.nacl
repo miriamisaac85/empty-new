@@ -1,0 +1,51 @@
+type dummy.DifficultOrangePhilomena {
+  annotations {
+    serviceid LiberalYellowGretchen {
+    }
+    number ExtensiveTomatoKiri {
+    }
+    hidden_boolean ShinyTealMaire {
+    }
+    json MobileYellowFloris {
+    }
+    hidden_boolean StrictJadeAbigail {
+    }
+    json SeriousAquaJosy {
+    }
+    serviceid BiologicalJadeTrish {
+    }
+    dummy.HumanAzureReeba NarrowPlumAdelina {
+    }
+    number LoyalBlushLana {
+    }
+    serviceid LuckyWhiteDeane {
+    }
+    json HorizontalOliveMalynda {
+    }
+    hidden_boolean PureApricotShoshanna {
+    }
+    number FlutteringPurpleVeronica {
+    }
+    dummy.IntegratedMoccasinClarissa ParentalScarletDemetra {
+    }
+    hidden_boolean BewilderedPinkBrandea {
+    }
+    hidden_boolean AliveHarlequinMartie {
+    }
+    hidden_boolean SystematicBlueYolanda {
+    }
+    hidden_boolean CorrectChocolateValeria {
+    }
+  }
+  LiberalYellowGretchen = "Why do birds fly south for the winter? Because it's too far to walk."
+  ExtensiveTomatoKiri = 437
+  MobileYellowFloris = "Why is Peter Pan always flying? Because he Neverlands."
+  SeriousAquaJosy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BiologicalJadeTrish = "Why didnt the skeleton cross the road? Because he had no guts."
+  NarrowPlumAdelina = false
+  LoyalBlushLana = 968
+  LuckyWhiteDeane = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HorizontalOliveMalynda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FlutteringPurpleVeronica = 781
+  ParentalScarletDemetra = 383
+}

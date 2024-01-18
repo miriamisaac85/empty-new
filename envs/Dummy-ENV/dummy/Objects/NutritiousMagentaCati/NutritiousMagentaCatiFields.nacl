@@ -1,0 +1,15 @@
+type dummy.NutritiousMagentaCati {
+  json AshamedJadeEmilee {
+  }
+  serviceid FatTealFianna {
+  }
+  hidden_boolean HandsomeMaroonHendrika {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AshamedSalmonKonstance {
+  }
+  serviceid ProfessionalCrimsonNataline {
+  }
+}

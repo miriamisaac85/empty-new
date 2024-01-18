@@ -1,0 +1,25 @@
+type dummy.AppropriateChocolateLadonna is number {
+  annotations {
+    serviceid SilentLavenderMidge {
+    }
+    serviceid PotentialBronzeManya {
+    }
+    string FirmTurquoiseMagdalena {
+    }
+    json DirectIndigoNannie {
+    }
+    string EthicalHarlequinCarmon {
+    }
+    boolean KindIndigoHelen {
+    }
+    string PlannedOrangeWynn {
+    }
+  }
+  SilentLavenderMidge = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PotentialBronzeManya = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FirmTurquoiseMagdalena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DirectIndigoNannie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EthicalHarlequinCarmon = "Why do birds fly south for the winter? Because it's too far to walk."
+  KindIndigoHelen = false
+  PlannedOrangeWynn = "My first time using an elevator was an uplifting experience. The second time let me down."
+}
