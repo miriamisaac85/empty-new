@@ -63,7 +63,7 @@ type salesforce.EmailMessage {
   }
   salesforce.LongTextArea HtmlBody {
     apiName = "EmailMessage.HtmlBody"
-    length = 32000
+    length = 131072
     label = "HTML Body"
     createable = true
     updateable = true
@@ -147,7 +147,7 @@ type salesforce.EmailMessage {
     ]
     label = "Related To ID"
     createable = true
-    updateable = false
+    updateable = true
     queryable = true
   }
   salesforce.Picklist Status {
@@ -209,7 +209,7 @@ type salesforce.EmailMessage {
   }
   salesforce.LongTextArea TextBody {
     apiName = "EmailMessage.TextBody"
-    length = 32000
+    length = 131072
     label = "Text Body"
     createable = true
     updateable = true
@@ -324,7 +324,7 @@ type salesforce.EmailMessage {
     ]
     label = "Email Message ID"
     createable = true
-    updateable = false
+    updateable = true
     queryable = true
   }
   salesforce.Text MessageIdentifier {
@@ -412,5 +412,9 @@ type salesforce.EmailMessage {
     unique = false
     caseSensitive = false
     queryable = true
+  }
+  salesforce.Unknown AutomationType {
+    apiName = "EmailMessage.AutomationType"
+    _hidden_value = true
   }
 }

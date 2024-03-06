@@ -3,18 +3,6 @@ type salesforce.RecordAction {
     apiName = "RecordAction.ActionDefinition"
     valueSet = [
       {
-        fullName = "Another_CPQ_Flow"
-        isActive = true
-        label = "Another_CPQ_Flow"
-        default = false
-      },
-      {
-        fullName = "Change_Set_Flow"
-        isActive = true
-        label = "Change_Set_Flow"
-        default = false
-      },
-      {
         fullName = "cms_orch__CMS_NotifyRequester"
         isActive = true
         label = "cms_orch__CMS_NotifyRequester"
@@ -36,72 +24,6 @@ type salesforce.RecordAction {
         fullName = "cms_orch__CMS_WithdrawReviewRequest"
         isActive = true
         label = "cms_orch__CMS_WithdrawReviewRequest"
-        default = false
-      },
-      {
-        fullName = "CPQ_Flow"
-        isActive = true
-        label = "CPQ_Flow"
-        default = false
-      },
-      {
-        fullName = "Dan_Auto_Flow"
-        isActive = true
-        label = "Dan_Auto_Flow"
-        default = false
-      },
-      {
-        fullName = "Dan_Record_Triggered_Flow"
-        isActive = true
-        label = "Dan_Record_Triggered_Flow"
-        default = false
-      },
-      {
-        fullName = "DEMO"
-        isActive = true
-        label = "DEMO"
-        default = false
-      },
-      {
-        fullName = "Deploy_from_Change_Set"
-        isActive = true
-        label = "Deploy_from_Change_Set"
-        default = false
-      },
-      {
-        fullName = "Deploy_from_Salto"
-        isActive = true
-        label = "Deploy_from_Salto"
-        default = false
-      },
-      {
-        fullName = "draftstatus"
-        isActive = true
-        label = "draftstatus"
-        default = false
-      },
-      {
-        fullName = "flowthree"
-        isActive = true
-        label = "flowthree"
-        default = false
-      },
-      {
-        fullName = "flowtwo"
-        isActive = true
-        label = "flowtwo"
-        default = false
-      },
-      {
-        fullName = "floww"
-        isActive = true
-        label = "floww"
-        default = false
-      },
-      {
-        fullName = "NetSuite_Flow"
-        isActive = true
-        label = "NetSuite_Flow"
         default = false
       },
       {
@@ -249,69 +171,15 @@ type salesforce.RecordAction {
         default = false
       },
       {
-        fullName = "QuickActionDefinition.Opportunity.sbaa__RecallMobile"
-        isActive = true
-        label = "QuickActionDefinition.Opportunity.sbaa__RecallMobile"
-        default = false
-      },
-      {
-        fullName = "QuickActionDefinition.Opportunity.sbaa__SubmitMobile"
-        isActive = true
-        label = "QuickActionDefinition.Opportunity.sbaa__SubmitMobile"
-        default = false
-      },
-      {
         fullName = "QuickActionDefinition.Opportunity.SBQQ__CreateOrderLightning"
         isActive = true
         label = "QuickActionDefinition.Opportunity.SBQQ__CreateOrderLightning"
         default = false
       },
       {
-        fullName = "QuickActionDefinition.Quote.SendEmail"
-        isActive = true
-        label = "QuickActionDefinition.Quote.SendEmail"
-        default = false
-      },
-      {
-        fullName = "QuickActionDefinition.sbaa__Approval__c.sbaa__ApproveMobile"
-        isActive = true
-        label = "QuickActionDefinition.sbaa__Approval__c.sbaa__ApproveMobile"
-        default = false
-      },
-      {
-        fullName = "QuickActionDefinition.sbaa__Approval__c.sbaa__ReassignMobile"
-        isActive = true
-        label = "QuickActionDefinition.sbaa__Approval__c.sbaa__ReassignMobile"
-        default = false
-      },
-      {
-        fullName = "QuickActionDefinition.sbaa__Approval__c.sbaa__RejectMobile"
-        isActive = true
-        label = "QuickActionDefinition.sbaa__Approval__c.sbaa__RejectMobile"
-        default = false
-      },
-      {
-        fullName = "QuickActionDefinition.sbaa__Approval__c.sbaa__ResendRequestMobile"
-        isActive = true
-        label = "QuickActionDefinition.sbaa__Approval__c.sbaa__ResendRequestMobile"
-        default = false
-      },
-      {
         fullName = "QuickActionDefinition.SBQQ__Quote__c.SBQQ__CreateOrderLightning"
         isActive = true
         label = "QuickActionDefinition.SBQQ__Quote__c.SBQQ__CreateOrderLightning"
-        default = false
-      },
-      {
-        fullName = "QuickActionDefinition.SendEmail"
-        isActive = true
-        label = "QuickActionDefinition.SendEmail"
-        default = false
-      },
-      {
-        fullName = "QuickActionDefinition.VoiceCall._LightningCallNotes"
-        isActive = true
-        label = "QuickActionDefinition.VoiceCall._LightningCallNotes"
         default = false
       },
       {
@@ -327,15 +195,9 @@ type salesforce.RecordAction {
         default = false
       },
       {
-        fullName = "runtime_payments__PayNowWithProducts"
+        fullName = "runtime_payments__GeneratePaymentLink"
         isActive = true
-        label = "runtime_payments__PayNowWithProducts"
-        default = false
-      },
-      {
-        fullName = "Salto_Flow"
-        isActive = true
-        label = "Salto_Flow"
+        label = "runtime_payments__GeneratePaymentLink"
         default = false
       },
       {
@@ -384,6 +246,18 @@ type salesforce.RecordAction {
         label = "Omniscript"
         default = false
       },
+      {
+        fullName = "LWC"
+        isActive = true
+        label = "LWC"
+        default = false
+      },
+      {
+        fullName = "WebLink"
+        isActive = true
+        label = "WebLink"
+        default = false
+      },
     ]
     restricted = true
     label = "Action Type"
@@ -394,18 +268,6 @@ type salesforce.RecordAction {
   salesforce.Picklist FlowDefinition {
     apiName = "RecordAction.FlowDefinition"
     valueSet = [
-      {
-        fullName = "Another_CPQ_Flow"
-        isActive = true
-        label = "Another_CPQ_Flow"
-        default = false
-      },
-      {
-        fullName = "Change_Set_Flow"
-        isActive = true
-        label = "Change_Set_Flow"
-        default = false
-      },
       {
         fullName = "cms_orch__CMS_NotifyRequester"
         isActive = true
@@ -431,72 +293,6 @@ type salesforce.RecordAction {
         default = false
       },
       {
-        fullName = "CPQ_Flow"
-        isActive = true
-        label = "CPQ_Flow"
-        default = false
-      },
-      {
-        fullName = "Dan_Auto_Flow"
-        isActive = true
-        label = "Dan_Auto_Flow"
-        default = false
-      },
-      {
-        fullName = "Dan_Record_Triggered_Flow"
-        isActive = true
-        label = "Dan_Record_Triggered_Flow"
-        default = false
-      },
-      {
-        fullName = "DEMO"
-        isActive = true
-        label = "DEMO"
-        default = false
-      },
-      {
-        fullName = "Deploy_from_Change_Set"
-        isActive = true
-        label = "Deploy_from_Change_Set"
-        default = false
-      },
-      {
-        fullName = "Deploy_from_Salto"
-        isActive = true
-        label = "Deploy_from_Salto"
-        default = false
-      },
-      {
-        fullName = "draftstatus"
-        isActive = true
-        label = "draftstatus"
-        default = false
-      },
-      {
-        fullName = "flowthree"
-        isActive = true
-        label = "flowthree"
-        default = false
-      },
-      {
-        fullName = "flowtwo"
-        isActive = true
-        label = "flowtwo"
-        default = false
-      },
-      {
-        fullName = "floww"
-        isActive = true
-        label = "floww"
-        default = false
-      },
-      {
-        fullName = "NetSuite_Flow"
-        isActive = true
-        label = "NetSuite_Flow"
-        default = false
-      },
-      {
         fullName = "runtime_industries_recurrence__Orch"
         isActive = true
         label = "runtime_industries_recurrence__Orch"
@@ -509,15 +305,9 @@ type salesforce.RecordAction {
         default = false
       },
       {
-        fullName = "runtime_payments__PayNowWithProducts"
+        fullName = "runtime_payments__GeneratePaymentLink"
         isActive = true
-        label = "runtime_payments__PayNowWithProducts"
-        default = false
-      },
-      {
-        fullName = "Salto_Flow"
-        isActive = true
-        label = "Salto_Flow"
+        label = "runtime_payments__GeneratePaymentLink"
         default = false
       },
       {
