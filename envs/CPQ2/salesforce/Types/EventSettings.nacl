@@ -38,4 +38,6 @@ settings salesforce.EventSettings {
   suffix = "settings"
   dirName = "settings"
   metadataType = "EventSettings"
+  boolean enableEventLogGeneration {
+  }
 }

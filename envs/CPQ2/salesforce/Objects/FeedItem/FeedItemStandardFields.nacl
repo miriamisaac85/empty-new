@@ -577,6 +577,12 @@ type salesforce.FeedItem {
         label = "Draft"
         default = false
       },
+      {
+        fullName = "Isolated"
+        isActive = true
+        label = "Isolated"
+        default = false
+      },
     ]
     restricted = true
     label = "Status"

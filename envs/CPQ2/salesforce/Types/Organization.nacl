@@ -4567,4 +4567,11 @@ settings salesforce.Organization {
     queryable = true
   }
   apiName = "Organization"
+  salesforce.Checkbox PreferencesEmailSenderIdCompliance {
+    apiName = "Organization.PreferencesEmailSenderIdCompliance"
+    label = "EmailSenderIdCompliance"
+    createable = false
+    updateable = true
+    queryable = true
+  }
 }

@@ -96,7 +96,7 @@ type salesforce.QuoteLineItem {
   }
   salesforce.Currency UnitPrice {
     apiName = "QuoteLineItem.UnitPrice"
-    _required = true
+    
     label = "Sales Price"
     createable = true
     updateable = true
